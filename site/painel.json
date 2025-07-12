@@ -27,7 +27,7 @@
     {
       "hex": "4b194c",
       "chamada": "SWR755L",
-      "cia": "SWR",
+      "cia": "Swiss",
       "pais": "Suiça",
       "bandeira": "🇨🇭",
       "local": "ARRONCHES",
@@ -99,7 +99,7 @@
     {
       "hex": "3463c6",
       "chamada": "VOE1LR",
-      "cia": "VOE",
+      "cia": "Volotea",
       "pais": "Espanha",
       "bandeira": "🇪🇸",
       "local": "BORBA",
@@ -160,8 +160,8 @@
       "hex": "45b534",
       "chamada": "",
       "cia": "",
-      "pais": "Denmark",
-      "bandeira": "",
+      "pais": "Dinamarca",
+      "bandeira": "🇩🇰",
       "local": null,
       "alt": "28475",
       "vel": "428.1",
@@ -196,8 +196,8 @@
       "hex": "502d5e",
       "chamada": "BTI8WF",
       "cia": "Air Baltic",
-      "pais": "Latvia",
-      "bandeira": "",
+      "pais": "Letónia",
+      "bandeira": "🇱🇻",
       "local": "SÁTÃO",
       "alt": "35000",
       "vel": "405.1",
@@ -363,7 +363,7 @@
     {
       "hex": "407cb1",
       "chamada": "RUK808G",
-      "cia": "RUK",
+      "cia": "Ryanair UK",
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
       "local": "ALANDROAL",
@@ -411,7 +411,7 @@
     {
       "hex": "3c5429",
       "chamada": "BCS2RA",
-      "cia": "BCS",
+      "cia": "European Air Transport",
       "pais": "Alemanha",
       "bandeira": "🇩🇪",
       "local": "ALPIARÇA",
@@ -519,9 +519,9 @@
     {
       "hex": "04014c",
       "chamada": "ETH553",
-      "cia": "ETH",
-      "pais": "Ethiopia",
-      "bandeira": "",
+      "cia": "Ethiopian Airlines",
+      "pais": "Etiópia",
+      "bandeira": "🇪🇹",
       "local": null,
       "alt": "38000",
       "vel": "528.2",
@@ -543,7 +543,7 @@
     {
       "hex": "3985e4",
       "chamada": "EUP421",
-      "cia": "EUP",
+      "cia": "Pan Europeenne",
       "pais": "França",
       "bandeira": "🇫🇷",
       "local": "PONTE DE SOR",
@@ -604,8 +604,8 @@
       "hex": "040240",
       "chamada": "",
       "cia": "",
-      "pais": "Ethiopia",
-      "bandeira": "",
+      "pais": "Etiópia",
+      "bandeira": "🇪🇹",
       "local": "TRANCOSO",
       "alt": "36000",
       "vel": "525.2",
@@ -639,9 +639,9 @@
     {
       "hex": "4cc564",
       "chamada": "FPY290",
-      "cia": "FPY",
-      "pais": "Iceland",
-      "bandeira": "",
+      "cia": "PLAY",
+      "pais": "Islândia",
+      "bandeira": "🇮🇸",
       "local": "CORUCHE",
       "alt": "34100",
       "vel": "462.1",
@@ -699,7 +699,7 @@
     {
       "hex": "34568c",
       "chamada": "VOE94FM",
-      "cia": "VOE",
+      "cia": "Volotea",
       "pais": "Espanha",
       "bandeira": "🇪🇸",
       "local": "AGUIAR DA BEIRA",
@@ -819,9 +819,9 @@
     {
       "hex": "4a1922",
       "chamada": "FIA811",
-      "cia": "FIA",
-      "pais": "Romania",
-      "bandeira": "",
+      "cia": "FlyOne",
+      "pais": "Roménia",
+      "bandeira": "🇷🇴",
       "local": "MONFORTE",
       "alt": "29425",
       "vel": "379.7",
@@ -1104,8 +1104,8 @@
       "total": 2
     },
     {
-      "pais": "Ethiopia",
-      "bandeira": "",
+      "pais": "Etiópia",
+      "bandeira": "🇪🇹",
       "total": 2
     }
   ],
@@ -1139,7 +1139,7 @@
       "total": 2
     },
     {
-      "cia": "VOE",
+      "cia": "Volotea",
       "total": 2
     },
     {
@@ -1147,7 +1147,7 @@
       "total": 2
     },
     {
-      "cia": "FIA",
+      "cia": "FlyOne",
       "total": 1
     }
   ],
