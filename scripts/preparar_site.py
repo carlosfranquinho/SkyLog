@@ -92,6 +92,8 @@ with ultimo_csv.open(encoding="utf-8") as f:
         registos.append({
             "hex": hexcode,
             "chamada": chamada,
+            "cia": companhia,
+            "pais": pais,
             "alt": alt,
             "vel": vel,
             "dist": dist,
