@@ -18,7 +18,8 @@ header h1 {
 /* Painel principal com grid */
 main.painel {
   display: grid;
-  grid-template-columns: 1fr 2fr 1fr; /* três colunas */
+  grid-template-columns: 1fr 1fr 1fr; /* colunas com a mesma largura */
+
   column-gap: 2rem; /* Espaço horizontal */
   align-items: start; /* Alinhar pelo topo */
 }
@@ -47,7 +48,8 @@ main.painel {
 
 #mapa {
   width: 100%;
-  height: 500px; /* altura maior para ocupar a coluna */
+  height: 100vh; /* ocupa a altura total do ecrã */
+
   margin-top: 1rem;
   border-radius: 6px;
 }
