@@ -21,14 +21,13 @@ main.painel {
   grid-template-columns: 1fr 2fr;
   column-gap: 2rem; /* Espaço horizontal */
   align-items: start; /* Alinhar pelo topo */
-
 }
 
 /* Coluna direita empilha mapa e listas */
 #painel-direita {
   display: grid;
   grid-template-rows: min-content auto;
-  row-gap: 0; /* Sem espaço extra entre mapa e colunas */
+  row-gap: 1.5rem; /* Espaço vertical adequado */
   align-items: start;
 }
 
