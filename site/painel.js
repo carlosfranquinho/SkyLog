@@ -3,6 +3,24 @@ async function carregarPainel() {
     const resp = await fetch("painel.json");
     const dados = await resp.json();
 
+    const bandeiras = {};
+    dados.top_paises.forEach(p => {
+      bandeiras[p.pais] = p.bandeira;
+    });
+
+    function capitalizar(str) {
+      return str
+        .toLowerCase()
+        .split(" ")
+        .map(p =>
+          p
+            .split("-")
+            .map(w => w.charAt(0).toUpperCase() + w.slice(1))
+            .join("-")
+        )
+        .join(" ");
+    }
+
     const ulHora = document.getElementById("ultima-hora-lista");
     dados.ultima_hora.forEach(v => {
       const dt = new Date(v.hora + "Z");
@@ -19,10 +37,11 @@ async function carregarPainel() {
       const altM = v.alt ? Math.round(parseFloat(v.alt) * 0.3048) : null;
       const velK = v.vel ? Math.round(parseFloat(v.vel) * 1.852) : null;
 
-      const localTxt = v.local ? `sobre ${v.local} ` : "";
+      const localTxt = v.local ? `sobre ${capitalizar(v.local)} ` : "";
+      const bandeira = bandeiras[v.pais] ? bandeiras[v.pais] + " " : "";
       ulHora.innerHTML += `
         <li>
-          <strong>${v.chamada || v.hex}</strong>: ${v.cia || ""}, ${v.pais}
+          <strong>${v.chamada || v.hex}</strong>: ${v.cia || ""}, ${bandeira}${v.pais}
           <br>– avistado ${localTxt}às ${hm}${v.dist ? ` a ${v.dist} km de distância` : ""}
           ${altM !== null ? `<br>– Altitude: ${altM} metros` : ""}
           ${velK !== null ? `<br>– Velocidade: ${velK} km/h` : ""}
