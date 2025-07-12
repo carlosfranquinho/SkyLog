@@ -79,6 +79,9 @@ registos = []
 companhias = defaultdict(int)
 paises = defaultdict(int)
 
+# Guardar primeira e última coordenada por voo
+rotas_raw = {}
+
 # Guardar a linha mais completa por voo (hex ou callsign)
 melhores_linhas = {}
 
@@ -101,6 +104,21 @@ with ultimo_csv.open(encoding="utf-8") as f:
         atual = melhores_linhas.get(voo_id)
         if not atual or score > atual["score"]:
             melhores_linhas[voo_id] = {"score": score, "linha": linha}
+
+        # Guardar primeira e última posição com coordenadas
+        lat = linha.get("lat", "").strip()
+        lon = linha.get("lon", "").strip()
+        if lat and lon:
+            try:
+                latf = float(lat)
+                lonf = float(lon)
+            except ValueError:
+                continue
+            info = rotas_raw.get(voo_id)
+            if not info:
+                rotas_raw[voo_id] = {"de": [latf, lonf], "para": [latf, lonf]}
+            else:
+                info["para"] = [latf, lonf]
 
 for info in melhores_linhas.values():
     linha = info["linha"]
@@ -158,11 +176,22 @@ top_companhias_legiveis = [
     for c, t in top_companhias
 ]
 
+# Extrair rotas apenas para os voos presentes em ultima_hora
+rotas = []
+for reg in registos:
+    vid = reg["hex"] or reg["chamada"]
+    pos = rotas_raw.get(vid)
+    if not pos:
+        continue
+    rota = {"hex": reg["hex"], "chamada": reg["chamada"],
+            "de": pos.get("de"), "para": pos.get("para")}
+    rotas.append(rota)
+
 saida = {
     "ultima_hora": ultima_hora,
     "top_paises": top_paises_legiveis,
     "top_companhias": top_companhias_legiveis,
-    "rotas": []
+    "rotas": rotas
 }
 
 output_path.parent.mkdir(parents=True, exist_ok=True)
