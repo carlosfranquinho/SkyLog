@@ -59,7 +59,7 @@ async function carregarPainel() {
       ulCias.innerHTML += `<li>${c.cia}: ${c.total} voos</li>`;
     });
 
-    const map = L.map("mapa").setView([39.7476, -8.9365], 6);
+    const map = L.map("mapa").setView([39.7476, -8.9365], 7);
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       maxZoom: 18,
       attribution: "© OpenStreetMap"
