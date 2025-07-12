@@ -1,978 +1,1138 @@
 {
   "ultima_hora": [
     {
-      "hex": "4b027f",
-      "chamada": "EZS86MH",
-      "alt": "20825",
-      "vel": "384.0",
-      "dist": 62.9,
-      "hora": "2025-07-12T14:59"
-    },
-    {
-      "hex": "39984f",
-      "chamada": "",
-      "alt": "34000",
-      "vel": "398.0",
-      "dist": "",
-      "hora": "2025-07-12T14:58"
-    },
-    {
-      "hex": "4b1801",
-      "chamada": "",
-      "alt": "36000",
-      "vel": "433.4",
-      "dist": "",
-      "hora": "2025-07-12T14:58"
-    },
-    {
-      "hex": "49529a",
-      "chamada": "TAP869",
-      "alt": "19250",
-      "vel": "362.2",
-      "dist": 130.4,
-      "hora": "2025-07-12T14:57"
-    },
-    {
-      "hex": "344213",
-      "chamada": "",
-      "alt": "29000",
-      "vel": "",
-      "dist": 229.8,
-      "hora": "2025-07-12T14:57"
-    },
-    {
-      "hex": "49514c",
-      "chamada": "",
-      "alt": "14700",
-      "vel": "419.8",
-      "dist": 81.9,
-      "hora": "2025-07-12T14:55"
-    },
-    {
-      "hex": "49514a",
-      "chamada": "TAP71LW",
-      "alt": "32525",
-      "vel": "440.6",
-      "dist": "",
-      "hora": "2025-07-12T14:55"
-    },
-    {
-      "hex": "3450d8",
-      "chamada": "",
-      "alt": "32975",
-      "vel": "477.7",
-      "dist": "",
-      "hora": "2025-07-12T14:54"
-    },
-    {
-      "hex": "495151",
-      "chamada": "TAP1350",
-      "alt": "19725",
-      "vel": "381.9",
-      "dist": 62.2,
-      "hora": "2025-07-12T14:54"
-    },
-    {
-      "hex": "064313",
-      "chamada": "5NPPB",
-      "alt": "24600",
-      "vel": "301.4",
-      "dist": 162.8,
-      "hora": "2025-07-12T14:54"
-    },
-    {
-      "hex": "497cd5",
-      "chamada": "",
-      "alt": "4500",
-      "vel": "58.8",
-      "dist": 39.7,
-      "hora": "2025-07-12T14:51"
-    },
-    {
-      "hex": "4951d6",
-      "chamada": "",
-      "alt": "33550",
-      "vel": "464.2",
-      "dist": "",
-      "hora": "2025-07-12T14:50"
-    },
-    {
-      "hex": "49521a",
-      "chamada": "",
-      "alt": "17850",
-      "vel": "",
-      "dist": 66.6,
-      "hora": "2025-07-12T14:50"
-    },
-    {
-      "hex": "407d4c",
-      "chamada": "TOM89C",
+      "hex": "406542",
+      "chamada": "EZY69AM",
+      "cia": "EZY",
+      "pais": "Reino Unido",
       "alt": "35000",
-      "vel": "489.5",
-      "dist": 181.8,
-      "hora": "2025-07-12T14:50"
+      "vel": "459.2",
+      "dist": 117.1,
+      "hora": "2025-07-12T16:59"
     },
     {
-      "hex": "4cadf9",
-      "chamada": "",
-      "alt": "37000",
-      "vel": "",
-      "dist": 110.0,
-      "hora": "2025-07-12T14:47"
-    },
-    {
-      "hex": "4952cb",
-      "chamada": "TAP120R",
-      "alt": "36975",
-      "vel": "436.5",
-      "dist": 150.9,
-      "hora": "2025-07-12T14:47"
-    },
-    {
-      "hex": "e80451",
-      "chamada": "LPE2484",
-      "alt": "37975",
-      "vel": "516.7",
-      "dist": 25.2,
-      "hora": "2025-07-12T14:47"
-    },
-    {
-      "hex": "346291",
-      "chamada": "",
-      "alt": "32925",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:44"
-    },
-    {
-      "hex": "44cdd1",
-      "chamada": "",
-      "alt": "37000",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:43"
-    },
-    {
-      "hex": "345613",
-      "chamada": "",
-      "alt": "37000",
-      "vel": "456.6",
-      "dist": "",
-      "hora": "2025-07-12T14:43"
-    },
-    {
-      "hex": "39ceb5",
-      "chamada": "TVF84UL",
-      "alt": "39000",
-      "vel": "433.9",
-      "dist": "",
-      "hora": "2025-07-12T14:43"
-    },
-    {
-      "hex": "4cae9f",
-      "chamada": "",
-      "alt": "37000",
-      "vel": "467.4",
-      "dist": "",
-      "hora": "2025-07-12T14:42"
-    },
-    {
-      "hex": "4b027e",
-      "chamada": "EZS56HG",
-      "alt": "37000",
-      "vel": "441.9",
-      "dist": 336.8,
-      "hora": "2025-07-12T14:41"
-    },
-    {
-      "hex": "495038",
-      "chamada": "TAP56DJ",
+      "hex": "48683f",
+      "chamada": "TRA95H",
+      "cia": "TRA",
+      "pais": "Países Baixos",
       "alt": "35000",
-      "vel": "468.3",
-      "dist": 157.5,
-      "hora": "2025-07-12T14:41"
-    },
-    {
-      "hex": "49520f",
-      "chamada": "TAP482",
-      "alt": "17750",
-      "vel": "383.6",
-      "dist": 83.4,
-      "hora": "2025-07-12T14:41"
-    },
-    {
-      "hex": "49530d",
-      "chamada": "",
-      "alt": "",
-      "vel": "414.5",
-      "dist": "",
-      "hora": "2025-07-12T14:40"
-    },
-    {
-      "hex": "347605",
-      "chamada": "",
-      "alt": "",
-      "vel": "464.9",
-      "dist": "",
-      "hora": "2025-07-12T14:39"
-    },
-    {
-      "hex": "40690c",
-      "chamada": "",
-      "alt": "36800",
       "vel": "",
       "dist": "",
-      "hora": "2025-07-12T14:39"
+      "hora": "2025-07-12T16:59"
     },
     {
-      "hex": "4ca76a",
+      "hex": "400fdb",
+      "chamada": "EZY83DG",
+      "cia": "EZY",
+      "pais": "Reino Unido",
+      "alt": "20500",
+      "vel": "394.7",
+      "dist": 62.1,
+      "hora": "2025-07-12T16:57"
+    },
+    {
+      "hex": "4b18ba",
       "chamada": "",
-      "alt": "32775",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:39"
-    },
-    {
-      "hex": "44d1ba",
-      "chamada": "",
-      "alt": "37000",
-      "vel": "458.2",
-      "dist": "",
-      "hora": "2025-07-12T14:37"
-    },
-    {
-      "hex": "4d2342",
-      "chamada": "",
-      "alt": "40975",
-      "vel": "462.8",
-      "dist": "",
-      "hora": "2025-07-12T14:37"
-    },
-    {
-      "hex": "4952c8",
-      "chamada": "TAP67MH",
-      "alt": "19200",
-      "vel": "365.6",
-      "dist": 67.2,
-      "hora": "2025-07-12T14:36"
-    },
-    {
-      "hex": "4075ff",
-      "chamada": "",
-      "alt": "29300",
-      "vel": "465.5",
-      "dist": 161.2,
-      "hora": "2025-07-12T14:36"
-    },
-    {
-      "hex": "39cea1",
-      "chamada": "",
-      "alt": "37000",
-      "vel": "475.4",
-      "dist": "",
-      "hora": "2025-07-12T14:36"
-    },
-    {
-      "hex": "4d2096",
-      "chamada": "",
-      "alt": "31825",
-      "vel": "",
-      "dist": 181.6,
-      "hora": "2025-07-12T14:36"
-    },
-    {
-      "hex": "3463c6",
-      "chamada": "",
-      "alt": "34000",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:36"
+      "cia": "",
+      "pais": "Suiça",
+      "alt": "35000",
+      "vel": "455.6",
+      "dist": 284.0,
+      "hora": "2025-07-12T16:57"
     },
     {
       "hex": "48af0e",
-      "chamada": "",
-      "alt": "36225",
-      "vel": "443.4",
-      "dist": 106.1,
-      "hora": "2025-07-12T14:35"
+      "chamada": "LOT5JL",
+      "cia": "LOT",
+      "pais": "Poland",
+      "alt": "14550",
+      "vel": "406.1",
+      "dist": 62.7,
+      "hora": "2025-07-12T16:53"
     },
     {
-      "hex": "345543",
-      "chamada": "",
-      "alt": "27000",
-      "vel": "418.2",
-      "dist": 142.2,
-      "hora": "2025-07-12T14:35"
+      "hex": "407796",
+      "chamada": "EZY32VD",
+      "cia": "EZY",
+      "pais": "Reino Unido",
+      "alt": "36150",
+      "vel": "464.3",
+      "dist": 181.1,
+      "hora": "2025-07-12T16:52"
     },
     {
-      "hex": "0201a1",
-      "chamada": "",
-      "alt": "36000",
-      "vel": "461.2",
-      "dist": "",
-      "hora": "2025-07-12T14:34"
+      "hex": "4d2300",
+      "chamada": "RYR57XQ",
+      "cia": "RYR",
+      "pais": "Malta",
+      "alt": "28825",
+      "vel": "463.5",
+      "dist": 107.5,
+      "hora": "2025-07-12T16:52"
     },
     {
-      "hex": "346390",
-      "chamada": "",
-      "alt": "33000",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:34"
+      "hex": "407e53",
+      "chamada": "EXS6CX",
+      "cia": "EXS",
+      "pais": "Reino Unido",
+      "alt": "35000",
+      "vel": "460.8",
+      "dist": 137.5,
+      "hora": "2025-07-12T16:51"
     },
     {
-      "hex": "47a31a",
-      "chamada": "",
+      "hex": "34469a",
+      "chamada": "VLG8YF",
+      "cia": "VLG",
+      "pais": "Espanha",
+      "alt": "17075",
+      "vel": "406.4",
+      "dist": 83.5,
+      "hora": "2025-07-12T16:51"
+    },
+    {
+      "hex": "4b1a2c",
+      "chamada": "EZS1467",
+      "cia": "EZS",
+      "pais": "Suiça",
       "alt": "37000",
-      "vel": "478.3",
-      "dist": "",
-      "hora": "2025-07-12T14:34"
+      "vel": "449.0",
+      "dist": 176.6,
+      "hora": "2025-07-12T16:50"
     },
     {
-      "hex": "495297",
+      "hex": "4cac7f",
+      "chamada": "RYR749D",
+      "cia": "RYR",
+      "pais": "Irlanda",
+      "alt": "37000",
+      "vel": "453.1",
+      "dist": 127.7,
+      "hora": "2025-07-12T16:50"
+    },
+    {
+      "hex": "4bb1e3",
+      "chamada": "THY8SX",
+      "cia": "THY",
+      "pais": "Turkey",
+      "alt": "16300",
+      "vel": "409.2",
+      "dist": 85.1,
+      "hora": "2025-07-12T16:49"
+    },
+    {
+      "hex": "440cbf",
       "chamada": "",
-      "alt": "22575",
-      "vel": "370.8",
-      "dist": 127.2,
-      "hora": "2025-07-12T14:34"
+      "cia": "",
+      "pais": "Áustria",
+      "alt": "4475",
+      "vel": "222.5",
+      "dist": 134.6,
+      "hora": "2025-07-12T16:48"
     },
     {
-      "hex": "4d2449",
-      "chamada": "",
-      "alt": "29575",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:33"
+      "hex": "4d236b",
+      "chamada": "RYR39YV",
+      "cia": "RYR",
+      "pais": "Malta",
+      "alt": "37000",
+      "vel": "468.4",
+      "dist": 245.1,
+      "hora": "2025-07-12T16:47"
     },
     {
-      "hex": "4951d7",
-      "chamada": "",
-      "alt": "16900",
-      "vel": "364.3",
-      "dist": "",
-      "hora": "2025-07-12T14:30"
-    },
-    {
-      "hex": "495309",
-      "chamada": "TAP1928",
-      "alt": "20000",
-      "vel": "369.3",
-      "dist": 17.3,
-      "hora": "2025-07-12T14:30"
-    },
-    {
-      "hex": "4ca802",
-      "chamada": "RYR9MR",
+      "hex": "4cad42",
+      "chamada": "SAS2847",
+      "cia": "SAS",
+      "pais": "Irlanda",
       "alt": "35000",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:29"
+      "vel": "462.4",
+      "dist": 182.8,
+      "hora": "2025-07-12T16:46"
     },
     {
-      "hex": "4d22c8",
-      "chamada": "",
-      "alt": "33925",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:27"
+      "hex": "440051",
+      "chamada": "EJU45LZ",
+      "cia": "EJU",
+      "pais": "Áustria",
+      "alt": "29025",
+      "vel": "389.6",
+      "dist": 270.9,
+      "hora": "2025-07-12T16:46"
     },
     {
-      "hex": "4912d5",
-      "chamada": "",
-      "alt": "10000",
-      "vel": "162.6",
-      "dist": 108.8,
-      "hora": "2025-07-12T14:27"
+      "hex": "440c32",
+      "chamada": "EJU56KA",
+      "cia": "EJU",
+      "pais": "Áustria",
+      "alt": "33025",
+      "vel": "450.5",
+      "dist": 152.8,
+      "hora": "2025-07-12T16:46"
     },
     {
-      "hex": "3c7421",
-      "chamada": "",
+      "hex": "4d2234",
+      "chamada": "RYR44PQ",
+      "cia": "RYR",
+      "pais": "Malta",
+      "alt": "37000",
+      "vel": "450.5",
+      "dist": 150.2,
+      "hora": "2025-07-12T16:45"
+    },
+    {
+      "hex": "440172",
+      "chamada": "EJU46KE",
+      "cia": "EJU",
+      "pais": "Áustria",
       "alt": "35000",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:27"
+      "vel": "421.4",
+      "dist": 161.9,
+      "hora": "2025-07-12T16:44"
     },
     {
-      "hex": "a43baf",
-      "chamada": "N372ET",
-      "alt": "24450",
-      "vel": "430.2",
-      "dist": 137.4,
-      "hora": "2025-07-12T14:26"
-    },
-    {
-      "hex": "39de42",
-      "chamada": "",
-      "alt": "33000",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:26"
-    },
-    {
-      "hex": "4d2262",
-      "chamada": "RYR46AA",
-      "alt": "18325",
-      "vel": "396.1",
-      "dist": 63.6,
-      "hora": "2025-07-12T14:25"
-    },
-    {
-      "hex": "4952cd",
-      "chamada": "",
+      "hex": "39cea0",
+      "chamada": "TVF31JU",
+      "cia": "TVF",
+      "pais": "França",
       "alt": "39000",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:23"
+      "vel": "438.4",
+      "dist": 169.9,
+      "hora": "2025-07-12T16:44"
     },
     {
-      "hex": "4951d5",
-      "chamada": "",
-      "alt": "37025",
-      "vel": "443.2",
-      "dist": 183.2,
-      "hora": "2025-07-12T14:23"
+      "hex": "347388",
+      "chamada": "IBE6114",
+      "cia": "IBE",
+      "pais": "Espanha",
+      "alt": "40000",
+      "vel": "518.1",
+      "dist": 120.9,
+      "hora": "2025-07-12T16:44"
     },
     {
-      "hex": "4d2124",
-      "chamada": "HAT5062",
-      "alt": "26450",
-      "vel": "484.2",
-      "dist": 100.6,
-      "hora": "2025-07-12T14:22"
+      "hex": "4cafb5",
+      "chamada": "RYR1NW",
+      "cia": "RYR",
+      "pais": "Irlanda",
+      "alt": "17150",
+      "vel": "378.3",
+      "dist": 65.6,
+      "hora": "2025-07-12T16:44"
     },
     {
-      "hex": "346385",
-      "chamada": "AEA055",
-      "alt": "27125",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:22"
+      "hex": "407600",
+      "chamada": "BAW594",
+      "cia": "BAW",
+      "pais": "Reino Unido",
+      "alt": "35000",
+      "vel": "481.2",
+      "dist": 193.2,
+      "hora": "2025-07-12T16:43"
     },
     {
-      "hex": "4951d1",
-      "chamada": "",
-      "alt": "17900",
-      "vel": "337.5",
-      "dist": 65.2,
-      "hora": "2025-07-12T14:22"
+      "hex": "44cc41",
+      "chamada": "BEL9KF",
+      "cia": "BEL",
+      "pais": "Bélgica",
+      "alt": "38975",
+      "vel": "449.9",
+      "dist": 211.7,
+      "hora": "2025-07-12T16:43"
     },
     {
-      "hex": "3c6486",
-      "chamada": "DLH17T",
-      "alt": "35025",
-      "vel": "464.4",
-      "dist": 156.1,
-      "hora": "2025-07-12T14:22"
+      "hex": "440128",
+      "chamada": "EJU36RB",
+      "cia": "EJU",
+      "pais": "Áustria",
+      "alt": "37000",
+      "vel": "471.3",
+      "dist": 262.8,
+      "hora": "2025-07-12T16:42"
+    },
+    {
+      "hex": "511188",
+      "chamada": "MBU5KZ",
+      "cia": "MBU",
+      "pais": "Estonia",
+      "alt": "37000",
+      "vel": "450.6",
+      "dist": 155.4,
+      "hora": "2025-07-12T16:40"
     },
     {
       "hex": "3d0731",
       "chamada": "DEAYZ",
-      "alt": "800",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:21"
+      "cia": "DEA",
+      "pais": "Alemanha",
+      "alt": "3100",
+      "vel": "71.6",
+      "dist": 26.4,
+      "hora": "2025-07-12T16:40"
     },
     {
-      "hex": "4d21e5",
-      "chamada": "AJO828",
-      "alt": "31825",
-      "vel": "467.7",
-      "dist": 155.2,
-      "hora": "2025-07-12T14:20"
+      "hex": "505d98",
+      "chamada": "EXS54G",
+      "cia": "EXS",
+      "pais": "Slovakia",
+      "alt": "35000",
+      "vel": "461.3",
+      "dist": 175.8,
+      "hora": "2025-07-12T16:40"
     },
     {
-      "hex": "4892c5",
-      "chamada": "ENT72BJ",
-      "alt": "36000",
-      "vel": "464.5",
-      "dist": 61.3,
-      "hora": "2025-07-12T14:20"
-    },
-    {
-      "hex": "346114",
-      "chamada": "",
-      "alt": "33000",
-      "vel": "481.1",
-      "dist": "",
-      "hora": "2025-07-12T14:20"
-    },
-    {
-      "hex": "aabbd0",
-      "chamada": "",
-      "alt": "37975",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:20"
-    },
-    {
-      "hex": "3c56ee",
-      "chamada": "",
-      "alt": "37000",
-      "vel": "470.9",
-      "dist": 174.4,
-      "hora": "2025-07-12T14:19"
-    },
-    {
-      "hex": "495219",
-      "chamada": "",
-      "alt": "18875",
-      "vel": "342.4",
-      "dist": 64.9,
-      "hora": "2025-07-12T14:18"
-    },
-    {
-      "hex": "3c66e3",
-      "chamada": "",
+      "hex": "407793",
+      "chamada": "EZY81VM",
+      "cia": "EZY",
+      "pais": "Reino Unido",
       "alt": "37025",
-      "vel": "448.3",
-      "dist": "",
-      "hora": "2025-07-12T14:17"
+      "vel": "461.6",
+      "dist": 248.5,
+      "hora": "2025-07-12T16:40"
     },
     {
-      "hex": "44d1a2",
-      "chamada": "JAF8AE",
+      "hex": "495302",
+      "chamada": "TAP233",
+      "cia": "TAP",
+      "pais": "Portugal",
+      "alt": "25350",
+      "vel": "413.0",
+      "dist": 102.5,
+      "hora": "2025-07-12T16:40"
+    },
+    {
+      "hex": "393322",
+      "chamada": "AFR69PH",
+      "cia": "AFR",
+      "pais": "França",
+      "alt": "35000",
+      "vel": "443.6",
+      "dist": 179.6,
+      "hora": "2025-07-12T16:40"
+    },
+    {
+      "hex": "4ca215",
+      "chamada": "EIN89C",
+      "cia": "EIN",
+      "pais": "Irlanda",
       "alt": "37000",
-      "vel": "479.7",
-      "dist": 183.6,
-      "hora": "2025-07-12T14:16"
+      "vel": "466.4",
+      "dist": 120.3,
+      "hora": "2025-07-12T16:39"
     },
     {
-      "hex": "347307",
-      "chamada": "",
-      "alt": "32275",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:15"
-    },
-    {
-      "hex": "49d1cd",
-      "chamada": "EWG8KH",
-      "alt": "15675",
-      "vel": "395.5",
-      "dist": 63.6,
-      "hora": "2025-07-12T14:15"
-    },
-    {
-      "hex": "78100b",
-      "chamada": "CCA865",
-      "alt": "31275",
-      "vel": "473.1",
-      "dist": "",
-      "hora": "2025-07-12T14:14"
-    },
-    {
-      "hex": "3c54a2",
-      "chamada": "",
-      "alt": "35025",
-      "vel": "477.4",
-      "dist": "",
-      "hora": "2025-07-12T14:14"
-    },
-    {
-      "hex": "3c7428",
-      "chamada": "",
-      "alt": "37000",
-      "vel": "451.0",
-      "dist": "",
-      "hora": "2025-07-12T14:14"
-    },
-    {
-      "hex": "4ca811",
-      "chamada": "",
-      "alt": "34575",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:14"
-    },
-    {
-      "hex": "44009e",
-      "chamada": "EJU84CG",
-      "alt": "",
-      "vel": "420.9",
-      "dist": "",
-      "hora": "2025-07-12T14:14"
-    },
-    {
-      "hex": "4a0443",
-      "chamada": "",
-      "alt": "37000",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:12"
-    },
-    {
-      "hex": "3d072a",
-      "chamada": "DEAYS",
-      "alt": "1400",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:12"
+      "hex": "495146",
+      "chamada": "TAP1241",
+      "cia": "TAP",
+      "pais": "Portugal",
+      "alt": "33000",
+      "vel": "454.4",
+      "dist": 129.9,
+      "hora": "2025-07-12T16:39"
     },
     {
       "hex": "495293",
-      "chamada": "TAP883",
-      "alt": "23025",
-      "vel": "363.2",
-      "dist": 128.6,
-      "hora": "2025-07-12T14:11"
+      "chamada": "TAP18YL",
+      "cia": "TAP",
+      "pais": "Portugal",
+      "alt": "19850",
+      "vel": "395.5",
+      "dist": 83.8,
+      "hora": "2025-07-12T16:38"
     },
     {
-      "hex": "4951cc",
-      "chamada": "TAP884",
-      "alt": "17325",
-      "vel": "366.5",
-      "dist": 82.3,
-      "hora": "2025-07-12T14:11"
-    },
-    {
-      "hex": "3c49d4",
-      "chamada": "",
-      "alt": "33000",
-      "vel": "",
-      "dist": 257.6,
-      "hora": "2025-07-12T14:09"
-    },
-    {
-      "hex": "484b2a",
-      "chamada": "",
+      "hex": "344692",
+      "chamada": "VLG2DT",
+      "cia": "VLG",
+      "pais": "Espanha",
       "alt": "37000",
-      "vel": "467.1",
-      "dist": "",
-      "hora": "2025-07-12T14:08"
+      "vel": "442.1",
+      "dist": 149.1,
+      "hora": "2025-07-12T16:37"
     },
     {
-      "hex": "3c0c9e",
+      "hex": "3c6486",
+      "chamada": "DLH44U",
+      "cia": "DLH",
+      "pais": "Alemanha",
+      "alt": "16425",
+      "vel": "416.6",
+      "dist": 62.3,
+      "hora": "2025-07-12T16:36"
+    },
+    {
+      "hex": "344213",
       "chamada": "",
+      "cia": "",
+      "pais": "Espanha",
+      "alt": "26000",
+      "vel": "477.1",
+      "dist": 284.8,
+      "hora": "2025-07-12T16:35"
+    },
+    {
+      "hex": "407573",
+      "chamada": "EZY54BX",
+      "cia": "EZY",
+      "pais": "Reino Unido",
       "alt": "37000",
-      "vel": "447.7",
-      "dist": "",
-      "hora": "2025-07-12T14:08"
+      "vel": "437.8",
+      "dist": 193.2,
+      "hora": "2025-07-12T16:34"
     },
     {
-      "hex": "495218",
-      "chamada": "TAP472C",
-      "alt": "22300",
-      "vel": "368.4",
-      "dist": 61.9,
-      "hora": "2025-07-12T14:07"
+      "hex": "4952c7",
+      "chamada": "TAP438T",
+      "cia": "TAP",
+      "pais": "Portugal",
+      "alt": "22525",
+      "vel": "386.8",
+      "dist": 62.2,
+      "hora": "2025-07-12T16:34"
     },
     {
-      "hex": "4d00ee",
-      "chamada": "",
-      "alt": "37000",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:05"
+      "hex": "40690c",
+      "chamada": "EZY62LM",
+      "cia": "EZY",
+      "pais": "Reino Unido",
+      "alt": "27950",
+      "vel": "434.2",
+      "dist": 166.3,
+      "hora": "2025-07-12T16:34"
     },
     {
-      "hex": "440713",
-      "chamada": "",
+      "hex": "4ca647",
+      "chamada": "RYR59UU",
+      "cia": "RYR",
+      "pais": "Irlanda",
       "alt": "35000",
-      "vel": "444.8",
-      "dist": "",
-      "hora": "2025-07-12T14:05"
+      "vel": "430.0",
+      "dist": 114.3,
+      "hora": "2025-07-12T16:32"
     },
     {
-      "hex": "4d2221",
-      "chamada": "",
-      "alt": "25000",
-      "vel": "384.8",
-      "dist": 156.3,
-      "hora": "2025-07-12T14:05"
-    },
-    {
-      "hex": "440037",
-      "chamada": "",
+      "hex": "4d208f",
+      "chamada": "WMT5586",
+      "cia": "WMT",
+      "pais": "Malta",
       "alt": "35000",
-      "vel": "459.9",
-      "dist": 279.9,
-      "hora": "2025-07-12T14:04"
+      "vel": "435.1",
+      "dist": 154.6,
+      "hora": "2025-07-12T16:31"
     },
     {
-      "hex": "3c64a5",
-      "chamada": "",
-      "alt": "32000",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:04"
+      "hex": "4867ec",
+      "chamada": "TRA5353",
+      "cia": "TRA",
+      "pais": "Países Baixos",
+      "alt": "34975",
+      "vel": "460.8",
+      "dist": 198.1,
+      "hora": "2025-07-12T16:31"
     },
     {
-      "hex": "44a831",
-      "chamada": "",
-      "alt": "38000",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:03"
-    },
-    {
-      "hex": "347296",
-      "chamada": "",
+      "hex": "aa9f76",
+      "chamada": "AVA011",
+      "cia": "AVA",
+      "pais": "United States",
       "alt": "33000",
-      "vel": "",
-      "dist": 216.3,
-      "hora": "2025-07-12T14:03"
+      "vel": "480.1",
+      "dist": 126.2,
+      "hora": "2025-07-12T16:31"
     },
     {
-      "hex": "4cadc2",
-      "chamada": "",
-      "alt": "29225",
-      "vel": "426.0",
-      "dist": 185.9,
-      "hora": "2025-07-12T14:02"
+      "hex": "3c54a2",
+      "chamada": "EWG7603",
+      "cia": "EWG",
+      "pais": "Alemanha",
+      "alt": "17750",
+      "vel": "391.8",
+      "dist": 64.9,
+      "hora": "2025-07-12T16:28"
     },
     {
-      "hex": "3c0caa",
+      "hex": "44001b",
       "chamada": "",
-      "alt": "37000",
-      "vel": "478.1",
-      "dist": "",
-      "hora": "2025-07-12T14:02"
-    },
-    {
-      "hex": "345659",
-      "chamada": "",
-      "alt": "38975",
-      "vel": "",
-      "dist": 150.1,
-      "hora": "2025-07-12T14:02"
-    },
-    {
-      "hex": "44079a",
-      "chamada": "",
-      "alt": "27425",
+      "cia": "",
+      "pais": "Áustria",
+      "alt": "31000",
       "vel": "",
       "dist": "",
-      "hora": "2025-07-12T14:01"
+      "hora": "2025-07-12T16:28"
+    },
+    {
+      "hex": "503ede",
+      "chamada": "TAP763",
+      "cia": "TAP",
+      "pais": "Lithuania",
+      "alt": "33000",
+      "vel": "456.3",
+      "dist": 107.0,
+      "hora": "2025-07-12T16:26"
     },
     {
       "hex": "394c13",
-      "chamada": "AFR49EE",
-      "alt": "35000",
-      "vel": "466.4",
-      "dist": 141.9,
-      "hora": "2025-07-12T14:01"
+      "chamada": "AFR13BR",
+      "cia": "AFR",
+      "pais": "França",
+      "alt": "13900",
+      "vel": "403.9",
+      "dist": 62.7,
+      "hora": "2025-07-12T16:26"
     },
     {
-      "hex": "485a83",
-      "chamada": "",
+      "hex": "40649f",
+      "chamada": "BAW5LI",
+      "cia": "BAW",
+      "pais": "Reino Unido",
+      "alt": "35600",
+      "vel": "438.6",
+      "dist": 106.3,
+      "hora": "2025-07-12T16:25"
+    },
+    {
+      "hex": "4078fe",
+      "chamada": "EXS98K",
+      "cia": "EXS",
+      "pais": "Reino Unido",
+      "alt": "37000",
+      "vel": "450.9",
+      "dist": 12.5,
+      "hora": "2025-07-12T16:24"
+    },
+    {
+      "hex": "4cacb4",
+      "chamada": "SAS23N",
+      "cia": "SAS",
+      "pais": "Irlanda",
+      "alt": "36975",
+      "vel": "459.9",
+      "dist": 190.2,
+      "hora": "2025-07-12T16:24"
+    },
+    {
+      "hex": "4080cf",
+      "chamada": "TOM17B",
+      "cia": "TOM",
+      "pais": "Reino Unido",
+      "alt": "35000",
+      "vel": "469.0",
+      "dist": 120.6,
+      "hora": "2025-07-12T16:23"
+    },
+    {
+      "hex": "346391",
+      "chamada": "IBB6XE",
+      "cia": "IBB",
+      "pais": "Espanha",
       "alt": "38000",
-      "vel": "439.7",
-      "dist": "",
-      "hora": "2025-07-12T14:01"
+      "vel": "473.3",
+      "dist": 144.4,
+      "hora": "2025-07-12T16:22"
     },
     {
-      "hex": "4d2126",
-      "chamada": "",
-      "alt": "40900",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:00"
+      "hex": "4a0443",
+      "chamada": "BTI8HM",
+      "cia": "BTI",
+      "pais": "Romania",
+      "alt": "17150",
+      "vel": "398.9",
+      "dist": 61.8,
+      "hora": "2025-07-12T16:22"
     },
     {
-      "hex": "406752",
-      "chamada": "EZY45YD",
-      "alt": "35000",
+      "hex": "39de42",
+      "chamada": "TVF46HE",
+      "cia": "TVF",
+      "pais": "França",
+      "alt": "31500",
       "vel": "451.0",
-      "dist": 144.2,
-      "hora": "2025-07-12T14:00"
+      "dist": 184.1,
+      "hora": "2025-07-12T16:19"
     },
     {
-      "hex": "44cdc6",
-      "chamada": "BEL7QJ",
-      "alt": "33000",
-      "vel": "471.9",
-      "dist": 70.4,
-      "hora": "2025-07-12T14:00"
+      "hex": "407795",
+      "chamada": "EZY29KC",
+      "cia": "EZY",
+      "pais": "Reino Unido",
+      "alt": "37025",
+      "vel": "464.1",
+      "dist": 153.2,
+      "hora": "2025-07-12T16:19"
     },
     {
-      "hex": "405636",
-      "chamada": "EZY94HD",
-      "alt": "37000",
-      "vel": "475.0",
-      "dist": 153.1,
-      "hora": "2025-07-12T14:00"
+      "hex": "440198",
+      "chamada": "EJU34ED",
+      "cia": "EJU",
+      "pais": "Áustria",
+      "alt": "18900",
+      "vel": "399.0",
+      "dist": 81.1,
+      "hora": "2025-07-12T16:18"
     },
     {
-      "hex": "490d84",
+      "hex": "471fac",
       "chamada": "",
-      "alt": "33075",
-      "vel": "",
-      "dist": 170.0,
-      "hora": "2025-07-12T14:00"
-    },
-    {
-      "hex": "48678e",
-      "chamada": "PHLDU",
-      "alt": "2900",
-      "vel": "105.3",
-      "dist": 55.4,
-      "hora": "2025-07-12T14:00"
-    },
-    {
-      "hex": "a66da8",
-      "chamada": "N513MA",
-      "alt": "37575",
-      "vel": "448.9",
-      "dist": 90.1,
-      "hora": "2025-07-12T14:00"
-    },
-    {
-      "hex": "4aca88",
-      "chamada": "",
-      "alt": "36000",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:00"
-    },
-    {
-      "hex": "4cae52",
-      "chamada": "",
-      "alt": "34000",
-      "vel": "446.8",
-      "dist": "",
-      "hora": "2025-07-12T14:00"
-    },
-    {
-      "hex": "344341",
-      "chamada": "",
-      "alt": "28975",
-      "vel": "419.8",
-      "dist": "",
-      "hora": "2025-07-12T14:00"
-    },
-    {
-      "hex": "51116f",
-      "chamada": "",
-      "alt": "37000",
-      "vel": "457.9",
-      "dist": 104.0,
-      "hora": "2025-07-12T14:00"
-    },
-    {
-      "hex": "4400d7",
-      "chamada": "",
-      "alt": "925",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T14:00"
-    },
-    {
-      "hex": "4cad39",
-      "chamada": "RYR13HR",
-      "alt": "35550",
-      "vel": "433.4",
-      "dist": 69.4,
-      "hora": "2025-07-12T14:00"
-    },
-    {
-      "hex": "44cc43",
-      "chamada": "BEL2EF",
-      "alt": "37000",
-      "vel": "453.7",
-      "dist": 80.7,
-      "hora": "2025-07-12T14:00"
+      "cia": "",
+      "pais": "Hungary",
+      "alt": "34975",
+      "vel": "432.8",
+      "dist": 103.3,
+      "hora": "2025-07-12T16:17"
     },
     {
       "hex": "440589",
-      "chamada": "EJU84BA",
-      "alt": "20900",
-      "vel": "346.1",
-      "dist": 44.7,
-      "hora": "2025-07-12T14:00"
+      "chamada": "EJU97RH",
+      "cia": "EJU",
+      "pais": "Áustria",
+      "alt": "19725",
+      "vel": "395.3",
+      "dist": 83.4,
+      "hora": "2025-07-12T16:17"
+    },
+    {
+      "hex": "34529a",
+      "chamada": "AEA119",
+      "cia": "AEA",
+      "pais": "Espanha",
+      "alt": "30775",
+      "vel": "449.3",
+      "dist": 232.1,
+      "hora": "2025-07-12T16:16"
+    },
+    {
+      "hex": "3931e1",
+      "chamada": "FGMPB",
+      "cia": "FGM",
+      "pais": "França",
+      "alt": "8400",
+      "vel": "128.9",
+      "dist": 99.1,
+      "hora": "2025-07-12T16:16"
+    },
+    {
+      "hex": "4d2237",
+      "chamada": "RYR79KQ",
+      "cia": "RYR",
+      "pais": "Malta",
+      "alt": "32700",
+      "vel": "391.1",
+      "dist": 283.9,
+      "hora": "2025-07-12T16:15"
+    },
+    {
+      "hex": "39d30d",
+      "chamada": "TVF3200",
+      "cia": "TVF",
+      "pais": "França",
+      "alt": "35000",
+      "vel": "457.4",
+      "dist": 181.5,
+      "hora": "2025-07-12T16:15"
+    },
+    {
+      "hex": "39cea2",
+      "chamada": "TVF71KR",
+      "cia": "TVF",
+      "pais": "França",
+      "alt": "40000",
+      "vel": "471.1",
+      "dist": 53.9,
+      "hora": "2025-07-12T16:14"
+    },
+    {
+      "hex": "345543",
+      "chamada": "ANE79CP",
+      "cia": "ANE",
+      "pais": "Espanha",
+      "alt": "16450",
+      "vel": "387.5",
+      "dist": 84.2,
+      "hora": "2025-07-12T16:14"
+    },
+    {
+      "hex": "4cade5",
+      "chamada": "RYR9828",
+      "cia": "RYR",
+      "pais": "Irlanda",
+      "alt": "36025",
+      "vel": "439.6",
+      "dist": 197.4,
+      "hora": "2025-07-12T16:13"
+    },
+    {
+      "hex": "3c7424",
+      "chamada": "TUI6BM",
+      "cia": "TUI",
+      "pais": "Alemanha",
+      "alt": "35000",
+      "vel": "443.1",
+      "dist": 106.5,
+      "hora": "2025-07-12T16:13"
+    },
+    {
+      "hex": "440090",
+      "chamada": "EJU57TQ",
+      "cia": "EJU",
+      "pais": "Áustria",
+      "alt": "30325",
+      "vel": "447.0",
+      "dist": 279.7,
+      "hora": "2025-07-12T16:13"
+    },
+    {
+      "hex": "4ca814",
+      "chamada": "RYR377Z",
+      "cia": "RYR",
+      "pais": "Irlanda",
+      "alt": "37000",
+      "vel": "459.8",
+      "dist": 130.6,
+      "hora": "2025-07-12T16:11"
+    },
+    {
+      "hex": "3c49d4",
+      "chamada": "EWG1WM",
+      "cia": "EWG",
+      "pais": "Alemanha",
+      "alt": "28200",
+      "vel": "454.1",
+      "dist": 165.5,
+      "hora": "2025-07-12T16:11"
+    },
+    {
+      "hex": "4cafd3",
+      "chamada": "",
+      "cia": "",
+      "pais": "Irlanda",
+      "alt": "31950",
+      "vel": "500.6",
+      "dist": 286.3,
+      "hora": "2025-07-12T16:10"
+    },
+    {
+      "hex": "495309",
+      "chamada": "TAP1929",
+      "cia": "TAP",
+      "pais": "Portugal",
+      "alt": "23000",
+      "vel": "445.5",
+      "dist": 61.9,
+      "hora": "2025-07-12T16:09"
+    },
+    {
+      "hex": "407fad",
+      "chamada": "TOM2HW",
+      "cia": "TOM",
+      "pais": "Reino Unido",
+      "alt": "37000",
+      "vel": "459.4",
+      "dist": 152.5,
+      "hora": "2025-07-12T16:08"
+    },
+    {
+      "hex": "407f1f",
+      "chamada": "RUK70TJ",
+      "cia": "RUK",
+      "pais": "Reino Unido",
+      "alt": "37000",
+      "vel": "456.4",
+      "dist": 179.6,
+      "hora": "2025-07-12T16:07"
+    },
+    {
+      "hex": "4cac1e",
+      "chamada": "RYR99HY",
+      "cia": "RYR",
+      "pais": "Irlanda",
+      "alt": "35000",
+      "vel": "428.4",
+      "dist": 142.8,
+      "hora": "2025-07-12T16:07"
+    },
+    {
+      "hex": "49514b",
+      "chamada": "TAP781",
+      "cia": "TAP",
+      "pais": "Portugal",
+      "alt": "35000",
+      "vel": "465.2",
+      "dist": 145.7,
+      "hora": "2025-07-12T16:07"
+    },
+    {
+      "hex": "495039",
+      "chamada": "TAP1033",
+      "cia": "TAP",
+      "pais": "Portugal",
+      "alt": "29100",
+      "vel": "435.8",
+      "dist": 148.9,
+      "hora": "2025-07-12T16:06"
+    },
+    {
+      "hex": "503cfb",
+      "chamada": "TRA47W",
+      "cia": "TRA",
+      "pais": "Lithuania",
+      "alt": "35000",
+      "vel": "449.6",
+      "dist": 102.7,
+      "hora": "2025-07-12T16:05"
+    },
+    {
+      "hex": "4cafc1",
+      "chamada": "RYR375Y",
+      "cia": "RYR",
+      "pais": "Irlanda",
+      "alt": "38000",
+      "vel": "444.0",
+      "dist": 111.5,
+      "hora": "2025-07-12T16:04"
+    },
+    {
+      "hex": "49514d",
+      "chamada": "TAP44BR",
+      "cia": "TAP",
+      "pais": "Portugal",
+      "alt": "18925",
+      "vel": "373.5",
+      "dist": 65.2,
+      "hora": "2025-07-12T16:04"
+    },
+    {
+      "hex": "4d2357",
+      "chamada": "TAP15NC",
+      "cia": "TAP",
+      "pais": "Malta",
+      "alt": "29450",
+      "vel": "417.6",
+      "dist": 155.5,
+      "hora": "2025-07-12T16:04"
+    },
+    {
+      "hex": "40631b",
+      "chamada": "EZY67KH",
+      "cia": "EZY",
+      "pais": "Reino Unido",
+      "alt": "37000",
+      "vel": "447.2",
+      "dist": 149.1,
+      "hora": "2025-07-12T16:03"
+    },
+    {
+      "hex": "4caa58",
+      "chamada": "RYR6FX",
+      "cia": "RYR",
+      "pais": "Irlanda",
+      "alt": "20625",
+      "vel": "348.8",
+      "dist": 171.2,
+      "hora": "2025-07-12T16:03"
+    },
+    {
+      "hex": "4caa5a",
+      "chamada": "RYR9L",
+      "cia": "RYR",
+      "pais": "Irlanda",
+      "alt": "34000",
+      "vel": "435.4",
+      "dist": 142.5,
+      "hora": "2025-07-12T16:03"
+    },
+    {
+      "hex": "406752",
+      "chamada": "EZY32TX",
+      "cia": "EZY",
+      "pais": "Reino Unido",
+      "alt": "32825",
+      "vel": "431.3",
+      "dist": 107.8,
+      "hora": "2025-07-12T16:01"
+    },
+    {
+      "hex": "39ceb3",
+      "chamada": "TVF99QF",
+      "cia": "TVF",
+      "pais": "França",
+      "alt": "36000",
+      "vel": "451.3",
+      "dist": 120.5,
+      "hora": "2025-07-12T16:01"
+    },
+    {
+      "hex": "4071d7",
+      "chamada": "EZY27UT",
+      "cia": "EZY",
+      "pais": "Reino Unido",
+      "alt": "36975",
+      "vel": "450.4",
+      "dist": 135.9,
+      "hora": "2025-07-12T16:01"
+    },
+    {
+      "hex": "4080ea",
+      "chamada": "BAW51L",
+      "cia": "BAW",
+      "pais": "Reino Unido",
+      "alt": "16375",
+      "vel": "396.3",
+      "dist": 65.5,
+      "hora": "2025-07-12T16:01"
+    },
+    {
+      "hex": "44d1b4",
+      "chamada": "JAF4DT",
+      "cia": "JAF",
+      "pais": "Bélgica",
+      "alt": "38000",
+      "vel": "461.2",
+      "dist": 86.5,
+      "hora": "2025-07-12T16:00"
+    },
+    {
+      "hex": "44079a",
+      "chamada": "EJU56EP",
+      "cia": "EJU",
+      "pais": "Áustria",
+      "alt": "19375",
+      "vel": "456.2",
+      "dist": 61.8,
+      "hora": "2025-07-12T16:00"
+    },
+    {
+      "hex": "4cade4",
+      "chamada": "RYR81SJ",
+      "cia": "RYR",
+      "pais": "Irlanda",
+      "alt": "37000",
+      "vel": "457.7",
+      "dist": 136.2,
+      "hora": "2025-07-12T16:00"
+    },
+    {
+      "hex": "348305",
+      "chamada": "IBB80HR",
+      "cia": "IBB",
+      "pais": "Espanha",
+      "alt": "38000",
+      "vel": "469.0",
+      "dist": 85.4,
+      "hora": "2025-07-12T16:00"
+    },
+    {
+      "hex": "495305",
+      "chamada": "TAP1930",
+      "cia": "TAP",
+      "pais": "Portugal",
+      "alt": "22000",
+      "vel": "371.9",
+      "dist": 20.7,
+      "hora": "2025-07-12T16:00"
+    },
+    {
+      "hex": "405636",
+      "chamada": "EZY12RW",
+      "cia": "EZY",
+      "pais": "Reino Unido",
+      "alt": "33975",
+      "vel": "422.4",
+      "dist": 64.8,
+      "hora": "2025-07-12T16:00"
+    },
+    {
+      "hex": "34629a",
+      "chamada": "IBB97FU",
+      "cia": "IBB",
+      "pais": "Espanha",
+      "alt": "38000",
+      "vel": "466.7",
+      "dist": 92.8,
+      "hora": "2025-07-12T16:00"
+    },
+    {
+      "hex": "461fa0",
+      "chamada": "FIN1RY",
+      "cia": "FIN",
+      "pais": "Finland",
+      "alt": "22000",
+      "vel": "440.5",
+      "dist": 83.9,
+      "hora": "2025-07-12T16:00"
+    },
+    {
+      "hex": "4892c0",
+      "chamada": "ENT72SB",
+      "cia": "ENT",
+      "pais": "Poland",
+      "alt": "38000",
+      "vel": "470.5",
+      "dist": 99.9,
+      "hora": "2025-07-12T16:00"
+    },
+    {
+      "hex": "345206",
+      "chamada": "VLG6DL",
+      "cia": "VLG",
+      "pais": "Espanha",
+      "alt": "36975",
+      "vel": "435.0",
+      "dist": 155.8,
+      "hora": "2025-07-12T16:00"
+    },
+    {
+      "hex": "3c0ac5",
+      "chamada": "CFG6KE",
+      "cia": "CFG",
+      "pais": "Alemanha",
+      "alt": "35000",
+      "vel": "456.0",
+      "dist": 154.0,
+      "hora": "2025-07-12T16:00"
+    },
+    {
+      "hex": "4402e8",
+      "chamada": "EJU64ZH",
+      "cia": "EJU",
+      "pais": "Áustria",
+      "alt": "32225",
+      "vel": "422.0",
+      "dist": 80.3,
+      "hora": "2025-07-12T16:00"
+    },
+    {
+      "hex": "4952cf",
+      "chamada": "TAP1359",
+      "cia": "TAP",
+      "pais": "Portugal",
+      "alt": "22250",
+      "vel": "356.2",
+      "dist": 33.2,
+      "hora": "2025-07-12T16:00"
+    },
+    {
+      "hex": "4acb03",
+      "chamada": "NSZ75Z",
+      "cia": "NSZ",
+      "pais": "Sweden",
+      "alt": "36775",
+      "vel": "458.7",
+      "dist": 142.7,
+      "hora": "2025-07-12T16:00"
+    },
+    {
+      "hex": "4952cc",
+      "chamada": "TAP1364",
+      "cia": "TAP",
+      "pais": "Portugal",
+      "alt": "34000",
+      "vel": "440.6",
+      "dist": 201.5,
+      "hora": "2025-07-12T16:00"
+    },
+    {
+      "hex": "394c10",
+      "chamada": "AFR1196",
+      "cia": "AFR",
+      "pais": "França",
+      "alt": "35000",
+      "vel": "446.4",
+      "dist": 201.1,
+      "hora": "2025-07-12T16:00"
     }
   ],
   "top_paises": [
     {
-      "pais": "Portugal",
-      "bandeira": "🇵🇹",
-      "total": 24
-    },
-    {
-      "pais": "Espanha",
-      "bandeira": "🇪🇸",
-      "total": 14
-    },
-    {
-      "pais": "Alemanha",
-      "bandeira": "🇩🇪",
-      "total": 12
-    },
-    {
-      "pais": "Malta",
-      "bandeira": "🇲🇹",
-      "total": 9
+      "pais": "Reino Unido",
+      "bandeira": "🇬🇧",
+      "total": 19
     },
     {
       "pais": "Irlanda",
       "bandeira": "🇮🇪",
-      "total": 8
-    },
-    {
-      "pais": "Bélgica",
-      "bandeira": "🇧🇪",
-      "total": 6
+      "total": 14
     },
     {
       "pais": "Áustria",
       "bandeira": "🇦🇹",
-      "total": 6
+      "total": 11
     },
     {
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "total": 5
+      "pais": "Portugal",
+      "bandeira": "🇵🇹",
+      "total": 11
+    },
+    {
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "total": 10
     },
     {
       "pais": "França",
       "bandeira": "🇫🇷",
-      "total": 5
+      "total": 9
     },
     {
-      "pais": "Países Baixos",
-      "bandeira": "🇳🇱",
-      "total": 3
+      "pais": "Alemanha",
+      "bandeira": "🇩🇪",
+      "total": 6
+    },
+    {
+      "pais": "Malta",
+      "bandeira": "🇲🇹",
+      "total": 6
+    },
+    {
+      "pais": "Bélgica",
+      "bandeira": "🇧🇪",
+      "total": 2
+    },
+    {
+      "pais": "Poland",
+      "bandeira": "",
+      "total": 2
     }
   ],
   "top_companhias": [
     {
-      "cia": "TAP Air Portugal",
-      "total": 11
+      "cia": "Ryanair",
+      "total": 14
     },
     {
-      "cia": "Ryanair",
-      "total": 3
+      "cia": "TAP Air Portugal",
+      "total": 13
     },
     {
       "cia": "easyJet",
-      "total": 2
-    },
-    {
-      "cia": "BEL",
-      "total": 2
+      "total": 11
     },
     {
       "cia": "easyJet Europe",
-      "total": 2
+      "total": 9
     },
     {
-      "cia": "DEA Aviation",
-      "total": 2
+      "cia": "TVF",
+      "total": 5
     },
     {
-      "cia": "EZS",
-      "total": 2
+      "cia": "IBB",
+      "total": 3
     },
     {
-      "cia": "PHL",
-      "total": 1
-    },
-    {
-      "cia": "N51",
-      "total": 1
+      "cia": "VLG",
+      "total": 3
     },
     {
       "cia": "Air France",
-      "total": 1
+      "total": 3
+    },
+    {
+      "cia": "BAW",
+      "total": 3
+    },
+    {
+      "cia": "TRA",
+      "total": 3
     }
   ],
   "rotas": []

@@ -53,50 +53,66 @@ ultimo_csv = ficheiros[-2]
 registos = []
 companhias = defaultdict(int)
 paises = defaultdict(int)
-voos_vistos = set()
+
+# Guardar a linha mais completa por voo (hex ou callsign)
+melhores_linhas = {}
 
 with ultimo_csv.open(encoding="utf-8") as f:
     leitor = csv.DictReader(f)
     for linha in leitor:
         chamada = linha["flight"].strip()
         hexcode = linha["hex"].strip()
-        companhia = chamada[:3] if len(chamada) >= 3 else ""
-        alt = linha.get("alt_baro", "").strip()
-        vel = linha.get("gs", "").strip()
-        hora = linha["timestamp"][:16]
-
-        try:
-            lat = float(linha["lat"])
-            lon = float(linha["lon"])
-            dist = haversine(ESTACAO_LAT, ESTACAO_LON, lat, lon)
-        except:
-            dist = ""
-
-        # Ignorar se não tem dados relevantes
-        if not alt and not vel and not dist:
-            continue
-
-        # Ignorar voos repetidos (único por hexcode ou chamada)
         voo_id = hexcode or chamada
-        if voo_id in voos_vistos:
+        if not voo_id:
             continue
-        voos_vistos.add(voo_id)
 
-        pais, bandeira = hex_para_info_pais(hexcode, icao_ranges)
+        # Número de campos não vazios para definir "completo"
+        campos_check = [
+            "flight", "alt_baro", "gs", "track", "lat", "lon",
+            "seen", "squawk", "category"
+        ]
+        score = sum(1 for c in campos_check if linha.get(c))
 
-        if companhia:
-            companhias[companhia] += 1
-        if pais:
-            paises[(pais, bandeira)] += 1
+        atual = melhores_linhas.get(voo_id)
+        if not atual or score > atual["score"]:
+            melhores_linhas[voo_id] = {"score": score, "linha": linha}
 
-        registos.append({
-            "hex": hexcode,
-            "chamada": chamada,
-            "alt": alt,
-            "vel": vel,
-            "dist": dist,
-            "hora": hora
-        })
+for info in melhores_linhas.values():
+    linha = info["linha"]
+    chamada = linha["flight"].strip()
+    hexcode = linha["hex"].strip()
+    companhia = chamada[:3] if len(chamada) >= 3 else ""
+    alt = linha.get("alt_baro", "").strip()
+    vel = linha.get("gs", "").strip()
+    hora = linha["timestamp"][:16]
+
+    try:
+        lat = float(linha["lat"])
+        lon = float(linha["lon"])
+        dist = haversine(ESTACAO_LAT, ESTACAO_LON, lat, lon)
+    except Exception:
+        dist = ""
+
+    if not alt and not vel and not dist:
+        continue
+
+    pais, bandeira = hex_para_info_pais(hexcode, icao_ranges)
+
+    if companhia:
+        companhias[companhia] += 1
+    if pais:
+        paises[(pais, bandeira)] += 1
+
+    registos.append({
+        "hex": hexcode,
+        "chamada": chamada,
+        "cia": companhia,
+        "pais": pais,
+        "alt": alt,
+        "vel": vel,
+        "dist": dist,
+        "hora": hora
+    })
 
 ultima_hora = sorted(registos, key=lambda x: x["hora"], reverse=True)
 
