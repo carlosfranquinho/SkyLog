@@ -24,7 +24,7 @@
     "nome": "AMX"
   },
   "ANE": {
-    "nome": "ANE"
+    "nome": "Air Nostrum"
   },
   "AVA": {
     "nome": "AVA"
@@ -58,6 +58,9 @@
   },
   "CFG": {
     "nome": "CFG"
+  },
+  "CSX": {
+    "nome": "CSX"
   },
   "CXI": {
     "nome": "CXI"
@@ -93,7 +96,7 @@
     "nome": "easyJet Europe"
   },
   "ENT": {
-    "nome": "ENT"
+    "nome": "Enter Air"
   },
   "ETH": {
     "nome": "ETH"
@@ -159,7 +162,7 @@
     "nome": "INI"
   },
   "JAF": {
-    "nome": "JAF"
+    "nome": "TUI Airlines Belgium"
   },
   "JFA": {
     "nome": "JFA"
@@ -195,7 +198,7 @@
     "nome": "MRT"
   },
   "NJE": {
-    "nome": "NJE"
+    "nome": "Netjets Europe"
   },
   "NOZ": {
     "nome": "NOZ"
@@ -212,6 +215,9 @@
   "OOH": {
     "nome": "OOH"
   },
+  "PGT": {
+    "nome": "Pegasus"
+  },
   "PHL": {
     "nome": "PHL"
   },
@@ -224,8 +230,11 @@
   "PUE": {
     "nome": "PUE"
   },
+  "QTR": {
+    "nome": "Qatar Airways"
+  },
   "RAM": {
-    "nome": "RAM"
+    "nome": "Royal Air Maroc"
   },
   "RUK": {
     "nome": "RUK"
@@ -297,7 +306,7 @@
     "nome": "VJT"
   },
   "VLG": {
-    "nome": "VLG"
+    "nome": "Vueling"
   },
   "VOE": {
     "nome": "VOE"
@@ -306,7 +315,7 @@
     "nome": "WFL"
   },
   "WUK": {
-    "nome": "WUK"
+    "nome": "Wizz Air UK"
   },
   "WZZ": {
     "nome": "Wizz Air"
