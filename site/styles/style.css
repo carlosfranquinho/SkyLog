@@ -19,6 +19,7 @@ header h1 {
 main.painel {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr; /* colunas com a mesma largura */
+
   column-gap: 2rem; /* Espaço horizontal */
   align-items: start; /* Alinhar pelo topo */
 }
@@ -34,6 +35,7 @@ main.painel {
     grid-template-columns: 1fr; /* empilha tudo numa coluna */
   }
 }
+
 
 
 /* Última hora à esquerda */
