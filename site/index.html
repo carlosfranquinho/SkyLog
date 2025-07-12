@@ -5,6 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>SkyLog – Um olhar pousado no céu</title>
   <link rel="stylesheet" href="style.css" />
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-o9N1jGDlKeDkfuuO0VJeEYt4kYk0o4w2QzX1kBiC6Y8="
+    crossorigin=""
+  />
 </head>
 <body>
 
@@ -24,7 +30,7 @@
     <div id="painel-direita">
       <section id="rotas">
         <h2>Mapa de rotas</h2>
-        <canvas id="mapa">[Mapa de rotas]</canvas>
+        <div id="mapa">[Mapa de rotas]</div>
       </section>
 
       <div id="coluna-lateral">
@@ -42,6 +48,11 @@
 
   </main>
 
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-o8NlGqS0bM6+tbXOefx1ZgX1E1k+jUoSL+3NF7W8pc4="
+    crossorigin=""
+  ></script>
   <script src="painel.js"></script>
 </body>
 </html>

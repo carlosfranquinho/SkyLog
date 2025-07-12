@@ -54,11 +54,13 @@ main.painel {
 
 #mapa {
   width: 100%;
-  height: 240px; /* Altura fixa para o canvas */
-  background: #cfd8dc;
-  display: block;
+  height: 240px;
   margin-top: 1rem;
   border-radius: 6px;
+}
+
+.plane-icon {
+  font-size: 20px;
 }
 
 /* Coluna lateral (países + companhias) - agora fica abaixo do mapa */

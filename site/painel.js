@@ -59,11 +59,21 @@ async function carregarPainel() {
       ulCias.innerHTML += `<li>${c.cia}: ${c.total} voos</li>`;
     });
 
-    const canvas = document.getElementById("mapa");
-    const ctx = canvas.getContext("2d");
-    ctx.fillStyle = "#888";
-    ctx.font = "16px sans-serif";
-    ctx.fillText("Mapa de rotas (por implementar)", 20, 100);
+    const map = L.map("mapa").setView([39.7476, -8.9365], 6);
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 18,
+      attribution: "© OpenStreetMap"
+    }).addTo(map);
+
+    const planeIcon = L.divIcon({ className: "plane-icon", html: "✈️", iconSize: [20,20], iconAnchor: [10,10] });
+
+    dados.rotas.forEach(r => {
+      if (!r.de || !r.para) return;
+      const ini = [r.de[0], r.de[1]];
+      const fim = [r.para[0], r.para[1]];
+      L.polyline([ini, fim], { color: "red", weight: 2 }).addTo(map);
+      L.marker(fim, { icon: planeIcon }).addTo(map);
+    });
   } catch (e) {
     console.error("Erro ao carregar painel:", e);
   }
