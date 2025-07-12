@@ -50,11 +50,14 @@ def hex_para_info_pais(hexcode, ranges):
         pass
     return "Desconhecido", ""
 
-def encontrar_local(lat, lon, features, limite=80):
+def encontrar_local(lat, lon, features):
+    """Devolve o município mais próximo das coordenadas indicadas."""
     melhor = None
     melhor_dist = None
     for feat in features:
-        nome = feat.get("properties", {}).get("nome") or feat.get("properties", {}).get("name")
+        nome = feat.get("properties", {}).get("nome") or feat.get(
+            "properties", {}
+        ).get("name")
         try:
             flon, flat = feat["geometry"]["coordinates"]
         except Exception:
@@ -63,9 +66,7 @@ def encontrar_local(lat, lon, features, limite=80):
         if melhor_dist is None or d < melhor_dist:
             melhor_dist = d
             melhor = nome
-    if melhor_dist is not None and melhor_dist <= limite:
-        return melhor
-    return None
+    return melhor
 
 ficheiros = sorted(dir_csv.glob("*.csv"))
 if len(ficheiros) < 2:
