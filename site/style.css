@@ -21,6 +21,7 @@ main.painel {
   grid-template-columns: 1fr 2fr;
   column-gap: 2rem; /* Espaço horizontal */
   align-items: start; /* Alinhar pelo topo */
+
 }
 
 /* Coluna direita empilha mapa e listas */
