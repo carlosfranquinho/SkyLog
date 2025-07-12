@@ -51,9 +51,19 @@
         // Na última hora...
         const ulHora = document.getElementById("ultima-hora-lista");
         dados.ultima_hora.forEach(v => {
+          const dt = new Date(v.hora + "Z");
+          const opt = {
+            hour: "2-digit",
+            minute: "2-digit",
+            hour12: false,
+            timeZone: "Europe/Lisbon",
+          };
+          const hm = new Intl.DateTimeFormat("pt-PT", opt)
+            .format(dt)
+            .replace(":", "h") + "m";
           ulHora.innerHTML += `
             <li>
-              <strong>${v.chamada || v.hex}</strong> – ${v.hora} 
+              <strong>${v.chamada || v.hex}</strong> – às ${hm}
               ${v.alt ? `– Alt: ${v.alt} ft` : ""}
               ${v.vel ? `– Vel: ${v.vel} kt` : ""}
               ${v.dist ? `– Dist: ${v.dist} km` : ""}
