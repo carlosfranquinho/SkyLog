@@ -114,6 +114,7 @@ for info in melhores_linhas.values():
         "hora": hora
     })
 
+
 ultima_hora = sorted(registos, key=lambda x: x["hora"], reverse=True)
 
 top_paises = sorted(paises.items(), key=lambda x: x[1], reverse=True)[:10]

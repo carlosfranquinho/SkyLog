@@ -56,7 +56,7 @@ avioes_json = {
 
 # Guardar para ficheiro JSON
 output_file = RESUMOS_DIR / "avioes.json"
-with open("output_file", "w", encoding="utf-8") as f:
+with open(output_file, "w", encoding="utf-8") as f:
     json.dump(avioes_json, f, ensure_ascii=False, indent=2)
 
 print(f"✅ Resumo gravado em: {output_file}")
