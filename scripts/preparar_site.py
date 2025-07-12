@@ -107,6 +107,7 @@ for info in melhores_linhas.values():
     chamada = linha["flight"].strip()
     hexcode = linha["hex"].strip()
     companhia = chamada[:3] if len(chamada) >= 3 else ""
+    companhia_nome = companhias_info.get(companhia, {}).get("nome", companhia)
     alt = linha.get("alt_baro", "").strip()
     vel = linha.get("gs", "").strip()
     hora = linha["timestamp"][:16]
@@ -133,7 +134,7 @@ for info in melhores_linhas.values():
     registos.append({
         "hex": hexcode,
         "chamada": chamada,
-        "cia": companhia,
+        "cia": companhia_nome,
         "pais": pais,
         "local": local,
         "alt": alt,
