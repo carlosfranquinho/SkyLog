@@ -86,8 +86,8 @@
   {
     "start": "040000",
     "end": "040FFF",
-    "country": "Ethiopia",
-    "bandeira": ""
+    "country": "Etiópia",
+    "bandeira": "🇪🇹"
   },
   {
     "start": "042000",
@@ -578,8 +578,8 @@
   {
     "start": "458000",
     "end": "45FFFF",
-    "country": "Denmark",
-    "bandeira": ""
+    "country": "Dinamarca",
+    "bandeira": "🇩🇰"
   },
   {
     "start": "460000",
@@ -632,8 +632,8 @@
   {
     "start": "4A0000",
     "end": "4A7FFF",
-    "country": "Romania",
-    "bandeira": ""
+    "country": "Roménia",
+    "bandeira": "🇷🇴"
   },
   {
     "start": "4A8000",
@@ -674,8 +674,8 @@
   {
     "start": "4CC000",
     "end": "4CCFFF",
-    "country": "Iceland",
-    "bandeira": ""
+    "country": "Islândia",
+    "bandeira": "🇮🇸"
   },
   {
     "start": "4D0000",
@@ -716,8 +716,8 @@
   {
     "start": "502C00",
     "end": "502FFF",
-    "country": "Latvia",
-    "bandeira": ""
+    "country": "Letónia",
+    "bandeira": "🇱🇻"
   },
   {
     "start": "503C00",

@@ -42,7 +42,7 @@
     "nome": "British Airways"
   },
   "BCS": {
-    "nome": "BCS"
+    "nome": "European Air Transport"
   },
   "BEL": {
     "nome": "Brussels Airlines"
@@ -102,8 +102,11 @@
     "nome": "Enter Air"
   },
   "ETH": {
-    "nome": "ETH"
+    "nome": "Ethiopian Airlines"
   },
+  "EUP": {
+    "nome": "Pan Europeenne"
+  },  
   "EVE": {
     "nome": "Iberojet"
   },
@@ -119,6 +122,9 @@
   "EZY": {
     "nome": "easyJet"
   },
+  "FIA": {
+    "nome": "FlyOne"
+  },
   "FIN": {
     "nome": "FIN"
   },
@@ -129,7 +135,7 @@
     "nome": "FPO"
   },
   "FPY": {
-    "nome": "FPY"
+    "nome": "PLAY"
   },
   "FYG": {
     "nome": "FYG"
@@ -246,7 +252,7 @@
     "nome": "Royal Air Maroc"
   },
   "RUK": {
-    "nome": "RUK"
+    "nome": "Ryanair UK"
   },
   "RVP": {
     "nome": "RVP"
@@ -267,7 +273,7 @@
     "nome": "SVA"
   },
   "SWR": {
-    "nome": "SWR"
+    "nome": "Swiss"
   },
   "SWT": {
     "nome": "SWT"
@@ -318,7 +324,7 @@
     "nome": "Vueling"
   },
   "VOE": {
-    "nome": "VOE"
+    "nome": "Volotea"
   },
   "WFL": {
     "nome": "WFL"
