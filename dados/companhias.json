@@ -1,0 +1,314 @@
+{
+  "AAL": {
+    "nome": "AAL"
+  },
+  "ACA": {
+    "nome": "ACA"
+  },
+  "AEA": {
+    "nome": "AEA"
+  },
+  "AEE": {
+    "nome": "AEE"
+  },
+  "AFR": {
+    "nome": "Air France"
+  },
+  "AJO": {
+    "nome": "AJO"
+  },
+  "AMQ": {
+    "nome": "AMQ"
+  },
+  "AMX": {
+    "nome": "AMX"
+  },
+  "ANE": {
+    "nome": "ANE"
+  },
+  "AVA": {
+    "nome": "AVA"
+  },
+  "AXY": {
+    "nome": "AXY"
+  },
+  "AZU": {
+    "nome": "AZU"
+  },
+  "BAW": {
+    "nome": "BAW"
+  },
+  "BCS": {
+    "nome": "BCS"
+  },
+  "BEL": {
+    "nome": "BEL"
+  },
+  "BTI": {
+    "nome": "Air Baltic"
+  },
+  "CBJ": {
+    "nome": "CBJ"
+  },
+  "CCA": {
+    "nome": "CCA"
+  },
+  "CFE": {
+    "nome": "CFE"
+  },
+  "CFG": {
+    "nome": "CFG"
+  },
+  "CXI": {
+    "nome": "CXI"
+  },
+  "DAL": {
+    "nome": "DAL"
+  },
+  "DEA": {
+    "nome": "DEA Aviation"
+  },
+  "DFC": {
+    "nome": "DFC"
+  },
+  "DLH": {
+    "nome": "Lufthansa"
+  },
+  "DUK": {
+    "nome": "DUK"
+  },
+  "EDW": {
+    "nome": "EDW"
+  },
+  "EFW": {
+    "nome": "EFW"
+  },
+  "EIC": {
+    "nome": "EIC"
+  },
+  "EIN": {
+    "nome": "EIN"
+  },
+  "EJU": {
+    "nome": "easyJet Europe"
+  },
+  "ENT": {
+    "nome": "ENT"
+  },
+  "ETH": {
+    "nome": "ETH"
+  },
+  "EVE": {
+    "nome": "EVE"
+  },
+  "EWG": {
+    "nome": "Eurowings"
+  },
+  "EXS": {
+    "nome": "EXS"
+  },
+  "EZS": {
+    "nome": "EZS"
+  },
+  "EZY": {
+    "nome": "easyJet"
+  },
+  "FIN": {
+    "nome": "FIN"
+  },
+  "FJO": {
+    "nome": "FJO"
+  },
+  "FPO": {
+    "nome": "FPO"
+  },
+  "FPY": {
+    "nome": "FPY"
+  },
+  "FYG": {
+    "nome": "FYG"
+  },
+  "FYL": {
+    "nome": "FYL"
+  },
+  "GMA": {
+    "nome": "GMA"
+  },
+  "HAT": {
+    "nome": "HAT"
+  },
+  "HBI": {
+    "nome": "HBI"
+  },
+  "HMJ": {
+    "nome": "HMJ"
+  },
+  "HRN": {
+    "nome": "HRN"
+  },
+  "IBB": {
+    "nome": "IBB"
+  },
+  "IBE": {
+    "nome": "IBE"
+  },
+  "IBS": {
+    "nome": "IBS"
+  },
+  "INI": {
+    "nome": "INI"
+  },
+  "JAF": {
+    "nome": "JAF"
+  },
+  "JFA": {
+    "nome": "JFA"
+  },
+  "JTD": {
+    "nome": "JTD"
+  },
+  "KLM": {
+    "nome": "KLM"
+  },
+  "LAN": {
+    "nome": "LAN"
+  },
+  "LCO": {
+    "nome": "LCO"
+  },
+  "LER": {
+    "nome": "LER"
+  },
+  "LGL": {
+    "nome": "LGL"
+  },
+  "LPE": {
+    "nome": "LPE"
+  },
+  "LVK": {
+    "nome": "LVK"
+  },
+  "MBU": {
+    "nome": "MBU"
+  },
+  "MRT": {
+    "nome": "MRT"
+  },
+  "NJE": {
+    "nome": "NJE"
+  },
+  "NOZ": {
+    "nome": "NOZ"
+  },
+  "NSZ": {
+    "nome": "NSZ"
+  },
+  "OCN": {
+    "nome": "OCN"
+  },
+  "OEX": {
+    "nome": "OEX"
+  },
+  "OOH": {
+    "nome": "OOH"
+  },
+  "PHL": {
+    "nome": "PHL"
+  },
+  "PHP": {
+    "nome": "PHP"
+  },
+  "PSV": {
+    "nome": "PSV"
+  },
+  "PUE": {
+    "nome": "PUE"
+  },
+  "RAM": {
+    "nome": "RAM"
+  },
+  "RUK": {
+    "nome": "RUK"
+  },
+  "RVP": {
+    "nome": "RVP"
+  },
+  "RYR": {
+    "nome": "Ryanair"
+  },
+  "SDR": {
+    "nome": "SDR"
+  },
+  "SHA": {
+    "nome": "SHA"
+  },
+  "SJI": {
+    "nome": "SJI"
+  },
+  "SVA": {
+    "nome": "SVA"
+  },
+  "SWR": {
+    "nome": "SWR"
+  },
+  "SWT": {
+    "nome": "SWT"
+  },
+  "TAM": {
+    "nome": "TAM"
+  },
+  "TAP": {
+    "nome": "TAP Air Portugal"
+  },
+  "TFL": {
+    "nome": "TFL"
+  },
+  "THY": {
+    "nome": "THY"
+  },
+  "TOM": {
+    "nome": "TOM"
+  },
+  "TRA": {
+    "nome": "TRA"
+  },
+  "TUI": {
+    "nome": "TUI fly"
+  },
+  "TVF": {
+    "nome": "TVF"
+  },
+  "TVS": {
+    "nome": "TVS"
+  },
+  "TWY": {
+    "nome": "TWY"
+  },
+  "UAE": {
+    "nome": "UAE"
+  },
+  "VCG": {
+    "nome": "VCG"
+  },
+  "VJH": {
+    "nome": "VJH"
+  },
+  "VJT": {
+    "nome": "VJT"
+  },
+  "VLG": {
+    "nome": "VLG"
+  },
+  "VOE": {
+    "nome": "VOE"
+  },
+  "WFL": {
+    "nome": "WFL"
+  },
+  "WUK": {
+    "nome": "WUK"
+  },
+  "WZZ": {
+    "nome": "WZZ"
+  }
+}

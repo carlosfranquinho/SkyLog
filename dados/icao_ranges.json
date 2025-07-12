@@ -1,0 +1,1268 @@
+[
+  {
+    "start": "004000",
+    "end": "0043FF",
+    "country": "Zimbabwe",
+    "bandeira": ""
+  },
+  {
+    "start": "006000",
+    "end": "006FFF",
+    "country": "Mozambique",
+    "bandeira": ""
+  },
+  {
+    "start": "008000",
+    "end": "00FFFF",
+    "country": "South Africa",
+    "bandeira": ""
+  },
+  {
+    "start": "010000",
+    "end": "017FFF",
+    "country": "Egypt",
+    "bandeira": ""
+  },
+  {
+    "start": "018000",
+    "end": "01FFFF",
+    "country": "Lybia",
+    "bandeira": ""
+  },
+  {
+    "start": "020000",
+    "end": "027FFF",
+    "country": "Morocco",
+    "bandeira": ""
+  },
+  {
+    "start": "028000",
+    "end": "02FFFF",
+    "country": "Tunisia",
+    "bandeira": ""
+  },
+  {
+    "start": "030000",
+    "end": "0303FF",
+    "country": "Botswana",
+    "bandeira": ""
+  },
+  {
+    "start": "032000",
+    "end": "032FFF",
+    "country": "Burundi",
+    "bandeira": ""
+  },
+  {
+    "start": "034000",
+    "end": "034FFF",
+    "country": "Cameroon",
+    "bandeira": ""
+  },
+  {
+    "start": "035000",
+    "end": "0353FF",
+    "country": "Comoros",
+    "bandeira": ""
+  },
+  {
+    "start": "036000",
+    "end": "036FFF",
+    "country": "Congo",
+    "bandeira": ""
+  },
+  {
+    "start": "038000",
+    "end": "038FFF",
+    "country": "Cote d'Ivoire",
+    "bandeira": ""
+  },
+  {
+    "start": "03E000",
+    "end": "03EFFF",
+    "country": "Gabon",
+    "bandeira": ""
+  },
+  {
+    "start": "040000",
+    "end": "040FFF",
+    "country": "Ethiopia",
+    "bandeira": ""
+  },
+  {
+    "start": "042000",
+    "end": "042FFF",
+    "country": "Equatorial Guinea",
+    "bandeira": ""
+  },
+  {
+    "start": "044000",
+    "end": "044FFF",
+    "country": "Ghana",
+    "bandeira": ""
+  },
+  {
+    "start": "046000",
+    "end": "046FFF",
+    "country": "Guinea",
+    "bandeira": ""
+  },
+  {
+    "start": "048000",
+    "end": "0483FF",
+    "country": "Guinea-Bissau",
+    "bandeira": ""
+  },
+  {
+    "start": "04A000",
+    "end": "04A3FF",
+    "country": "Lesotho",
+    "bandeira": ""
+  },
+  {
+    "start": "04C000",
+    "end": "04CFFF",
+    "country": "Kenya",
+    "bandeira": ""
+  },
+  {
+    "start": "050000",
+    "end": "050FFF",
+    "country": "Liberia",
+    "bandeira": ""
+  },
+  {
+    "start": "054000",
+    "end": "054FFF",
+    "country": "Madagascar",
+    "bandeira": ""
+  },
+  {
+    "start": "058000",
+    "end": "058FFF",
+    "country": "Malawi",
+    "bandeira": ""
+  },
+  {
+    "start": "05A000",
+    "end": "05A3FF",
+    "country": "Maldives",
+    "bandeira": ""
+  },
+  {
+    "start": "05C000",
+    "end": "05CFFF",
+    "country": "Mali",
+    "bandeira": ""
+  },
+  {
+    "start": "05E000",
+    "end": "05E3FF",
+    "country": "Mauritania",
+    "bandeira": ""
+  },
+  {
+    "start": "060000",
+    "end": "0603FF",
+    "country": "Mauritius",
+    "bandeira": ""
+  },
+  {
+    "start": "062000",
+    "end": "062FFF",
+    "country": "Niger",
+    "bandeira": ""
+  },
+  {
+    "start": "064000",
+    "end": "064FFF",
+    "country": "Nigeria",
+    "bandeira": ""
+  },
+  {
+    "start": "068000",
+    "end": "068FFF",
+    "country": "Uganda",
+    "bandeira": ""
+  },
+  {
+    "start": "06A000",
+    "end": "06A3FF",
+    "country": "Qatar",
+    "bandeira": ""
+  },
+  {
+    "start": "06C000",
+    "end": "06CFFF",
+    "country": "Central African Republic",
+    "bandeira": ""
+  },
+  {
+    "start": "06E000",
+    "end": "06EFFF",
+    "country": "Rwanda",
+    "bandeira": ""
+  },
+  {
+    "start": "070000",
+    "end": "070FFF",
+    "country": "Senegal",
+    "bandeira": ""
+  },
+  {
+    "start": "074000",
+    "end": "0743FF",
+    "country": "Seychelles",
+    "bandeira": ""
+  },
+  {
+    "start": "076000",
+    "end": "0763FF",
+    "country": "Sierra Leone",
+    "bandeira": ""
+  },
+  {
+    "start": "078000",
+    "end": "078FFF",
+    "country": "Somalia",
+    "bandeira": ""
+  },
+  {
+    "start": "07A000",
+    "end": "07A3FF",
+    "country": "Eswatini",
+    "bandeira": ""
+  },
+  {
+    "start": "07C000",
+    "end": "07CFFF",
+    "country": "Sudan",
+    "bandeira": ""
+  },
+  {
+    "start": "080000",
+    "end": "080FFF",
+    "country": "Tanzania",
+    "bandeira": ""
+  },
+  {
+    "start": "084000",
+    "end": "084FFF",
+    "country": "Chad",
+    "bandeira": ""
+  },
+  {
+    "start": "088000",
+    "end": "088FFF",
+    "country": "Togo",
+    "bandeira": ""
+  },
+  {
+    "start": "08A000",
+    "end": "08AFFF",
+    "country": "Zambia",
+    "bandeira": ""
+  },
+  {
+    "start": "08C000",
+    "end": "08CFFF",
+    "country": "DR Congo",
+    "bandeira": ""
+  },
+  {
+    "start": "090000",
+    "end": "090FFF",
+    "country": "Angola",
+    "bandeira": ""
+  },
+  {
+    "start": "094000",
+    "end": "0943FF",
+    "country": "Benin",
+    "bandeira": ""
+  },
+  {
+    "start": "096000",
+    "end": "0963FF",
+    "country": "Cabo Verde",
+    "bandeira": ""
+  },
+  {
+    "start": "098000",
+    "end": "0983FF",
+    "country": "Djibouti",
+    "bandeira": ""
+  },
+  {
+    "start": "09A000",
+    "end": "09AFFF",
+    "country": "Gambia",
+    "bandeira": ""
+  },
+  {
+    "start": "09C000",
+    "end": "09CFFF",
+    "country": "Burkina Faso",
+    "bandeira": ""
+  },
+  {
+    "start": "09E000",
+    "end": "09E3FF",
+    "country": "Sao Tome and Principe",
+    "bandeira": ""
+  },
+  {
+    "start": "0A0000",
+    "end": "0A7FFF",
+    "country": "Algeria",
+    "bandeira": ""
+  },
+  {
+    "start": "0A8000",
+    "end": "0A8FFF",
+    "country": "Bahamas",
+    "bandeira": ""
+  },
+  {
+    "start": "0AA000",
+    "end": "0AA3FF",
+    "country": "Barbados",
+    "bandeira": ""
+  },
+  {
+    "start": "0AB000",
+    "end": "0AB3FF",
+    "country": "Belize",
+    "bandeira": ""
+  },
+  {
+    "start": "0AC000",
+    "end": "0ACFFF",
+    "country": "Colombia",
+    "bandeira": ""
+  },
+  {
+    "start": "0AE000",
+    "end": "0AEFFF",
+    "country": "Costa Rica",
+    "bandeira": ""
+  },
+  {
+    "start": "0B0000",
+    "end": "0B0FFF",
+    "country": "Cuba",
+    "bandeira": ""
+  },
+  {
+    "start": "0B2000",
+    "end": "0B2FFF",
+    "country": "El Salvador",
+    "bandeira": ""
+  },
+  {
+    "start": "0B4000",
+    "end": "0B4FFF",
+    "country": "Guatemala",
+    "bandeira": ""
+  },
+  {
+    "start": "0B6000",
+    "end": "0B6FFF",
+    "country": "Guyana",
+    "bandeira": ""
+  },
+  {
+    "start": "0B8000",
+    "end": "0B8FFF",
+    "country": "Haiti",
+    "bandeira": ""
+  },
+  {
+    "start": "0BA000",
+    "end": "0BAFFF",
+    "country": "Honduras",
+    "bandeira": ""
+  },
+  {
+    "start": "0BC000",
+    "end": "0BC3FF",
+    "country": "Saint Vincent and the Grenadines",
+    "bandeira": ""
+  },
+  {
+    "start": "0BE000",
+    "end": "0BEFFF",
+    "country": "Jamaica",
+    "bandeira": ""
+  },
+  {
+    "start": "0C0000",
+    "end": "0C0FFF",
+    "country": "Nicaragua",
+    "bandeira": ""
+  },
+  {
+    "start": "0C2000",
+    "end": "0C2FFF",
+    "country": "Panama",
+    "bandeira": ""
+  },
+  {
+    "start": "0C4000",
+    "end": "0C4FFF",
+    "country": "Dominican Republic",
+    "bandeira": ""
+  },
+  {
+    "start": "0C6000",
+    "end": "0C6FFF",
+    "country": "Trinidad and Tobago",
+    "bandeira": ""
+  },
+  {
+    "start": "0C8000",
+    "end": "0C8FFF",
+    "country": "Suriname",
+    "bandeira": ""
+  },
+  {
+    "start": "0CA000",
+    "end": "0CA3FF",
+    "country": "Antigua and Barbuda",
+    "bandeira": ""
+  },
+  {
+    "start": "0CC000",
+    "end": "0CC3FF",
+    "country": "Grenada",
+    "bandeira": ""
+  },
+  {
+    "start": "0D0000",
+    "end": "0D7FFF",
+    "country": "Mexico",
+    "bandeira": ""
+  },
+  {
+    "start": "0D8000",
+    "end": "0DFFFF",
+    "country": "Venezuela",
+    "bandeira": ""
+  },
+  {
+    "start": "100000",
+    "end": "1FFFFF",
+    "country": "Russia",
+    "bandeira": ""
+  },
+  {
+    "start": "201000",
+    "end": "2013FF",
+    "country": "Namibia",
+    "bandeira": ""
+  },
+  {
+    "start": "202000",
+    "end": "2023FF",
+    "country": "Eritrea",
+    "bandeira": ""
+  },
+  {
+    "start": "300000",
+    "end": "33FFFF",
+    "country": "Italy",
+    "bandeira": ""
+  },
+  {
+    "start": "340000",
+    "end": "37FFFF",
+    "country": "Espanha",
+    "bandeira": "🇪🇸"
+  },
+  {
+    "start": "380000",
+    "end": "3BFFFF",
+    "country": "França",
+    "bandeira": "🇫🇷"
+  },
+  {
+    "start": "3C0000",
+    "end": "3FFFFF",
+    "country": "Alemanha",
+    "bandeira": "🇩🇪"
+  },
+  {
+    "start": "400000",
+    "end": "4001BF",
+    "country": "Bermuda",
+    "bandeira": ""
+  },
+  {
+    "start": "4001C0",
+    "end": "4001FF",
+    "country": "Cayman Islands",
+    "bandeira": ""
+  },
+  {
+    "start": "400300",
+    "end": "4003FF",
+    "country": "Turks and Caicos Islands",
+    "bandeira": ""
+  },
+  {
+    "start": "424135",
+    "end": "4241F2",
+    "country": "Cayman Islands",
+    "bandeira": ""
+  },
+  {
+    "start": "424200",
+    "end": "4246FF",
+    "country": "Bermuda",
+    "bandeira": ""
+  },
+  {
+    "start": "424700",
+    "end": "424899",
+    "country": "Cayman Islands",
+    "bandeira": ""
+  },
+  {
+    "start": "424B00",
+    "end": "424BFF",
+    "country": "Isle of Man",
+    "bandeira": ""
+  },
+  {
+    "start": "43BE00",
+    "end": "43BEFF",
+    "country": "Bermuda",
+    "bandeira": ""
+  },
+  {
+    "start": "43E700",
+    "end": "43EAFD",
+    "country": "Isle of Man",
+    "bandeira": ""
+  },
+  {
+    "start": "43EAFE",
+    "end": "43EEFF",
+    "country": "Guernsey",
+    "bandeira": ""
+  },
+  {
+    "start": "400000",
+    "end": "43FFFF",
+    "country": "Reino Unido",
+    "bandeira": "🇬🇧"
+  },
+  {
+    "start": "440000",
+    "end": "447FFF",
+    "country": "Áustria",
+    "bandeira": "🇦🇹"
+  },
+  {
+    "start": "448000",
+    "end": "44FFFF",
+    "country": "Bélgica",
+    "bandeira": "🇧🇪"
+  },
+  {
+    "start": "450000",
+    "end": "457FFF",
+    "country": "Bulgaria",
+    "bandeira": ""
+  },
+  {
+    "start": "458000",
+    "end": "45FFFF",
+    "country": "Denmark",
+    "bandeira": ""
+  },
+  {
+    "start": "460000",
+    "end": "467FFF",
+    "country": "Finland",
+    "bandeira": ""
+  },
+  {
+    "start": "468000",
+    "end": "46FFFF",
+    "country": "Greece",
+    "bandeira": ""
+  },
+  {
+    "start": "470000",
+    "end": "477FFF",
+    "country": "Hungary",
+    "bandeira": ""
+  },
+  {
+    "start": "478000",
+    "end": "47FFFF",
+    "country": "Norway",
+    "bandeira": ""
+  },
+  {
+    "start": "480000",
+    "end": "487FFF",
+    "country": "Países Baixos",
+    "bandeira": "🇳🇱"
+  },
+  {
+    "start": "488000",
+    "end": "48FFFF",
+    "country": "Poland",
+    "bandeira": ""
+  },
+  {
+    "start": "490000",
+    "end": "497FFF",
+    "country": "Portugal",
+    "bandeira": "🇵🇹"
+  },
+  {
+    "start": "498000",
+    "end": "49FFFF",
+    "country": "Czechia",
+    "bandeira": ""
+  },
+  {
+    "start": "4A0000",
+    "end": "4A7FFF",
+    "country": "Romania",
+    "bandeira": ""
+  },
+  {
+    "start": "4A8000",
+    "end": "4AFFFF",
+    "country": "Sweden",
+    "bandeira": ""
+  },
+  {
+    "start": "4B0000",
+    "end": "4B7FFF",
+    "country": "Suiça",
+    "bandeira": "🇨🇭"
+  },
+  {
+    "start": "4B8000",
+    "end": "4BFFFF",
+    "country": "Turkey",
+    "bandeira": ""
+  },
+  {
+    "start": "4C0000",
+    "end": "4C7FFF",
+    "country": "Serbia",
+    "bandeira": ""
+  },
+  {
+    "start": "4C8000",
+    "end": "4C83FF",
+    "country": "Cyprus",
+    "bandeira": ""
+  },
+  {
+    "start": "4CA000",
+    "end": "4CAFFF",
+    "country": "Irlanda",
+    "bandeira": "🇮🇪"
+  },
+  {
+    "start": "4CC000",
+    "end": "4CCFFF",
+    "country": "Iceland",
+    "bandeira": ""
+  },
+  {
+    "start": "4D0000",
+    "end": "4D03FF",
+    "country": "Luxembourg",
+    "bandeira": ""
+  },
+  {
+    "start": "4D2000",
+    "end": "4D2FFF",
+    "country": "Malta",
+    "bandeira": "🇲🇹"
+  },
+  {
+    "start": "4D4000",
+    "end": "4D43FF",
+    "country": "Monaco",
+    "bandeira": ""
+  },
+  {
+    "start": "500000",
+    "end": "5003FF",
+    "country": "San Marino",
+    "bandeira": ""
+  },
+  {
+    "start": "501000",
+    "end": "5013FF",
+    "country": "Albania",
+    "bandeira": ""
+  },
+  {
+    "start": "501C00",
+    "end": "501FFF",
+    "country": "Croatia",
+    "bandeira": ""
+  },
+  {
+    "start": "502C00",
+    "end": "502FFF",
+    "country": "Latvia",
+    "bandeira": ""
+  },
+  {
+    "start": "503C00",
+    "end": "503FFF",
+    "country": "Lithuania",
+    "bandeira": ""
+  },
+  {
+    "start": "504C00",
+    "end": "504FFF",
+    "country": "Moldova",
+    "bandeira": ""
+  },
+  {
+    "start": "505C00",
+    "end": "505FFF",
+    "country": "Slovakia",
+    "bandeira": ""
+  },
+  {
+    "start": "506C00",
+    "end": "506FFF",
+    "country": "Slovenia",
+    "bandeira": ""
+  },
+  {
+    "start": "507C00",
+    "end": "507FFF",
+    "country": "Uzbekistan",
+    "bandeira": ""
+  },
+  {
+    "start": "508000",
+    "end": "50FFFF",
+    "country": "Ukraine",
+    "bandeira": ""
+  },
+  {
+    "start": "510000",
+    "end": "5103FF",
+    "country": "Belarus",
+    "bandeira": ""
+  },
+  {
+    "start": "511000",
+    "end": "5113FF",
+    "country": "Estonia",
+    "bandeira": ""
+  },
+  {
+    "start": "512000",
+    "end": "5123FF",
+    "country": "Macedonia",
+    "bandeira": ""
+  },
+  {
+    "start": "513000",
+    "end": "5133FF",
+    "country": "Bosnia and Herzegovina",
+    "bandeira": ""
+  },
+  {
+    "start": "514000",
+    "end": "5143FF",
+    "country": "Georgia",
+    "bandeira": ""
+  },
+  {
+    "start": "515000",
+    "end": "5153FF",
+    "country": "Tajikistan",
+    "bandeira": ""
+  },
+  {
+    "start": "516000",
+    "end": "5163FF",
+    "country": "Montenegro",
+    "bandeira": ""
+  },
+  {
+    "start": "600000",
+    "end": "6003FF",
+    "country": "Armenia",
+    "bandeira": ""
+  },
+  {
+    "start": "600800",
+    "end": "600BFF",
+    "country": "Azerbaijan",
+    "bandeira": ""
+  },
+  {
+    "start": "601000",
+    "end": "6013FF",
+    "country": "Kyrgyzstan",
+    "bandeira": ""
+  },
+  {
+    "start": "601800",
+    "end": "601BFF",
+    "country": "Turkmenistan",
+    "bandeira": ""
+  },
+  {
+    "start": "680000",
+    "end": "6803FF",
+    "country": "Bhutan",
+    "bandeira": ""
+  },
+  {
+    "start": "681000",
+    "end": "6813FF",
+    "country": "Micronesia, Federated States of",
+    "bandeira": ""
+  },
+  {
+    "start": "682000",
+    "end": "6823FF",
+    "country": "Mongolia",
+    "bandeira": ""
+  },
+  {
+    "start": "683000",
+    "end": "6833FF",
+    "country": "Kazakhstan",
+    "bandeira": ""
+  },
+  {
+    "start": "684000",
+    "end": "6843FF",
+    "country": "Palau",
+    "bandeira": ""
+  },
+  {
+    "start": "700000",
+    "end": "700FFF",
+    "country": "Afghanistan",
+    "bandeira": ""
+  },
+  {
+    "start": "702000",
+    "end": "702FFF",
+    "country": "Bangladesh",
+    "bandeira": ""
+  },
+  {
+    "start": "704000",
+    "end": "704FFF",
+    "country": "Myanmar",
+    "bandeira": ""
+  },
+  {
+    "start": "706000",
+    "end": "706FFF",
+    "country": "Kuwait",
+    "bandeira": ""
+  },
+  {
+    "start": "708000",
+    "end": "708FFF",
+    "country": "Laos",
+    "bandeira": ""
+  },
+  {
+    "start": "70A000",
+    "end": "70AFFF",
+    "country": "Nepal",
+    "bandeira": ""
+  },
+  {
+    "start": "70C000",
+    "end": "70C3FF",
+    "country": "Oman",
+    "bandeira": ""
+  },
+  {
+    "start": "70E000",
+    "end": "70EFFF",
+    "country": "Cambodia",
+    "bandeira": ""
+  },
+  {
+    "start": "710000",
+    "end": "717FFF",
+    "country": "Saudi Arabia",
+    "bandeira": ""
+  },
+  {
+    "start": "718000",
+    "end": "71FFFF",
+    "country": "South Korea",
+    "bandeira": ""
+  },
+  {
+    "start": "720000",
+    "end": "727FFF",
+    "country": "North Korea",
+    "bandeira": ""
+  },
+  {
+    "start": "728000",
+    "end": "72FFFF",
+    "country": "Iraq",
+    "bandeira": ""
+  },
+  {
+    "start": "730000",
+    "end": "737FFF",
+    "country": "Iran",
+    "bandeira": ""
+  },
+  {
+    "start": "738000",
+    "end": "73FFFF",
+    "country": "Israel",
+    "bandeira": ""
+  },
+  {
+    "start": "740000",
+    "end": "747FFF",
+    "country": "Jordan",
+    "bandeira": ""
+  },
+  {
+    "start": "748000",
+    "end": "74FFFF",
+    "country": "Lebanon",
+    "bandeira": ""
+  },
+  {
+    "start": "750000",
+    "end": "757FFF",
+    "country": "Malaysia",
+    "bandeira": ""
+  },
+  {
+    "start": "758000",
+    "end": "75FFFF",
+    "country": "Philippines",
+    "bandeira": ""
+  },
+  {
+    "start": "760000",
+    "end": "767FFF",
+    "country": "Pakistan",
+    "bandeira": ""
+  },
+  {
+    "start": "768000",
+    "end": "76FFFF",
+    "country": "Singapore",
+    "bandeira": ""
+  },
+  {
+    "start": "770000",
+    "end": "777FFF",
+    "country": "Sri Lanka",
+    "bandeira": ""
+  },
+  {
+    "start": "778000",
+    "end": "77FFFF",
+    "country": "Syria",
+    "bandeira": ""
+  },
+  {
+    "start": "789000",
+    "end": "789FFF",
+    "country": "Hong Kong",
+    "bandeira": ""
+  },
+  {
+    "start": "780000",
+    "end": "7BFFFF",
+    "country": "China",
+    "bandeira": ""
+  },
+  {
+    "start": "7C0000",
+    "end": "7FFFFF",
+    "country": "Australia",
+    "bandeira": ""
+  },
+  {
+    "start": "800000",
+    "end": "83FFFF",
+    "country": "India",
+    "bandeira": ""
+  },
+  {
+    "start": "840000",
+    "end": "87FFFF",
+    "country": "Japan",
+    "bandeira": ""
+  },
+  {
+    "start": "880000",
+    "end": "887FFF",
+    "country": "Thailand",
+    "bandeira": ""
+  },
+  {
+    "start": "888000",
+    "end": "88FFFF",
+    "country": "Viet Nam",
+    "bandeira": ""
+  },
+  {
+    "start": "890000",
+    "end": "890FFF",
+    "country": "Yemen",
+    "bandeira": ""
+  },
+  {
+    "start": "894000",
+    "end": "894FFF",
+    "country": "Bahrain",
+    "bandeira": ""
+  },
+  {
+    "start": "895000",
+    "end": "8953FF",
+    "country": "Brunei",
+    "bandeira": ""
+  },
+  {
+    "start": "896000",
+    "end": "896FFF",
+    "country": "United Arab Emirates",
+    "bandeira": ""
+  },
+  {
+    "start": "897000",
+    "end": "8973FF",
+    "country": "Solomon Islands",
+    "bandeira": ""
+  },
+  {
+    "start": "898000",
+    "end": "898FFF",
+    "country": "Papua New Guinea",
+    "bandeira": ""
+  },
+  {
+    "start": "899000",
+    "end": "8993FF",
+    "country": "Taiwan",
+    "bandeira": ""
+  },
+  {
+    "start": "8A0000",
+    "end": "8A7FFF",
+    "country": "Indonesia",
+    "bandeira": ""
+  },
+  {
+    "start": "900000",
+    "end": "9003FF",
+    "country": "Marshall Islands",
+    "bandeira": ""
+  },
+  {
+    "start": "901000",
+    "end": "9013FF",
+    "country": "Cook Islands",
+    "bandeira": ""
+  },
+  {
+    "start": "902000",
+    "end": "9023FF",
+    "country": "Samoa",
+    "bandeira": ""
+  },
+  {
+    "start": "A00000",
+    "end": "AFFFFF",
+    "country": "United States",
+    "bandeira": ""
+  },
+  {
+    "start": "C00000",
+    "end": "C3FFFF",
+    "country": "Canada",
+    "bandeira": ""
+  },
+  {
+    "start": "C80000",
+    "end": "C87FFF",
+    "country": "New Zealand",
+    "bandeira": ""
+  },
+  {
+    "start": "C88000",
+    "end": "C88FFF",
+    "country": "Fiji",
+    "bandeira": ""
+  },
+  {
+    "start": "C8A000",
+    "end": "C8A3FF",
+    "country": "Nauru",
+    "bandeira": ""
+  },
+  {
+    "start": "C8C000",
+    "end": "C8C3FF",
+    "country": "Saint Lucia",
+    "bandeira": ""
+  },
+  {
+    "start": "C8D000",
+    "end": "C8D3FF",
+    "country": "Tonga",
+    "bandeira": ""
+  },
+  {
+    "start": "C8E000",
+    "end": "C8E3FF",
+    "country": "Kiribati",
+    "bandeira": ""
+  },
+  {
+    "start": "C90000",
+    "end": "C903FF",
+    "country": "Vanuatu",
+    "bandeira": ""
+  },
+  {
+    "start": "E00000",
+    "end": "E3FFFF",
+    "country": "Argentina",
+    "bandeira": ""
+  },
+  {
+    "start": "E40000",
+    "end": "E7FFFF",
+    "country": "Brazil",
+    "bandeira": ""
+  },
+  {
+    "start": "E80000",
+    "end": "E80FFF",
+    "country": "Chile",
+    "bandeira": ""
+  },
+  {
+    "start": "E84000",
+    "end": "E84FFF",
+    "country": "Ecuador",
+    "bandeira": ""
+  },
+  {
+    "start": "E88000",
+    "end": "E88FFF",
+    "country": "Paraguay",
+    "bandeira": ""
+  },
+  {
+    "start": "E8C000",
+    "end": "E8CFFF",
+    "country": "Peru",
+    "bandeira": ""
+  },
+  {
+    "start": "E90000",
+    "end": "E90FFF",
+    "country": "Uruguay",
+    "bandeira": ""
+  },
+  {
+    "start": "E94000",
+    "end": "E94FFF",
+    "country": "Bolivia",
+    "bandeira": ""
+  },
+  {
+    "start": "F00000",
+    "end": "F07FFF",
+    "country": "ICAO (temporary)",
+    "bandeira": ""
+  },
+  {
+    "start": "F09000",
+    "end": "F093FF",
+    "country": "ICAO (special use)",
+    "bandeira": ""
+  },
+  {
+    "start": "200000",
+    "end": "27FFFF",
+    "country": "Unassigned (AFI region)",
+    "bandeira": ""
+  },
+  {
+    "start": "280000",
+    "end": "28FFFF",
+    "country": "Unassigned (SAM region)",
+    "bandeira": ""
+  },
+  {
+    "start": "500000",
+    "end": "5FFFFF",
+    "country": "Unassigned (EUR / NAT regions)",
+    "bandeira": ""
+  },
+  {
+    "start": "600000",
+    "end": "67FFFF",
+    "country": "Unassigned (MID region)",
+    "bandeira": ""
+  },
+  {
+    "start": "680000",
+    "end": "6FFFFF",
+    "country": "Unassigned (ASIA region)",
+    "bandeira": ""
+  },
+  {
+    "start": "900000",
+    "end": "9FFFFF",
+    "country": "Unassigned (NAM / PAC regions)",
+    "bandeira": ""
+  },
+  {
+    "start": "B00000",
+    "end": "BFFFFF",
+    "country": "Unassigned (reserved for future use)",
+    "bandeira": ""
+  },
+  {
+    "start": "EC0000",
+    "end": "EFFFFF",
+    "country": "Unassigned (CAR region)",
+    "bandeira": ""
+  },
+  {
+    "start": "D00000",
+    "end": "DFFFFF",
+    "country": "Unassigned (reserved for future use)",
+    "bandeira": ""
+  },
+  {
+    "start": "F00000",
+    "end": "FFFFFF",
+    "country": "Unassigned (reserved for future use)",
+    "bandeira": ""
+  }
+]
