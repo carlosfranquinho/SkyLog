@@ -18,18 +18,23 @@ header h1 {
 /* Painel principal com grid */
 main.painel {
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: 1fr 1fr 1fr; /* colunas com a mesma largura */
   column-gap: 2rem; /* Espaço horizontal */
   align-items: start; /* Alinhar pelo topo */
 }
 
-/* Coluna direita empilha mapa e listas */
-#painel-direita {
-  display: grid;
-  grid-template-rows: min-content auto;
-  row-gap: 1.5rem; /* Espaço vertical adequado */
-  align-items: start;
+@media (max-width: 1100px) {
+  main.painel {
+    grid-template-columns: 1fr 1fr; /* empilha progressivamente */
+  }
 }
+
+@media (max-width: 700px) {
+  main.painel {
+    grid-template-columns: 1fr; /* empilha tudo numa coluna */
+  }
+}
+
 
 /* Última hora à esquerda */
 #ultima-hora {
@@ -54,7 +59,7 @@ main.painel {
 
 #mapa {
   width: 100%;
-  height: 240px;
+  height: 80vh; /* altura generosa mas não excessiva */
   margin-top: 1rem;
   border-radius: 6px;
 }
@@ -66,9 +71,9 @@ main.painel {
 /* Coluna lateral (países + companhias) - agora fica abaixo do mapa */
 #coluna-lateral {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2rem;
-  align-items: top;
+  grid-template-columns: 1fr; /* itens empilhados */
+  row-gap: 2rem;
+  align-items: start;
 }
 
 #coluna-lateral > div {
