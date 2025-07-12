@@ -3,6 +3,11 @@ async function carregarPainel() {
     const resp = await fetch("painel.json");
     const dados = await resp.json();
 
+    const bandeiras = {};
+    dados.top_paises.forEach(p => {
+      bandeiras[p.pais] = p.bandeira;
+    });
+
     function capitalizar(str) {
       return str
         .toLowerCase()
@@ -34,6 +39,7 @@ async function carregarPainel() {
 
       const localTxt = v.local ? `sobre ${capitalizar(v.local)} ` : "";
       const bandeira = v.bandeira ? v.bandeira + " " : "";
+
       ulHora.innerHTML += `
         <li>
           <strong>${v.chamada || v.hex}</strong>: ${v.cia || ""}, ${bandeira}${v.pais}

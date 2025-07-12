@@ -32,14 +32,14 @@
   {
     "start": "020000",
     "end": "027FFF",
-    "country": "Morocco",
-    "bandeira": ""
+    "country": "Marrocos",
+    "bandeira": "🇲🇦"
   },
   {
     "start": "028000",
     "end": "02FFFF",
-    "country": "Tunisia",
-    "bandeira": ""
+    "country": "Tunísia",
+    "bandeira": "🇹🇳"
   },
   {
     "start": "030000",
@@ -572,8 +572,8 @@
   {
     "start": "450000",
     "end": "457FFF",
-    "country": "Bulgaria",
-    "bandeira": ""
+    "country": "Bulgária",
+    "bandeira": "🇧🇬"
   },
   {
     "start": "458000",
@@ -596,8 +596,8 @@
   {
     "start": "470000",
     "end": "477FFF",
-    "country": "Hungary",
-    "bandeira": ""
+    "country": "Hungria",
+    "bandeira": "🇭🇺"
   },
   {
     "start": "478000",
@@ -614,8 +614,8 @@
   {
     "start": "488000",
     "end": "48FFFF",
-    "country": "Poland",
-    "bandeira": ""
+    "country": "Polónia",
+    "bandeira": "🇵🇱"
   },
   {
     "start": "490000",
@@ -638,8 +638,8 @@
   {
     "start": "4A8000",
     "end": "4AFFFF",
-    "country": "Sweden",
-    "bandeira": ""
+    "country": "Suécia",
+    "bandeira": "🇸🇪"
   },
   {
     "start": "4B0000",
@@ -656,8 +656,8 @@
   {
     "start": "4C0000",
     "end": "4C7FFF",
-    "country": "Serbia",
-    "bandeira": ""
+    "country": "Sérvia",
+    "bandeira": "🇷🇸"
   },
   {
     "start": "4C8000",
@@ -710,8 +710,8 @@
   {
     "start": "501C00",
     "end": "501FFF",
-    "country": "Croatia",
-    "bandeira": ""
+    "country": "Croácia",
+    "bandeira": "🇭🇷 "
   },
   {
     "start": "502C00",
@@ -1094,8 +1094,8 @@
   {
     "start": "A00000",
     "end": "AFFFFF",
-    "country": "United States",
-    "bandeira": ""
+    "country": "Estados Unidos",
+    "bandeira": "🇺🇸"
   },
   {
     "start": "C00000",
@@ -1154,8 +1154,8 @@
   {
     "start": "E40000",
     "end": "E7FFFF",
-    "country": "Brazil",
-    "bandeira": ""
+    "country": "Brasil",
+    "bandeira": "🇧🇷"
   },
   {
     "start": "E80000",

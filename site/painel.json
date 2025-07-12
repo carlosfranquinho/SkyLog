@@ -1,15 +1,708 @@
 {
   "ultima_hora": [
     {
-      "hex": "4d2449",
-      "chamada": "RYR5763",
+      "hex": "49514c",
+      "chamada": "TAP837",
+      "cia": "TAP Air Portugal",
+      "pais": "Portugal",
+      "local": "MONFORTE",
+      "alt": "28025",
+      "vel": "369.0",
+      "dist": 147.6,
+      "hora": "2025-07-12T20:59"
+    },
+    {
+      "hex": "48922b",
+      "chamada": "",
+      "cia": "",
+      "pais": "Polónia",
+      "local": null,
+      "alt": "36325",
+      "vel": "414.1",
+      "dist": "",
+      "hora": "2025-07-12T20:59"
+    },
+    {
+      "hex": "e49b9f",
+      "chamada": "PSAPM",
+      "cia": "PSA",
+      "pais": "Brasil",
+      "local": "MONFORTE",
+      "alt": "30925",
+      "vel": "474.1",
+      "dist": 156.6,
+      "hora": "2025-07-12T20:59"
+    },
+    {
+      "hex": "4aca88",
+      "chamada": "NSZ5715",
+      "cia": "NSZ",
+      "pais": "Suécia",
+      "local": "PENALVA DO CASTELO",
+      "alt": "35000",
+      "vel": "431.3",
+      "dist": 146.6,
+      "hora": "2025-07-12T20:59"
+    },
+    {
+      "hex": "4952cc",
+      "chamada": "TAP1369",
+      "cia": "TAP Air Portugal",
+      "pais": "Portugal",
+      "local": "TONDELA",
+      "alt": "38975",
+      "vel": "416.8",
+      "dist": 111.4,
+      "hora": "2025-07-12T20:58"
+    },
+    {
+      "hex": "4ca764",
+      "chamada": "RYR21JQ",
+      "cia": "Ryanair",
+      "pais": "Irlanda",
+      "local": "MARINHA GRANDE",
+      "alt": "23500",
+      "vel": "430.4",
+      "dist": 4.8,
+      "hora": "2025-07-12T20:58"
+    },
+    {
+      "hex": "4951d9",
+      "chamada": "TAP838Z",
+      "cia": "TAP Air Portugal",
+      "pais": "Portugal",
+      "local": "CHAMUSCA",
+      "alt": "17750",
+      "vel": "427.6",
+      "dist": 86.5,
+      "hora": "2025-07-12T20:58"
+    },
+    {
+      "hex": "4c01e2",
+      "chamada": "ASL27F",
+      "cia": "ASL",
+      "pais": "Sérvia",
+      "local": "FRONTEIRA",
+      "alt": "28025",
+      "vel": "386.4",
+      "dist": 141.4,
+      "hora": "2025-07-12T20:58"
+    },
+    {
+      "hex": "342582",
+      "chamada": "VLG86YY",
+      "cia": "Vueling",
+      "pais": "Espanha",
+      "local": "SOUSEL",
+      "alt": "23775",
+      "vel": "351.2",
+      "dist": 137.3,
+      "hora": "2025-07-12T20:58"
+    },
+    {
+      "hex": "4009f9",
+      "chamada": "EFW75H",
+      "cia": "EFW",
+      "pais": "Reino Unido",
+      "local": "FERREIRA DO ZÊZERE",
+      "alt": "32650",
+      "vel": "479.1",
+      "dist": 57.0,
+      "hora": "2025-07-12T20:58"
+    },
+    {
+      "hex": "39ceb3",
+      "chamada": "TVF16BA",
+      "cia": "TVF",
+      "pais": "França",
+      "local": "COIMBRA",
+      "alt": "32200",
+      "vel": "401.5",
+      "dist": 66.7,
+      "hora": "2025-07-12T20:58"
+    },
+    {
+      "hex": "345686",
+      "chamada": "IBS1513",
+      "cia": "Iberia Express",
+      "pais": "Espanha",
+      "local": "REGUENGOS DE MONSARAZ",
+      "alt": "35000",
+      "vel": "432.1",
+      "dist": 206.2,
+      "hora": "2025-07-12T20:58"
+    },
+    {
+      "hex": "3424d5",
+      "chamada": "",
+      "cia": "",
+      "pais": "Espanha",
+      "local": "CASTELO DE VIDE",
+      "alt": "25750",
+      "vel": "453.5",
+      "dist": 119.5,
+      "hora": "2025-07-12T20:58"
+    },
+    {
+      "hex": "495298",
+      "chamada": "TAP403Z",
+      "cia": "TAP Air Portugal",
+      "pais": "Portugal",
+      "local": "MORA",
+      "alt": "21025",
+      "vel": "327.2",
+      "dist": 125.5,
+      "hora": "2025-07-12T20:58"
+    },
+    {
+      "hex": "346111",
+      "chamada": "VLG5EL",
+      "cia": "Vueling",
+      "pais": "Espanha",
+      "local": "ARRAIOLOS",
+      "alt": "18525",
+      "vel": "357.2",
+      "dist": 127.3,
+      "hora": "2025-07-12T20:58"
+    },
+    {
+      "hex": "4cadbf",
+      "chamada": "RYR4ZF",
+      "cia": "Ryanair",
+      "pais": "Irlanda",
+      "local": "NISA",
+      "alt": "37000",
+      "vel": "453.6",
+      "dist": 101.5,
+      "hora": "2025-07-12T20:58"
+    },
+    {
+      "hex": "4951d4",
+      "chamada": "TAP863Y",
+      "cia": "TAP Air Portugal",
+      "pais": "Portugal",
+      "local": "ARRONCHES",
+      "alt": "32100",
+      "vel": "442.3",
+      "dist": 157.0,
+      "hora": "2025-07-12T20:48"
+    },
+    {
+      "hex": "392aed",
+      "chamada": "AFR23CP",
+      "cia": "Air France",
+      "pais": "França",
+      "local": "SÁTÃO",
+      "alt": "36000",
+      "vel": "425.0",
+      "dist": 157.4,
+      "hora": "2025-07-12T20:48"
+    },
+    {
+      "hex": "406a92",
+      "chamada": "EZY68UZ",
+      "cia": "easyJet",
+      "pais": "Reino Unido",
+      "local": "ALPIARÇA",
+      "alt": "16800",
+      "vel": "377.7",
+      "dist": 64.0,
+      "hora": "2025-07-12T20:48"
+    },
+    {
+      "hex": "4ca97c",
+      "chamada": "RYR3353",
+      "cia": "Ryanair",
+      "pais": "Irlanda",
+      "local": "POMBAL",
+      "alt": "30525",
+      "vel": "451.1",
+      "dist": 27.3,
+      "hora": "2025-07-12T20:47"
+    },
+    {
+      "hex": "4caa5a",
+      "chamada": "RYR55LC",
+      "cia": "Ryanair",
+      "pais": "Irlanda",
+      "local": "BELMONTE",
+      "alt": "37000",
+      "vel": "430.7",
+      "dist": 151.2,
+      "hora": "2025-07-12T20:46"
+    },
+    {
+      "hex": "48c2a7",
+      "chamada": "RYR772L",
+      "cia": "Ryanair",
+      "pais": "Polónia",
+      "local": "CHAMUSCA",
+      "alt": "17825",
+      "vel": "381.9",
+      "dist": 84.7,
+      "hora": "2025-07-12T20:46"
+    },
+    {
+      "hex": "348402",
+      "chamada": "",
+      "cia": "",
+      "pais": "Espanha",
+      "local": null,
+      "alt": "32425",
+      "vel": "474.7",
+      "dist": "",
+      "hora": "2025-07-12T20:45"
+    },
+    {
+      "hex": "4cae8c",
+      "chamada": "RYR4JV",
+      "cia": "Ryanair",
+      "pais": "Irlanda",
+      "local": "MOGADOURO",
+      "alt": "37000",
+      "vel": "422.4",
+      "dist": 256.3,
+      "hora": "2025-07-12T20:44"
+    },
+    {
+      "hex": "4ca805",
+      "chamada": "RYR1839",
+      "cia": "Ryanair",
+      "pais": "Irlanda",
+      "local": "BATALHA",
+      "alt": "36000",
+      "vel": "464.3",
+      "dist": 23.7,
+      "hora": "2025-07-12T20:42"
+    },
+    {
+      "hex": "4cae93",
+      "chamada": "RYR158D",
+      "cia": "Ryanair",
+      "pais": "Irlanda",
+      "local": "ALMEIRIM",
+      "alt": "34125",
+      "vel": "463.1",
+      "dist": 75.0,
+      "hora": "2025-07-12T20:41"
+    },
+    {
+      "hex": "501c0c",
+      "chamada": "EXS29V",
+      "cia": "Jet2",
+      "pais": "Croácia",
+      "local": "ÉVORA",
+      "alt": "30350",
+      "vel": "481.4",
+      "dist": 150.4,
+      "hora": "2025-07-12T20:40"
+    },
+    {
+      "hex": "ab4ea9",
+      "chamada": "EVE801",
+      "cia": "EVE",
+      "pais": "Estados Unidos",
+      "local": "VILA NOVA DE POIARES",
+      "alt": "35000",
+      "vel": "451.3",
+      "dist": 76.0,
+      "hora": "2025-07-12T20:40"
+    },
+    {
+      "hex": "4951ca",
+      "chamada": "TAP943",
+      "cia": "TAP Air Portugal",
+      "pais": "Portugal",
+      "local": "GUARDA",
+      "alt": "35000",
+      "vel": "428.5",
+      "dist": 174.7,
+      "hora": "2025-07-12T20:39"
+    },
+    {
+      "hex": "4cac23",
+      "chamada": "RYR4UR",
+      "cia": "Ryanair",
+      "pais": "Irlanda",
+      "local": "ALPIARÇA",
+      "alt": "16625",
+      "vel": "364.2",
+      "dist": 63.5,
+      "hora": "2025-07-12T20:39"
+    },
+    {
+      "hex": "44cdcf",
+      "chamada": "BEL4DR",
+      "cia": "Brussels Airlines",
+      "pais": "Bélgica",
+      "local": "PORTALEGRE",
+      "alt": "37475",
+      "vel": "474.6",
+      "dist": 138.9,
+      "hora": "2025-07-12T20:37"
+    },
+    {
+      "hex": "44cdc8",
+      "chamada": "BEL2ET",
+      "cia": "Brussels Airlines",
+      "pais": "Bélgica",
+      "local": "ALPIARÇA",
+      "alt": "16225",
+      "vel": "409.6",
+      "dist": 62.5,
+      "hora": "2025-07-12T20:35"
+    },
+    {
+      "hex": "495211",
+      "chamada": "TAP1313",
+      "cia": "TAP Air Portugal",
+      "pais": "Portugal",
+      "local": "TONDELA",
+      "alt": "36975",
+      "vel": "428.5",
+      "dist": 108.2,
+      "hora": "2025-07-12T20:34"
+    },
+    {
+      "hex": "aace63",
+      "chamada": "AVA046",
+      "cia": "AVA",
+      "pais": "Estados Unidos",
+      "local": "BATALHA",
+      "alt": "39975",
+      "vel": "524.9",
+      "dist": 24.4,
+      "hora": "2025-07-12T20:34"
+    },
+    {
+      "hex": "44d2b6",
+      "chamada": "JAF48J",
+      "cia": "TUI Airlines Belgium",
+      "pais": "Bélgica",
+      "local": "ALMEIDA",
+      "alt": "39000",
+      "vel": "438.3",
+      "dist": 192.5,
+      "hora": "2025-07-12T20:33"
+    },
+    {
+      "hex": "440057",
+      "chamada": "EJU64PE",
+      "cia": "easyJet Europe",
+      "pais": "Áustria",
+      "local": "CORUCHE",
+      "alt": "36050",
+      "vel": "478.5",
+      "dist": 94.8,
+      "hora": "2025-07-12T20:32"
+    },
+    {
+      "hex": "4951d3",
+      "chamada": "TAP646",
+      "cia": "TAP Air Portugal",
+      "pais": "Portugal",
+      "local": "ALPIARÇA",
+      "alt": "17125",
+      "vel": "383.3",
+      "dist": 65.0,
+      "hora": "2025-07-12T20:32"
+    },
+    {
+      "hex": "3c5eea",
+      "chamada": "EWG607",
+      "cia": "Eurowings",
+      "pais": "Alemanha",
+      "local": "MIRANDA DO DOURO",
+      "alt": "38000",
+      "vel": "458.4",
+      "dist": 363.6,
+      "hora": "2025-07-12T20:31"
+    },
+    {
+      "hex": "4ca4ef",
+      "chamada": "RYR6YF",
+      "cia": "Ryanair",
+      "pais": "Irlanda",
+      "local": "MORA",
+      "alt": "33975",
+      "vel": "442.1",
+      "dist": 123.0,
+      "hora": "2025-07-12T20:30"
+    },
+    {
+      "hex": "45218e",
+      "chamada": "LZB563",
+      "cia": "LZB",
+      "pais": "Bulgária",
+      "local": "ARRONCHES",
+      "alt": "33100",
+      "vel": "435.1",
+      "dist": 165.6,
+      "hora": "2025-07-12T20:28"
+    },
+    {
+      "hex": "4cad54",
+      "chamada": "RYR206E",
+      "cia": "Ryanair",
+      "pais": "Irlanda",
+      "local": "ALMEIRIM",
+      "alt": "16900",
+      "vel": "369.2",
+      "dist": 82.6,
+      "hora": "2025-07-12T20:26"
+    },
+    {
+      "hex": "3444d1",
+      "chamada": "VLG8PU",
+      "cia": "Vueling",
+      "pais": "Espanha",
+      "local": "ARRONCHES",
+      "alt": "35000",
+      "vel": "435.1",
+      "dist": 159.8,
+      "hora": "2025-07-12T20:24"
+    },
+    {
+      "hex": "4951d1",
+      "chamada": "TAP6AM",
+      "cia": "TAP Air Portugal",
+      "pais": "Portugal",
+      "local": "PENALVA DO CASTELO",
+      "alt": "35025",
+      "vel": "432.8",
+      "dist": 145.5,
+      "hora": "2025-07-12T20:23"
+    },
+    {
+      "hex": "4ca836",
+      "chamada": "EIN498",
+      "cia": "Air Lingus",
+      "pais": "Irlanda",
+      "local": "MORTÁGUA",
+      "alt": "37000",
+      "vel": "451.1",
+      "dist": 102.6,
+      "hora": "2025-07-12T20:21"
+    },
+    {
+      "hex": "407913",
+      "chamada": "EXS44C",
+      "cia": "Jet2",
+      "pais": "Reino Unido",
+      "local": "ARRAIOLOS",
+      "alt": "32725",
+      "vel": "470.3",
+      "dist": 147.7,
+      "hora": "2025-07-12T20:20"
+    },
+    {
+      "hex": "4cae83",
+      "chamada": "TOM91K",
+      "cia": "TOM",
+      "pais": "Irlanda",
+      "local": "CORUCHE",
+      "alt": "36000",
+      "vel": "475.5",
+      "dist": 91.3,
+      "hora": "2025-07-12T20:19"
+    },
+    {
+      "hex": "4951cc",
+      "chamada": "TAP885",
+      "cia": "TAP Air Portugal",
+      "pais": "Portugal",
+      "local": "MONFORTE",
+      "alt": "26300",
+      "vel": "406.1",
+      "dist": 141.6,
+      "hora": "2025-07-12T20:18"
+    },
+    {
+      "hex": "3c6489",
+      "chamada": "DLH48X",
+      "cia": "Lufthansa",
+      "pais": "Alemanha",
+      "local": "PENALVA DO CASTELO",
+      "alt": "33025",
+      "vel": "436.4",
+      "dist": 150.3,
+      "hora": "2025-07-12T20:18"
+    },
+    {
+      "hex": "4866df",
+      "chamada": "TRA89J",
+      "cia": "Transavia",
+      "pais": "Países Baixos",
+      "local": "ARRONCHES",
+      "alt": "35000",
+      "vel": "451.4",
+      "dist": 156.7,
+      "hora": "2025-07-12T20:15"
+    },
+    {
+      "hex": "02a1a4",
+      "chamada": "",
+      "cia": "",
+      "pais": "Tunísia",
+      "local": "MIRANDA DO DOURO",
+      "alt": "33350",
+      "vel": "501.5",
+      "dist": 306.8,
+      "hora": "2025-07-12T20:14"
+    },
+    {
+      "hex": "48520a",
+      "chamada": "TRA20A",
+      "cia": "Transavia",
+      "pais": "Países Baixos",
+      "local": "VILA VIÇOSA",
+      "alt": "40000",
+      "vel": "472.6",
+      "dist": 179.8,
+      "hora": "2025-07-12T20:12"
+    },
+    {
+      "hex": "4d2301",
+      "chamada": "RYR809N",
       "cia": "Ryanair",
       "pais": "Malta",
+      "local": "SEVER DO VOUGA",
+      "alt": "37000",
+      "vel": "437.7",
+      "dist": 122.1,
+      "hora": "2025-07-12T20:12"
+    },
+    {
+      "hex": "495151",
+      "chamada": "TAP57W",
+      "cia": "TAP Air Portugal",
+      "pais": "Portugal",
+      "local": "TONDELA",
+      "alt": "35150",
+      "vel": "426.4",
+      "dist": 104.5,
+      "hora": "2025-07-12T20:11"
+    },
+    {
+      "hex": "347387",
+      "chamada": "IBE6311",
+      "cia": "IBE",
+      "pais": "Espanha",
+      "local": "CASTELO DE VIDE",
+      "alt": "35000",
+      "vel": "468.2",
+      "dist": 121.4,
+      "hora": "2025-07-12T20:11"
+    },
+    {
+      "hex": "407573",
+      "chamada": "EZY31BG",
+      "cia": "easyJet",
+      "pais": "Reino Unido",
+      "local": "PORTALEGRE",
+      "alt": "36000",
+      "vel": "429.0",
+      "dist": 147.8,
+      "hora": "2025-07-12T20:10"
+    },
+    {
+      "hex": "471fac",
+      "chamada": "WMT656",
+      "cia": "WMT",
+      "pais": "Hungria",
+      "local": "GOLEGÃ",
+      "alt": "34000",
+      "vel": "471.0",
+      "dist": 56.2,
+      "hora": "2025-07-12T20:09"
+    },
+    {
+      "hex": "440141",
+      "chamada": "EJU18PM",
+      "cia": "easyJet Europe",
+      "pais": "Áustria",
+      "local": "ÁGUEDA",
+      "alt": "36675",
+      "vel": "431.3",
+      "dist": 101.5,
+      "hora": "2025-07-12T20:09"
+    },
+    {
+      "hex": "4b1a2a",
+      "chamada": "EZS27VL",
+      "cia": "EZS",
+      "pais": "Suiça",
+      "local": "MIRANDA DO DOURO",
+      "alt": "31125",
+      "vel": "481.8",
+      "dist": 286.0,
+      "hora": "2025-07-12T20:08"
+    },
+    {
+      "hex": "3c648d",
+      "chamada": "DLH92N",
+      "cia": "Lufthansa",
+      "pais": "Alemanha",
+      "local": "BELMONTE",
+      "alt": "34000",
+      "vel": "424.3",
+      "dist": 150.2,
+      "hora": "2025-07-12T20:06"
+    },
+    {
+      "hex": "48c226",
+      "chamada": "RYR25ZJ",
+      "cia": "Ryanair",
+      "pais": "Polónia",
+      "local": "ALPIARÇA",
+      "alt": "16325",
+      "vel": "420.1",
+      "dist": 64.0,
+      "hora": "2025-07-12T20:06"
+    },
+    {
+      "hex": "406754",
+      "chamada": "EZY86HG",
+      "cia": "easyJet",
+      "pais": "Reino Unido",
       "local": "ARRONCHES",
-      "alt": "36225",
-      "vel": "433.4",
-      "dist": 161.8,
-      "hora": "2025-07-12T19:59"
+      "alt": "35000",
+      "vel": "432.6",
+      "dist": 155.8,
+      "hora": "2025-07-12T20:02"
+    },
+    {
+      "hex": "440128",
+      "chamada": "EJU49VX",
+      "cia": "easyJet Europe",
+      "pais": "Áustria",
+      "local": "PENAMACOR",
+      "alt": "38025",
+      "vel": "468.4",
+      "dist": 152.4,
+      "hora": "2025-07-12T20:02"
+    },
+    {
+      "hex": "40751c",
+      "chamada": "EXS3YT",
+      "cia": "Jet2",
+      "pais": "Reino Unido",
+      "local": "CORUCHE",
+      "alt": "34775",
+      "vel": "462.5",
+      "dist": 110.0,
+      "hora": "2025-07-12T20:01"
+    },
+    {
+      "hex": "4ca214",
+      "chamada": "EIN888",
+      "cia": "Air Lingus",
+      "pais": "Irlanda",
+      "local": "ESTREMOZ",
+      "alt": "37000",
+      "vel": "458.6",
+      "dist": 144.8,
+      "hora": "2025-07-12T20:01"
     },
     {
       "hex": "348208",
@@ -17,798 +710,160 @@
       "cia": "",
       "pais": "Espanha",
       "local": null,
-      "alt": "36000",
-      "vel": "",
+      "alt": "",
+      "vel": "479.2",
       "dist": "",
-      "hora": "2025-07-12T19:59"
+      "hora": "2025-07-12T20:00"
     },
     {
       "hex": "4ca92b",
       "chamada": "RYR39FL",
       "cia": "Ryanair",
       "pais": "Irlanda",
-      "local": "TONDELA",
+      "local": "PENACOVA",
       "alt": "37000",
-      "vel": "454.4",
-      "dist": 107.4,
-      "hora": "2025-07-12T19:58"
+      "vel": "453.6",
+      "dist": 90.1,
+      "hora": "2025-07-12T20:00"
     },
     {
       "hex": "40804d",
       "chamada": "WUK578A",
-      "cia": "WUK",
+      "cia": "Wizz Air UK",
       "pais": "Reino Unido",
-      "local": "ÉVORA",
-      "alt": "28200",
-      "vel": "440.2",
-      "dist": 152.3,
-      "hora": "2025-07-12T19:57"
+      "local": "SOUSEL",
+      "alt": "30750",
+      "vel": "465.7",
+      "dist": 135.0,
+      "hora": "2025-07-12T20:00"
     },
     {
-      "hex": "44d1a2",
-      "chamada": "JAF8AE",
-      "cia": "JAF",
-      "pais": "Bélgica",
-      "local": "SOUSEL",
-      "alt": "38000",
-      "vel": "485.2",
-      "dist": 139.8,
-      "hora": "2025-07-12T19:55"
+      "hex": "4d2449",
+      "chamada": "RYR5763",
+      "cia": "Ryanair",
+      "pais": "Malta",
+      "local": "ARRONCHES",
+      "alt": "35600",
+      "vel": "445.1",
+      "dist": 158.8,
+      "hora": "2025-07-12T20:00"
     },
     {
       "hex": "48683e",
       "chamada": "TRA9Y",
       "cia": "Transavia",
       "pais": "Países Baixos",
-      "local": "ALMEIRIM",
+      "local": "VILA DE REI",
       "alt": "36000",
-      "vel": "478.0",
-      "dist": 84.4,
-      "hora": "2025-07-12T19:55"
-    },
-    {
-      "hex": "49520f",
-      "chamada": "TAP48M",
-      "cia": "TAP Air Portugal",
-      "pais": "Portugal",
-      "local": "SOUSEL",
-      "alt": "22600",
-      "vel": "371.8",
-      "dist": 127.2,
-      "hora": "2025-07-12T19:54"
+      "vel": "475.6",
+      "dist": 70.5,
+      "hora": "2025-07-12T20:00"
     },
     {
       "hex": "495290",
       "chamada": "TAP437X",
       "cia": "TAP Air Portugal",
       "pais": "Portugal",
-      "local": "AGUIAR DA BEIRA",
-      "alt": "38975",
-      "vel": "425.2",
-      "dist": 165.2,
-      "hora": "2025-07-12T19:54"
+      "local": "ARGANIL",
+      "alt": "33650",
+      "vel": "441.2",
+      "dist": 88.1,
+      "hora": "2025-07-12T20:00"
     },
     {
       "hex": "400fe3",
       "chamada": "EZY69AT",
       "cia": "easyJet",
       "pais": "Reino Unido",
-      "local": "CORUCHE",
-      "alt": "34050",
-      "vel": "450.4",
-      "dist": 102.1,
-      "hora": "2025-07-12T19:54"
+      "local": "FERREIRA DO ZÊZERE",
+      "alt": "35850",
+      "vel": "444.4",
+      "dist": 48.2,
+      "hora": "2025-07-12T20:00"
+    },
+    {
+      "hex": "44d1a2",
+      "chamada": "",
+      "cia": "",
+      "pais": "Bélgica",
+      "local": "MARVÃO",
+      "alt": "38000",
+      "vel": "480.7",
+      "dist": 144.3,
+      "hora": "2025-07-12T20:00"
     },
     {
       "hex": "4ca225",
       "chamada": "RYR3NM",
       "cia": "Ryanair",
       "pais": "Irlanda",
-      "local": "ARRONCHES",
-      "alt": "29000",
-      "vel": "381.1",
-      "dist": 161.7,
-      "hora": "2025-07-12T19:53"
-    },
-    {
-      "hex": "440128",
-      "chamada": "EJU49VX",
-      "cia": "easyJet Europe",
-      "pais": "Áustria",
-      "local": "BORBA",
-      "alt": "38025",
-      "vel": "474.3",
-      "dist": 169.6,
-      "hora": "2025-07-12T19:51"
+      "local": "MORA",
+      "alt": "23275",
+      "vel": "336.3",
+      "dist": 123.1,
+      "hora": "2025-07-12T20:00"
     },
     {
       "hex": "4951d7",
       "chamada": "TAP69AS",
       "cia": "TAP Air Portugal",
       "pais": "Portugal",
-      "local": "VISEU",
-      "alt": "33000",
-      "vel": "450.0",
-      "dist": 139.0,
-      "hora": "2025-07-12T19:51"
+      "local": "TOMAR",
+      "alt": "24875",
+      "vel": "351.8",
+      "dist": 47.8,
+      "hora": "2025-07-12T20:00"
     },
     {
       "hex": "4ca216",
       "chamada": "EIN4PT",
       "cia": "Air Lingus",
       "pais": "Irlanda",
-      "local": "OLIVEIRA DO BAIRRO",
-      "alt": "34900",
-      "vel": "449.3",
-      "dist": 82.6,
-      "hora": "2025-07-12T19:51"
-    },
-    {
-      "hex": "406754",
-      "chamada": "EZY86HG",
-      "cia": "easyJet",
-      "pais": "Reino Unido",
-      "local": "ALMEIDA",
-      "alt": "35000",
-      "vel": "433.7",
-      "dist": 190.2,
-      "hora": "2025-07-12T19:50"
-    },
-    {
-      "hex": "4952cd",
-      "chamada": "TAP1366",
-      "cia": "TAP Air Portugal",
-      "pais": "Portugal",
-      "local": "BATALHA",
-      "alt": "26525",
-      "vel": "409.6",
-      "dist": 12.6,
-      "hora": "2025-07-12T19:50"
-    },
-    {
-      "hex": "3c5eed",
-      "chamada": "EWG59H",
-      "cia": "Eurowings",
-      "pais": "Alemanha",
-      "local": "REDONDO",
-      "alt": "32825",
-      "vel": "463.9",
-      "dist": 173.2,
-      "hora": "2025-07-12T19:49"
-    },
-    {
-      "hex": "4ca214",
-      "chamada": "EIN888",
-      "cia": "Air Lingus",
-      "pais": "Irlanda",
-      "local": "MORTÁGUA",
-      "alt": "37000",
-      "vel": "454.2",
-      "dist": 100.6,
-      "hora": "2025-07-12T19:48"
-    },
-    {
-      "hex": "3451da",
-      "chamada": "ANE73JA",
-      "cia": "ANE",
-      "pais": "Espanha",
-      "local": "TRANCOSO",
-      "alt": "25325",
-      "vel": "448.1",
-      "dist": 182.8,
-      "hora": "2025-07-12T19:47"
-    },
-    {
-      "hex": "407463",
-      "chamada": "BAW507",
-      "cia": "British Airways",
-      "pais": "Reino Unido",
-      "local": "REDONDO",
-      "alt": "27975",
-      "vel": "482.1",
-      "dist": 173.1,
-      "hora": "2025-07-12T19:46"
+      "local": "ALCANENA",
+      "alt": "20400",
+      "vel": "331.2",
+      "dist": 34.9,
+      "hora": "2025-07-12T20:00"
     },
     {
       "hex": "020139",
       "chamada": "RAM807",
-      "cia": "RAM",
-      "pais": "Morocco",
-      "local": "SABUGAL",
+      "cia": "Royal Air Maroc",
+      "pais": "Marrocos",
+      "local": "REGUENGOS DE MONSARAZ",
       "alt": "37000",
-      "vel": "456.0",
-      "dist": 174.7,
-      "hora": "2025-07-12T19:45"
+      "vel": "449.1",
+      "dist": 186.6,
+      "hora": "2025-07-12T20:00"
+    },
+    {
+      "hex": "4403bb",
+      "chamada": "",
+      "cia": "",
+      "pais": "Áustria",
+      "local": "REDONDO",
+      "alt": "27350",
+      "vel": "419.4",
+      "dist": 171.3,
+      "hora": "2025-07-12T20:00"
     },
     {
       "hex": "0201a1",
       "chamada": "RAM801F",
-      "cia": "RAM",
-      "pais": "Morocco",
-      "local": "SABUGAL",
-      "alt": "35000",
-      "vel": "453.8",
-      "dist": 184.9,
-      "hora": "2025-07-12T19:45"
-    },
-    {
-      "hex": "4cafc0",
-      "chamada": "RYR7872",
-      "cia": "Ryanair",
-      "pais": "Irlanda",
-      "local": "MONFORTE",
-      "alt": "28600",
-      "vel": "427.1",
-      "dist": 146.0,
-      "hora": "2025-07-12T19:42"
-    },
-    {
-      "hex": "4cadf9",
-      "chamada": "RYR46PU",
-      "cia": "Ryanair",
-      "pais": "Irlanda",
-      "local": "BATALHA",
-      "alt": "38000",
-      "vel": "472.5",
-      "dist": 22.8,
-      "hora": "2025-07-12T19:41"
-    },
-    {
-      "hex": "406669",
-      "chamada": "EZY96BD",
-      "cia": "easyJet",
-      "pais": "Reino Unido",
-      "local": "BELMONTE",
-      "alt": "37000",
-      "vel": "436.7",
-      "dist": 152.6,
-      "hora": "2025-07-12T19:41"
-    },
-    {
-      "hex": "4403bb",
-      "chamada": "EJU16PF",
-      "cia": "easyJet Europe",
-      "pais": "Áustria",
-      "local": "MÊDA",
-      "alt": "37000",
-      "vel": "435.4",
-      "dist": 186.0,
-      "hora": "2025-07-12T19:41"
-    },
-    {
-      "hex": "34530d",
-      "chamada": "ANE8266",
-      "cia": "ANE",
-      "pais": "Espanha",
-      "local": "ARRAIOLOS",
-      "alt": "34000",
-      "vel": "456.2",
-      "dist": 144.5,
-      "hora": "2025-07-12T19:39"
-    },
-    {
-      "hex": "4cae96",
-      "chamada": "RYR63HF",
-      "cia": "Ryanair",
-      "pais": "Irlanda",
-      "local": "FIGUEIRA DA FOZ",
-      "alt": "37000",
-      "vel": "443.3",
-      "dist": 33.3,
-      "hora": "2025-07-12T19:39"
-    },
-    {
-      "hex": "34568a",
-      "chamada": "VLG3DX",
-      "cia": "VLG",
-      "pais": "Espanha",
-      "local": "ARRONCHES",
-      "alt": "34975",
-      "vel": "427.8",
-      "dist": 156.1,
-      "hora": "2025-07-12T19:38"
-    },
-    {
-      "hex": "06a0c1",
-      "chamada": "QTR17X",
-      "cia": "QTR",
-      "pais": "Qatar",
-      "local": "CHAMUSCA",
-      "alt": "15750",
-      "vel": "407.9",
-      "dist": 83.2,
-      "hora": "2025-07-12T19:38"
-    },
-    {
-      "hex": "40631b",
-      "chamada": "EZY91AQ",
-      "cia": "easyJet",
-      "pais": "Reino Unido",
-      "local": "ARRONCHES",
-      "alt": "38000",
-      "vel": "451.3",
-      "dist": 162.3,
-      "hora": "2025-07-12T19:36"
-    },
-    {
-      "hex": "4d2453",
-      "chamada": "WZZ24HB",
-      "cia": "Wizz Air",
-      "pais": "Malta",
-      "local": "CORUCHE",
-      "alt": "34025",
-      "vel": "470.6",
-      "dist": 89.2,
-      "hora": "2025-07-12T19:36"
-    },
-    {
-      "hex": "48414c",
-      "chamada": "TRA49C",
-      "cia": "Transavia",
-      "pais": "Países Baixos",
-      "local": "ARRONCHES",
-      "alt": "37000",
-      "vel": "447.7",
-      "dist": 157.1,
-      "hora": "2025-07-12T19:35"
-    },
-    {
-      "hex": "4ca7b4",
-      "chamada": "RYR525",
-      "cia": "Ryanair",
-      "pais": "Irlanda",
-      "local": "PORTALEGRE",
-      "alt": "35000",
-      "vel": "439.2",
-      "dist": 137.1,
-      "hora": "2025-07-12T19:35"
-    },
-    {
-      "hex": "4bb856",
-      "chamada": "PGT6GR",
-      "cia": "PGT",
-      "pais": "Turkey",
-      "local": "MONFORTE",
-      "alt": "27350",
-      "vel": "417.3",
-      "dist": 142.0,
-      "hora": "2025-07-12T19:35"
-    },
-    {
-      "hex": "3453cc",
-      "chamada": "AEA53MV",
-      "cia": "AEA",
-      "pais": "Espanha",
-      "local": "ALMEIRIM",
-      "alt": "18375",
-      "vel": "407.4",
-      "dist": 82.7,
-      "hora": "2025-07-12T19:35"
-    },
-    {
-      "hex": "49410b",
-      "chamada": "NJE476F",
-      "cia": "NJE",
-      "pais": "Portugal",
-      "local": "ARRONCHES",
-      "alt": "35525",
-      "vel": "395.5",
-      "dist": 159.4,
-      "hora": "2025-07-12T19:33"
-    },
-    {
-      "hex": "40631a",
-      "chamada": "EZY65RF",
-      "cia": "easyJet",
-      "pais": "Reino Unido",
-      "local": "ÉVORA",
-      "alt": "31025",
-      "vel": "455.0",
-      "dist": 161.5,
-      "hora": "2025-07-12T19:32"
-    },
-    {
-      "hex": "4892c4",
-      "chamada": "ENT55WT",
-      "cia": "ENT",
-      "pais": "Poland",
-      "local": "GUARDA",
-      "alt": "37000",
-      "vel": "428.2",
-      "dist": 171.9,
-      "hora": "2025-07-12T19:31"
-    },
-    {
-      "hex": "4ca61b",
-      "chamada": "RYR2FT",
-      "cia": "Ryanair",
-      "pais": "Irlanda",
-      "local": "MÊDA",
-      "alt": "27950",
-      "vel": "461.3",
-      "dist": 192.3,
-      "hora": "2025-07-12T19:31"
-    },
-    {
-      "hex": "440614",
-      "chamada": "EJU41RK",
-      "cia": "easyJet Europe",
-      "pais": "Áustria",
-      "local": "MORTÁGUA",
-      "alt": "34975",
-      "vel": "420.4",
-      "dist": 102.6,
-      "hora": "2025-07-12T19:31"
-    },
-    {
-      "hex": "44017c",
-      "chamada": "EJU71AF",
-      "cia": "easyJet Europe",
-      "pais": "Áustria",
-      "local": "CHAMUSCA",
-      "alt": "17625",
-      "vel": "421.7",
-      "dist": 84.1,
-      "hora": "2025-07-12T19:31"
-    },
-    {
-      "hex": "40072b",
-      "chamada": "EXS93WN",
-      "cia": "Jet2",
-      "pais": "Reino Unido",
-      "local": "PORTALEGRE",
-      "alt": "33000",
-      "vel": "423.8",
-      "dist": 150.3,
-      "hora": "2025-07-12T19:30"
-    },
-    {
-      "hex": "347247",
-      "chamada": "IBS15MW",
-      "cia": "Iberia Express",
-      "pais": "Espanha",
-      "local": "ARRONCHES",
-      "alt": "35000",
-      "vel": "432.2",
-      "dist": 161.1,
-      "hora": "2025-07-12T19:30"
-    },
-    {
-      "hex": "4ca2ca",
-      "chamada": "EIN497",
-      "cia": "Air Lingus",
-      "pais": "Irlanda",
-      "local": "CORUCHE",
-      "alt": "28000",
-      "vel": "477.6",
-      "dist": 95.1,
-      "hora": "2025-07-12T19:30"
-    },
-    {
-      "hex": "4cad39",
-      "chamada": "RYR886M",
-      "cia": "Ryanair",
-      "pais": "Irlanda",
-      "local": "PORTALEGRE",
-      "alt": "37000",
-      "vel": "446.9",
-      "dist": 143.5,
-      "hora": "2025-07-12T19:29"
-    },
-    {
-      "hex": "49602d",
-      "chamada": "CSXAN",
-      "cia": "CSX",
-      "pais": "Portugal",
-      "local": null,
-      "alt": "1100",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T19:29"
-    },
-    {
-      "hex": "495150",
-      "chamada": "TAP944",
-      "cia": "TAP Air Portugal",
-      "pais": "Portugal",
-      "local": "ALPIARÇA",
-      "alt": "19350",
-      "vel": "380.5",
-      "dist": 64.1,
-      "hora": "2025-07-12T19:28"
-    },
-    {
-      "hex": "39d30d",
-      "chamada": "TVF31JV",
-      "cia": "TVF",
-      "pais": "França",
-      "local": "ALMEIDA",
-      "alt": "34000",
-      "vel": "458.1",
-      "dist": 243.8,
-      "hora": "2025-07-12T19:25"
-    },
-    {
-      "hex": "495217",
-      "chamada": "TAP494Y",
-      "cia": "TAP Air Portugal",
-      "pais": "Portugal",
-      "local": "ALPIARÇA",
-      "alt": "21075",
-      "vel": "367.7",
-      "dist": 64.7,
-      "hora": "2025-07-12T19:25"
-    },
-    {
-      "hex": "407e68",
-      "chamada": "EXS42RF",
-      "cia": "Jet2",
-      "pais": "Reino Unido",
-      "local": "PORTALEGRE",
-      "alt": "37000",
-      "vel": "436.3",
-      "dist": 138.9,
-      "hora": "2025-07-12T19:24"
-    },
-    {
-      "hex": "471f86",
-      "chamada": "WZZ1FM",
-      "cia": "Wizz Air",
-      "pais": "Hungary",
-      "local": "ARRONCHES",
-      "alt": "34925",
-      "vel": "419.9",
-      "dist": 158.0,
-      "hora": "2025-07-12T19:24"
-    },
-    {
-      "hex": "44cdd1",
-      "chamada": "BEL7SD",
-      "cia": "Brussels Airlines",
-      "pais": "Bélgica",
-      "local": "ARRAIOLOS",
-      "alt": "38025",
-      "vel": "481.5",
-      "dist": 136.1,
-      "hora": "2025-07-12T19:23"
-    },
-    {
-      "hex": "3c56ee",
-      "chamada": "EWG3KN",
-      "cia": "Eurowings",
-      "pais": "Alemanha",
-      "local": "FRONTEIRA",
-      "alt": "37975",
-      "vel": "469.9",
-      "dist": 138.9,
-      "hora": "2025-07-12T19:22"
-    },
-    {
-      "hex": "407c6d",
-      "chamada": "EXS95EW",
-      "cia": "Jet2",
-      "pais": "Reino Unido",
-      "local": "GUARDA",
-      "alt": "37000",
-      "vel": "446.9",
-      "dist": 160.4,
-      "hora": "2025-07-12T19:22"
-    },
-    {
-      "hex": "4952ca",
-      "chamada": "TAP442",
-      "cia": "TAP Air Portugal",
-      "pais": "Portugal",
-      "local": "ALPIARÇA",
-      "alt": "21875",
-      "vel": "389.0",
-      "dist": 63.6,
-      "hora": "2025-07-12T19:22"
-    },
-    {
-      "hex": "495148",
-      "chamada": "TAP755",
-      "cia": "TAP Air Portugal",
-      "pais": "Portugal",
-      "local": "SÁTÃO",
-      "alt": "33000",
-      "vel": "442.7",
-      "dist": 156.8,
-      "hora": "2025-07-12T19:21"
-    },
-    {
-      "hex": "39cea0",
-      "chamada": "",
-      "cia": "",
-      "pais": "França",
-      "local": null,
-      "alt": "34000",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T19:21"
-    },
-    {
-      "hex": "407f1f",
-      "chamada": "RUK677D",
-      "cia": "RUK",
-      "pais": "Reino Unido",
+      "cia": "Royal Air Maroc",
+      "pais": "Marrocos",
       "local": "ALANDROAL",
-      "alt": "36000",
-      "vel": "450.7",
-      "dist": 187.3,
-      "hora": "2025-07-12T19:20"
-    },
-    {
-      "hex": "4ca97c",
-      "chamada": "RYR2QV",
-      "cia": "Ryanair",
-      "pais": "Irlanda",
-      "local": "PORTO DE MÓS",
-      "alt": "27900",
-      "vel": "404.8",
-      "dist": 26.7,
-      "hora": "2025-07-12T19:20"
-    },
-    {
-      "hex": "4ca215",
-      "chamada": "EIN89G",
-      "cia": "Air Lingus",
-      "pais": "Irlanda",
-      "local": "PONTE DE SOR",
-      "alt": "31425",
-      "vel": "467.8",
-      "dist": 89.7,
-      "hora": "2025-07-12T19:20"
-    },
-    {
-      "hex": "400e14",
-      "chamada": "EZY92LT",
-      "cia": "easyJet",
-      "pais": "Reino Unido",
-      "local": "MORTÁGUA",
-      "alt": "37975",
-      "vel": "420.5",
-      "dist": 102.1,
-      "hora": "2025-07-12T19:20"
-    },
-    {
-      "hex": "495037",
-      "chamada": "TAP543W",
-      "cia": "TAP Air Portugal",
-      "pais": "Portugal",
-      "local": "OLIVEIRA DO HOSPITAL",
       "alt": "35000",
-      "vel": "430.6",
-      "dist": 110.9,
-      "hora": "2025-07-12T19:20"
-    },
-    {
-      "hex": "3c49ce",
-      "chamada": "EWG6B",
-      "cia": "Eurowings",
-      "pais": "Alemanha",
-      "local": "GAVIÃO",
-      "alt": "35975",
-      "vel": "463.4",
-      "dist": 87.8,
-      "hora": "2025-07-12T19:20"
-    },
-    {
-      "hex": "4d00ee",
-      "chamada": "LGL732",
-      "cia": "LGL",
-      "pais": "Luxembourg",
-      "local": "MONFORTE",
-      "alt": "38000",
-      "vel": "473.5",
-      "dist": 138.8,
-      "hora": "2025-07-12T19:20"
-    },
-    {
-      "hex": "4ca56c",
-      "chamada": "RYR961L",
-      "cia": "Ryanair",
-      "pais": "Irlanda",
-      "local": "GAVIÃO",
-      "alt": "25475",
-      "vel": "438.8",
-      "dist": 103.5,
-      "hora": "2025-07-12T19:20"
-    },
-    {
-      "hex": "4866c1",
-      "chamada": "TFL4GB",
-      "cia": "TFL",
-      "pais": "Países Baixos",
-      "local": "SERTÃ",
-      "alt": "43000",
-      "vel": "508.3",
-      "dist": 73.2,
-      "hora": "2025-07-12T19:20"
-    },
-    {
-      "hex": "344455",
-      "chamada": "IBS1525",
-      "cia": "Iberia Express",
-      "pais": "Espanha",
-      "local": "REDONDO",
-      "alt": "35000",
-      "vel": "447.8",
-      "dist": 170.2,
-      "hora": "2025-07-12T19:20"
-    },
-    {
-      "hex": "4cae9e",
-      "chamada": "RYR15WR",
-      "cia": "Ryanair",
-      "pais": "Irlanda",
-      "local": "AVIS",
-      "alt": "37000",
-      "vel": "451.5",
-      "dist": 124.0,
-      "hora": "2025-07-12T19:20"
-    },
-    {
-      "hex": "4b0280",
-      "chamada": "EZS64NL",
-      "cia": "EZS",
-      "pais": "Suiça",
-      "local": "ALMEIDA",
-      "alt": "38000",
-      "vel": "472.6",
-      "dist": 188.1,
-      "hora": "2025-07-12T19:20"
-    },
-    {
-      "hex": "495213",
-      "chamada": "TAP563",
-      "cia": "TAP Air Portugal",
-      "pais": "Portugal",
-      "local": "ALCANENA",
-      "alt": "21375",
-      "vel": "338.4",
-      "dist": 42.8,
-      "hora": "2025-07-12T19:20"
-    },
-    {
-      "hex": "44009e",
-      "chamada": "EJU84LF",
-      "cia": "easyJet Europe",
-      "pais": "Áustria",
-      "local": "BORBA",
-      "alt": "38225",
-      "vel": "425.3",
-      "dist": 167.2,
-      "hora": "2025-07-12T19:20"
-    },
-    {
-      "hex": "49514b",
-      "chamada": "",
-      "cia": "",
-      "pais": "Portugal",
-      "local": null,
-      "alt": "36000",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T19:20"
-    },
-    {
-      "hex": "44cdc6",
-      "chamada": "",
-      "cia": "",
-      "pais": "Bélgica",
-      "local": null,
-      "alt": "37975",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-12T19:20"
+      "vel": "451.6",
+      "dist": 178.0,
+      "hora": "2025-07-12T20:00"
     }
   ],
   "top_paises": [
     {
       "pais": "Irlanda",
       "bandeira": "🇮🇪",
-      "total": 15
+      "total": 16
     },
     {
       "pais": "Portugal",
@@ -818,22 +873,22 @@
     {
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
-      "total": 12
+      "total": 8
     },
     {
       "pais": "Espanha",
       "bandeira": "🇪🇸",
-      "total": 7
+      "total": 8
+    },
+    {
+      "pais": "Bélgica",
+      "bandeira": "🇧🇪",
+      "total": 4
     },
     {
       "pais": "Áustria",
       "bandeira": "🇦🇹",
-      "total": 5
-    },
-    {
-      "pais": "Alemanha",
-      "bandeira": "🇩🇪",
-      "total": 3
+      "total": 4
     },
     {
       "pais": "Países Baixos",
@@ -841,14 +896,14 @@
       "total": 3
     },
     {
-      "pais": "Bélgica",
-      "bandeira": "🇧🇪",
+      "pais": "Alemanha",
+      "bandeira": "🇩🇪",
       "total": 3
     },
     {
-      "pais": "França",
-      "bandeira": "🇫🇷",
-      "total": 2
+      "pais": "Polónia",
+      "bandeira": "🇵🇱",
+      "total": 3
     },
     {
       "pais": "Malta",
@@ -859,22 +914,14 @@
   "top_companhias": [
     {
       "cia": "Ryanair",
-      "total": 12
+      "total": 16
     },
     {
       "cia": "TAP Air Portugal",
-      "total": 10
+      "total": 13
     },
     {
       "cia": "easyJet",
-      "total": 6
-    },
-    {
-      "cia": "easyJet Europe",
-      "total": 5
-    },
-    {
-      "cia": "Air Lingus",
       "total": 4
     },
     {
@@ -882,19 +929,27 @@
       "total": 3
     },
     {
-      "cia": "Eurowings",
+      "cia": "Transavia",
       "total": 3
     },
     {
-      "cia": "Iberia Express",
+      "cia": "Air Lingus",
+      "total": 3
+    },
+    {
+      "cia": "easyJet Europe",
+      "total": 3
+    },
+    {
+      "cia": "Vueling",
+      "total": 3
+    },
+    {
+      "cia": "Royal Air Maroc",
       "total": 2
     },
     {
-      "cia": "Wizz Air",
-      "total": 2
-    },
-    {
-      "cia": "Transavia",
+      "cia": "Lufthansa",
       "total": 2
     }
   ],
