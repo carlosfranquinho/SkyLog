@@ -14,6 +14,7 @@ dir_csv = Path("../dados/horarios")
 output_path = Path("../site/painel.json")
 icao_ranges_path = Path("../dados/icao_ranges.json")
 companhias_path = Path("../dados/companhias.json")
+geo_path = Path("../dados/geo/ContinenteConcelhos.geojson")
 
 def haversine(lat1, lon1, lat2, lon2):
     R = 6371.0
@@ -30,6 +31,10 @@ def carregar_json(caminho):
 
 icao_ranges = carregar_json(icao_ranges_path)
 companhias_info = carregar_json(companhias_path)
+try:
+    geo_dados = carregar_json(geo_path)["features"]
+except FileNotFoundError:
+    geo_dados = []
 
 def hex_para_info_pais(hexcode, ranges):
     try:
@@ -42,6 +47,23 @@ def hex_para_info_pais(hexcode, ranges):
     except:
         pass
     return "Desconhecido", ""
+
+def encontrar_local(lat, lon, features, limite=80):
+    melhor = None
+    melhor_dist = None
+    for feat in features:
+        nome = feat.get("properties", {}).get("nome") or feat.get("properties", {}).get("name")
+        try:
+            flon, flat = feat["geometry"]["coordinates"]
+        except Exception:
+            continue
+        d = haversine(lat, lon, flat, flon)
+        if melhor_dist is None or d < melhor_dist:
+            melhor_dist = d
+            melhor = nome
+    if melhor_dist is not None and melhor_dist <= limite:
+        return melhor
+    return None
 
 ficheiros = sorted(dir_csv.glob("*.csv"))
 if len(ficheiros) < 2:
@@ -86,10 +108,12 @@ for info in melhores_linhas.values():
     vel = linha.get("gs", "").strip()
     hora = linha["timestamp"][:16]
 
+    local = None
     try:
         lat = float(linha["lat"])
         lon = float(linha["lon"])
         dist = haversine(ESTACAO_LAT, ESTACAO_LON, lat, lon)
+        local = encontrar_local(lat, lon, geo_dados) if geo_dados else None
     except Exception:
         dist = ""
 
@@ -108,12 +132,12 @@ for info in melhores_linhas.values():
         "chamada": chamada,
         "cia": companhia,
         "pais": pais,
+        "local": local,
         "alt": alt,
         "vel": vel,
         "dist": dist,
         "hora": hora
     })
-
 
 ultima_hora = sorted(registos, key=lambda x: x["hora"], reverse=True)
 

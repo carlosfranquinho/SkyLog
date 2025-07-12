@@ -19,10 +19,11 @@ async function carregarPainel() {
       const altM = v.alt ? Math.round(parseFloat(v.alt) * 0.3048) : null;
       const velK = v.vel ? Math.round(parseFloat(v.vel) * 1.852) : null;
 
+      const localTxt = v.local ? `sobre ${v.local} ` : "";
       ulHora.innerHTML += `
         <li>
           <strong>${v.chamada || v.hex}</strong>: ${v.cia || ""}, ${v.pais}
-          <br>– avistado às ${hm}${v.dist ? ` a ${v.dist} km de distância` : ""}
+          <br>– avistado ${localTxt}às ${hm}${v.dist ? ` a ${v.dist} km de distância` : ""}
           ${altM !== null ? `<br>– Altitude: ${altM} metros` : ""}
           ${velK !== null ? `<br>– Velocidade: ${velK} km/h` : ""}
         </li>`;
