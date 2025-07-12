@@ -87,7 +87,7 @@
     "nome": "EIC"
   },
   "EIN": {
-    "nome": "EIN"
+    "nome": "Air Lingus"
   },
   "EJU": {
     "nome": "easyJet Europe"
@@ -153,7 +153,7 @@
     "nome": "IBE"
   },
   "IBS": {
-    "nome": "IBS"
+    "nome": "Iberia Express"
   },
   "INI": {
     "nome": "INI"
@@ -309,6 +309,6 @@
     "nome": "WUK"
   },
   "WZZ": {
-    "nome": "WZZ"
+    "nome": "Wizz Air"
   }
 }

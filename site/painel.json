@@ -1,0 +1,902 @@
+{
+  "ultima_hora": [
+    {
+      "hex": "4d2449",
+      "chamada": "RYR5763",
+      "cia": "RYR",
+      "pais": "Malta",
+      "local": "ARRONCHES",
+      "alt": "36225",
+      "vel": "433.4",
+      "dist": 161.8,
+      "hora": "2025-07-12T19:59"
+    },
+    {
+      "hex": "348208",
+      "chamada": "",
+      "cia": "",
+      "pais": "Espanha",
+      "local": null,
+      "alt": "36000",
+      "vel": "",
+      "dist": "",
+      "hora": "2025-07-12T19:59"
+    },
+    {
+      "hex": "4ca92b",
+      "chamada": "RYR39FL",
+      "cia": "RYR",
+      "pais": "Irlanda",
+      "local": "TONDELA",
+      "alt": "37000",
+      "vel": "454.4",
+      "dist": 107.4,
+      "hora": "2025-07-12T19:58"
+    },
+    {
+      "hex": "40804d",
+      "chamada": "WUK578A",
+      "cia": "WUK",
+      "pais": "Reino Unido",
+      "local": "ÉVORA",
+      "alt": "28200",
+      "vel": "440.2",
+      "dist": 152.3,
+      "hora": "2025-07-12T19:57"
+    },
+    {
+      "hex": "44d1a2",
+      "chamada": "JAF8AE",
+      "cia": "JAF",
+      "pais": "Bélgica",
+      "local": "SOUSEL",
+      "alt": "38000",
+      "vel": "485.2",
+      "dist": 139.8,
+      "hora": "2025-07-12T19:55"
+    },
+    {
+      "hex": "48683e",
+      "chamada": "TRA9Y",
+      "cia": "TRA",
+      "pais": "Países Baixos",
+      "local": "ALMEIRIM",
+      "alt": "36000",
+      "vel": "478.0",
+      "dist": 84.4,
+      "hora": "2025-07-12T19:55"
+    },
+    {
+      "hex": "49520f",
+      "chamada": "TAP48M",
+      "cia": "TAP",
+      "pais": "Portugal",
+      "local": "SOUSEL",
+      "alt": "22600",
+      "vel": "371.8",
+      "dist": 127.2,
+      "hora": "2025-07-12T19:54"
+    },
+    {
+      "hex": "495290",
+      "chamada": "TAP437X",
+      "cia": "TAP",
+      "pais": "Portugal",
+      "local": "AGUIAR DA BEIRA",
+      "alt": "38975",
+      "vel": "425.2",
+      "dist": 165.2,
+      "hora": "2025-07-12T19:54"
+    },
+    {
+      "hex": "400fe3",
+      "chamada": "EZY69AT",
+      "cia": "EZY",
+      "pais": "Reino Unido",
+      "local": "CORUCHE",
+      "alt": "34050",
+      "vel": "450.4",
+      "dist": 102.1,
+      "hora": "2025-07-12T19:54"
+    },
+    {
+      "hex": "4ca225",
+      "chamada": "RYR3NM",
+      "cia": "RYR",
+      "pais": "Irlanda",
+      "local": "ARRONCHES",
+      "alt": "29000",
+      "vel": "381.1",
+      "dist": 161.7,
+      "hora": "2025-07-12T19:53"
+    },
+    {
+      "hex": "440128",
+      "chamada": "EJU49VX",
+      "cia": "EJU",
+      "pais": "Áustria",
+      "local": "BORBA",
+      "alt": "38025",
+      "vel": "474.3",
+      "dist": 169.6,
+      "hora": "2025-07-12T19:51"
+    },
+    {
+      "hex": "4951d7",
+      "chamada": "TAP69AS",
+      "cia": "TAP",
+      "pais": "Portugal",
+      "local": "VISEU",
+      "alt": "33000",
+      "vel": "450.0",
+      "dist": 139.0,
+      "hora": "2025-07-12T19:51"
+    },
+    {
+      "hex": "4ca216",
+      "chamada": "EIN4PT",
+      "cia": "EIN",
+      "pais": "Irlanda",
+      "local": "OLIVEIRA DO BAIRRO",
+      "alt": "34900",
+      "vel": "449.3",
+      "dist": 82.6,
+      "hora": "2025-07-12T19:51"
+    },
+    {
+      "hex": "406754",
+      "chamada": "EZY86HG",
+      "cia": "EZY",
+      "pais": "Reino Unido",
+      "local": "ALMEIDA",
+      "alt": "35000",
+      "vel": "433.7",
+      "dist": 190.2,
+      "hora": "2025-07-12T19:50"
+    },
+    {
+      "hex": "4952cd",
+      "chamada": "TAP1366",
+      "cia": "TAP",
+      "pais": "Portugal",
+      "local": "BATALHA",
+      "alt": "26525",
+      "vel": "409.6",
+      "dist": 12.6,
+      "hora": "2025-07-12T19:50"
+    },
+    {
+      "hex": "3c5eed",
+      "chamada": "EWG59H",
+      "cia": "EWG",
+      "pais": "Alemanha",
+      "local": "REDONDO",
+      "alt": "32825",
+      "vel": "463.9",
+      "dist": 173.2,
+      "hora": "2025-07-12T19:49"
+    },
+    {
+      "hex": "4ca214",
+      "chamada": "EIN888",
+      "cia": "EIN",
+      "pais": "Irlanda",
+      "local": "MORTÁGUA",
+      "alt": "37000",
+      "vel": "454.2",
+      "dist": 100.6,
+      "hora": "2025-07-12T19:48"
+    },
+    {
+      "hex": "3451da",
+      "chamada": "ANE73JA",
+      "cia": "ANE",
+      "pais": "Espanha",
+      "local": "TRANCOSO",
+      "alt": "25325",
+      "vel": "448.1",
+      "dist": 182.8,
+      "hora": "2025-07-12T19:47"
+    },
+    {
+      "hex": "407463",
+      "chamada": "BAW507",
+      "cia": "BAW",
+      "pais": "Reino Unido",
+      "local": "REDONDO",
+      "alt": "27975",
+      "vel": "482.1",
+      "dist": 173.1,
+      "hora": "2025-07-12T19:46"
+    },
+    {
+      "hex": "020139",
+      "chamada": "RAM807",
+      "cia": "RAM",
+      "pais": "Morocco",
+      "local": "SABUGAL",
+      "alt": "37000",
+      "vel": "456.0",
+      "dist": 174.7,
+      "hora": "2025-07-12T19:45"
+    },
+    {
+      "hex": "0201a1",
+      "chamada": "RAM801F",
+      "cia": "RAM",
+      "pais": "Morocco",
+      "local": "SABUGAL",
+      "alt": "35000",
+      "vel": "453.8",
+      "dist": 184.9,
+      "hora": "2025-07-12T19:45"
+    },
+    {
+      "hex": "4cafc0",
+      "chamada": "RYR7872",
+      "cia": "RYR",
+      "pais": "Irlanda",
+      "local": "MONFORTE",
+      "alt": "28600",
+      "vel": "427.1",
+      "dist": 146.0,
+      "hora": "2025-07-12T19:42"
+    },
+    {
+      "hex": "4cadf9",
+      "chamada": "RYR46PU",
+      "cia": "RYR",
+      "pais": "Irlanda",
+      "local": "BATALHA",
+      "alt": "38000",
+      "vel": "472.5",
+      "dist": 22.8,
+      "hora": "2025-07-12T19:41"
+    },
+    {
+      "hex": "406669",
+      "chamada": "EZY96BD",
+      "cia": "EZY",
+      "pais": "Reino Unido",
+      "local": "BELMONTE",
+      "alt": "37000",
+      "vel": "436.7",
+      "dist": 152.6,
+      "hora": "2025-07-12T19:41"
+    },
+    {
+      "hex": "4403bb",
+      "chamada": "EJU16PF",
+      "cia": "EJU",
+      "pais": "Áustria",
+      "local": "MÊDA",
+      "alt": "37000",
+      "vel": "435.4",
+      "dist": 186.0,
+      "hora": "2025-07-12T19:41"
+    },
+    {
+      "hex": "34530d",
+      "chamada": "ANE8266",
+      "cia": "ANE",
+      "pais": "Espanha",
+      "local": "ARRAIOLOS",
+      "alt": "34000",
+      "vel": "456.2",
+      "dist": 144.5,
+      "hora": "2025-07-12T19:39"
+    },
+    {
+      "hex": "4cae96",
+      "chamada": "RYR63HF",
+      "cia": "RYR",
+      "pais": "Irlanda",
+      "local": "FIGUEIRA DA FOZ",
+      "alt": "37000",
+      "vel": "443.3",
+      "dist": 33.3,
+      "hora": "2025-07-12T19:39"
+    },
+    {
+      "hex": "34568a",
+      "chamada": "VLG3DX",
+      "cia": "VLG",
+      "pais": "Espanha",
+      "local": "ARRONCHES",
+      "alt": "34975",
+      "vel": "427.8",
+      "dist": 156.1,
+      "hora": "2025-07-12T19:38"
+    },
+    {
+      "hex": "06a0c1",
+      "chamada": "QTR17X",
+      "cia": "QTR",
+      "pais": "Qatar",
+      "local": "CHAMUSCA",
+      "alt": "15750",
+      "vel": "407.9",
+      "dist": 83.2,
+      "hora": "2025-07-12T19:38"
+    },
+    {
+      "hex": "40631b",
+      "chamada": "EZY91AQ",
+      "cia": "EZY",
+      "pais": "Reino Unido",
+      "local": "ARRONCHES",
+      "alt": "38000",
+      "vel": "451.3",
+      "dist": 162.3,
+      "hora": "2025-07-12T19:36"
+    },
+    {
+      "hex": "4d2453",
+      "chamada": "WZZ24HB",
+      "cia": "WZZ",
+      "pais": "Malta",
+      "local": "CORUCHE",
+      "alt": "34025",
+      "vel": "470.6",
+      "dist": 89.2,
+      "hora": "2025-07-12T19:36"
+    },
+    {
+      "hex": "48414c",
+      "chamada": "TRA49C",
+      "cia": "TRA",
+      "pais": "Países Baixos",
+      "local": "ARRONCHES",
+      "alt": "37000",
+      "vel": "447.7",
+      "dist": 157.1,
+      "hora": "2025-07-12T19:35"
+    },
+    {
+      "hex": "4ca7b4",
+      "chamada": "RYR525",
+      "cia": "RYR",
+      "pais": "Irlanda",
+      "local": "PORTALEGRE",
+      "alt": "35000",
+      "vel": "439.2",
+      "dist": 137.1,
+      "hora": "2025-07-12T19:35"
+    },
+    {
+      "hex": "4bb856",
+      "chamada": "PGT6GR",
+      "cia": "PGT",
+      "pais": "Turkey",
+      "local": "MONFORTE",
+      "alt": "27350",
+      "vel": "417.3",
+      "dist": 142.0,
+      "hora": "2025-07-12T19:35"
+    },
+    {
+      "hex": "3453cc",
+      "chamada": "AEA53MV",
+      "cia": "AEA",
+      "pais": "Espanha",
+      "local": "ALMEIRIM",
+      "alt": "18375",
+      "vel": "407.4",
+      "dist": 82.7,
+      "hora": "2025-07-12T19:35"
+    },
+    {
+      "hex": "49410b",
+      "chamada": "NJE476F",
+      "cia": "NJE",
+      "pais": "Portugal",
+      "local": "ARRONCHES",
+      "alt": "35525",
+      "vel": "395.5",
+      "dist": 159.4,
+      "hora": "2025-07-12T19:33"
+    },
+    {
+      "hex": "40631a",
+      "chamada": "EZY65RF",
+      "cia": "EZY",
+      "pais": "Reino Unido",
+      "local": "ÉVORA",
+      "alt": "31025",
+      "vel": "455.0",
+      "dist": 161.5,
+      "hora": "2025-07-12T19:32"
+    },
+    {
+      "hex": "4892c4",
+      "chamada": "ENT55WT",
+      "cia": "ENT",
+      "pais": "Poland",
+      "local": "GUARDA",
+      "alt": "37000",
+      "vel": "428.2",
+      "dist": 171.9,
+      "hora": "2025-07-12T19:31"
+    },
+    {
+      "hex": "4ca61b",
+      "chamada": "RYR2FT",
+      "cia": "RYR",
+      "pais": "Irlanda",
+      "local": "MÊDA",
+      "alt": "27950",
+      "vel": "461.3",
+      "dist": 192.3,
+      "hora": "2025-07-12T19:31"
+    },
+    {
+      "hex": "440614",
+      "chamada": "EJU41RK",
+      "cia": "EJU",
+      "pais": "Áustria",
+      "local": "MORTÁGUA",
+      "alt": "34975",
+      "vel": "420.4",
+      "dist": 102.6,
+      "hora": "2025-07-12T19:31"
+    },
+    {
+      "hex": "44017c",
+      "chamada": "EJU71AF",
+      "cia": "EJU",
+      "pais": "Áustria",
+      "local": "CHAMUSCA",
+      "alt": "17625",
+      "vel": "421.7",
+      "dist": 84.1,
+      "hora": "2025-07-12T19:31"
+    },
+    {
+      "hex": "40072b",
+      "chamada": "EXS93WN",
+      "cia": "EXS",
+      "pais": "Reino Unido",
+      "local": "PORTALEGRE",
+      "alt": "33000",
+      "vel": "423.8",
+      "dist": 150.3,
+      "hora": "2025-07-12T19:30"
+    },
+    {
+      "hex": "347247",
+      "chamada": "IBS15MW",
+      "cia": "IBS",
+      "pais": "Espanha",
+      "local": "ARRONCHES",
+      "alt": "35000",
+      "vel": "432.2",
+      "dist": 161.1,
+      "hora": "2025-07-12T19:30"
+    },
+    {
+      "hex": "4ca2ca",
+      "chamada": "EIN497",
+      "cia": "EIN",
+      "pais": "Irlanda",
+      "local": "CORUCHE",
+      "alt": "28000",
+      "vel": "477.6",
+      "dist": 95.1,
+      "hora": "2025-07-12T19:30"
+    },
+    {
+      "hex": "4cad39",
+      "chamada": "RYR886M",
+      "cia": "RYR",
+      "pais": "Irlanda",
+      "local": "PORTALEGRE",
+      "alt": "37000",
+      "vel": "446.9",
+      "dist": 143.5,
+      "hora": "2025-07-12T19:29"
+    },
+    {
+      "hex": "49602d",
+      "chamada": "CSXAN",
+      "cia": "CSX",
+      "pais": "Portugal",
+      "local": null,
+      "alt": "1100",
+      "vel": "",
+      "dist": "",
+      "hora": "2025-07-12T19:29"
+    },
+    {
+      "hex": "495150",
+      "chamada": "TAP944",
+      "cia": "TAP",
+      "pais": "Portugal",
+      "local": "ALPIARÇA",
+      "alt": "19350",
+      "vel": "380.5",
+      "dist": 64.1,
+      "hora": "2025-07-12T19:28"
+    },
+    {
+      "hex": "39d30d",
+      "chamada": "TVF31JV",
+      "cia": "TVF",
+      "pais": "França",
+      "local": "ALMEIDA",
+      "alt": "34000",
+      "vel": "458.1",
+      "dist": 243.8,
+      "hora": "2025-07-12T19:25"
+    },
+    {
+      "hex": "495217",
+      "chamada": "TAP494Y",
+      "cia": "TAP",
+      "pais": "Portugal",
+      "local": "ALPIARÇA",
+      "alt": "21075",
+      "vel": "367.7",
+      "dist": 64.7,
+      "hora": "2025-07-12T19:25"
+    },
+    {
+      "hex": "407e68",
+      "chamada": "EXS42RF",
+      "cia": "EXS",
+      "pais": "Reino Unido",
+      "local": "PORTALEGRE",
+      "alt": "37000",
+      "vel": "436.3",
+      "dist": 138.9,
+      "hora": "2025-07-12T19:24"
+    },
+    {
+      "hex": "471f86",
+      "chamada": "WZZ1FM",
+      "cia": "WZZ",
+      "pais": "Hungary",
+      "local": "ARRONCHES",
+      "alt": "34925",
+      "vel": "419.9",
+      "dist": 158.0,
+      "hora": "2025-07-12T19:24"
+    },
+    {
+      "hex": "44cdd1",
+      "chamada": "BEL7SD",
+      "cia": "BEL",
+      "pais": "Bélgica",
+      "local": "ARRAIOLOS",
+      "alt": "38025",
+      "vel": "481.5",
+      "dist": 136.1,
+      "hora": "2025-07-12T19:23"
+    },
+    {
+      "hex": "3c56ee",
+      "chamada": "EWG3KN",
+      "cia": "EWG",
+      "pais": "Alemanha",
+      "local": "FRONTEIRA",
+      "alt": "37975",
+      "vel": "469.9",
+      "dist": 138.9,
+      "hora": "2025-07-12T19:22"
+    },
+    {
+      "hex": "407c6d",
+      "chamada": "EXS95EW",
+      "cia": "EXS",
+      "pais": "Reino Unido",
+      "local": "GUARDA",
+      "alt": "37000",
+      "vel": "446.9",
+      "dist": 160.4,
+      "hora": "2025-07-12T19:22"
+    },
+    {
+      "hex": "4952ca",
+      "chamada": "TAP442",
+      "cia": "TAP",
+      "pais": "Portugal",
+      "local": "ALPIARÇA",
+      "alt": "21875",
+      "vel": "389.0",
+      "dist": 63.6,
+      "hora": "2025-07-12T19:22"
+    },
+    {
+      "hex": "495148",
+      "chamada": "TAP755",
+      "cia": "TAP",
+      "pais": "Portugal",
+      "local": "SÁTÃO",
+      "alt": "33000",
+      "vel": "442.7",
+      "dist": 156.8,
+      "hora": "2025-07-12T19:21"
+    },
+    {
+      "hex": "39cea0",
+      "chamada": "",
+      "cia": "",
+      "pais": "França",
+      "local": null,
+      "alt": "34000",
+      "vel": "",
+      "dist": "",
+      "hora": "2025-07-12T19:21"
+    },
+    {
+      "hex": "407f1f",
+      "chamada": "RUK677D",
+      "cia": "RUK",
+      "pais": "Reino Unido",
+      "local": "ALANDROAL",
+      "alt": "36000",
+      "vel": "450.7",
+      "dist": 187.3,
+      "hora": "2025-07-12T19:20"
+    },
+    {
+      "hex": "4ca97c",
+      "chamada": "RYR2QV",
+      "cia": "RYR",
+      "pais": "Irlanda",
+      "local": "PORTO DE MÓS",
+      "alt": "27900",
+      "vel": "404.8",
+      "dist": 26.7,
+      "hora": "2025-07-12T19:20"
+    },
+    {
+      "hex": "4ca215",
+      "chamada": "EIN89G",
+      "cia": "EIN",
+      "pais": "Irlanda",
+      "local": "PONTE DE SOR",
+      "alt": "31425",
+      "vel": "467.8",
+      "dist": 89.7,
+      "hora": "2025-07-12T19:20"
+    },
+    {
+      "hex": "400e14",
+      "chamada": "EZY92LT",
+      "cia": "EZY",
+      "pais": "Reino Unido",
+      "local": "MORTÁGUA",
+      "alt": "37975",
+      "vel": "420.5",
+      "dist": 102.1,
+      "hora": "2025-07-12T19:20"
+    },
+    {
+      "hex": "495037",
+      "chamada": "TAP543W",
+      "cia": "TAP",
+      "pais": "Portugal",
+      "local": "OLIVEIRA DO HOSPITAL",
+      "alt": "35000",
+      "vel": "430.6",
+      "dist": 110.9,
+      "hora": "2025-07-12T19:20"
+    },
+    {
+      "hex": "3c49ce",
+      "chamada": "EWG6B",
+      "cia": "EWG",
+      "pais": "Alemanha",
+      "local": "GAVIÃO",
+      "alt": "35975",
+      "vel": "463.4",
+      "dist": 87.8,
+      "hora": "2025-07-12T19:20"
+    },
+    {
+      "hex": "4d00ee",
+      "chamada": "LGL732",
+      "cia": "LGL",
+      "pais": "Luxembourg",
+      "local": "MONFORTE",
+      "alt": "38000",
+      "vel": "473.5",
+      "dist": 138.8,
+      "hora": "2025-07-12T19:20"
+    },
+    {
+      "hex": "4ca56c",
+      "chamada": "RYR961L",
+      "cia": "RYR",
+      "pais": "Irlanda",
+      "local": "GAVIÃO",
+      "alt": "25475",
+      "vel": "438.8",
+      "dist": 103.5,
+      "hora": "2025-07-12T19:20"
+    },
+    {
+      "hex": "4866c1",
+      "chamada": "TFL4GB",
+      "cia": "TFL",
+      "pais": "Países Baixos",
+      "local": "SERTÃ",
+      "alt": "43000",
+      "vel": "508.3",
+      "dist": 73.2,
+      "hora": "2025-07-12T19:20"
+    },
+    {
+      "hex": "344455",
+      "chamada": "IBS1525",
+      "cia": "IBS",
+      "pais": "Espanha",
+      "local": "REDONDO",
+      "alt": "35000",
+      "vel": "447.8",
+      "dist": 170.2,
+      "hora": "2025-07-12T19:20"
+    },
+    {
+      "hex": "4cae9e",
+      "chamada": "RYR15WR",
+      "cia": "RYR",
+      "pais": "Irlanda",
+      "local": "AVIS",
+      "alt": "37000",
+      "vel": "451.5",
+      "dist": 124.0,
+      "hora": "2025-07-12T19:20"
+    },
+    {
+      "hex": "4b0280",
+      "chamada": "EZS64NL",
+      "cia": "EZS",
+      "pais": "Suiça",
+      "local": "ALMEIDA",
+      "alt": "38000",
+      "vel": "472.6",
+      "dist": 188.1,
+      "hora": "2025-07-12T19:20"
+    },
+    {
+      "hex": "495213",
+      "chamada": "TAP563",
+      "cia": "TAP",
+      "pais": "Portugal",
+      "local": "ALCANENA",
+      "alt": "21375",
+      "vel": "338.4",
+      "dist": 42.8,
+      "hora": "2025-07-12T19:20"
+    },
+    {
+      "hex": "44009e",
+      "chamada": "EJU84LF",
+      "cia": "EJU",
+      "pais": "Áustria",
+      "local": "BORBA",
+      "alt": "38225",
+      "vel": "425.3",
+      "dist": 167.2,
+      "hora": "2025-07-12T19:20"
+    },
+    {
+      "hex": "49514b",
+      "chamada": "",
+      "cia": "",
+      "pais": "Portugal",
+      "local": null,
+      "alt": "36000",
+      "vel": "",
+      "dist": "",
+      "hora": "2025-07-12T19:20"
+    },
+    {
+      "hex": "44cdc6",
+      "chamada": "",
+      "cia": "",
+      "pais": "Bélgica",
+      "local": null,
+      "alt": "37975",
+      "vel": "",
+      "dist": "",
+      "hora": "2025-07-12T19:20"
+    }
+  ],
+  "top_paises": [
+    {
+      "pais": "Irlanda",
+      "bandeira": "🇮🇪",
+      "total": 15
+    },
+    {
+      "pais": "Portugal",
+      "bandeira": "🇵🇹",
+      "total": 13
+    },
+    {
+      "pais": "Reino Unido",
+      "bandeira": "🇬🇧",
+      "total": 12
+    },
+    {
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "total": 7
+    },
+    {
+      "pais": "Áustria",
+      "bandeira": "🇦🇹",
+      "total": 5
+    },
+    {
+      "pais": "Alemanha",
+      "bandeira": "🇩🇪",
+      "total": 3
+    },
+    {
+      "pais": "Países Baixos",
+      "bandeira": "🇳🇱",
+      "total": 3
+    },
+    {
+      "pais": "Bélgica",
+      "bandeira": "🇧🇪",
+      "total": 3
+    },
+    {
+      "pais": "França",
+      "bandeira": "🇫🇷",
+      "total": 2
+    },
+    {
+      "pais": "Malta",
+      "bandeira": "🇲🇹",
+      "total": 2
+    }
+  ],
+  "top_companhias": [
+    {
+      "cia": "Ryanair",
+      "total": 12
+    },
+    {
+      "cia": "TAP Air Portugal",
+      "total": 10
+    },
+    {
+      "cia": "easyJet",
+      "total": 6
+    },
+    {
+      "cia": "easyJet Europe",
+      "total": 5
+    },
+    {
+      "cia": "Air Lingus",
+      "total": 4
+    },
+    {
+      "cia": "Jet2",
+      "total": 3
+    },
+    {
+      "cia": "Eurowings",
+      "total": 3
+    },
+    {
+      "cia": "Iberia Express",
+      "total": 2
+    },
+    {
+      "cia": "Wizz Air",
+      "total": 2
+    },
+    {
+      "cia": "Transavia",
+      "total": 2
+    }
+  ],
+  "rotas": []
+}
