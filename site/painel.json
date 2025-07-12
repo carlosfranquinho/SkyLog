@@ -1,0 +1,32 @@
+{
+  "ultima_hora": [],
+  "top_paises": [
+    {
+      "pais": "🇪🇸 Espanha",
+      "total": 17
+    },
+    {
+      "pais": "🇭🇺 Hungria",
+      "total": 10
+    },
+    {
+      "pais": "🇮🇹 Itália",
+      "total": 6
+    }
+  ],
+  "top_companhias": [
+    {
+      "cia": "Iberia",
+      "total": 11
+    },
+    {
+      "cia": "Wizz Air",
+      "total": 10
+    },
+    {
+      "cia": "Air Europa",
+      "total": 6
+    }
+  ],
+  "rotas": []
+}
