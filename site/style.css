@@ -23,7 +23,8 @@ main.painel {
     "ultima-hora coluna-lateral";
   grid-template-columns: 1fr 2fr;
   grid-template-rows: min-content auto; /* Linha crucial! */
-  gap: 2rem;
+  column-gap: 2rem; /* Espaço horizontal */
+  row-gap: 0;       /* Sem espaço vertical entre mapa e colunas */
   align-items: start; /* Alinhar tudo pelo topo */
 }
 
