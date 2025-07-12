@@ -17,6 +17,7 @@ icao_ranges_path = BASE_DIR / "dados" / "icao_ranges.json"
 companhias_path = BASE_DIR / "dados" / "companhias.json"
 geo_path = BASE_DIR / "dados" / "geo" / "ContinenteConcelhos.geojson"
 
+
 def haversine(lat1, lon1, lat2, lon2):
     R = 6371.0
     lat1, lon1, lat2, lon2 = map(radians, [lat1, lon1, lat2, lon2])
