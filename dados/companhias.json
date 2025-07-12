@@ -26,8 +26,11 @@
   "ANE": {
     "nome": "Air Nostrum"
   },
+  "ASL": {
+    "nome": "AirSERBIA"
+  },
   "AVA": {
-    "nome": "AVA"
+    "nome": "Avianca"
   },
   "AXY": {
     "nome": "AXY"
@@ -84,7 +87,7 @@
     "nome": "EDW"
   },
   "EFW": {
-    "nome": "EFW"
+    "nome": "BA Euroflyer"
   },
   "EIC": {
     "nome": "EIC"
@@ -102,7 +105,7 @@
     "nome": "ETH"
   },
   "EVE": {
-    "nome": "EVE"
+    "nome": "Iberojet"
   },
   "EWG": {
     "nome": "Eurowings"
@@ -111,7 +114,7 @@
     "nome": "Jet2"
   },
   "EZS": {
-    "nome": "EZS"
+    "nome": "easyJet Switzerland"
   },
   "EZY": {
     "nome": "easyJet"
@@ -153,7 +156,7 @@
     "nome": "IBB"
   },
   "IBE": {
-    "nome": "IBE"
+    "nome": "Iberia"
   },
   "IBS": {
     "nome": "Iberia Express"
@@ -191,6 +194,9 @@
   "LVK": {
     "nome": "LVK"
   },
+   "LZB": {
+    "nome": "Bulgaria Air"
+  },
   "MBU": {
     "nome": "MBU"
   },
@@ -204,7 +210,7 @@
     "nome": "NOZ"
   },
   "NSZ": {
-    "nome": "NSZ"
+    "nome": "Norwegian Air Sweden"
   },
   "OCN": {
     "nome": "OCN"
@@ -223,6 +229,9 @@
   },
   "PHP": {
     "nome": "PHP"
+  },
+  "PSA": {
+    "nome": "PSA Airlines"
   },
   "PSV": {
     "nome": "PSV"
@@ -276,7 +285,7 @@
     "nome": "THY"
   },
   "TOM": {
-    "nome": "TOM"
+    "nome": "TUI Airways"
   },
   "TRA": {
     "nome": "Transavia"
@@ -285,7 +294,7 @@
     "nome": "TUI fly"
   },
   "TVF": {
-    "nome": "TVF"
+    "nome": "Transavia France"
   },
   "TVS": {
     "nome": "TVS"
@@ -314,6 +323,9 @@
   "WFL": {
     "nome": "WFL"
   },
+  "WMT": {
+    "nome": "Wizz Air Malta"
+  },  
   "WUK": {
     "nome": "Wizz Air UK"
   },
