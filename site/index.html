@@ -12,7 +12,7 @@
     <h1>SkyLog – Um olhar pousado no céu</h1>
   </header>
 
-<main class="painel">
+  <main class="painel">
 
     <!-- Última hora (coluna esquerda) -->
     <section id="ultima-hora">
@@ -20,22 +20,23 @@
       <ul id="ultima-hora-lista"></ul>
     </section>
 
-    <!-- Mapa -->
-    <section id="rotas">
-      <h2>Mapa de rotas</h2>
-      <canvas id="mapa">[Mapa de rotas]</canvas>
-    </section>
+    <!-- Coluna da direita: mapa + listas -->
+    <div id="painel-direita">
+      <section id="rotas">
+        <h2>Mapa de rotas</h2>
+        <canvas id="mapa">[Mapa de rotas]</canvas>
+      </section>
 
-    <!-- Coluna lateral à direita -->
-    <div id="coluna-lateral">
-      <div id="top-paises">
-        <h2>Top Países</h2>
-        <ul id="top-paises-lista"></ul>
-      </div>
+      <div id="coluna-lateral">
+        <div id="top-paises">
+          <h2>Top Países</h2>
+          <ul id="top-paises-lista"></ul>
+        </div>
 
-      <div id="top-companhias">
-        <h2>Top Companhias</h2>
-        <ul id="top-companhias-lista"></ul>
+        <div id="top-companhias">
+          <h2>Top Companhias</h2>
+          <ul id="top-companhias-lista"></ul>
+        </div>
       </div>
     </div>
 

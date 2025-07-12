@@ -18,19 +18,21 @@ header h1 {
 /* Painel principal com grid */
 main.painel {
   display: grid;
-  grid-template-areas:
-    "ultima-hora rotas"
-    "ultima-hora coluna-lateral";
   grid-template-columns: 1fr 2fr;
-  grid-template-rows: min-content auto; /* Linha crucial! */
   column-gap: 2rem; /* Espaço horizontal */
-  row-gap: 0;       /* Sem espaço vertical entre mapa e colunas */
-  align-items: start; /* Alinhar tudo pelo topo */
+  align-items: start; /* Alinhar pelo topo */
 }
 
-/* Última hora à esquerda (ocupa duas linhas) */
+/* Coluna direita empilha mapa e listas */
+#painel-direita {
+  display: grid;
+  grid-template-rows: min-content auto;
+  row-gap: 0; /* Sem espaço extra entre mapa e colunas */
+  align-items: start;
+}
+
+/* Última hora à esquerda */
 #ultima-hora {
-  grid-area: ultima-hora;
   border-left: 6px solid #2196f3;
   padding: 1.5rem;
   background: #fff;
@@ -42,7 +44,6 @@ main.painel {
 
 /* Mapa à direita no topo */
 #rotas {
-  grid-area: rotas;
   border-left: 6px solid #9c27b0;
   padding: 1.5rem;
   background: #fff;
@@ -62,7 +63,6 @@ main.painel {
 
 /* Coluna lateral (países + companhias) - agora fica abaixo do mapa */
 #coluna-lateral {
-  grid-area: coluna-lateral;
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 2rem;
