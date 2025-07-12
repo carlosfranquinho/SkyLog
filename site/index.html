@@ -30,12 +30,12 @@
     <div id="coluna-lateral">
       <div id="top-paises">
         <h2>Top Países</h2>
-        <ul id="top-paises"></ul>
+        <ul id="top-paises-lista"></ul>
       </div>
 
       <div id="top-companhias">
         <h2>Top Companhias</h2>
-        <ul id="top-companhias"></ul>
+        <ul id="top-companhias-lista"></ul>
       </div>
     </div>
 
@@ -60,13 +60,13 @@
         });
 
         // Top Países
-        const ulPaises = document.getElementById("top-paises").querySelector("ul");
+        const ulPaises = document.getElementById("top-paises-lista");
         dados.top_paises.forEach(p => {
           ulPaises.innerHTML += `<li>${p.bandeira || ""} ${p.pais}: ${p.total} aviões</li>`;
         });
 
         // Top Companhias
-        const ulCias = document.getElementById("top-companhias").querySelector("ul");
+        const ulCias = document.getElementById("top-companhias-lista");
         dados.top_companhias.forEach(c => {
           ulCias.innerHTML += `<li>${c.cia}: ${c.total} voos</li>`;
         });
