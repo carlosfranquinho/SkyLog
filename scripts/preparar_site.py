@@ -9,12 +9,14 @@ from collections import defaultdict
 ESTACAO_LAT = 39.74759200010467
 ESTACAO_LON = -8.936510104648143
 
-# Diretórios
-dir_csv = Path("../dados/horarios")
-output_path = Path("../site/painel.json")
-icao_ranges_path = Path("../dados/icao_ranges.json")
-companhias_path = Path("../dados/companhias.json")
-geo_path = Path("../dados/geo/ContinenteConcelhos.geojson")
+# Diretórios relativos ao projeto
+BASE_DIR = Path(__file__).resolve().parent.parent
+dir_csv = BASE_DIR / "dados" / "horarios"
+output_path = BASE_DIR / "site" / "painel.json"
+icao_ranges_path = BASE_DIR / "dados" / "icao_ranges.json"
+companhias_path = BASE_DIR / "dados" / "companhias.json"
+geo_path = BASE_DIR / "dados" / "geo" / "ContinenteConcelhos.geojson"
+
 
 def haversine(lat1, lon1, lat2, lon2):
     R = 6371.0
