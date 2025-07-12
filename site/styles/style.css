@@ -19,7 +19,6 @@ header h1 {
 main.painel {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr; /* colunas com a mesma largura */
-
   column-gap: 2rem; /* Espaço horizontal */
   align-items: start; /* Alinhar pelo topo */
 }
@@ -37,8 +36,7 @@ main.painel {
 }
 
 
-
-/* Última hora à esquerda */
+/* Avistamentos à direita */
 #ultima-hora {
   border-left: 6px solid #2196f3;
   padding: 1.5rem;
@@ -49,7 +47,7 @@ main.painel {
   height: auto; /* Altura conforme conteúdo */
 }
 
-/* Mapa à direita no topo */
+/* Mapa no centro */
 #rotas {
   border-left: 6px solid #9c27b0;
   padding: 1.5rem;
@@ -61,7 +59,7 @@ main.painel {
 
 #mapa {
   width: 100%;
-  height: 80vh; /* altura generosa mas não excessiva */
+  height: 100vh; /* ocupa toda a altura do ecrã */
   margin-top: 1rem;
   border-radius: 6px;
 }
