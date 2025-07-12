@@ -38,7 +38,8 @@ async function carregarPainel() {
       const velK = v.vel ? Math.round(parseFloat(v.vel) * 1.852) : null;
 
       const localTxt = v.local ? `sobre ${capitalizar(v.local)} ` : "";
-      const bandeira = bandeiras[v.pais] ? bandeiras[v.pais] + " " : "";
+      const bandeira = v.bandeira ? v.bandeira + " " : "";
+
       ulHora.innerHTML += `
         <li>
           <strong>${v.chamada || v.hex}</strong>: ${v.cia || ""}, ${bandeira}${v.pais}

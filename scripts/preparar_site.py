@@ -136,6 +136,7 @@ for info in melhores_linhas.values():
         "chamada": chamada,
         "cia": companhia_nome,
         "pais": pais,
+        "bandeira": bandeira,
         "local": local,
         "alt": alt,
         "vel": vel,
