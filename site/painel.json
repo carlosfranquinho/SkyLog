@@ -3,7 +3,7 @@
     {
       "hex": "4d2449",
       "chamada": "RYR5763",
-      "cia": "RYR",
+      "cia": "Ryanair",
       "pais": "Malta",
       "local": "ARRONCHES",
       "alt": "36225",
@@ -25,7 +25,7 @@
     {
       "hex": "4ca92b",
       "chamada": "RYR39FL",
-      "cia": "RYR",
+      "cia": "Ryanair",
       "pais": "Irlanda",
       "local": "TONDELA",
       "alt": "37000",
@@ -58,7 +58,7 @@
     {
       "hex": "48683e",
       "chamada": "TRA9Y",
-      "cia": "TRA",
+      "cia": "Transavia",
       "pais": "Países Baixos",
       "local": "ALMEIRIM",
       "alt": "36000",
@@ -69,7 +69,7 @@
     {
       "hex": "49520f",
       "chamada": "TAP48M",
-      "cia": "TAP",
+      "cia": "TAP Air Portugal",
       "pais": "Portugal",
       "local": "SOUSEL",
       "alt": "22600",
@@ -80,7 +80,7 @@
     {
       "hex": "495290",
       "chamada": "TAP437X",
-      "cia": "TAP",
+      "cia": "TAP Air Portugal",
       "pais": "Portugal",
       "local": "AGUIAR DA BEIRA",
       "alt": "38975",
@@ -91,7 +91,7 @@
     {
       "hex": "400fe3",
       "chamada": "EZY69AT",
-      "cia": "EZY",
+      "cia": "easyJet",
       "pais": "Reino Unido",
       "local": "CORUCHE",
       "alt": "34050",
@@ -102,7 +102,7 @@
     {
       "hex": "4ca225",
       "chamada": "RYR3NM",
-      "cia": "RYR",
+      "cia": "Ryanair",
       "pais": "Irlanda",
       "local": "ARRONCHES",
       "alt": "29000",
@@ -113,7 +113,7 @@
     {
       "hex": "440128",
       "chamada": "EJU49VX",
-      "cia": "EJU",
+      "cia": "easyJet Europe",
       "pais": "Áustria",
       "local": "BORBA",
       "alt": "38025",
@@ -124,7 +124,7 @@
     {
       "hex": "4951d7",
       "chamada": "TAP69AS",
-      "cia": "TAP",
+      "cia": "TAP Air Portugal",
       "pais": "Portugal",
       "local": "VISEU",
       "alt": "33000",
@@ -135,7 +135,7 @@
     {
       "hex": "4ca216",
       "chamada": "EIN4PT",
-      "cia": "EIN",
+      "cia": "Air Lingus",
       "pais": "Irlanda",
       "local": "OLIVEIRA DO BAIRRO",
       "alt": "34900",
@@ -146,7 +146,7 @@
     {
       "hex": "406754",
       "chamada": "EZY86HG",
-      "cia": "EZY",
+      "cia": "easyJet",
       "pais": "Reino Unido",
       "local": "ALMEIDA",
       "alt": "35000",
@@ -157,7 +157,7 @@
     {
       "hex": "4952cd",
       "chamada": "TAP1366",
-      "cia": "TAP",
+      "cia": "TAP Air Portugal",
       "pais": "Portugal",
       "local": "BATALHA",
       "alt": "26525",
@@ -168,7 +168,7 @@
     {
       "hex": "3c5eed",
       "chamada": "EWG59H",
-      "cia": "EWG",
+      "cia": "Eurowings",
       "pais": "Alemanha",
       "local": "REDONDO",
       "alt": "32825",
@@ -179,7 +179,7 @@
     {
       "hex": "4ca214",
       "chamada": "EIN888",
-      "cia": "EIN",
+      "cia": "Air Lingus",
       "pais": "Irlanda",
       "local": "MORTÁGUA",
       "alt": "37000",
@@ -201,7 +201,7 @@
     {
       "hex": "407463",
       "chamada": "BAW507",
-      "cia": "BAW",
+      "cia": "British Airways",
       "pais": "Reino Unido",
       "local": "REDONDO",
       "alt": "27975",
@@ -234,7 +234,7 @@
     {
       "hex": "4cafc0",
       "chamada": "RYR7872",
-      "cia": "RYR",
+      "cia": "Ryanair",
       "pais": "Irlanda",
       "local": "MONFORTE",
       "alt": "28600",
@@ -245,7 +245,7 @@
     {
       "hex": "4cadf9",
       "chamada": "RYR46PU",
-      "cia": "RYR",
+      "cia": "Ryanair",
       "pais": "Irlanda",
       "local": "BATALHA",
       "alt": "38000",
@@ -256,7 +256,7 @@
     {
       "hex": "406669",
       "chamada": "EZY96BD",
-      "cia": "EZY",
+      "cia": "easyJet",
       "pais": "Reino Unido",
       "local": "BELMONTE",
       "alt": "37000",
@@ -267,7 +267,7 @@
     {
       "hex": "4403bb",
       "chamada": "EJU16PF",
-      "cia": "EJU",
+      "cia": "easyJet Europe",
       "pais": "Áustria",
       "local": "MÊDA",
       "alt": "37000",
@@ -289,7 +289,7 @@
     {
       "hex": "4cae96",
       "chamada": "RYR63HF",
-      "cia": "RYR",
+      "cia": "Ryanair",
       "pais": "Irlanda",
       "local": "FIGUEIRA DA FOZ",
       "alt": "37000",
@@ -322,7 +322,7 @@
     {
       "hex": "40631b",
       "chamada": "EZY91AQ",
-      "cia": "EZY",
+      "cia": "easyJet",
       "pais": "Reino Unido",
       "local": "ARRONCHES",
       "alt": "38000",
@@ -333,7 +333,7 @@
     {
       "hex": "4d2453",
       "chamada": "WZZ24HB",
-      "cia": "WZZ",
+      "cia": "Wizz Air",
       "pais": "Malta",
       "local": "CORUCHE",
       "alt": "34025",
@@ -344,7 +344,7 @@
     {
       "hex": "48414c",
       "chamada": "TRA49C",
-      "cia": "TRA",
+      "cia": "Transavia",
       "pais": "Países Baixos",
       "local": "ARRONCHES",
       "alt": "37000",
@@ -355,7 +355,7 @@
     {
       "hex": "4ca7b4",
       "chamada": "RYR525",
-      "cia": "RYR",
+      "cia": "Ryanair",
       "pais": "Irlanda",
       "local": "PORTALEGRE",
       "alt": "35000",
@@ -399,7 +399,7 @@
     {
       "hex": "40631a",
       "chamada": "EZY65RF",
-      "cia": "EZY",
+      "cia": "easyJet",
       "pais": "Reino Unido",
       "local": "ÉVORA",
       "alt": "31025",
@@ -421,7 +421,7 @@
     {
       "hex": "4ca61b",
       "chamada": "RYR2FT",
-      "cia": "RYR",
+      "cia": "Ryanair",
       "pais": "Irlanda",
       "local": "MÊDA",
       "alt": "27950",
@@ -432,7 +432,7 @@
     {
       "hex": "440614",
       "chamada": "EJU41RK",
-      "cia": "EJU",
+      "cia": "easyJet Europe",
       "pais": "Áustria",
       "local": "MORTÁGUA",
       "alt": "34975",
@@ -443,7 +443,7 @@
     {
       "hex": "44017c",
       "chamada": "EJU71AF",
-      "cia": "EJU",
+      "cia": "easyJet Europe",
       "pais": "Áustria",
       "local": "CHAMUSCA",
       "alt": "17625",
@@ -454,7 +454,7 @@
     {
       "hex": "40072b",
       "chamada": "EXS93WN",
-      "cia": "EXS",
+      "cia": "Jet2",
       "pais": "Reino Unido",
       "local": "PORTALEGRE",
       "alt": "33000",
@@ -465,7 +465,7 @@
     {
       "hex": "347247",
       "chamada": "IBS15MW",
-      "cia": "IBS",
+      "cia": "Iberia Express",
       "pais": "Espanha",
       "local": "ARRONCHES",
       "alt": "35000",
@@ -476,7 +476,7 @@
     {
       "hex": "4ca2ca",
       "chamada": "EIN497",
-      "cia": "EIN",
+      "cia": "Air Lingus",
       "pais": "Irlanda",
       "local": "CORUCHE",
       "alt": "28000",
@@ -487,7 +487,7 @@
     {
       "hex": "4cad39",
       "chamada": "RYR886M",
-      "cia": "RYR",
+      "cia": "Ryanair",
       "pais": "Irlanda",
       "local": "PORTALEGRE",
       "alt": "37000",
@@ -509,7 +509,7 @@
     {
       "hex": "495150",
       "chamada": "TAP944",
-      "cia": "TAP",
+      "cia": "TAP Air Portugal",
       "pais": "Portugal",
       "local": "ALPIARÇA",
       "alt": "19350",
@@ -531,7 +531,7 @@
     {
       "hex": "495217",
       "chamada": "TAP494Y",
-      "cia": "TAP",
+      "cia": "TAP Air Portugal",
       "pais": "Portugal",
       "local": "ALPIARÇA",
       "alt": "21075",
@@ -542,7 +542,7 @@
     {
       "hex": "407e68",
       "chamada": "EXS42RF",
-      "cia": "EXS",
+      "cia": "Jet2",
       "pais": "Reino Unido",
       "local": "PORTALEGRE",
       "alt": "37000",
@@ -553,7 +553,7 @@
     {
       "hex": "471f86",
       "chamada": "WZZ1FM",
-      "cia": "WZZ",
+      "cia": "Wizz Air",
       "pais": "Hungary",
       "local": "ARRONCHES",
       "alt": "34925",
@@ -564,7 +564,7 @@
     {
       "hex": "44cdd1",
       "chamada": "BEL7SD",
-      "cia": "BEL",
+      "cia": "Brussels Airlines",
       "pais": "Bélgica",
       "local": "ARRAIOLOS",
       "alt": "38025",
@@ -575,7 +575,7 @@
     {
       "hex": "3c56ee",
       "chamada": "EWG3KN",
-      "cia": "EWG",
+      "cia": "Eurowings",
       "pais": "Alemanha",
       "local": "FRONTEIRA",
       "alt": "37975",
@@ -586,7 +586,7 @@
     {
       "hex": "407c6d",
       "chamada": "EXS95EW",
-      "cia": "EXS",
+      "cia": "Jet2",
       "pais": "Reino Unido",
       "local": "GUARDA",
       "alt": "37000",
@@ -597,7 +597,7 @@
     {
       "hex": "4952ca",
       "chamada": "TAP442",
-      "cia": "TAP",
+      "cia": "TAP Air Portugal",
       "pais": "Portugal",
       "local": "ALPIARÇA",
       "alt": "21875",
@@ -608,7 +608,7 @@
     {
       "hex": "495148",
       "chamada": "TAP755",
-      "cia": "TAP",
+      "cia": "TAP Air Portugal",
       "pais": "Portugal",
       "local": "SÁTÃO",
       "alt": "33000",
@@ -641,7 +641,7 @@
     {
       "hex": "4ca97c",
       "chamada": "RYR2QV",
-      "cia": "RYR",
+      "cia": "Ryanair",
       "pais": "Irlanda",
       "local": "PORTO DE MÓS",
       "alt": "27900",
@@ -652,7 +652,7 @@
     {
       "hex": "4ca215",
       "chamada": "EIN89G",
-      "cia": "EIN",
+      "cia": "Air Lingus",
       "pais": "Irlanda",
       "local": "PONTE DE SOR",
       "alt": "31425",
@@ -663,7 +663,7 @@
     {
       "hex": "400e14",
       "chamada": "EZY92LT",
-      "cia": "EZY",
+      "cia": "easyJet",
       "pais": "Reino Unido",
       "local": "MORTÁGUA",
       "alt": "37975",
@@ -674,7 +674,7 @@
     {
       "hex": "495037",
       "chamada": "TAP543W",
-      "cia": "TAP",
+      "cia": "TAP Air Portugal",
       "pais": "Portugal",
       "local": "OLIVEIRA DO HOSPITAL",
       "alt": "35000",
@@ -685,7 +685,7 @@
     {
       "hex": "3c49ce",
       "chamada": "EWG6B",
-      "cia": "EWG",
+      "cia": "Eurowings",
       "pais": "Alemanha",
       "local": "GAVIÃO",
       "alt": "35975",
@@ -707,7 +707,7 @@
     {
       "hex": "4ca56c",
       "chamada": "RYR961L",
-      "cia": "RYR",
+      "cia": "Ryanair",
       "pais": "Irlanda",
       "local": "GAVIÃO",
       "alt": "25475",
@@ -729,7 +729,7 @@
     {
       "hex": "344455",
       "chamada": "IBS1525",
-      "cia": "IBS",
+      "cia": "Iberia Express",
       "pais": "Espanha",
       "local": "REDONDO",
       "alt": "35000",
@@ -740,7 +740,7 @@
     {
       "hex": "4cae9e",
       "chamada": "RYR15WR",
-      "cia": "RYR",
+      "cia": "Ryanair",
       "pais": "Irlanda",
       "local": "AVIS",
       "alt": "37000",
@@ -762,7 +762,7 @@
     {
       "hex": "495213",
       "chamada": "TAP563",
-      "cia": "TAP",
+      "cia": "TAP Air Portugal",
       "pais": "Portugal",
       "local": "ALCANENA",
       "alt": "21375",
@@ -773,7 +773,7 @@
     {
       "hex": "44009e",
       "chamada": "EJU84LF",
-      "cia": "EJU",
+      "cia": "easyJet Europe",
       "pais": "Áustria",
       "local": "BORBA",
       "alt": "38225",
