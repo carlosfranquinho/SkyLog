@@ -114,6 +114,7 @@ async function carregarPainel() {
       maxZoom: 18,
       touchZoom: "center",
     }).setView(center, initialZoom);
+
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       attribution: "© OpenStreetMap"
     }).addTo(map);
@@ -160,6 +161,7 @@ async function carregarPainel() {
       const left = destPoint(fim[0], fim[1], bearing + 210, len);
       const right = destPoint(fim[0], fim[1], bearing + 150, len);
       L.polygon([left, fim, right], { color: cor, fillColor: cor, weight: 1 }).addTo(map);
+
     }
 
     dados.rotas.forEach(r => {
@@ -169,6 +171,7 @@ async function carregarPainel() {
       const bearing = calcBearing(ini[0], ini[1], fim[0], fim[1]);
       const cor = directionColor(bearing);
       desenharSeta(ini, fim, bearing, cor);
+
     });
   } catch (e) {
     console.error("Erro ao carregar painel:", e);
