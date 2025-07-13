@@ -47,6 +47,9 @@
   "BEL": {
     "nome": "Brussels Airlines"
   },
+  "BIX": {
+    "nome": "Braathens International Airways"
+  },
   "BTI": {
     "nome": "Air Baltic"
   },
@@ -57,7 +60,7 @@
     "nome": "CCA"
   },
   "CFE": {
-    "nome": "CFE"
+    "nome": "BA CityFlyer"
   },
   "CFG": {
     "nome": "CFG"
@@ -75,7 +78,7 @@
     "nome": "DEA Aviation"
   },
   "DFC": {
-    "nome": "DFC"
+    "nome": "Aeropartner"
   },
   "DLH": {
     "nome": "Lufthansa"
@@ -100,6 +103,9 @@
   },
   "ENT": {
     "nome": "Enter Air"
+  },
+  "ETD": {
+    "nome": "Etihad Airways"
   },
   "ETH": {
     "nome": "Ethiopian Airlines"
@@ -144,7 +150,7 @@
     "nome": "FYL"
   },
   "GMA": {
-    "nome": "GMA"
+    "nome": "Gama Aviation"
   },
   "HAT": {
     "nome": "HAT"
@@ -159,7 +165,7 @@
     "nome": "HRN"
   },
   "IBB": {
-    "nome": "IBB"
+    "nome": "Binter Canarias"
   },
   "IBE": {
     "nome": "Iberia"
@@ -243,7 +249,7 @@
     "nome": "PSV"
   },
   "PUE": {
-    "nome": "PUE"
+    "nome": "Plus Ultra"
   },
   "QTR": {
     "nome": "Qatar Airways"
@@ -306,10 +312,13 @@
     "nome": "TVS"
   },
   "TWY": {
-    "nome": "TWY"
+    "nome": "Solairus Aviation"
   },
   "UAE": {
     "nome": "UAE"
+  },
+  "UAE": {
+    "nome": "United Airlines"
   },
   "VCG": {
     "nome": "VCG"
