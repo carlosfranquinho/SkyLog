@@ -86,6 +86,10 @@ python3 scripts/gerar_resumo_avioes.py
 Processes the latest hourly CSV together with auxiliary data to produce the
 JSON file used by the web panel (`docs/hora_corrente.json`).
 
+The script queries the OpenSky API for route information and, if that fails,
+falls back to [adsb.im](https://adsb.im/api/0/routeset) to resolve the
+departure and destination airports.
+
 ```bash
 python3 scripts/preparar_site.py
 ```
