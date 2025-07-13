@@ -19,8 +19,7 @@ web panel showing the latest detections. The raw CSV logs are kept under the
 - `resumos/` – JSON summaries of aircraft seen
 - `scripts/` – helper scripts used to collect and process the data
 
-Most scripts assume this repository lives in `~/Projetos/SkyLog`. Adjust the
-paths inside the scripts if you keep it somewhere else.
+Scripts look for a variable called `BASE_DIR` which defaults to the repository root. You can override it by exporting `BASE_DIR` before running them.
 
 ## Running the scripts
 
@@ -31,18 +30,24 @@ Run:
 ```bash
 python3 scripts/captura_adsb.py
 ```
+To store the logs in another location, set `BASE_DIR` when executing the script:
+
+```bash
+BASE_DIR=/path/to/dir python3 scripts/captura_adsb.py
+```
 This command is run every minute via cron to capture new aircraft data.
 
 Lines in the script show it directly calls `curl` and stores the files:
-
 ```python
-BASE_DIR = os.path.expanduser("~/Projetos/SkyLog/dados")
-HOURLY_DIR = os.path.join(BASE_DIR, "horarios")
-DAILY_DIR  = os.path.join(BASE_DIR, "diarios")
+root_dir = Path(os.environ.get("BASE_DIR", Path(__file__).resolve().parent.parent))
+base_dir = root_dir / "dados"
+HOURLY_DIR = base_dir / "horarios"
+DAILY_DIR  = base_dir / "diarios"
 # Executar curl para obter o JSON diretamente
-resultado = subprocess.run([
-    "curl", "-s", "http://localhost:8080/data/aircraft.json"
-], check=True, capture_output=True, text=True)
+resultado = subprocess.run(
+    ["curl", "-s", "http://localhost:8080/data/aircraft.json"],
+    check=True, capture_output=True, text=True,
+)
 ```
 
 ### gerar_companhias.py
@@ -70,10 +75,9 @@ python3 scripts/preparar_site.py
 ```
 
 The relevant paths can be seen at the top of the script:
-
 ```python
-BASE_DIR = Path(__file__).resolve().parent.parent
-output_path = BASE_DIR / "docs" / "painel.json"
+base_dir = Path(os.environ.get("BASE_DIR", Path(__file__).resolve().parent.parent))
+output_path = base_dir / "docs" / "painel.json"
 ```
 
 The file is written at the end of the run:
