@@ -1,3 +1,4 @@
+
 async function carregarPainel() {
   try {
     const resp = await fetch("painel.json");
@@ -19,6 +20,16 @@ async function carregarPainel() {
             .join("-")
         )
         .join(" ");
+    }
+
+    function calcBearing(lat1, lon1, lat2, lon2) {
+      const toRad = d => (d * Math.PI) / 180;
+      const dLon = toRad(lon2 - lon1);
+      const y = Math.sin(dLon) * Math.cos(toRad(lat2));
+      const x =
+        Math.cos(toRad(lat1)) * Math.sin(toRad(lat2)) -
+        Math.sin(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.cos(dLon);
+      return ((Math.atan2(y, x) * 180) / Math.PI + 360) % 360;
     }
 
     const ulHora = document.getElementById("ultima-hora-lista");
@@ -101,14 +112,43 @@ async function carregarPainel() {
       attribution: "© OpenStreetMap"
     }).addTo(map);
 
-    const planeIcon = L.divIcon({ className: "plane-icon", html: "✈️", iconSize: [20,20], iconAnchor: [10,10] });
+    function destPoint(lat, lon, brng, distKm) {
+      const R = 6371;
+      const toRad = d => (d * Math.PI) / 180;
+      const toDeg = d => (d * 180) / Math.PI;
+      const b = toRad(brng);
+      const d = distKm / R;
+      const lat1 = toRad(lat);
+      const lon1 = toRad(lon);
+      const lat2 = Math.asin(
+        Math.sin(lat1) * Math.cos(d) + Math.cos(lat1) * Math.sin(d) * Math.cos(b)
+      );
+      const lon2 =
+        lon1 +
+        Math.atan2(
+          Math.sin(b) * Math.sin(d) * Math.cos(lat1),
+          Math.cos(d) - Math.sin(lat1) * Math.sin(lat2)
+        );
+      return [toDeg(lat2), toDeg(lon2)];
+    }
+
+    function desenharSeta(inicio, fim) {
+      L.polyline([inicio, fim], { color: "red", weight: 2 }).addTo(map);
+      const bearing = calcBearing(inicio[0], inicio[1], fim[0], fim[1]);
+      const distKm =
+        map.distance(L.latLng(inicio[0], inicio[1]), L.latLng(fim[0], fim[1])) /
+        1000;
+      const len = Math.min(distKm * 0.2, 20);
+      const left = destPoint(fim[0], fim[1], bearing + 210, len);
+      const right = destPoint(fim[0], fim[1], bearing + 150, len);
+      L.polyline([left, fim, right], { color: "red", weight: 2 }).addTo(map);
+    }
 
     dados.rotas.forEach(r => {
       if (!r.de || !r.para) return;
       const ini = [r.de[0], r.de[1]];
       const fim = [r.para[0], r.para[1]];
-      L.polyline([ini, fim], { color: "red", weight: 2 }).addTo(map);
-      L.marker(fim, { icon: planeIcon }).addTo(map);
+      desenharSeta(ini, fim);
     });
   } catch (e) {
     console.error("Erro ao carregar painel:", e);
