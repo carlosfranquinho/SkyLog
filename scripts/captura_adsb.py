@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 import os
 import csv
+import json
+
 import requests
 from datetime import datetime
 from pathlib import Path
@@ -18,10 +20,13 @@ def main() -> None:
     daily_dir.mkdir(parents=True, exist_ok=True)
 
     # Obter o JSON diretamente via requests
+    url = os.environ.get(
+        "DUMP1090_URL",
+        "http://localhost:8080/data/aircraft.json",
+    )
     try:
-        resposta = requests.get(
-            "http://localhost:8080/data/aircraft.json", timeout=5
-        )
+        resposta = requests.get(url, timeout=5)
+
         resposta.raise_for_status()
         data = resposta.json()
         # O timestamp fornecido pelo dump1090 está em UTC. Convertemos para a

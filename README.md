@@ -7,7 +7,9 @@ web panel showing the latest detections. The raw CSV logs are kept under the
 ## Requirements
 
 - Python 3.8 or newer
-- A running `dump1090` server reachable at `http://localhost:8080`
+- A running `dump1090` server reachable at `http://localhost:8080` (or set
+  `DUMP1090_URL` to a custom endpoint)
+
 - Install Python dependencies with `pip install -r requirements.txt`
 
 ## Directory layout
@@ -36,15 +38,27 @@ BASE_DIR=/path/to/dir python3 scripts/captura_adsb.py
 ```
 This command is run every minute via cron to capture new aircraft data.
 
-The script uses the `requests` library to fetch the JSON data:
+The script uses the `requests` library to fetch the JSON data. You can override
+the default URL with the `DUMP1090_URL` environment variable:
+
 ```python
 root_dir = Path(os.environ.get("BASE_DIR", Path(__file__).resolve().parent.parent))
 base_dir = root_dir / "dados"
 HOURLY_DIR = base_dir / "horarios"
 DAILY_DIR  = base_dir / "diarios"
-resposta = requests.get("http://localhost:8080/data/aircraft.json", timeout=5)
+url = os.environ.get("DUMP1090_URL", "http://localhost:8080/data/aircraft.json")
+resposta = requests.get(url, timeout=5)
 resposta.raise_for_status()
 data = resposta.json()
+```
+
+### gerar_companhias.py
+Parses the hourly CSV files and builds `dados/companhias.json` with a simple
+mapping of callsign prefixes to airline names.
+
+```bash
+python3 scripts/gerar_companhias.py
+
 ```
 
 ### gerar_resumo_avioes.py
