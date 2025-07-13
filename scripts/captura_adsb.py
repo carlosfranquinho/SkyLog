@@ -2,7 +2,7 @@
 import os
 import csv
 import json
-import requests
+import subprocess
 from datetime import datetime
 from pathlib import Path
 
@@ -18,30 +18,33 @@ def main() -> None:
     hourly_dir.mkdir(parents=True, exist_ok=True)
     daily_dir.mkdir(parents=True, exist_ok=True)
 
-    # Obter o JSON diretamente via requests
+    # Obter o JSON diretamente via curl
     url = os.environ.get(
         "DUMP1090_URL",
         "http://localhost:8080/data/aircraft.json",
     )
     print(f"ℹ️ A obter dados de {url}")
     try:
-        session = requests.Session()
-        # Ignore proxy configuration from the environment so the request always
-        # targets the local dump1090 instance directly.
-        session.trust_env = False
-        resposta = session.get(
-            url,
+        resultado = subprocess.run(
+            [
+                "curl",
+                "-sS",
+                "--fail",
+                "--noproxy",
+                "*",
+                url,
+            ],
+            check=True,
+            capture_output=True,
+            text=True,
             timeout=5,
-            headers={"User-Agent": "SkyLog/1.0"},
         )
-
-        resposta.raise_for_status()
-        data = resposta.json()
+        data = json.loads(resultado.stdout)
         # O timestamp fornecido pelo dump1090 está em UTC. Convertemos para a
         # hora local para que os ficheiros sejam gravados com a hora correta.
         now = datetime.fromtimestamp(data["now"])
     except Exception as e:
-        print(f"❌ Erro ao obter dados do dump1090: {e}")
+        print(f"❌ Erro ao obter dados do dump1090 via curl: {e}")
         return
 
     # Verificar se há aviões
