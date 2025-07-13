@@ -24,6 +24,16 @@ Scripts look for a variable called `BASE_DIR` which defaults to the repository r
 
 ## Running the scripts
 
+### Running scripts outside the repository
+When executing a script from another directory (for instance from a cron job),
+export `BASE_DIR` with the absolute path to this repository so all paths resolve
+correctly.
+
+```bash
+export BASE_DIR=/path/to/SkyLog
+python3 /path/to/SkyLog/scripts/captura_adsb.py
+```
+
 ### captura_adsb.py
 Fetches JSON data from `dump1090` and writes hourly and daily CSV files.
 Run:
