@@ -47,14 +47,6 @@ resposta.raise_for_status()
 data = resposta.json()
 ```
 
-### gerar_companhias.py
-Parses the hourly CSV files and builds `dados/companhias.json` with a simple
-mapping of callsign prefixes to airline names.
-
-```bash
-python3 scripts/gerar_companhias.py
-```
-
 ### gerar_resumo_avioes.py
 Aggregates all daily CSV logs and stores a summary in
 `resumos/avioes.json`.
@@ -101,8 +93,7 @@ This script is triggered hourly via cron to publish the updated site.
 
 1. Run `captura_adsb.py` periodically to gather new data. This repository uses
    a cron job to execute it every minute.
-2. Optionally run `gerar_companhias.py` and `gerar_resumo_avioes.py` to refresh
-   the auxiliary JSON files.
+2. Optionally run `gerar_resumo_avioes.py` to refresh the auxiliary JSON files.
 3. Run `preparar_site.py` to create `docs/painel.json`.
 4. Serve the contents of the `docs/` directory with any static web server or
    push them to GitHub Pages. The `publicar_site.sh` script, executed hourly via
