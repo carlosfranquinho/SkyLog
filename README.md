@@ -9,6 +9,7 @@ web panel showing the latest detections. The raw CSV logs are kept under the
 - Python 3.8 or newer
 - `curl` available in the system PATH
 - A running `dump1090` server reachable at `http://localhost:8080`
+- Install Python dependencies with `pip install -r requirements.txt`
 
 ## Directory layout
 
