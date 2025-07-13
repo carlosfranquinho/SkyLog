@@ -51,12 +51,12 @@ async function carregarPainel() {
 
     const ulPaises = document.getElementById("top-paises-lista");
     dados.top_paises.forEach(p => {
-      ulPaises.innerHTML += `<li>${p.bandeira || ""} ${p.pais}: ${p.total} aviões</li>`;
+      ulPaises.innerHTML += `<li>${p.bandeira || ""} <strong>${p.pais}</strong>: ${p.total} aviões</li>`;
     });
 
     const ulCias = document.getElementById("top-companhias-lista");
     dados.top_companhias.forEach(c => {
-      ulCias.innerHTML += `<li>${c.cia}: ${c.total} voos</li>`;
+      ulCias.innerHTML += `<li><strong>${c.cia}</strong>: ${c.total} voos</li>`;
     });
 
     const map = L.map("mapa").setView([39.7078, -8.0570], 8);
