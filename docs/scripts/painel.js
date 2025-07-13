@@ -95,10 +95,21 @@ async function carregarPainel() {
         }
       });
 
+      const horaRef = new Date(dados.ultima_hora[0].hora + "Z");
+      const h = new Intl.DateTimeFormat("pt-PT", {
+        hour: "2-digit",
+        hour12: false,
+        timeZone: "Europe/Lisbon",
+      })
+        .format(horaRef)
+        .padStart(2, "0");
+      const prox = String((parseInt(h, 10) + 1) % 24).padStart(2, "0");
+
       resumoEl.textContent =
-        `Na última hora foram detetados ${total} aviões de ${paisesSet.size} países e ${ciasSet.size} companhias. ` +
+        `Entre as ${h}h00m e as ${h}h59 foram detetados ${total} aviões de ${paisesSet.size} países e ${ciasSet.size} companhias. ` +
         `O avião mais distante estava a ${maxDist}km sobre ${capitalizar(maxLoc)} e o mais próximo a ${minDist}km, sobre ${capitalizar(minLoc)}. ` +
-        `Entre estes avistamentos, houve ${semLoc} aviões que não partilharam a sua localização.`;
+        `Entre estes avistamentos, houve ${semLoc} aviões que não partilharam a sua localização. ` +
+        `Próxima atualização às ${prox}h03m.`;
     }
 
     const ulCias = document.getElementById("top-companhias-lista");
