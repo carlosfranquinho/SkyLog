@@ -123,6 +123,7 @@ def _obter_rota_adsb(callsign: str, lat: float, lon: float) -> tuple[str | None,
                 origem = _obter_nome_aeroporto(origem_icao)
                 destino = _obter_nome_aeroporto(destino_icao)
                 return origem, destino
+
     except Exception:
         pass
     return None, None
