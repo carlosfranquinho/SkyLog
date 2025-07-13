@@ -5,8 +5,11 @@ import csv
 import json
 from collections import Counter
 
+
 def main() -> None:
-    base_dir = Path(os.environ.get("BASE_DIR", Path(__file__).resolve().parent.parent))
+    base_dir = Path(
+        os.environ.get("BASE_DIR", Path(__file__).resolve().parent.parent)
+    )
     csv_dir = base_dir / "dados" / "horarios"
     saida = base_dir / "dados" / "companhias.json"
 

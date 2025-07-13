@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import os
 import csv
-import json
 import requests
 from datetime import datetime
 from pathlib import Path
@@ -9,7 +8,9 @@ from pathlib import Path
 
 def main() -> None:
     # Diretórios base
-    root_dir = Path(os.environ.get("BASE_DIR", Path(__file__).resolve().parent.parent))
+    root_dir = Path(
+        os.environ.get("BASE_DIR", Path(__file__).resolve().parent.parent)
+    )
     base_dir = root_dir / "dados"
     hourly_dir = base_dir / "horarios"
     daily_dir = base_dir / "diarios"
