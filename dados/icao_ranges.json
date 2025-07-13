@@ -626,8 +626,8 @@
   {
     "start": "498000",
     "end": "49FFFF",
-    "country": "Czechia",
-    "bandeira": ""
+    "country": "Chéquia",
+    "bandeira": "🇨🇿"
   },
   {
     "start": "4A0000",
@@ -650,8 +650,8 @@
   {
     "start": "4B8000",
     "end": "4BFFFF",
-    "country": "Turkey",
-    "bandeira": ""
+    "country": "Turquia",
+    "bandeira": "🇹🇷"
   },
   {
     "start": "4C0000",
@@ -722,8 +722,8 @@
   {
     "start": "503C00",
     "end": "503FFF",
-    "country": "Lithuania",
-    "bandeira": ""
+    "country": "Lituânia",
+    "bandeira": "🇱🇹"
   },
   {
     "start": "504C00",
@@ -734,8 +734,8 @@
   {
     "start": "505C00",
     "end": "505FFF",
-    "country": "Slovakia",
-    "bandeira": ""
+    "country": "Eslováquia",
+    "bandeira": "🇸🇰"
   },
   {
     "start": "506C00",
@@ -908,14 +908,14 @@
   {
     "start": "718000",
     "end": "71FFFF",
-    "country": "South Korea",
-    "bandeira": ""
+    "country": "Coreia do Sul",
+    "bandeira": "🇰🇷"
   },
   {
     "start": "720000",
     "end": "727FFF",
-    "country": "North Korea",
-    "bandeira": ""
+    "country": "Coreia do Norte",
+    "bandeira": "🇰🇵"
   },
   {
     "start": "728000",
@@ -1161,7 +1161,7 @@
     "start": "E80000",
     "end": "E80FFF",
     "country": "Chile",
-    "bandeira": ""
+    "bandeira": "🇨🇱"
   },
   {
     "start": "E84000",

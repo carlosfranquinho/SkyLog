@@ -6,10 +6,10 @@
     "nome": "ACA"
   },
   "AEA": {
-    "nome": "AEA"
+    "nome": "Air Europa"
   },
   "AEE": {
-    "nome": "AEE"
+    "nome": "Aegean Airlines"
   },
   "AFR": {
     "nome": "Air France"
@@ -21,7 +21,7 @@
     "nome": "AMQ"
   },
   "AMX": {
-    "nome": "AMX"
+    "nome": "Aeromexico"
   },
   "ANE": {
     "nome": "Air Nostrum"
@@ -183,7 +183,7 @@
     "nome": "KLM"
   },
   "LAN": {
-    "nome": "LAN"
+    "nome": "LATAM Airlines"
   },
   "LCO": {
     "nome": "LCO"
@@ -285,7 +285,7 @@
     "nome": "TAP Air Portugal"
   },
   "TFL": {
-    "nome": "TFL"
+    "nome": "TUI Airlines Netherlands"
   },
   "THY": {
     "nome": "THY"

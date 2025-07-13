@@ -1,1 +1,4074 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"nome": "SANTA CRUZ"}, "geometry": {"type": "Point", "coordinates": [-16.7794792065, 32.6586877188]}}, {"type": "Feature", "properties": {"nome": "PORTALEGRE"}, "geometry": {"type": "Point", "coordinates": [-7.39957153732, 39.2692742805]}}, {"type": "Feature", "properties": {"nome": "MARCO DE CANAVESES"}, "geometry": {"type": "Point", "coordinates": [-8.15830889297, 41.1555799317]}}, {"type": "Feature", "properties": {"nome": "MONCHIQUE"}, "geometry": {"type": "Point", "coordinates": [-8.59169323557, 37.3161699756]}}, {"type": "Feature", "properties": {"nome": "ALIJÓ"}, "geometry": {"type": "Point", "coordinates": [-7.48600279882, 41.303812774]}}, {"type": "Feature", "properties": {"nome": "SETÚBAL"}, "geometry": {"type": "Point", "coordinates": [-8.88748678619, 38.5161301492]}}, {"type": "Feature", "properties": {"nome": "BATALHA"}, "geometry": {"type": "Point", "coordinates": [-8.76554078325, 39.6370548229]}}, {"type": "Feature", "properties": {"nome": "ALANDROAL"}, "geometry": {"type": "Point", "coordinates": [-7.38289541638, 38.6157701823]}}, {"type": "Feature", "properties": {"nome": "LOURES"}, "geometry": {"type": "Point", "coordinates": [-9.15167693243, 38.8613019271]}}, {"type": "Feature", "properties": {"nome": "CINFÃES"}, "geometry": {"type": "Point", "coordinates": [-8.10257614311, 41.035238177]}}, {"type": "Feature", "properties": {"nome": "ÓBIDOS"}, "geometry": {"type": "Point", "coordinates": [-9.1892550116, 39.3633257212]}}, {"type": "Feature", "properties": {"nome": "PAMPILHOSA DA SERRA"}, "geometry": {"type": "Point", "coordinates": [-7.91636680323, 40.0843134951]}}, {"type": "Feature", "properties": {"nome": "TAVIRA"}, "geometry": {"type": "Point", "coordinates": [-7.73227886671, 37.2251647401]}}, {"type": "Feature", "properties": {"nome": "ÁGUEDA"}, "geometry": {"type": "Point", "coordinates": [-8.39564039997, 40.5860116551]}}, {"type": "Feature", "properties": {"nome": "SEIA"}, "geometry": {"type": "Point", "coordinates": [-7.71916306029, 40.3777656499]}}, {"type": "Feature", "properties": {"nome": "PAÇOS DE FERREIRA"}, "geometry": {"type": "Point", "coordinates": [-8.38000815364, 41.2885150447]}}, {"type": "Feature", "properties": {"nome": "ESPINHO"}, "geometry": {"type": "Point", "coordinates": [-8.6258263307, 40.9947650042]}}, {"type": "Feature", "properties": {"nome": "SERNANCELHE"}, "geometry": {"type": "Point", "coordinates": [-7.50709279411, 40.9100201949]}}, {"type": "Feature", "properties": {"nome": "ALTER DO CHÃO"}, "geometry": {"type": "Point", "coordinates": [-7.72488848553, 39.2129762117]}}, {"type": "Feature", "properties": {"nome": "VILA DO CONDE"}, "geometry": {"type": "Point", "coordinates": [-8.68285326419, 41.338034316]}}, {"type": "Feature", "properties": {"nome": "AGUIAR DA BEIRA"}, "geometry": {"type": "Point", "coordinates": [-7.52838928095, 40.7811658696]}}, {"type": "Feature", "properties": {"nome": "OLHÃO"}, "geometry": {"type": "Point", "coordinates": [-7.81045990664, 37.0620446659]}}, {"type": "Feature", "properties": {"nome": "CORUCHE"}, "geometry": {"type": "Point", "coordinates": [-8.44752251587, 38.9402178306]}}, {"type": "Feature", "properties": {"nome": "SOBRAL DE MONTE AGRAÇO"}, "geometry": {"type": "Point", "coordinates": [-9.16072049969, 38.9951389004]}}, {"type": "Feature", "properties": {"nome": "ALJUSTREL"}, "geometry": {"type": "Point", "coordinates": [-8.18811393759, 37.8878614604]}}, {"type": "Feature", "properties": {"nome": "ALCÁCER DO SAL"}, "geometry": {"type": "Point", "coordinates": [-8.48086850722, 38.3694749145]}}, {"type": "Feature", "properties": {"nome": "PORTO SANTO"}, "geometry": {"type": "Point", "coordinates": [-16.3438291583, 33.0664555682]}}, {"type": "Feature", "properties": {"nome": "ANGRA DO HEROÍSMO"}, "geometry": {"type": "Point", "coordinates": [-27.2488628981, 38.7082254883]}}, {"type": "Feature", "properties": {"nome": "ARRONCHES"}, "geometry": {"type": "Point", "coordinates": [-7.24334664694, 39.1168633889]}}, {"type": "Feature", "properties": {"nome": "BELMONTE"}, "geometry": {"type": "Point", "coordinates": [-7.32967245785, 40.3307730043]}}, {"type": "Feature", "properties": {"nome": "BARCELOS"}, "geometry": {"type": "Point", "coordinates": [-8.62372592788, 41.5367036602]}}, {"type": "Feature", "properties": {"nome": "SABROSA"}, "geometry": {"type": "Point", "coordinates": [-7.59864350285, 41.2523537367]}}, {"type": "Feature", "properties": {"nome": "CELORICO DA BEIRA"}, "geometry": {"type": "Point", "coordinates": [-7.38494438109, 40.6223050391]}}, {"type": "Feature", "properties": {"nome": "AVIS"}, "geometry": {"type": "Point", "coordinates": [-7.91285394119, 39.0696866158]}}, {"type": "Feature", "properties": {"nome": "ODIVELAS"}, "geometry": {"type": "Point", "coordinates": [-9.19928016957, 38.7979224911]}}, {"type": "Feature", "properties": {"nome": "MONÇÃO"}, "geometry": {"type": "Point", "coordinates": [-8.42636799037, 42.0272438262]}}, {"type": "Feature", "properties": {"nome": "ALFÂNDEGA DA FÉ"}, "geometry": {"type": "Point", "coordinates": [-6.95112269583, 41.3498498017]}}, {"type": "Feature", "properties": {"nome": "ARGANIL"}, "geometry": {"type": "Point", "coordinates": [-7.98548830571, 40.2290375645]}}, {"type": "Feature", "properties": {"nome": "SABUGAL"}, "geometry": {"type": "Point", "coordinates": [-7.03246067529, 40.373280589]}}, {"type": "Feature", "properties": {"nome": "MOGADOURO"}, "geometry": {"type": "Point", "coordinates": [-6.67004464624, 41.3333784466]}}, {"type": "Feature", "properties": {"nome": "REDONDO"}, "geometry": {"type": "Point", "coordinates": [-7.5987846716, 38.6256140757]}}, {"type": "Feature", "properties": {"nome": "SINES"}, "geometry": {"type": "Point", "coordinates": [-8.77777723847, 37.9248863546]}}, {"type": "Feature", "properties": {"nome": "LEIRIA"}, "geometry": {"type": "Point", "coordinates": [-8.80234458992, 39.7894783079]}}, {"type": "Feature", "properties": {"nome": "MONFORTE"}, "geometry": {"type": "Point", "coordinates": [-7.43538898253, 39.0478864914]}}, {"type": "Feature", "properties": {"nome": "VILA NOVA DE CERVEIRA"}, "geometry": {"type": "Point", "coordinates": [-8.70662283311, 41.9172764859]}}, {"type": "Feature", "properties": {"nome": "VILA DO PORTO"}, "geometry": {"type": "Point", "coordinates": [-25.0993717455, 36.9722671773]}}, {"type": "Feature", "properties": {"nome": "CORVO"}, "geometry": {"type": "Point", "coordinates": [-31.1058534547, 39.6999259198]}}, {"type": "Feature", "properties": {"nome": "ALCANENA"}, "geometry": {"type": "Point", "coordinates": [-8.68930368626, 39.4723627246]}}, {"type": "Feature", "properties": {"nome": "GUARDA"}, "geometry": {"type": "Point", "coordinates": [-7.24505031741, 40.5195200161]}}, {"type": "Feature", "properties": {"nome": "IDANHA-A-NOVA"}, "geometry": {"type": "Point", "coordinates": [-7.11303833732, 39.9002853411]}}, {"type": "Feature", "properties": {"nome": "FERREIRA DO ALENTEJO"}, "geometry": {"type": "Point", "coordinates": [-8.18886890789, 38.0882549949]}}, {"type": "Feature", "properties": {"nome": "MONTIJO"}, "geometry": {"type": "Point", "coordinates": [-8.69356978426, 38.7299199937]}}, {"type": "Feature", "properties": {"nome": "SERPA"}, "geometry": {"type": "Point", "coordinates": [-7.48963735602, 37.932941056]}}, {"type": "Feature", "properties": {"nome": "SANTO TIRSO"}, "geometry": {"type": "Point", "coordinates": [-8.44401083504, 41.3209016214]}}, {"type": "Feature", "properties": {"nome": "MESÃO FRIO"}, "geometry": {"type": "Point", "coordinates": [-7.87100754502, 41.1639177357]}}, {"type": "Feature", "properties": {"nome": "MONDIM DE BASTO"}, "geometry": {"type": "Point", "coordinates": [-7.89507939128, 41.3887201928]}}, {"type": "Feature", "properties": {"nome": "TÁBUA"}, "geometry": {"type": "Point", "coordinates": [-8.01519045812, 40.3341648684]}}, {"type": "Feature", "properties": {"nome": "SANTA MARIA DA FEIRA"}, "geometry": {"type": "Point", "coordinates": [-8.51052121277, 40.9669607957]}}, {"type": "Feature", "properties": {"nome": "PALMELA"}, "geometry": {"type": "Point", "coordinates": [-8.80662157505, 38.6178048301]}}, {"type": "Feature", "properties": {"nome": "GOUVEIA"}, "geometry": {"type": "Point", "coordinates": [-7.58032334706, 40.501374929]}}, {"type": "Feature", "properties": {"nome": "MURÇA"}, "geometry": {"type": "Point", "coordinates": [-7.44074134432, 41.4224014334]}}, {"type": "Feature", "properties": {"nome": "SÃO JOÃO DA PESQUEIRA"}, "geometry": {"type": "Point", "coordinates": [-7.43800141708, 41.1185231084]}}, {"type": "Feature", "properties": {"nome": "SÃO BRÁS DE ALPORTEL"}, "geometry": {"type": "Point", "coordinates": [-7.8786422069, 37.1956837928]}}, {"type": "Feature", "properties": {"nome": "MOIMENTA DA BEIRA"}, "geometry": {"type": "Point", "coordinates": [-7.63857607363, 40.96426801]}}, {"type": "Feature", "properties": {"nome": "ALCOBAÇA"}, "geometry": {"type": "Point", "coordinates": [-8.99043280948, 39.5524165141]}}, {"type": "Feature", "properties": {"nome": "ALPIARÇA"}, "geometry": {"type": "Point", "coordinates": [-8.5705605966, 39.2411307066]}}, {"type": "Feature", "properties": {"nome": "CASTRO DAIRE"}, "geometry": {"type": "Point", "coordinates": [-7.93291729884, 40.9128913252]}}, {"type": "Feature", "properties": {"nome": "VILA REAL DE SANTO ANTÓNIO"}, "geometry": {"type": "Point", "coordinates": [-7.51928275595, 37.1943431881]}}, {"type": "Feature", "properties": {"nome": "MARVÃO"}, "geometry": {"type": "Point", "coordinates": [-7.36279616068, 39.4053086028]}}, {"type": "Feature", "properties": {"nome": "BOTICAS"}, "geometry": {"type": "Point", "coordinates": [-7.73401724687, 41.6759477736]}}, {"type": "Feature", "properties": {"nome": "TONDELA"}, "geometry": {"type": "Point", "coordinates": [-8.12270462498, 40.5433579125]}}, {"type": "Feature", "properties": {"nome": "ESTREMOZ"}, "geometry": {"type": "Point", "coordinates": [-7.61367639203, 38.8454622593]}}, {"type": "Feature", "properties": {"nome": "VILA NOVA DE GAIA"}, "geometry": {"type": "Point", "coordinates": [-8.58053562969, 41.0744436653]}}, {"type": "Feature", "properties": {"nome": "CAMPO MAIOR"}, "geometry": {"type": "Point", "coordinates": [-7.05046975523, 39.0261946457]}}, {"type": "Feature", "properties": {"nome": "MELGAÇO"}, "geometry": {"type": "Point", "coordinates": [-8.21331441065, 42.0496275315]}}, {"type": "Feature", "properties": {"nome": "VILA POUCA DE AGUIAR"}, "geometry": {"type": "Point", "coordinates": [-7.6232661936, 41.5109986673]}}, {"type": "Feature", "properties": {"nome": "SANTA COMBA DÃO"}, "geometry": {"type": "Point", "coordinates": [-8.11563948028, 40.4005922162]}}, {"type": "Feature", "properties": {"nome": "CASTELO DE VIDE"}, "geometry": {"type": "Point", "coordinates": [-7.4933198519, 39.464562115]}}, {"type": "Feature", "properties": {"nome": "POVOAÇÃO"}, "geometry": {"type": "Point", "coordinates": [-25.2601892486, 37.7659581523]}}, {"type": "Feature", "properties": {"nome": "PENACOVA"}, "geometry": {"type": "Point", "coordinates": [-8.26756535076, 40.2975642951]}}, {"type": "Feature", "properties": {"nome": "SANTA MARTA DE PENAGUIÃO"}, "geometry": {"type": "Point", "coordinates": [-7.80226524703, 41.2280717578]}}, {"type": "Feature", "properties": {"nome": "RIBEIRA DE PENA"}, "geometry": {"type": "Point", "coordinates": [-7.7969602055, 41.508887174]}}, {"type": "Feature", "properties": {"nome": "RIO MAIOR"}, "geometry": {"type": "Point", "coordinates": [-8.9014192329, 39.3289288003]}}, {"type": "Feature", "properties": {"nome": "LOUSADA"}, "geometry": {"type": "Point", "coordinates": [-8.2751407655, 41.2855288819]}}, {"type": "Feature", "properties": {"nome": "VIANA DO CASTELO"}, "geometry": {"type": "Point", "coordinates": [-8.7593667539, 41.7170196414]}}, {"type": "Feature", "properties": {"nome": "MAIA"}, "geometry": {"type": "Point", "coordinates": [-8.60136413143, 41.2449463567]}}, {"type": "Feature", "properties": {"nome": "OLIVEIRA DE AZEMÉIS"}, "geometry": {"type": "Point", "coordinates": [-8.46838591268, 40.8422137663]}}, {"type": "Feature", "properties": {"nome": "MATOSINHOS"}, "geometry": {"type": "Point", "coordinates": [-8.67143059904, 41.2129725594]}}, {"type": "Feature", "properties": {"nome": "VILA REAL"}, "geometry": {"type": "Point", "coordinates": [-7.73861544879, 41.3116521048]}}, {"type": "Feature", "properties": {"nome": "LAJES DO PICO"}, "geometry": {"type": "Point", "coordinates": [-28.2238929048, 38.4299691504]}}, {"type": "Feature", "properties": {"nome": "PORTEL"}, "geometry": {"type": "Point", "coordinates": [-7.69671778114, 38.3018381421]}}, {"type": "Feature", "properties": {"nome": "ARCOS DE VALDEVEZ"}, "geometry": {"type": "Point", "coordinates": [-8.36451810547, 41.9028597627]}}, {"type": "Feature", "properties": {"nome": "ANSIÃO"}, "geometry": {"type": "Point", "coordinates": [-8.43867840733, 39.9341603826]}}, {"type": "Feature", "properties": {"nome": "CUBA"}, "geometry": {"type": "Point", "coordinates": [-7.91350836704, 38.1927565374]}}, {"type": "Feature", "properties": {"nome": "MOITA"}, "geometry": {"type": "Point", "coordinates": [-9.00140410034, 38.6535265238]}}, {"type": "Feature", "properties": {"nome": "SEVER DO VOUGA"}, "geometry": {"type": "Point", "coordinates": [-8.35201392712, 40.7240972536]}}, {"type": "Feature", "properties": {"nome": "FORNOS DE ALGODRES"}, "geometry": {"type": "Point", "coordinates": [-7.50009695321, 40.6510432911]}}, {"type": "Feature", "properties": {"nome": "SANTIAGO DO CACÉM"}, "geometry": {"type": "Point", "coordinates": [-8.56807484994, 37.9531391552]}}, {"type": "Feature", "properties": {"nome": "MONTALEGRE"}, "geometry": {"type": "Point", "coordinates": [-7.85136778225, 41.7755870335]}}, {"type": "Feature", "properties": {"nome": "PAREDES"}, "geometry": {"type": "Point", "coordinates": [-8.39613055058, 41.1815173398]}}, {"type": "Feature", "properties": {"nome": "GAVIÃO"}, "geometry": {"type": "Point", "coordinates": [-7.89501419776, 39.4388352334]}}, {"type": "Feature", "properties": {"nome": "BARREIRO"}, "geometry": {"type": "Point", "coordinates": [-9.04496508103, 38.628427084]}}, {"type": "Feature", "properties": {"nome": "SILVES"}, "geometry": {"type": "Point", "coordinates": [-8.34584899027, 37.2703301534]}}, {"type": "Feature", "properties": {"nome": "TRANCOSO"}, "geometry": {"type": "Point", "coordinates": [-7.33470187252, 40.7914769881]}}, {"type": "Feature", "properties": {"nome": "NELAS"}, "geometry": {"type": "Point", "coordinates": [-7.86520665696, 40.5268734225]}}, {"type": "Feature", "properties": {"nome": "OLEIROS"}, "geometry": {"type": "Point", "coordinates": [-7.87111367598, 39.9445809844]}}, {"type": "Feature", "properties": {"nome": "FARO"}, "geometry": {"type": "Point", "coordinates": [-7.91824308469, 37.0556351594]}}, {"type": "Feature", "properties": {"nome": "LAJES DAS FLORES"}, "geometry": {"type": "Point", "coordinates": [-31.2141961392, 39.4136529604]}}, {"type": "Feature", "properties": {"nome": "CADAVAL"}, "geometry": {"type": "Point", "coordinates": [-9.06754662538, 39.2349061794]}}, {"type": "Feature", "properties": {"nome": "TORRE DE MONCORVO"}, "geometry": {"type": "Point", "coordinates": [-7.01680280796, 41.1725858023]}}, {"type": "Feature", "properties": {"nome": "ÉVORA"}, "geometry": {"type": "Point", "coordinates": [-7.87021871806, 38.5331386929]}}, {"type": "Feature", "properties": {"nome": "REGUENGOS DE MONSARAZ"}, "geometry": {"type": "Point", "coordinates": [-7.47743034186, 38.3961185649]}}, {"type": "Feature", "properties": {"nome": "ARMAMAR"}, "geometry": {"type": "Point", "coordinates": [-7.67756840229, 41.0949064823]}}, {"type": "Feature", "properties": {"nome": "CHAVES"}, "geometry": {"type": "Point", "coordinates": [-7.43706805099, 41.7502067822]}}, {"type": "Feature", "properties": {"nome": "ARRAIOLOS"}, "geometry": {"type": "Point", "coordinates": [-7.91637326391, 38.7867564359]}}, {"type": "Feature", "properties": {"nome": "AMADORA"}, "geometry": {"type": "Point", "coordinates": [-9.2295034408, 38.7598125778]}}, {"type": "Feature", "properties": {"nome": "MACHICO"}, "geometry": {"type": "Point", "coordinates": [-16.802312175, 32.7408414834]}}, {"type": "Feature", "properties": {"nome": "ALVAIÁZERE"}, "geometry": {"type": "Point", "coordinates": [-8.39541115133, 39.8192487888]}}, {"type": "Feature", "properties": {"nome": "TROFA"}, "geometry": {"type": "Point", "coordinates": [-8.56725632579, 41.3113699968]}}, {"type": "Feature", "properties": {"nome": "MONTEMOR-O-VELHO"}, "geometry": {"type": "Point", "coordinates": [-8.65845738712, 40.2146897264]}}, {"type": "Feature", "properties": {"nome": "SARDOAL"}, "geometry": {"type": "Point", "coordinates": [-8.13850671449, 39.5629739433]}}, {"type": "Feature", "properties": {"nome": "ALMADA"}, "geometry": {"type": "Point", "coordinates": [-9.19306309921, 38.6356288593]}}, {"type": "Feature", "properties": {"nome": "POMBAL"}, "geometry": {"type": "Point", "coordinates": [-8.67770173688, 39.9265967081]}}, {"type": "Feature", "properties": {"nome": "BAIÃO"}, "geometry": {"type": "Point", "coordinates": [-7.98925003345, 41.157567102]}}, {"type": "Feature", "properties": {"nome": "SÃO ROQUE DO PICO"}, "geometry": {"type": "Point", "coordinates": [-28.3163443553, 38.4953655078]}}, {"type": "Feature", "properties": {"nome": "PONTA DELGADA"}, "geometry": {"type": "Point", "coordinates": [-25.7287026512, 37.8193899369]}}, {"type": "Feature", "properties": {"nome": "LAGOA"}, "geometry": {"type": "Point", "coordinates": [-25.5358486195, 37.7458645312]}}, {"type": "Feature", "properties": {"nome": "VILA FRANCA DO CAMPO"}, "geometry": {"type": "Point", "coordinates": [-25.4177555866, 37.7445393407]}}, {"type": "Feature", "properties": {"nome": "SÃO PEDRO DO SUL"}, "geometry": {"type": "Point", "coordinates": [-8.09463656198, 40.8163953154]}}, {"type": "Feature", "properties": {"nome": "CARREGAL DO SAL"}, "geometry": {"type": "Point", "coordinates": [-7.98801371922, 40.4497812742]}}, {"type": "Feature", "properties": {"nome": "VINHAIS"}, "geometry": {"type": "Point", "coordinates": [-7.04866492241, 41.8324999858]}}, {"type": "Feature", "properties": {"nome": "MORA"}, "geometry": {"type": "Point", "coordinates": [-8.08882286377, 38.918895634]}}, {"type": "Feature", "properties": {"nome": "PENELA"}, "geometry": {"type": "Point", "coordinates": [-8.36984825343, 40.0101234676]}}, {"type": "Feature", "properties": {"nome": "VILA VERDE"}, "geometry": {"type": "Point", "coordinates": [-8.44347531724, 41.6807592837]}}, {"type": "Feature", "properties": {"nome": "RESENDE"}, "geometry": {"type": "Point", "coordinates": [-7.93977232417, 41.0762155024]}}, {"type": "Feature", "properties": {"nome": "CALDAS DA RAINHA"}, "geometry": {"type": "Point", "coordinates": [-9.0881996199, 39.4075744392]}}, {"type": "Feature", "properties": {"nome": "VILA VELHA DE RÓDÃO"}, "geometry": {"type": "Point", "coordinates": [-7.663771161, 39.6809297797]}}, {"type": "Feature", "properties": {"nome": "SOUSEL"}, "geometry": {"type": "Point", "coordinates": [-7.73947368818, 38.9615163832]}}, {"type": "Feature", "properties": {"nome": "AVEIRO"}, "geometry": {"type": "Point", "coordinates": [-8.62828954684, 40.6421974689]}}, {"type": "Feature", "properties": {"nome": "OURÉM"}, "geometry": {"type": "Point", "coordinates": [-8.57422974591, 39.6923775296]}}, {"type": "Feature", "properties": {"nome": "NORDESTE"}, "geometry": {"type": "Point", "coordinates": [-25.2169130042, 37.8235488809]}}, {"type": "Feature", "properties": {"nome": "SANTANA"}, "geometry": {"type": "Point", "coordinates": [-16.9051279667, 32.7812961591]}}, {"type": "Feature", "properties": {"nome": "ALMEIRIM"}, "geometry": {"type": "Point", "coordinates": [-8.57998922407, 39.1589291684]}}, {"type": "Feature", "properties": {"nome": "MANTEIGAS"}, "geometry": {"type": "Point", "coordinates": [-7.52005856007, 40.3911442589]}}, {"type": "Feature", "properties": {"nome": "MORTÁGUA"}, "geometry": {"type": "Point", "coordinates": [-8.25315096344, 40.4195198501]}}, {"type": "Feature", "properties": {"nome": "FELGUEIRAS"}, "geometry": {"type": "Point", "coordinates": [-8.20158540692, 41.350599911]}}, {"type": "Feature", "properties": {"nome": "ESPOSENDE"}, "geometry": {"type": "Point", "coordinates": [-8.75799486393, 41.5469456488]}}, {"type": "Feature", "properties": {"nome": "TORRES NOVAS"}, "geometry": {"type": "Point", "coordinates": [-8.55081678754, 39.5055513699]}}, {"type": "Feature", "properties": {"nome": "BEJA"}, "geometry": {"type": "Point", "coordinates": [-7.85590629379, 37.9624527542]}}, {"type": "Feature", "properties": {"nome": "COVILHÃ"}, "geometry": {"type": "Point", "coordinates": [-7.56260874233, 40.2567146746]}}, {"type": "Feature", "properties": {"nome": "ALENQUER"}, "geometry": {"type": "Point", "coordinates": [-9.03905968235, 39.0981612804]}}, {"type": "Feature", "properties": {"nome": "PENALVA DO CASTELO"}, "geometry": {"type": "Point", "coordinates": [-7.65588052842, 40.6713060481]}}, {"type": "Feature", "properties": {"nome": "SEIXAL"}, "geometry": {"type": "Point", "coordinates": [-9.10879269683, 38.6046136473]}}, {"type": "Feature", "properties": {"nome": "NISA"}, "geometry": {"type": "Point", "coordinates": [-7.66757882971, 39.5228715977]}}, {"type": "Feature", "properties": {"nome": "PENEDONO"}, "geometry": {"type": "Point", "coordinates": [-7.39508244136, 40.9912367793]}}, {"type": "Feature", "properties": {"nome": "FAFE"}, "geometry": {"type": "Point", "coordinates": [-8.14826016851, 41.4772566148]}}, {"type": "Feature", "properties": {"nome": "VILA FLOR"}, "geometry": {"type": "Point", "coordinates": [-7.15946612859, 41.3216881355]}}, {"type": "Feature", "properties": {"nome": "MIRANDA DO CORVO"}, "geometry": {"type": "Point", "coordinates": [-8.32739995973, 40.1048593385]}}, {"type": "Feature", "properties": {"nome": "PENICHE"}, "geometry": {"type": "Point", "coordinates": [-9.31942538703, 39.338692537]}}, {"type": "Feature", "properties": {"nome": "SALVATERRA DE MAGOS"}, "geometry": {"type": "Point", "coordinates": [-8.68780525069, 39.0467250754]}}, {"type": "Feature", "properties": {"nome": "PONTE DE LIMA"}, "geometry": {"type": "Point", "coordinates": [-8.58751334161, 41.757423139]}}, {"type": "Feature", "properties": {"nome": "VELAS"}, "geometry": {"type": "Point", "coordinates": [-28.1505034618, 38.6832477466]}}, {"type": "Feature", "properties": {"nome": "PONTA DO SOL"}, "geometry": {"type": "Point", "coordinates": [-17.0939105534, 32.7227933164]}}, {"type": "Feature", "properties": {"nome": "ANADIA"}, "geometry": {"type": "Point", "coordinates": [-8.44278366736, 40.4526182401]}}, {"type": "Feature", "properties": {"nome": "OLIVEIRA DO HOSPITAL"}, "geometry": {"type": "Point", "coordinates": [-7.8637221792, 40.368463776]}}, {"type": "Feature", "properties": {"nome": "ELVAS"}, "geometry": {"type": "Point", "coordinates": [-7.2288587776, 38.9104962746]}}, {"type": "Feature", "properties": {"nome": "VILA NOVA DA BARQUINHA"}, "geometry": {"type": "Point", "coordinates": [-8.40041127353, 39.4816760106]}}, {"type": "Feature", "properties": {"nome": "MONTEMOR-O-NOVO"}, "geometry": {"type": "Point", "coordinates": [-8.29614404789, 38.6485711005]}}, {"type": "Feature", "properties": {"nome": "SERTÃ"}, "geometry": {"type": "Point", "coordinates": [-8.09917695345, 39.8244357335]}}, {"type": "Feature", "properties": {"nome": "FREIXO DE ESPADA À CINTA"}, "geometry": {"type": "Point", "coordinates": [-6.83272221189, 41.1135146998]}}, {"type": "Feature", "properties": {"nome": "BORBA"}, "geometry": {"type": "Point", "coordinates": [-7.46934745389, 38.8165320338]}}, {"type": "Feature", "properties": {"nome": "VILA DE REI"}, "geometry": {"type": "Point", "coordinates": [-8.14431221928, 39.6831180658]}}, {"type": "Feature", "properties": {"nome": "AMARES"}, "geometry": {"type": "Point", "coordinates": [-8.34530223974, 41.6516821741]}}, {"type": "Feature", "properties": {"nome": "PESO DA RÉGUA"}, "geometry": {"type": "Point", "coordinates": [-7.76876659033, 41.1832733941]}}, {"type": "Feature", "properties": {"nome": "GOLEGÃ"}, "geometry": {"type": "Point", "coordinates": [-8.51104812975, 39.3820625018]}}, {"type": "Feature", "properties": {"nome": "BENAVENTE"}, "geometry": {"type": "Point", "coordinates": [-8.81105308045, 38.8677611574]}}, {"type": "Feature", "properties": {"nome": "LAMEGO"}, "geometry": {"type": "Point", "coordinates": [-7.82250258953, 41.0807185396]}}, {"type": "Feature", "properties": {"nome": "LOULÉ"}, "geometry": {"type": "Point", "coordinates": [-8.04691994939, 37.2251675589]}}, {"type": "Feature", "properties": {"nome": "MURTOSA"}, "geometry": {"type": "Point", "coordinates": [-8.67343966152, 40.7577487439]}}, {"type": "Feature", "properties": {"nome": "AZAMBUJA"}, "geometry": {"type": "Point", "coordinates": [-8.89686459059, 39.1336840413]}}, {"type": "Feature", "properties": {"nome": "VIZELA"}, "geometry": {"type": "Point", "coordinates": [-8.29561604144, 41.3733217264]}}, {"type": "Feature", "properties": {"nome": "VILA DO BISPO"}, "geometry": {"type": "Point", "coordinates": [-8.88345985665, 37.0862827107]}}, {"type": "Feature", "properties": {"nome": "CASCAIS"}, "geometry": {"type": "Point", "coordinates": [-9.40100251958, 38.724965105]}}, {"type": "Feature", "properties": {"nome": "MIRA"}, "geometry": {"type": "Point", "coordinates": [-8.75472228161, 40.4330726969]}}, {"type": "Feature", "properties": {"nome": "CASTRO VERDE"}, "geometry": {"type": "Point", "coordinates": [-8.02828841924, 37.7046988015]}}, {"type": "Feature", "properties": {"nome": "PENAMACOR"}, "geometry": {"type": "Point", "coordinates": [-7.13677022149, 40.1765223008]}}, {"type": "Feature", "properties": {"nome": "VOUZELA"}, "geometry": {"type": "Point", "coordinates": [-8.13924532795, 40.6749676473]}}, {"type": "Feature", "properties": {"nome": "GRÂNDOLA"}, "geometry": {"type": "Point", "coordinates": [-8.58138031125, 38.1855257001]}}, {"type": "Feature", "properties": {"nome": "FIGUEIRÓ DOS VINHOS"}, "geometry": {"type": "Point", "coordinates": [-8.28206999715, 39.9252143649]}}, {"type": "Feature", "properties": {"nome": "CONSTÂNCIA"}, "geometry": {"type": "Point", "coordinates": [-8.29149423683, 39.4257014498]}}, {"type": "Feature", "properties": {"nome": "LISBOA"}, "geometry": {"type": "Point", "coordinates": [-9.15677178979, 38.7376745012]}}, {"type": "Feature", "properties": {"nome": "SANTA CRUZ DA GRACIOSA"}, "geometry": {"type": "Point", "coordinates": [-28.0102079508, 39.0521989691]}}, {"type": "Feature", "properties": {"nome": "PRAIA DA VITÓRIA"}, "geometry": {"type": "Point", "coordinates": [-27.1553125076, 38.7468510699]}}, {"type": "Feature", "properties": {"nome": "VILA NOVA DE FAMALICÃO"}, "geometry": {"type": "Point", "coordinates": [-8.50337385789, 41.4086450695]}}, {"type": "Feature", "properties": {"nome": "TAROUCA"}, "geometry": {"type": "Point", "coordinates": [-7.76209588137, 41.0139324979]}}, {"type": "Feature", "properties": {"nome": "MANGUALDE"}, "geometry": {"type": "Point", "coordinates": [-7.72009443184, 40.5948759705]}}, {"type": "Feature", "properties": {"nome": "PÓVOA DE LANHOSO"}, "geometry": {"type": "Point", "coordinates": [-8.25258739001, 41.5882328207]}}, {"type": "Feature", "properties": {"nome": "ALBUFEIRA"}, "geometry": {"type": "Point", "coordinates": [-8.23264665205, 37.1337317517]}}, {"type": "Feature", "properties": {"nome": "CASTANHEIRA DE PÊRA"}, "geometry": {"type": "Point", "coordinates": [-8.19580753712, 40.0199488248]}}, {"type": "Feature", "properties": {"nome": "MOURÃO"}, "geometry": {"type": "Point", "coordinates": [-7.27493320127, 38.3182083411]}}, {"type": "Feature", "properties": {"nome": "ESTARREJA"}, "geometry": {"type": "Point", "coordinates": [-8.57575254793, 40.7615599836]}}, {"type": "Feature", "properties": {"nome": "VALENÇA"}, "geometry": {"type": "Point", "coordinates": [-8.60635030156, 41.9983126762]}}, {"type": "Feature", "properties": {"nome": "CRATO"}, "geometry": {"type": "Point", "coordinates": [-7.64503846392, 39.3133177565]}}, {"type": "Feature", "properties": {"nome": "CARRAZEDA DE ANSIÃES"}, "geometry": {"type": "Point", "coordinates": [-7.30802964891, 41.2280268228]}}, {"type": "Feature", "properties": {"nome": "ARRUDA DOS VINHOS"}, "geometry": {"type": "Point", "coordinates": [-9.09420258951, 38.974660719]}}, {"type": "Feature", "properties": {"nome": "TABUAÇO"}, "geometry": {"type": "Point", "coordinates": [-7.56555782214, 41.0942746536]}}, {"type": "Feature", "properties": {"nome": "VALONGO"}, "geometry": {"type": "Point", "coordinates": [-8.4941912808, 41.2066904028]}}, {"type": "Feature", "properties": {"nome": "FERREIRA DO ZÊZERE"}, "geometry": {"type": "Point", "coordinates": [-8.3168816076, 39.721355208]}}, {"type": "Feature", "properties": {"nome": "CAMINHA"}, "geometry": {"type": "Point", "coordinates": [-8.79085754869, 41.847556509]}}, {"type": "Feature", "properties": {"nome": "AMARANTE"}, "geometry": {"type": "Point", "coordinates": [-8.04207657758, 41.2725223747]}}, {"type": "Feature", "properties": {"nome": "MÉRTOLA"}, "geometry": {"type": "Point", "coordinates": [-7.70656343941, 37.6467901415]}}, {"type": "Feature", "properties": {"nome": "CONDEIXA-A-NOVA"}, "geometry": {"type": "Point", "coordinates": [-8.49963152938, 40.0987142511]}}, {"type": "Feature", "properties": {"nome": "NAZARÉ"}, "geometry": {"type": "Point", "coordinates": [-9.0450058116, 39.5945667683]}}, {"type": "Feature", "properties": {"nome": "VENDAS NOVAS"}, "geometry": {"type": "Point", "coordinates": [-8.51478679645, 38.6550100695]}}, {"type": "Feature", "properties": {"nome": "ALMODÔVAR"}, "geometry": {"type": "Point", "coordinates": [-8.084469508, 37.4749904526]}}, {"type": "Feature", "properties": {"nome": "CASTELO BRANCO"}, "geometry": {"type": "Point", "coordinates": [-7.50166201103, 39.8548386264]}}, {"type": "Feature", "properties": {"nome": "LAGOA"}, "geometry": {"type": "Point", "coordinates": [-8.45327715282, 37.1257410057]}}, {"type": "Feature", "properties": {"nome": "CANTANHEDE"}, "geometry": {"type": "Point", "coordinates": [-8.63734244305, 40.3549595126]}}, {"type": "Feature", "properties": {"nome": "LOUSÃ"}, "geometry": {"type": "Point", "coordinates": [-8.22838082058, 40.131766554]}}, {"type": "Feature", "properties": {"nome": "PORTO MONIZ"}, "geometry": {"type": "Point", "coordinates": [-17.1467209732, 32.8170232508]}}, {"type": "Feature", "properties": {"nome": "CMARA DE LOBOS"}, "geometry": {"type": "Point", "coordinates": [-16.9766721792, 32.7022926473]}}, {"type": "Feature", "properties": {"nome": "VIDIGUEIRA"}, "geometry": {"type": "Point", "coordinates": [-7.71705542281, 38.1688284304]}}, {"type": "Feature", "properties": {"nome": "CARTAXO"}, "geometry": {"type": "Point", "coordinates": [-8.78961701117, 39.1457956466]}}, {"type": "Feature", "properties": {"nome": "MEALHADA"}, "geometry": {"type": "Point", "coordinates": [-8.44103337743, 40.3537678518]}}, {"type": "Feature", "properties": {"nome": "ODEMIRA"}, "geometry": {"type": "Point", "coordinates": [-8.57684669539, 37.6072712615]}}, {"type": "Feature", "properties": {"nome": "CASTRO MARIM"}, "geometry": {"type": "Point", "coordinates": [-7.51685106009, 37.2926338906]}}, {"type": "Feature", "properties": {"nome": "CELORICO DE BASTO"}, "geometry": {"type": "Point", "coordinates": [-8.0396278909, 41.4013100421]}}, {"type": "Feature", "properties": {"nome": "VALE DE CAMBRA"}, "geometry": {"type": "Point", "coordinates": [-8.336237277, 40.8332301874]}}, {"type": "Feature", "properties": {"nome": "SÃO JOÃO DA MADEIRA"}, "geometry": {"type": "Point", "coordinates": [-8.49036540102, 40.8956315081]}}, {"type": "Feature", "properties": {"nome": "ALCOUTIM"}, "geometry": {"type": "Point", "coordinates": [-7.65195619322, 37.4198185632]}}, {"type": "Feature", "properties": {"nome": "FUNCHAL"}, "geometry": {"type": "Point", "coordinates": [-16.8829337154, 32.5884167089]}}, {"type": "Feature", "properties": {"nome": "TORRES VEDRAS"}, "geometry": {"type": "Point", "coordinates": [-9.26042771298, 39.1048897728]}}, {"type": "Feature", "properties": {"nome": "ALCOCHETE"}, "geometry": {"type": "Point", "coordinates": [-8.91590331057, 38.7356400443]}}, {"type": "Feature", "properties": {"nome": "VILA NOVA DE PAIVA"}, "geometry": {"type": "Point", "coordinates": [-7.76336799997, 40.8723264744]}}, {"type": "Feature", "properties": {"nome": "MIRANDA DO DOURO"}, "geometry": {"type": "Point", "coordinates": [-6.35850293089, 41.5106102075]}}, {"type": "Feature", "properties": {"nome": "CABECEIRAS DE BASTO"}, "geometry": {"type": "Point", "coordinates": [-7.95390842673, 41.5401695692]}}, {"type": "Feature", "properties": {"nome": "MACEDO DE CAVALEIROS"}, "geometry": {"type": "Point", "coordinates": [-6.90629847773, 41.5433676814]}}, {"type": "Feature", "properties": {"nome": "VIMIOSO"}, "geometry": {"type": "Point", "coordinates": [-6.53075749878, 41.5707254361]}}, {"type": "Feature", "properties": {"nome": "OVAR"}, "geometry": {"type": "Point", "coordinates": [-8.61983098838, 40.8762345965]}}, {"type": "Feature", "properties": {"nome": "ABRANTES"}, "geometry": {"type": "Point", "coordinates": [-8.15785449463, 39.426307353]}}, {"type": "Feature", "properties": {"nome": "AROUCA"}, "geometry": {"type": "Point", "coordinates": [-8.25172200675, 40.9287625647]}}, {"type": "Feature", "properties": {"nome": "COIMBRA"}, "geometry": {"type": "Point", "coordinates": [-8.44617676179, 40.2161540749]}}, {"type": "Feature", "properties": {"nome": "SESIMBRA"}, "geometry": {"type": "Point", "coordinates": [-9.12011981327, 38.4949271195]}}, {"type": "Feature", "properties": {"nome": "VIANA DO ALENTEJO"}, "geometry": {"type": "Point", "coordinates": [-8.12242093629, 38.3845895841]}}, {"type": "Feature", "properties": {"nome": "TERRAS DE BOURO"}, "geometry": {"type": "Point", "coordinates": [-8.19118606882, 41.7390748774]}}, {"type": "Feature", "properties": {"nome": "SÁTÃO"}, "geometry": {"type": "Point", "coordinates": [-7.67397086868, 40.7702984197]}}, {"type": "Feature", "properties": {"nome": "BOMBARRAL"}, "geometry": {"type": "Point", "coordinates": [-9.15791930663, 39.2840897744]}}, {"type": "Feature", "properties": {"nome": "SINTRA"}, "geometry": {"type": "Point", "coordinates": [-9.35765795397, 38.823033974]}}, {"type": "Feature", "properties": {"nome": "GUIMARÃES"}, "geometry": {"type": "Point", "coordinates": [-8.31556216674, 41.460845977]}}, {"type": "Feature", "properties": {"nome": "FIGUEIRA DA FOZ"}, "geometry": {"type": "Point", "coordinates": [-8.80875265883, 40.1688915787]}}, {"type": "Feature", "properties": {"nome": "FUNDÃO"}, "geometry": {"type": "Point", "coordinates": [-7.48244129136, 40.1214636922]}}, {"type": "Feature", "properties": {"nome": "ÍLHAVO"}, "geometry": {"type": "Point", "coordinates": [-8.69987228881, 40.6061712505]}}, {"type": "Feature", "properties": {"nome": "OLIVEIRA DO BAIRRO"}, "geometry": {"type": "Point", "coordinates": [-8.55152025119, 40.5158526347]}}, {"type": "Feature", "properties": {"nome": "BRAGA"}, "geometry": {"type": "Point", "coordinates": [-8.42092353858, 41.5444782054]}}, {"type": "Feature", "properties": {"nome": "CALHETA DE SÃO JORGE"}, "geometry": {"type": "Point", "coordinates": [-27.914223284, 38.5942122133]}}, {"type": "Feature", "properties": {"nome": "MOURA"}, "geometry": {"type": "Point", "coordinates": [-7.2874424689, 38.1334260145]}}, {"type": "Feature", "properties": {"nome": "PÓVOA DE VARZIM"}, "geometry": {"type": "Point", "coordinates": [-8.7178865677, 41.4190837877]}}, {"type": "Feature", "properties": {"nome": "PAREDES DE COURA"}, "geometry": {"type": "Point", "coordinates": [-8.57211215942, 41.9101863493]}}, {"type": "Feature", "properties": {"nome": "MÊDA"}, "geometry": {"type": "Point", "coordinates": [-7.2528150822, 40.9366460334]}}, {"type": "Feature", "properties": {"nome": "LAGOS"}, "geometry": {"type": "Point", "coordinates": [-8.72800853618, 37.1518853971]}}, {"type": "Feature", "properties": {"nome": "VALPAÇOS"}, "geometry": {"type": "Point", "coordinates": [-7.34127484976, 41.6118374378]}}, {"type": "Feature", "properties": {"nome": "OEIRAS"}, "geometry": {"type": "Point", "coordinates": [-9.27631443109, 38.7169942216]}}, {"type": "Feature", "properties": {"nome": "VILA FRANCA DE XIRA"}, "geometry": {"type": "Point", "coordinates": [-8.9845028767, 38.9221054394]}}, {"type": "Feature", "properties": {"nome": "FIGUEIRA DE CASTELO RODRIGO"}, "geometry": {"type": "Point", "coordinates": [-6.95941418715, 40.884468027]}}, {"type": "Feature", "properties": {"nome": "VILA NOVA DE POIARES"}, "geometry": {"type": "Point", "coordinates": [-8.25039699262, 40.2169298842]}}, {"type": "Feature", "properties": {"nome": "PORTO DE MÓS"}, "geometry": {"type": "Point", "coordinates": [-8.81700994388, 39.5579170319]}}, {"type": "Feature", "properties": {"nome": "BARRANCOS"}, "geometry": {"type": "Point", "coordinates": [-7.05218788444, 38.1481882966]}}, {"type": "Feature", "properties": {"nome": "GÓIS"}, "geometry": {"type": "Point", "coordinates": [-8.08943168268, 40.1025395235]}}, {"type": "Feature", "properties": {"nome": "PINHEL"}, "geometry": {"type": "Point", "coordinates": [-7.11013954752, 40.741957607]}}, {"type": "Feature", "properties": {"nome": "SO VICENTE"}, "geometry": {"type": "Point", "coordinates": [-17.0109334232, 32.7870724272]}}, {"type": "Feature", "properties": {"nome": "RIBEIRA GRANDE"}, "geometry": {"type": "Point", "coordinates": [-25.4549784214, 37.8042950784]}}, {"type": "Feature", "properties": {"nome": "CALHETA"}, "geometry": {"type": "Point", "coordinates": [-17.1823370774, 32.7702828989]}}, {"type": "Feature", "properties": {"nome": "SANTA CRUZ DAS FLORES"}, "geometry": {"type": "Point", "coordinates": [-31.1921665435, 39.4714945056]}}, {"type": "Feature", "properties": {"nome": "MARINHA GRANDE"}, "geometry": {"type": "Point", "coordinates": [-8.95263557661, 39.7852407424]}}, {"type": "Feature", "properties": {"nome": "VAGOS"}, "geometry": {"type": "Point", "coordinates": [-8.68955259703, 40.5154623951]}}, {"type": "Feature", "properties": {"nome": "LOURINHÃ"}, "geometry": {"type": "Point", "coordinates": [-9.26924895389, 39.246510675]}}, {"type": "Feature", "properties": {"nome": "PEDRÓGÃO GRANDE"}, "geometry": {"type": "Point", "coordinates": [-8.18257990534, 39.9349314051]}}, {"type": "Feature", "properties": {"nome": "OURIQUE"}, "geometry": {"type": "Point", "coordinates": [-8.29110490737, 37.63991887]}}, {"type": "Feature", "properties": {"nome": "FRONTEIRA"}, "geometry": {"type": "Point", "coordinates": [-7.62664281274, 39.0760120146]}}, {"type": "Feature", "properties": {"nome": "PORTO"}, "geometry": {"type": "Point", "coordinates": [-8.62093521448, 41.1616980351]}}, {"type": "Feature", "properties": {"nome": "HORTA"}, "geometry": {"type": "Point", "coordinates": [-28.7002445531, 38.5781210956]}}, {"type": "Feature", "properties": {"nome": "BRAGANÇA"}, "geometry": {"type": "Point", "coordinates": [-6.73525973942, 41.7709204222]}}, {"type": "Feature", "properties": {"nome": "SOURE"}, "geometry": {"type": "Point", "coordinates": [-8.61959364684, 40.0667909161]}}, {"type": "Feature", "properties": {"nome": "VILA VIÇOSA"}, "geometry": {"type": "Point", "coordinates": [-7.35315824414, 38.7688926788]}}, {"type": "Feature", "properties": {"nome": "ALBERGARIA-A-VELHA"}, "geometry": {"type": "Point", "coordinates": [-8.49548231455, 40.7001128294]}}, {"type": "Feature", "properties": {"nome": "GONDOMAR"}, "geometry": {"type": "Point", "coordinates": [-8.48301954324, 41.1096134541]}}, {"type": "Feature", "properties": {"nome": "OLIVEIRA DE FRADES"}, "geometry": {"type": "Point", "coordinates": [-8.23837753872, 40.7037421625]}}, {"type": "Feature", "properties": {"nome": "SANTARÉM"}, "geometry": {"type": "Point", "coordinates": [-8.72919283667, 39.336991088]}}, {"type": "Feature", "properties": {"nome": "MAÇÃO"}, "geometry": {"type": "Point", "coordinates": [-7.97488051942, 39.6051774424]}}, {"type": "Feature", "properties": {"nome": "MAFRA"}, "geometry": {"type": "Point", "coordinates": [-9.30888632766, 38.9611362162]}}, {"type": "Feature", "properties": {"nome": "ALVITO"}, "geometry": {"type": "Point", "coordinates": [-8.04149554354, 38.2440577087]}}, {"type": "Feature", "properties": {"nome": "PROENÇA-A-NOVA"}, "geometry": {"type": "Point", "coordinates": [-7.85578230724, 39.7382978975]}}, {"type": "Feature", "properties": {"nome": "CHAMUSCA"}, "geometry": {"type": "Point", "coordinates": [-8.38035245851, 39.2716451752]}}, {"type": "Feature", "properties": {"nome": "CASTELO DE PAIVA"}, "geometry": {"type": "Point", "coordinates": [-8.30304224819, 41.0182455147]}}, {"type": "Feature", "properties": {"nome": "PONTE DE SOR"}, "geometry": {"type": "Point", "coordinates": [-8.08240616089, 39.1879363432]}}, {"type": "Feature", "properties": {"nome": "VISEU"}, "geometry": {"type": "Point", "coordinates": [-7.90558834222, 40.6880351312]}}, {"type": "Feature", "properties": {"nome": "PONTE DA BARCA"}, "geometry": {"type": "Point", "coordinates": [-8.30984825446, 41.806731287]}}, {"type": "Feature", "properties": {"nome": "MADALENA"}, "geometry": {"type": "Point", "coordinates": [-28.4626196002, 38.4857805278]}}, {"type": "Feature", "properties": {"nome": "RIBEIRA BRAVA"}, "geometry": {"type": "Point", "coordinates": [-17.0324498389, 32.7089891797]}}, {"type": "Feature", "properties": {"nome": "VILA NOVA DE FOZ CÔA"}, "geometry": {"type": "Point", "coordinates": [-7.1699346719, 41.0526452309]}}, {"type": "Feature", "properties": {"nome": "ALJEZUR"}, "geometry": {"type": "Point", "coordinates": [-8.8008499043, 37.297205572]}}, {"type": "Feature", "properties": {"nome": "ENTRONCAMENTO"}, "geometry": {"type": "Point", "coordinates": [-8.47865841315, 39.464365561]}}, {"type": "Feature", "properties": {"nome": "VIEIRA DO MINHO"}, "geometry": {"type": "Point", "coordinates": [-8.10396704984, 41.6314801641]}}, {"type": "Feature", "properties": {"nome": "MIRANDELA"}, "geometry": {"type": "Point", "coordinates": [-7.1876697065, 41.5084639254]}}, {"type": "Feature", "properties": {"nome": "PORTIMÃO"}, "geometry": {"type": "Point", "coordinates": [-8.58304703273, 37.1915604116]}}, {"type": "Feature", "properties": {"nome": "ALMEIDA"}, "geometry": {"type": "Point", "coordinates": [-6.91399559029, 40.6229675937]}}, {"type": "Feature", "properties": {"nome": "TOMAR"}, "geometry": {"type": "Point", "coordinates": [-8.38675410554, 39.6029037996]}}, {"type": "Feature", "properties": {"nome": "PENAFIEL"}, "geometry": {"type": "Point", "coordinates": [-8.29381366094, 41.1506319388]}}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SANTA CRUZ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.7794792065,
+                    32.6586877188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PORTALEGRE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.39957153732,
+                    39.2692742805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MARCO DE CANAVESES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.15830889297,
+                    41.1555799317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MONCHIQUE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.59169323557,
+                    37.3161699756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ALIJÓ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.48600279882,
+                    41.303812774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SETÚBAL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.88748678619,
+                    38.5161301492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "BATALHA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.76554078325,
+                    39.6370548229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ALANDROAL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.38289541638,
+                    38.6157701823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "LOURES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.15167693243,
+                    38.8613019271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CINFÃES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.10257614311,
+                    41.035238177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ÓBIDOS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1892550116,
+                    39.3633257212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PAMPILHOSA DA SERRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.91636680323,
+                    40.0843134951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "TAVIRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.73227886671,
+                    37.2251647401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ÁGUEDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.39564039997,
+                    40.5860116551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SEIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.71916306029,
+                    40.3777656499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PAÇOS DE FERREIRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.38000815364,
+                    41.2885150447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ESPINHO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6258263307,
+                    40.9947650042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SERNANCELHE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.50709279411,
+                    40.9100201949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ALTER DO CHÃO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.72488848553,
+                    39.2129762117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VILA DO CONDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.68285326419,
+                    41.338034316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "AGUIAR DA BEIRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.52838928095,
+                    40.7811658696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "OLHÃO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.81045990664,
+                    37.0620446659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CORUCHE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.44752251587,
+                    38.9402178306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SOBRAL DE MONTE AGRAÇO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.16072049969,
+                    38.9951389004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ALJUSTREL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.18811393759,
+                    37.8878614604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ALCÁCER DO SAL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.48086850722,
+                    38.3694749145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PORTO SANTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.3438291583,
+                    33.0664555682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ANGRA DO HEROÍSMO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -27.2488628981,
+                    38.7082254883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ARRONCHES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.24334664694,
+                    39.1168633889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "BELMONTE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.32967245785,
+                    40.3307730043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "BARCELOS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.62372592788,
+                    41.5367036602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SABROSA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.59864350285,
+                    41.2523537367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CELORICO DA BEIRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.38494438109,
+                    40.6223050391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "AVIS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.91285394119,
+                    39.0696866158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ODIVELAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.19928016957,
+                    38.7979224911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MONÇÃO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.42636799037,
+                    42.0272438262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ALFÂNDEGA DA FÉ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.95112269583,
+                    41.3498498017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ARGANIL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.98548830571,
+                    40.2290375645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SABUGAL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.03246067529,
+                    40.373280589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MOGADOURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.67004464624,
+                    41.3333784466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "REDONDO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5987846716,
+                    38.6256140757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SINES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.77777723847,
+                    37.9248863546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "LEIRIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.80234458992,
+                    39.7894783079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MONFORTE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.43538898253,
+                    39.0478864914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VILA NOVA DE CERVEIRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.70662283311,
+                    41.9172764859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VILA DO PORTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.0993717455,
+                    36.9722671773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CORVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -31.1058534547,
+                    39.6999259198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ALCANENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.68930368626,
+                    39.4723627246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "GUARDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.24505031741,
+                    40.5195200161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "IDANHA-A-NOVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.11303833732,
+                    39.9002853411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "FERREIRA DO ALENTEJO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.18886890789,
+                    38.0882549949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MONTIJO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.69356978426,
+                    38.7299199937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SERPA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.48963735602,
+                    37.932941056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SANTO TIRSO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.44401083504,
+                    41.3209016214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MESÃO FRIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.87100754502,
+                    41.1639177357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MONDIM DE BASTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.89507939128,
+                    41.3887201928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "TÁBUA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.01519045812,
+                    40.3341648684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SANTA MARIA DA FEIRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.51052121277,
+                    40.9669607957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PALMELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.80662157505,
+                    38.6178048301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "GOUVEIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.58032334706,
+                    40.501374929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MURÇA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.44074134432,
+                    41.4224014334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SÃO JOÃO DA PESQUEIRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.43800141708,
+                    41.1185231084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SÃO BRÁS DE ALPORTEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.8786422069,
+                    37.1956837928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MOIMENTA DA BEIRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.63857607363,
+                    40.96426801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ALCOBAÇA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.99043280948,
+                    39.5524165141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ALPIARÇA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5705605966,
+                    39.2411307066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CASTRO DAIRE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.93291729884,
+                    40.9128913252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VILA REAL DE SANTO ANTÓNIO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.51928275595,
+                    37.1943431881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MARVÃO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.36279616068,
+                    39.4053086028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "BOTICAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.73401724687,
+                    41.6759477736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "TONDELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.12270462498,
+                    40.5433579125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ESTREMOZ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.61367639203,
+                    38.8454622593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VILA NOVA DE GAIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.58053562969,
+                    41.0744436653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CAMPO MAIOR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.05046975523,
+                    39.0261946457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MELGAÇO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.21331441065,
+                    42.0496275315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VILA POUCA DE AGUIAR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6232661936,
+                    41.5109986673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SANTA COMBA DÃO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.11563948028,
+                    40.4005922162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CASTELO DE VIDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4933198519,
+                    39.464562115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "POVOAÇÃO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.2601892486,
+                    37.7659581523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PENACOVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.26756535076,
+                    40.2975642951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SANTA MARTA DE PENAGUIÃO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.80226524703,
+                    41.2280717578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "RIBEIRA DE PENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7969602055,
+                    41.508887174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "RIO MAIOR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9014192329,
+                    39.3289288003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "LOUSADA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2751407655,
+                    41.2855288819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VIANA DO CASTELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7593667539,
+                    41.7170196414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MAIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.60136413143,
+                    41.2449463567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "OLIVEIRA DE AZEMÉIS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.46838591268,
+                    40.8422137663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MATOSINHOS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.67143059904,
+                    41.2129725594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VILA REAL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.73861544879,
+                    41.3116521048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "LAJES DO PICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -28.2238929048,
+                    38.4299691504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PORTEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.69671778114,
+                    38.3018381421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ARCOS DE VALDEVEZ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.36451810547,
+                    41.9028597627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ANSIÃO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.43867840733,
+                    39.9341603826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CUBA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.91350836704,
+                    38.1927565374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MOITA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.00140410034,
+                    38.6535265238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SEVER DO VOUGA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.35201392712,
+                    40.7240972536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "FORNOS DE ALGODRES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.50009695321,
+                    40.6510432911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SANTIAGO DO CACÉM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.56807484994,
+                    37.9531391552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MONTALEGRE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.85136778225,
+                    41.7755870335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PAREDES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.39613055058,
+                    41.1815173398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "GAVIÃO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.89501419776,
+                    39.4388352334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "BARREIRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.04496508103,
+                    38.628427084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SILVES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.34584899027,
+                    37.2703301534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "TRANCOSO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.33470187252,
+                    40.7914769881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "NELAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.86520665696,
+                    40.5268734225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "OLEIROS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.87111367598,
+                    39.9445809844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "FARO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.91824308469,
+                    37.0556351594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "LAJES DAS FLORES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -31.2141961392,
+                    39.4136529604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CADAVAL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.06754662538,
+                    39.2349061794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "TORRE DE MONCORVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.01680280796,
+                    41.1725858023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ÉVORA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.87021871806,
+                    38.5331386929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "REGUENGOS DE MONSARAZ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.47743034186,
+                    38.3961185649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ARMAMAR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.67756840229,
+                    41.0949064823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CHAVES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.43706805099,
+                    41.7502067822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ARRAIOLOS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.91637326391,
+                    38.7867564359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "AMADORA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2295034408,
+                    38.7598125778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MACHICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.802312175,
+                    32.7408414834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ALVAIÁZERE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.39541115133,
+                    39.8192487888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "TROFA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.56725632579,
+                    41.3113699968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MONTEMOR-O-VELHO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.65845738712,
+                    40.2146897264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SARDOAL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.13850671449,
+                    39.5629739433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ALMADA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.19306309921,
+                    38.6356288593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "POMBAL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.67770173688,
+                    39.9265967081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "BAIÃO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.98925003345,
+                    41.157567102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SÃO ROQUE DO PICO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -28.3163443553,
+                    38.4953655078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PONTA DELGADA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.7287026512,
+                    37.8193899369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "LAGOA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.5358486195,
+                    37.7458645312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VILA FRANCA DO CAMPO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.4177555866,
+                    37.7445393407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SÃO PEDRO DO SUL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.09463656198,
+                    40.8163953154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CARREGAL DO SAL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.98801371922,
+                    40.4497812742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VINHAIS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.04866492241,
+                    41.8324999858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MORA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.08882286377,
+                    38.918895634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PENELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.36984825343,
+                    40.0101234676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VILA VERDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.44347531724,
+                    41.6807592837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "RESENDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.93977232417,
+                    41.0762155024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CALDAS DA RAINHA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0881996199,
+                    39.4075744392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VILA VELHA DE RÓDÃO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.663771161,
+                    39.6809297797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SOUSEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.73947368818,
+                    38.9615163832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "AVEIRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.62828954684,
+                    40.6421974689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "OURÉM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.57422974591,
+                    39.6923775296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "NORDESTE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.2169130042,
+                    37.8235488809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SANTANA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.9051279667,
+                    32.7812961591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ALMEIRIM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.57998922407,
+                    39.1589291684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MANTEIGAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.52005856007,
+                    40.3911442589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MORTÁGUA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25315096344,
+                    40.4195198501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "FELGUEIRAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.20158540692,
+                    41.350599911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ESPOSENDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.75799486393,
+                    41.5469456488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "TORRES NOVAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.55081678754,
+                    39.5055513699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "BEJA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.85590629379,
+                    37.9624527542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "COVILHÃ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.56260874233,
+                    40.2567146746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ALENQUER"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.03905968235,
+                    39.0981612804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PENALVA DO CASTELO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.65588052842,
+                    40.6713060481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SEIXAL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.10879269683,
+                    38.6046136473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "NISA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.66757882971,
+                    39.5228715977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PENEDONO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.39508244136,
+                    40.9912367793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "FAFE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.14826016851,
+                    41.4772566148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VILA FLOR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.15946612859,
+                    41.3216881355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MIRANDA DO CORVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.32739995973,
+                    40.1048593385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PENICHE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.31942538703,
+                    39.338692537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SALVATERRA DE MAGOS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.68780525069,
+                    39.0467250754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PONTE DE LIMA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.58751334161,
+                    41.757423139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VELAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -28.1505034618,
+                    38.6832477466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PONTA DO SOL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.0939105534,
+                    32.7227933164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ANADIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.44278366736,
+                    40.4526182401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "OLIVEIRA DO HOSPITAL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.8637221792,
+                    40.368463776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ELVAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2288587776,
+                    38.9104962746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VILA NOVA DA BARQUINHA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.40041127353,
+                    39.4816760106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MONTEMOR-O-NOVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.29614404789,
+                    38.6485711005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SERTÃ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.09917695345,
+                    39.8244357335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "FREIXO DE ESPADA À CINTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.83272221189,
+                    41.1135146998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "BORBA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.46934745389,
+                    38.8165320338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VILA DE REI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.14431221928,
+                    39.6831180658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "AMARES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.34530223974,
+                    41.6516821741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PESO DA RÉGUA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.76876659033,
+                    41.1832733941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "GOLEGÃ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.51104812975,
+                    39.3820625018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "BENAVENTE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.81105308045,
+                    38.8677611574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "LAMEGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.82250258953,
+                    41.0807185396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "LOULÉ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.04691994939,
+                    37.2251675589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MURTOSA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.67343966152,
+                    40.7577487439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "AZAMBUJA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.89686459059,
+                    39.1336840413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VIZELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.29561604144,
+                    41.3733217264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VILA DO BISPO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.88345985665,
+                    37.0862827107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CASCAIS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.40100251958,
+                    38.724965105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MIRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.75472228161,
+                    40.4330726969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CASTRO VERDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.02828841924,
+                    37.7046988015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PENAMACOR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.13677022149,
+                    40.1765223008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VOUZELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.13924532795,
+                    40.6749676473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "GRÂNDOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.58138031125,
+                    38.1855257001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "FIGUEIRÓ DOS VINHOS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.28206999715,
+                    39.9252143649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CONSTÂNCIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.29149423683,
+                    39.4257014498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "LISBOA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.15677178979,
+                    38.7376745012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SANTA CRUZ DA GRACIOSA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -28.0102079508,
+                    39.0521989691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PRAIA DA VITÓRIA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -27.1553125076,
+                    38.7468510699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VILA NOVA DE FAMALICÃO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.50337385789,
+                    41.4086450695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "TAROUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.76209588137,
+                    41.0139324979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MANGUALDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.72009443184,
+                    40.5948759705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PÓVOA DE LANHOSO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25258739001,
+                    41.5882328207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ALBUFEIRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.23264665205,
+                    37.1337317517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CASTANHEIRA DE PÊRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.19580753712,
+                    40.0199488248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MOURÃO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.27493320127,
+                    38.3182083411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ESTARREJA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.57575254793,
+                    40.7615599836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VALENÇA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.60635030156,
+                    41.9983126762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CRATO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.64503846392,
+                    39.3133177565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CARRAZEDA DE ANSIÃES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.30802964891,
+                    41.2280268228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ARRUDA DOS VINHOS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.09420258951,
+                    38.974660719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "TABUAÇO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.56555782214,
+                    41.0942746536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VALONGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4941912808,
+                    41.2066904028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "FERREIRA DO ZÊZERE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3168816076,
+                    39.721355208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CAMINHA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.79085754869,
+                    41.847556509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "AMARANTE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.04207657758,
+                    41.2725223747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MÉRTOLA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.70656343941,
+                    37.6467901415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CONDEIXA-A-NOVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.49963152938,
+                    40.0987142511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "NAZARÉ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0450058116,
+                    39.5945667683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VENDAS NOVAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.51478679645,
+                    38.6550100695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ALMODÔVAR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.084469508,
+                    37.4749904526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CASTELO BRANCO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.50166201103,
+                    39.8548386264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "LAGOA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.45327715282,
+                    37.1257410057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CANTANHEDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.63734244305,
+                    40.3549595126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "LOUSÃ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.22838082058,
+                    40.131766554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PORTO MONIZ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.1467209732,
+                    32.8170232508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CMARA DE LOBOS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.9766721792,
+                    32.7022926473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VIDIGUEIRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.71705542281,
+                    38.1688284304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CARTAXO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.78961701117,
+                    39.1457956466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MEALHADA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.44103337743,
+                    40.3537678518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ODEMIRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.57684669539,
+                    37.6072712615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CASTRO MARIM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.51685106009,
+                    37.2926338906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CELORICO DE BASTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0396278909,
+                    41.4013100421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VALE DE CAMBRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.336237277,
+                    40.8332301874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SÃO JOÃO DA MADEIRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.49036540102,
+                    40.8956315081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ALCOUTIM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.65195619322,
+                    37.4198185632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "FUNCHAL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.8829337154,
+                    32.5884167089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "TORRES VEDRAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.26042771298,
+                    39.1048897728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ALCOCHETE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.91590331057,
+                    38.7356400443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VILA NOVA DE PAIVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.76336799997,
+                    40.8723264744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MIRANDA DO DOURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.35850293089,
+                    41.5106102075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CABECEIRAS DE BASTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.95390842673,
+                    41.5401695692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MACEDO DE CAVALEIROS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.90629847773,
+                    41.5433676814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VIMIOSO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.53075749878,
+                    41.5707254361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "OVAR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.61983098838,
+                    40.8762345965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ABRANTES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.15785449463,
+                    39.426307353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "AROUCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25172200675,
+                    40.9287625647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "COIMBRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.44617676179,
+                    40.2161540749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SESIMBRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.12011981327,
+                    38.4949271195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VIANA DO ALENTEJO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.12242093629,
+                    38.3845895841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "TERRAS DE BOURO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.19118606882,
+                    41.7390748774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SÁTÃO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.67397086868,
+                    40.7702984197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "BOMBARRAL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.15791930663,
+                    39.2840897744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SINTRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.35765795397,
+                    38.823033974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "GUIMARÃES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.31556216674,
+                    41.460845977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "FIGUEIRA DA FOZ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.80875265883,
+                    40.1688915787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "FUNDÃO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.48244129136,
+                    40.1214636922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ÍLHAVO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.69987228881,
+                    40.6061712505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "OLIVEIRA DO BAIRRO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.55152025119,
+                    40.5158526347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "BRAGA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.42092353858,
+                    41.5444782054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CALHETA DE SÃO JORGE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -27.914223284,
+                    38.5942122133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MOURA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2874424689,
+                    38.1334260145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PÓVOA DE VARZIM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7178865677,
+                    41.4190837877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PAREDES DE COURA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.57211215942,
+                    41.9101863493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MÊDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2528150822,
+                    40.9366460334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "LAGOS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.72800853618,
+                    37.1518853971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VALPAÇOS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.34127484976,
+                    41.6118374378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "OEIRAS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.27631443109,
+                    38.7169942216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VILA FRANCA DE XIRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9845028767,
+                    38.9221054394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "FIGUEIRA DE CASTELO RODRIGO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.95941418715,
+                    40.884468027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VILA NOVA DE POIARES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25039699262,
+                    40.2169298842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PORTO DE MÓS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.81700994388,
+                    39.5579170319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "BARRANCOS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.05218788444,
+                    38.1481882966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "GÓIS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.08943168268,
+                    40.1025395235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PINHEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.11013954752,
+                    40.741957607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SO VICENTE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.0109334232,
+                    32.7870724272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "RIBEIRA GRANDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.4549784214,
+                    37.8042950784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CALHETA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.1823370774,
+                    32.7702828989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SANTA CRUZ DAS FLORES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -31.1921665435,
+                    39.4714945056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MARINHA GRANDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.95263557661,
+                    39.7852407424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VAGOS"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.68955259703,
+                    40.5154623951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "LOURINHÃ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.26924895389,
+                    39.246510675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PEDRÓGÃO GRANDE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.18257990534,
+                    39.9349314051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "OURIQUE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.29110490737,
+                    37.63991887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "FRONTEIRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.62664281274,
+                    39.0760120146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PORTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.62093521448,
+                    41.1616980351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "HORTA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -28.7002445531,
+                    38.5781210956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "BRAGANÇA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.73525973942,
+                    41.7709204222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SOURE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.61959364684,
+                    40.0667909161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VILA VIÇOSA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.35315824414,
+                    38.7688926788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ALBERGARIA-A-VELHA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.49548231455,
+                    40.7001128294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "GONDOMAR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.48301954324,
+                    41.1096134541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "OLIVEIRA DE FRADES"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.23837753872,
+                    40.7037421625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "SANTARÉM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.72919283667,
+                    39.336991088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MAÇÃO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.97488051942,
+                    39.6051774424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MAFRA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.30888632766,
+                    38.9611362162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ALVITO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.04149554354,
+                    38.2440577087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PROENÇA-A-NOVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.85578230724,
+                    39.7382978975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CHAMUSCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.38035245851,
+                    39.2716451752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "CASTELO DE PAIVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.30304224819,
+                    41.0182455147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PONTE DE SOR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.08240616089,
+                    39.1879363432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VISEU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.90558834222,
+                    40.6880351312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PONTE DA BARCA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.30984825446,
+                    41.806731287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MADALENA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -28.4626196002,
+                    38.4857805278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "RIBEIRA BRAVA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.0324498389,
+                    32.7089891797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VILA NOVA DE FOZ CÔA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.1699346719,
+                    41.0526452309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ALJEZUR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8008499043,
+                    37.297205572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ENTRONCAMENTO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.47865841315,
+                    39.464365561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "VIEIRA DO MINHO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.10396704984,
+                    41.6314801641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "MIRANDELA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.1876697065,
+                    41.5084639254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PORTIMÃO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.58304703273,
+                    37.1915604116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "ALMEIDA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.91399559029,
+                    40.6229675937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "TOMAR"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.38675410554,
+                    39.6029037996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "Cidade Rodrigo (Espanha)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5308992756,
+                    40.5982945577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "Salamanca (Espanha)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.66427,
+                    40.9694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "Zamora (Espanha)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.74585,
+                    41.50216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "Valência (Espanha)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.24309,
+                    39.41183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "Cáceres (Espanha)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.37267,
+                    39.47469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nome": "PENAFIEL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.29381366094,
+                    41.1506319388
+                ]
+            }
+        }
+    ]
+}
