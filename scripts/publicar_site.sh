@@ -11,14 +11,14 @@ cd "$PROJECT_DIR" || exit 1
 
 # Arquivar o ficheiro anterior, se existir
 if [ -f "$JSON_FILE" ]; then
-    TS=$(python3 - <<EOF
+    TS=$(python3 - "$JSON_FILE" <<'EOF' | tr -d '\n'
 import json
 import sys
 with open(sys.argv[1]) as f:
     d=json.load(f)
 print(d["ultima_hora"][0]["hora"][:13])
 EOF
-"$JSON_FILE")
+)
     mkdir -p "$ARCHIVE_DIR"
     mv "$JSON_FILE" "$ARCHIVE_DIR/${TS//T/_}.json"
 fi
