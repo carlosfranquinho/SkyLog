@@ -1,3 +1,25 @@
+// small helper to keep marker rotation after map movements
+(function() {
+  const oldSetPos = L.Marker.prototype._setPos;
+  L.Marker.include({
+    _setPos: function(pos) {
+      oldSetPos.call(this, pos);
+      if (this.options.rotationAngle) {
+        const el = this._icon;
+        if (el) {
+          const tr = el.style.transform.replace(/ rotate\([^)]*\)/, "");
+          el.style.transform = `${tr} rotate(${this.options.rotationAngle}deg)`;
+        }
+      }
+    },
+    setRotationAngle: function(angle) {
+      this.options.rotationAngle = angle;
+      this.update();
+      return this;
+    }
+  });
+})();
+
 async function carregarPainel() {
   try {
     const resp = await fetch("painel.json");
@@ -19,6 +41,16 @@ async function carregarPainel() {
             .join("-")
         )
         .join(" ");
+    }
+
+    function calcBearing(lat1, lon1, lat2, lon2) {
+      const toRad = d => (d * Math.PI) / 180;
+      const dLon = toRad(lon2 - lon1);
+      const y = Math.sin(dLon) * Math.cos(toRad(lat2));
+      const x =
+        Math.cos(toRad(lat1)) * Math.sin(toRad(lat2)) -
+        Math.sin(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.cos(dLon);
+      return ((Math.atan2(y, x) * 180) / Math.PI + 360) % 360;
     }
 
     const ulHora = document.getElementById("ultima-hora-lista");
@@ -113,12 +145,10 @@ async function carregarPainel() {
       const ini = [r.de[0], r.de[1]];
       const fim = [r.para[0], r.para[1]];
       L.polyline([ini, fim], { color: "red", weight: 2 }).addTo(map);
-      const marker = L.marker(fim, { icon: planeIcon }).addTo(map);
-      const ang = (Math.atan2(fim[0] - ini[0], fim[1] - ini[1]) * 180) / Math.PI;
-      const el = marker.getElement();
-      if (el) {
-        el.style.transform += ` rotate(${ang}deg)`;
-      }
+      const bearing = calcBearing(ini[0], ini[1], fim[0], fim[1]);
+      const rot = bearing + 45; // emoji points NW by default
+      L.marker(fim, { icon: planeIcon, rotationAngle: rot }).addTo(map);
+
     });
   } catch (e) {
     console.error("Erro ao carregar painel:", e);
