@@ -78,13 +78,13 @@ def _obter_nome_aeroporto(icao: str) -> str | None:
         return None
 
 
-def obter_rota(callsign: str) -> tuple[str | None, str | None]:
-    """Tenta obter a rota (origem e destino) de um voo pelo callsign."""
+def _obter_rota_opensky(callsign: str) -> tuple[str | None, str | None]:
+    """Tenta obter a rota usando a API do OpenSky."""
+    url = (
+        "https://opensky-network.org/api/routes?callsign="
+        + urllib.parse.quote(callsign)
+    )
     try:
-        url = (
-            "https://opensky-network.org/api/routes?callsign="
-            + urllib.parse.quote(callsign)
-        )
         with urllib.request.urlopen(url, timeout=10) as resp:
             dados = json.loads(resp.read().decode())
         rota = dados.get("route")
@@ -95,6 +95,42 @@ def obter_rota(callsign: str) -> tuple[str | None, str | None]:
     except Exception:
         pass
     return None, None
+
+
+def _obter_rota_adsb(callsign: str, lat: float, lon: float) -> tuple[str | None, str | None]:
+    """Tenta obter a rota usando a API do adsb.im."""
+    url = "https://adsb.im/api/0/routeset"
+    payload = {
+        "planes": [
+            {
+                "callsign": callsign,
+                "lat": lat,
+                "lng": lon,
+            }
+        ]
+    }
+    data = json.dumps(payload).encode()
+    req = urllib.request.Request(url, data=data, method="POST")
+    req.add_header("Content-Type", "application/json")
+    try:
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            dados = json.loads(resp.read().decode())
+        rotas = dados.get("routes", {}).get(callsign)
+        if rotas and len(rotas) >= 2:
+            return rotas[0], rotas[-1]
+    except Exception:
+        pass
+    return None, None
+
+
+def obter_rota(callsign: str, lat: float | None, lon: float | None) -> tuple[str | None, str | None]:
+    """Obtém a rota de um voo usando OpenSky com fallback em adsb.im."""
+    origem, destino = _obter_rota_opensky(callsign)
+    if (origem is None or destino is None) and lat is not None and lon is not None:
+        alt_origem, alt_destino = _obter_rota_adsb(callsign, lat, lon)
+        origem = origem or alt_origem
+        destino = destino or alt_destino
+    return origem, destino
 
 
 def main() -> None:
@@ -197,7 +233,7 @@ def main() -> None:
         if chamada:
             rota = rota_cache.get(chamada)
             if rota is None:
-                rota_cache[chamada] = obter_rota(chamada)
+                rota_cache[chamada] = obter_rota(chamada, lat, lon)
             origem, destino = rota_cache.get(chamada, (None, None))
 
         if companhia:
