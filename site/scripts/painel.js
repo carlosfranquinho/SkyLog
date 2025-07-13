@@ -54,6 +54,42 @@ async function carregarPainel() {
       ulPaises.innerHTML += `<li>${p.bandeira || ""} <strong>${p.pais}</strong>: ${p.total} aviões</li>`;
     });
 
+    // resumo "Na última hora"
+    const resumoEl = document.getElementById("resumo-ultima-hora");
+    if (resumoEl) {
+      const total = dados.ultima_hora.length;
+      const paisesSet = new Set();
+      const ciasSet = new Set();
+      let maxDist = -Infinity;
+      let maxLoc = "";
+      let minDist = Infinity;
+      let minLoc = "";
+      let semLoc = 0;
+
+      dados.ultima_hora.forEach(v => {
+        if (v.pais) paisesSet.add(v.pais);
+        if (v.cia) ciasSet.add(v.cia);
+        const dist = parseFloat(v.dist);
+        if (isNaN(dist)) {
+          semLoc += 1;
+          return;
+        }
+        if (dist > maxDist) {
+          maxDist = dist;
+          maxLoc = v.local || "";
+        }
+        if (dist < minDist) {
+          minDist = dist;
+          minLoc = v.local || "";
+        }
+      });
+
+      resumoEl.textContent =
+        `Na última hora foram detetados ${total} aviões de ${paisesSet.size} países e ${ciasSet.size} companhias. ` +
+        `O avião mais distante estava a ${maxDist}km sobre ${capitalizar(maxLoc)} e o mais próximo a ${minDist}km, sobre ${capitalizar(minLoc)}. ` +
+        `Entre estes avistamentos, houve ${semLoc} aviões que não partilharam a sua localização.`;
+    }
+
     const ulCias = document.getElementById("top-companhias-lista");
     dados.top_companhias.forEach(c => {
       ulCias.innerHTML += `<li><strong>${c.cia}</strong>: ${c.total} voos</li>`;
