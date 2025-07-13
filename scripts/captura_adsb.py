@@ -21,7 +21,9 @@ try:
         text=True
     )
     data = json.loads(resultado.stdout)
-    now = datetime.utcfromtimestamp(data["now"])
+    # O timestamp fornecido pelo dump1090 está em UTC. Convertemos para a
+    # hora local para que os ficheiros sejam gravados com a hora correta.
+    now = datetime.fromtimestamp(data["now"])
 except Exception as e:
     print(f"❌ Erro ao obter dados do dump1090 via curl: {e}")
     exit(1)
@@ -75,6 +77,6 @@ for aviao in data.get("aircraft", []):
     guardar(daily_file, registo, campos)
     contagem += 1
 
-print(f"✅ {contagem} aviões gravados às {now.strftime('%H:%M')} UTC")
+print(f"✅ {contagem} aviões gravados às {now.strftime('%H:%M')} (hora local)")
 print(f"↪ Ficheiro horário: {hourly_file}")
 print(f"↪ Ficheiro diário : {daily_file}")
