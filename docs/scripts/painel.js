@@ -103,7 +103,7 @@ async function carregarPainel() {
       ulCias.innerHTML += `<li><strong>${c.cia}</strong>: ${c.total} voos</li>`;
     });
 
-    const initialZoom = 8;
+    const initialZoom = 7;
     const center = [39.6625, -7.7848];
     const map = L.map("mapa", {
       dragging: false,
