@@ -1,40 +1,928 @@
 {
   "ultima_hora": [
     {
-      "hex": "495152",
-      "chamada": "",
-      "cia": "",
-      "pais": "Portugal",
-      "bandeira": "🇵🇹",
-      "local": "ARRONCHES",
-      "alt": "30525",
-      "vel": "407.4",
-      "dist": 154.7,
-      "hora": "2025-07-13T09:59"
+      "hex": "345109",
+      "chamada": "IBE0221",
+      "cia": "Iberia",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "ALMEIDA",
+      "alt": "31000",
+      "vel": "428.7",
+      "dist": 202.7,
+      "hora": "2025-07-13T10:59"
     },
     {
-      "hex": "49526b",
+      "hex": "406e9f",
+      "chamada": "EXS28YD",
+      "cia": "Jet2",
+      "pais": "Reino Unido",
+      "bandeira": "🇬🇧",
+      "local": "REDONDO",
+      "alt": "30600",
+      "vel": "492.7",
+      "dist": 159.5,
+      "hora": "2025-07-13T10:59"
+    },
+    {
+      "hex": "4ca4ef",
       "chamada": "",
       "cia": "",
+      "pais": "Irlanda",
+      "bandeira": "🇮🇪",
+      "local": null,
+      "alt": "36975",
+      "vel": "399.4",
+      "dist": "",
+      "hora": "2025-07-13T10:59"
+    },
+    {
+      "hex": "346146",
+      "chamada": "",
+      "cia": "",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": null,
+      "alt": "31000",
+      "vel": "",
+      "dist": "",
+      "hora": "2025-07-13T10:59"
+    },
+    {
+      "hex": "4070e7",
+      "chamada": "EXS31F",
+      "cia": "Jet2",
+      "pais": "Reino Unido",
+      "bandeira": "🇬🇧",
+      "local": "CORUCHE",
+      "alt": "34925",
+      "vel": "489.6",
+      "dist": 94.9,
+      "hora": "2025-07-13T10:59"
+    },
+    {
+      "hex": "344459",
+      "chamada": "AEA41UB",
+      "cia": "Air Europa",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "MIRANDA DO DOURO",
+      "alt": "30000",
+      "vel": "462.0",
+      "dist": 317.5,
+      "hora": "2025-07-13T10:58"
+    },
+    {
+      "hex": "4bb20e",
+      "chamada": "THY1NB",
+      "cia": "THY",
+      "pais": "Turquia",
+      "bandeira": "🇹🇷",
+      "local": "CHAMUSCA",
+      "alt": "15800",
+      "vel": "408.0",
+      "dist": 84.3,
+      "hora": "2025-07-13T10:57"
+    },
+    {
+      "hex": "34659a",
+      "chamada": "IBE6137",
+      "cia": "Iberia",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "SABUGAL",
+      "alt": "33000",
+      "vel": "452.1",
+      "dist": 171.2,
+      "hora": "2025-07-13T10:55"
+    },
+    {
+      "hex": "4080e2",
+      "chamada": "EXS29DE",
+      "cia": "Jet2",
+      "pais": "Reino Unido",
+      "bandeira": "🇬🇧",
+      "local": "CORUCHE",
+      "alt": "37225",
+      "vel": "482.7",
+      "dist": 104.2,
+      "hora": "2025-07-13T10:55"
+    },
+    {
+      "hex": "344502",
+      "chamada": "",
+      "cia": "",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": null,
+      "alt": "27450",
+      "vel": "",
+      "dist": "",
+      "hora": "2025-07-13T10:55"
+    },
+    {
+      "hex": "495210",
+      "chamada": "TAP1123",
+      "cia": "TAP Air Portugal",
       "pais": "Portugal",
       "bandeira": "🇵🇹",
-      "local": "OLIVEIRA DO BAIRRO",
+      "local": "MONFORTE",
+      "alt": "28650",
+      "vel": "421.5",
+      "dist": 148.0,
+      "hora": "2025-07-13T10:55"
+    },
+    {
+      "hex": "406673",
+      "chamada": "EZY86VV",
+      "cia": "easyJet",
+      "pais": "Reino Unido",
+      "bandeira": "🇬🇧",
+      "local": "ALPIARÇA",
+      "alt": "17400",
+      "vel": "384.0",
+      "dist": 63.7,
+      "hora": "2025-07-13T10:54"
+    },
+    {
+      "hex": "4d2237",
+      "chamada": "RYR5509",
+      "cia": "Ryanair",
+      "pais": "Malta",
+      "bandeira": "🇲🇹",
+      "local": "REDONDO",
+      "alt": "33750",
+      "vel": "480.7",
+      "dist": 178.6,
+      "hora": "2025-07-13T10:52"
+    },
+    {
+      "hex": "49d034",
+      "chamada": "EWG2JL",
+      "cia": "Eurowings",
+      "pais": "Chéquia",
+      "bandeira": "🇨🇿",
+      "local": "PENALVA DO CASTELO",
+      "alt": "37000",
+      "vel": "392.2",
+      "dist": 150.0,
+      "hora": "2025-07-13T10:52"
+    },
+    {
+      "hex": "4baacd",
+      "chamada": "THY7VG",
+      "cia": "THY",
+      "pais": "Turquia",
+      "bandeira": "🇹🇷",
+      "local": null,
+      "alt": "24050",
+      "vel": "471.1",
+      "dist": "",
+      "hora": "2025-07-13T10:51"
+    },
+    {
+      "hex": "4cafc0",
+      "chamada": "RYR50BM",
+      "cia": "Ryanair",
+      "pais": "Irlanda",
+      "bandeira": "🇮🇪",
+      "local": "PENALVA DO CASTELO",
+      "alt": "37000",
+      "vel": "384.7",
+      "dist": 146.8,
+      "hora": "2025-07-13T10:49"
+    },
+    {
+      "hex": "346057",
+      "chamada": "IBE3271",
+      "cia": "Iberia",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "ARRONCHES",
+      "alt": "35000",
+      "vel": "457.4",
+      "dist": 163.6,
+      "hora": "2025-07-13T10:48"
+    },
+    {
+      "hex": "4080c1",
+      "chamada": "RUK57LV",
+      "cia": "Ryanair UK",
+      "pais": "Reino Unido",
+      "bandeira": "🇬🇧",
+      "local": "MARINHA GRANDE",
       "alt": "36000",
-      "vel": "506.6",
-      "dist": 91.8,
-      "hora": "2025-07-13T09:59"
+      "vel": "472.5",
+      "dist": 6.1,
+      "hora": "2025-07-13T10:48"
+    },
+    {
+      "hex": "407534",
+      "chamada": "BAW51P",
+      "cia": "British Airways",
+      "pais": "Reino Unido",
+      "bandeira": "🇬🇧",
+      "local": "ALPIARÇA",
+      "alt": "18375",
+      "vel": "396.8",
+      "dist": 63.2,
+      "hora": "2025-07-13T10:47"
+    },
+    {
+      "hex": "3c618b",
+      "chamada": "TUI3VM",
+      "cia": "TUI fly",
+      "pais": "Alemanha",
+      "bandeira": "🇩🇪",
+      "local": "ÉVORA",
+      "alt": "29400",
+      "vel": "503.4",
+      "dist": 160.5,
+      "hora": "2025-07-13T10:46"
+    },
+    {
+      "hex": "4866de",
+      "chamada": "TRA8R",
+      "cia": "Transavia",
+      "pais": "Países Baixos",
+      "bandeira": "🇳🇱",
+      "local": "ALANDROAL",
+      "alt": "38025",
+      "vel": "531.8",
+      "dist": 178.6,
+      "hora": "2025-07-13T10:45"
+    },
+    {
+      "hex": "4070ed",
+      "chamada": "EXS5DK",
+      "cia": "Jet2",
+      "pais": "Reino Unido",
+      "bandeira": "🇬🇧",
+      "local": "CORUCHE",
+      "alt": "35300",
+      "vel": "480.5",
+      "dist": 109.6,
+      "hora": "2025-07-13T10:45"
+    },
+    {
+      "hex": "407fca",
+      "chamada": "BAW505",
+      "cia": "British Airways",
+      "pais": "Reino Unido",
+      "bandeira": "🇬🇧",
+      "local": "REDONDO",
+      "alt": "29675",
+      "vel": "485.4",
+      "dist": 165.3,
+      "hora": "2025-07-13T10:44"
+    },
+    {
+      "hex": "3c65cf",
+      "chamada": "DLH68H",
+      "cia": "Lufthansa",
+      "pais": "Alemanha",
+      "bandeira": "🇩🇪",
+      "local": "MIRANDA DO DOURO",
+      "alt": "32950",
+      "vel": "509.7",
+      "dist": 281.1,
+      "hora": "2025-07-13T10:44"
+    },
+    {
+      "hex": "440019",
+      "chamada": "EJU81BC",
+      "cia": "easyJet Europe",
+      "pais": "Áustria",
+      "bandeira": "🇦🇹",
+      "local": "PORTEL",
+      "alt": "38000",
+      "vel": "507.8",
+      "dist": 183.2,
+      "hora": "2025-07-13T10:44"
+    },
+    {
+      "hex": "4ca809",
+      "chamada": "",
+      "cia": "",
+      "pais": "Irlanda",
+      "bandeira": "🇮🇪",
+      "local": null,
+      "alt": "32000",
+      "vel": "445.1",
+      "dist": "",
+      "hora": "2025-07-13T10:44"
+    },
+    {
+      "hex": "440172",
+      "chamada": "EJU84EQ",
+      "cia": "easyJet Europe",
+      "pais": "Áustria",
+      "bandeira": "🇦🇹",
+      "local": "MÊDA",
+      "alt": "37025",
+      "vel": "391.0",
+      "dist": 201.1,
+      "hora": "2025-07-13T10:43"
+    },
+    {
+      "hex": "406c71",
+      "chamada": "EZY39RF",
+      "cia": "easyJet",
+      "pais": "Reino Unido",
+      "bandeira": "🇬🇧",
+      "local": "MONTEMOR-O-NOVO",
+      "alt": "37975",
+      "vel": "500.1",
+      "dist": 125.2,
+      "hora": "2025-07-13T10:42"
+    },
+    {
+      "hex": "3444c3",
+      "chamada": "AEA35WQ",
+      "cia": "Air Europa",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "ARRONCHES",
+      "alt": "37000",
+      "vel": "394.2",
+      "dist": 160.9,
+      "hora": "2025-07-13T10:41"
+    },
+    {
+      "hex": "34520b",
+      "chamada": "IBE03PP",
+      "cia": "Iberia",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "ALMEIDA",
+      "alt": "33000",
+      "vel": "438.5",
+      "dist": 190.0,
+      "hora": "2025-07-13T10:40"
+    },
+    {
+      "hex": "49514c",
+      "chamada": "TAP1032",
+      "cia": "TAP Air Portugal",
+      "pais": "Portugal",
+      "bandeira": "🇵🇹",
+      "local": "ALMEIRIM",
+      "alt": "22125",
+      "vel": "389.1",
+      "dist": 84.2,
+      "hora": "2025-07-13T10:39"
+    },
+    {
+      "hex": "ab6116",
+      "chamada": "JAS832",
+      "cia": "JAS",
+      "pais": "Estados Unidos",
+      "bandeira": "🇺🇸",
+      "local": "CORUCHE",
+      "alt": "30850",
+      "vel": "541.9",
+      "dist": 101.3,
+      "hora": "2025-07-13T10:37"
+    },
+    {
+      "hex": "34644d",
+      "chamada": "IBS1523",
+      "cia": "Iberia Express",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "ARRONCHES",
+      "alt": "35000",
+      "vel": "412.6",
+      "dist": 157.6,
+      "hora": "2025-07-13T10:35"
+    },
+    {
+      "hex": "4ca61b",
+      "chamada": "RYR5499",
+      "cia": "Ryanair",
+      "pais": "Irlanda",
+      "bandeira": "🇮🇪",
+      "local": "LEIRIA",
+      "alt": "33800",
+      "vel": "484.3",
+      "dist": 12.3,
+      "hora": "2025-07-13T10:35"
+    },
+    {
+      "hex": "4d2519",
+      "chamada": "RYR62EA",
+      "cia": "Ryanair",
+      "pais": "Malta",
+      "bandeira": "🇲🇹",
+      "local": "TONDELA",
+      "alt": "37000",
+      "vel": "387.5",
+      "dist": 107.5,
+      "hora": "2025-07-13T10:35"
+    },
+    {
+      "hex": "4952c2",
+      "chamada": "TAP1142",
+      "cia": "TAP Air Portugal",
+      "pais": "Portugal",
+      "bandeira": "🇵🇹",
+      "local": "ALMEIRIM",
+      "alt": "20225",
+      "vel": "379.5",
+      "dist": 82.5,
+      "hora": "2025-07-13T10:35"
+    },
+    {
+      "hex": "40665e",
+      "chamada": "TOM7YV",
+      "cia": "TUI Airways",
+      "pais": "Reino Unido",
+      "bandeira": "🇬🇧",
+      "local": "Valência (Espanha)",
+      "alt": "36000",
+      "vel": "484.8",
+      "dist": 151.7,
+      "hora": "2025-07-13T10:32"
+    },
+    {
+      "hex": "347245",
+      "chamada": "WFL2502",
+      "cia": "WFL",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "BATALHA",
+      "alt": "40000",
+      "vel": "534.6",
+      "dist": 14.6,
+      "hora": "2025-07-13T10:31"
+    },
+    {
+      "hex": "44079a",
+      "chamada": "EJU43LY",
+      "cia": "easyJet Europe",
+      "pais": "Áustria",
+      "bandeira": "🇦🇹",
+      "local": "MONFORTE",
+      "alt": "27625",
+      "vel": "353.3",
+      "dist": 143.2,
+      "hora": "2025-07-13T10:30"
+    },
+    {
+      "hex": "394c18",
+      "chamada": "AFR1162",
+      "cia": "Air France",
+      "pais": "França",
+      "bandeira": "🇫🇷",
+      "local": "AGUIAR DA BEIRA",
+      "alt": "33000",
+      "vel": "388.3",
+      "dist": 165.2,
+      "hora": "2025-07-13T10:29"
+    },
+    {
+      "hex": "505d58",
+      "chamada": "EXS22AS",
+      "cia": "Jet2",
+      "pais": "Eslováquia",
+      "bandeira": "🇸🇰",
+      "local": "ALANDROAL",
+      "alt": "25000",
+      "vel": "426.5",
+      "dist": 174.3,
+      "hora": "2025-07-13T10:28"
+    },
+    {
+      "hex": "49514e",
+      "chamada": "TAP1925",
+      "cia": "TAP Air Portugal",
+      "pais": "Portugal",
+      "bandeira": "🇵🇹",
+      "local": "CANTANHEDE",
+      "alt": "23000",
+      "vel": "330.3",
+      "dist": 76.3,
+      "hora": "2025-07-13T10:28"
+    },
+    {
+      "hex": "34324e",
+      "chamada": "IBE05VP",
+      "cia": "Iberia",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "MONFORTE",
+      "alt": "27125",
+      "vel": "422.0",
+      "dist": 142.8,
+      "hora": "2025-07-13T10:26"
+    },
+    {
+      "hex": "34530c",
+      "chamada": "AEA198",
+      "cia": "Air Europa",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "BATALHA",
+      "alt": "39975",
+      "vel": "524.8",
+      "dist": 23.1,
+      "hora": "2025-07-13T10:24"
+    },
+    {
+      "hex": "4ca766",
+      "chamada": "RYR25ZJ",
+      "cia": "Ryanair",
+      "pais": "Irlanda",
+      "bandeira": "🇮🇪",
+      "local": "ALPIARÇA",
+      "alt": "18600",
+      "vel": "375.6",
+      "dist": 62.9,
+      "hora": "2025-07-13T10:24"
+    },
+    {
+      "hex": "405a46",
+      "chamada": "EFW79S",
+      "cia": "BA Euroflyer",
+      "pais": "Reino Unido",
+      "bandeira": "🇬🇧",
+      "local": "FUNDÃO",
+      "alt": "35000",
+      "vel": "411.3",
+      "dist": 144.1,
+      "hora": "2025-07-13T10:23"
+    },
+    {
+      "hex": "3455d5",
+      "chamada": "IBE0243",
+      "cia": "Iberia",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "SEIA",
+      "alt": "33000",
+      "vel": "420.1",
+      "dist": 122.0,
+      "hora": "2025-07-13T10:22"
+    },
+    {
+      "hex": "495cd0",
+      "chamada": "WFL3218",
+      "cia": "WFL",
+      "pais": "Portugal",
+      "bandeira": "🇵🇹",
+      "local": "BATALHA",
+      "alt": "40000",
+      "vel": "526.6",
+      "dist": 20.9,
+      "hora": "2025-07-13T10:22"
+    },
+    {
+      "hex": "34324f",
+      "chamada": "",
+      "cia": "",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": null,
+      "alt": "31000",
+      "vel": "397.2",
+      "dist": "",
+      "hora": "2025-07-13T10:22"
+    },
+    {
+      "hex": "4070ea",
+      "chamada": "EXS963Q",
+      "cia": "Jet2",
+      "pais": "Reino Unido",
+      "bandeira": "🇬🇧",
+      "local": "CORUCHE",
+      "alt": "35775",
+      "vel": "472.5",
+      "dist": 110.4,
+      "hora": "2025-07-13T10:20"
+    },
+    {
+      "hex": "344345",
+      "chamada": "IBE0338",
+      "cia": "Iberia",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "FREIXO DE ESPADA À CINTA",
+      "alt": "32525",
+      "vel": "497.3",
+      "dist": 236.0,
+      "hora": "2025-07-13T10:20"
+    },
+    {
+      "hex": "4d2218",
+      "chamada": "RYR88VH",
+      "cia": "Ryanair",
+      "pais": "Malta",
+      "bandeira": "🇲🇹",
+      "local": "ALTER DO CHÃO",
+      "alt": "36000",
+      "vel": "491.0",
+      "dist": 130.9,
+      "hora": "2025-07-13T10:18"
+    },
+    {
+      "hex": "4b194f",
+      "chamada": "SWR9CK",
+      "cia": "Swiss",
+      "pais": "Suiça",
+      "bandeira": "🇨🇭",
+      "local": null,
+      "alt": "31500",
+      "vel": "418.0",
+      "dist": "",
+      "hora": "2025-07-13T10:17"
+    },
+    {
+      "hex": "495304",
+      "chamada": "TAP432",
+      "cia": "TAP Air Portugal",
+      "pais": "Portugal",
+      "bandeira": "🇵🇹",
+      "local": "ALPIARÇA",
+      "alt": "22025",
+      "vel": "387.0",
+      "dist": 62.3,
+      "hora": "2025-07-13T10:16"
+    },
+    {
+      "hex": "3462c8",
+      "chamada": "IBE2603",
+      "cia": "Iberia",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "PORTALEGRE",
+      "alt": "33000",
+      "vel": "432.2",
+      "dist": 137.2,
+      "hora": "2025-07-13T10:15"
+    },
+    {
+      "hex": "4ca263",
+      "chamada": "RYR74UB",
+      "cia": "Ryanair",
+      "pais": "Irlanda",
+      "bandeira": "🇮🇪",
+      "local": "MONFORTE",
+      "alt": "28250",
+      "vel": "404.8",
+      "dist": 144.1,
+      "hora": "2025-07-13T10:15"
+    },
+    {
+      "hex": "4401f7",
+      "chamada": "",
+      "cia": "",
+      "pais": "Áustria",
+      "bandeira": "🇦🇹",
+      "local": null,
+      "alt": "32275",
+      "vel": "402.0",
+      "dist": "",
+      "hora": "2025-07-13T10:15"
+    },
+    {
+      "hex": "4070e8",
+      "chamada": "EXS9GT",
+      "cia": "Jet2",
+      "pais": "Reino Unido",
+      "bandeira": "🇬🇧",
+      "local": "CORUCHE",
+      "alt": "34675",
+      "vel": "464.6",
+      "dist": 113.7,
+      "hora": "2025-07-13T10:14"
+    },
+    {
+      "hex": "3450d8",
+      "chamada": "AEA194",
+      "cia": "Air Europa",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "OURÉM",
+      "alt": "40000",
+      "vel": "538.0",
+      "dist": 26.9,
+      "hora": "2025-07-13T10:13"
+    },
+    {
+      "hex": "4851f6",
+      "chamada": "KLM792",
+      "cia": "KLM",
+      "pais": "Países Baixos",
+      "bandeira": "🇳🇱",
+      "local": "BORBA",
+      "alt": "38000",
+      "vel": "563.0",
+      "dist": 168.0,
+      "hora": "2025-07-13T10:12"
+    },
+    {
+      "hex": "4cae8c",
+      "chamada": "RYR2YY",
+      "cia": "Ryanair",
+      "pais": "Irlanda",
+      "bandeira": "🇮🇪",
+      "local": "VISEU",
+      "alt": "37000",
+      "vel": "405.3",
+      "dist": 141.4,
+      "hora": "2025-07-13T10:12"
+    },
+    {
+      "hex": "440352",
+      "chamada": "EJU6734",
+      "cia": "easyJet Europe",
+      "pais": "Áustria",
+      "bandeira": "🇦🇹",
+      "local": "MANTEIGAS",
+      "alt": "35875",
+      "vel": "382.8",
+      "dist": 136.6,
+      "hora": "2025-07-13T10:10"
+    },
+    {
+      "hex": "4952cf",
+      "chamada": "TAP52TP",
+      "cia": "TAP Air Portugal",
+      "pais": "Portugal",
+      "bandeira": "🇵🇹",
+      "local": "SANTARÉM",
+      "alt": "23325",
+      "vel": "373.3",
+      "dist": 43.0,
+      "hora": "2025-07-13T10:10"
+    },
+    {
+      "hex": "34568d",
+      "chamada": "VOE2811",
+      "cia": "Volotea",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "VILA VIÇOSA",
+      "alt": "37975",
+      "vel": "507.7",
+      "dist": 175.9,
+      "hora": "2025-07-13T10:09"
+    },
+    {
+      "hex": "4cac53",
+      "chamada": "RYR802R",
+      "cia": "Ryanair",
+      "pais": "Irlanda",
+      "bandeira": "🇮🇪",
+      "local": "AVEIRO",
+      "alt": "37000",
+      "vel": "408.3",
+      "dist": 99.5,
+      "hora": "2025-07-13T10:09"
+    },
+    {
+      "hex": "4d2357",
+      "chamada": "TAP429",
+      "cia": "TAP Air Portugal",
+      "pais": "Malta",
+      "bandeira": "🇲🇹",
+      "local": "SEIA",
+      "alt": "35000",
+      "vel": "398.6",
+      "dist": 124.9,
+      "hora": "2025-07-13T10:09"
+    },
+    {
+      "hex": "4070f0",
+      "chamada": "EXS47QN",
+      "cia": "Jet2",
+      "pais": "Reino Unido",
+      "bandeira": "🇬🇧",
+      "local": "CORUCHE",
+      "alt": "35475",
+      "vel": "468.5",
+      "dist": 102.4,
+      "hora": "2025-07-13T10:08"
+    },
+    {
+      "hex": "39cf03",
+      "chamada": "AFR460",
+      "cia": "Air France",
+      "pais": "França",
+      "bandeira": "🇫🇷",
+      "local": "AGUIAR DA BEIRA",
+      "alt": "37000",
+      "vel": "424.9",
+      "dist": 173.4,
+      "hora": "2025-07-13T10:08"
+    },
+    {
+      "hex": "4aca8f",
+      "chamada": "NSZ7WJ",
+      "cia": "Norwegian Air Sweden",
+      "pais": "Suécia",
+      "bandeira": "🇸🇪",
+      "local": "ALPIARÇA",
+      "alt": "14850",
+      "vel": "410.3",
+      "dist": 62.2,
+      "hora": "2025-07-13T10:07"
+    },
+    {
+      "hex": "a4bef6",
+      "chamada": "",
+      "cia": "",
+      "pais": "Estados Unidos",
+      "bandeira": "🇺🇸",
+      "local": "MIRANDA DO DOURO",
+      "alt": "32000",
+      "vel": "499.3",
+      "dist": 295.9,
+      "hora": "2025-07-13T10:06"
+    },
+    {
+      "hex": "39ceae",
+      "chamada": "TVF10CH",
+      "cia": "Transavia France",
+      "pais": "França",
+      "bandeira": "🇫🇷",
+      "local": "CRATO",
+      "alt": "35000",
+      "vel": "411.0",
+      "dist": 124.1,
+      "hora": "2025-07-13T10:05"
+    },
+    {
+      "hex": "4d2102",
+      "chamada": "VJT492",
+      "cia": "VJT",
+      "pais": "Malta",
+      "bandeira": "🇲🇹",
+      "local": "CHAMUSCA",
+      "alt": "30375",
+      "vel": "489.7",
+      "dist": 87.8,
+      "hora": "2025-07-13T10:05"
+    },
+    {
+      "hex": "346385",
+      "chamada": "AEA056",
+      "cia": "Air Europa",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "BATALHA",
+      "alt": "39975",
+      "vel": "537.1",
+      "dist": 23.8,
+      "hora": "2025-07-13T10:05"
+    },
+    {
+      "hex": "343147",
+      "chamada": "PUE302",
+      "cia": "Plus Ultra",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "CHAMUSCA",
+      "alt": "40000",
+      "vel": "524.3",
+      "dist": 75.6,
+      "hora": "2025-07-13T10:04"
+    },
+    {
+      "hex": "348084",
+      "chamada": "",
+      "cia": "",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": null,
+      "alt": "32000",
+      "vel": "519.6",
+      "dist": "",
+      "hora": "2025-07-13T10:04"
+    },
+    {
+      "hex": "440031",
+      "chamada": "EJU45AW",
+      "cia": "easyJet Europe",
+      "pais": "Áustria",
+      "bandeira": "🇦🇹",
+      "local": "GOLEGÃ",
+      "alt": "38000",
+      "vel": "498.0",
+      "dist": 51.9,
+      "hora": "2025-07-13T10:03"
     },
     {
       "hex": "407686",
-      "chamada": "",
-      "cia": "",
+      "chamada": "EZY957A",
+      "cia": "easyJet",
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
-      "local": "ÉVORA",
-      "alt": "32250",
-      "vel": "471.4",
-      "dist": 170.4,
-      "hora": "2025-07-13T09:58"
+      "local": "SOUSEL",
+      "alt": "34700",
+      "vel": "483.8",
+      "dist": 142.9,
+      "hora": "2025-07-13T10:01"
     },
     {
       "hex": "407fae",
@@ -42,23 +930,11 @@
       "cia": "TUI Airways",
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
-      "local": "SOUSEL",
-      "alt": "32475",
-      "vel": "475.7",
-      "dist": 141.8,
-      "hora": "2025-07-13T09:56"
-    },
-    {
-      "hex": "440352",
-      "chamada": "",
-      "cia": "",
-      "pais": "Áustria",
-      "bandeira": "🇦🇹",
-      "local": null,
-      "alt": "37000",
-      "vel": "381.1",
-      "dist": "",
-      "hora": "2025-07-13T09:55"
+      "local": "NISA",
+      "alt": "36150",
+      "vel": "498.2",
+      "dist": 119.9,
+      "hora": "2025-07-13T10:01"
     },
     {
       "hex": "407f63",
@@ -66,47 +942,71 @@
       "cia": "easyJet",
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
-      "local": "BELMONTE",
+      "local": "CASTELO DE VIDE",
       "alt": "37000",
-      "vel": "408.6",
-      "dist": 156.7,
-      "hora": "2025-07-13T09:54"
+      "vel": "398.5",
+      "dist": 132.8,
+      "hora": "2025-07-13T10:01"
     },
     {
-      "hex": "406e65",
-      "chamada": "EZY91KZ",
-      "cia": "easyJet",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "MARINHA GRANDE",
-      "alt": "22075",
-      "vel": "411.8",
-      "dist": 0.7,
-      "hora": "2025-07-13T09:53"
-    },
-    {
-      "hex": "347555",
-      "chamada": "PUE301",
-      "cia": "Plus Ultra",
-      "pais": "Espanha",
-      "bandeira": "🇪🇸",
-      "local": "CRATO",
-      "alt": "35000",
-      "vel": "439.3",
-      "dist": 125.3,
-      "hora": "2025-07-13T09:52"
+      "hex": "503ede",
+      "chamada": "TAP762A",
+      "cia": "TAP Air Portugal",
+      "pais": "Lituânia",
+      "bandeira": "🇱🇹",
+      "local": "ALPIARÇA",
+      "alt": "13525",
+      "vel": "423.1",
+      "dist": 63.1,
+      "hora": "2025-07-13T10:00"
     },
     {
       "hex": "a92ddf",
-      "chamada": "UAL261",
-      "cia": "UAL",
+      "chamada": "",
+      "cia": "",
       "pais": "Estados Unidos",
       "bandeira": "🇺🇸",
-      "local": null,
+      "local": "PENALVA DO CASTELO",
       "alt": "31000",
+      "vel": "434.0",
+      "dist": 154.2,
+      "hora": "2025-07-13T10:00"
+    },
+    {
+      "hex": "49526b",
+      "chamada": "RZO506",
+      "cia": "RZO",
+      "pais": "Portugal",
+      "bandeira": "🇵🇹",
+      "local": "ÁGUEDA",
+      "alt": "36000",
+      "vel": "506.6",
+      "dist": 97.6,
+      "hora": "2025-07-13T10:00"
+    },
+    {
+      "hex": "495152",
+      "chamada": "TAP11WQ",
+      "cia": "TAP Air Portugal",
+      "pais": "Portugal",
+      "bandeira": "🇵🇹",
+      "local": "MONFORTE",
+      "alt": "28850",
+      "vel": "402.9",
+      "dist": 147.3,
+      "hora": "2025-07-13T10:00"
+    },
+    {
+      "hex": "347555",
+      "chamada": "",
+      "cia": "",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": null,
+      "alt": "35000",
       "vel": "",
       "dist": "",
-      "hora": "2025-07-13T09:52"
+      "hora": "2025-07-13T10:00"
     },
     {
       "hex": "3964f0",
@@ -114,35 +1014,11 @@
       "cia": "Transavia France",
       "pais": "França",
       "bandeira": "🇫🇷",
-      "local": "AGUIAR DA BEIRA",
-      "alt": "39000",
-      "vel": "398.3",
-      "dist": 163.1,
-      "hora": "2025-07-13T09:50"
-    },
-    {
-      "hex": "345644",
-      "chamada": "VLG86YY",
-      "cia": "Vueling",
-      "pais": "Espanha",
-      "bandeira": "🇪🇸",
-      "local": "ARRONCHES",
-      "alt": "31375",
-      "vel": "394.0",
-      "dist": 154.6,
-      "hora": "2025-07-13T09:49"
-    },
-    {
-      "hex": "407022",
-      "chamada": "EFW63N",
-      "cia": "BA Euroflyer",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "PAMPILHOSA DA SERRA",
-      "alt": "33000",
-      "vel": "411.9",
-      "dist": 109.3,
-      "hora": "2025-07-13T09:49"
+      "local": "ANSIÃO",
+      "alt": "26275",
+      "vel": "365.0",
+      "dist": 51.2,
+      "hora": "2025-07-13T10:00"
     },
     {
       "hex": "39bda7",
@@ -150,35 +1026,11 @@
       "cia": "Air France",
       "pais": "França",
       "bandeira": "🇫🇷",
-      "local": "CARREGAL DO SAL",
-      "alt": "35000",
-      "vel": "406.9",
-      "dist": 117.6,
-      "hora": "2025-07-13T09:48"
-    },
-    {
-      "hex": "407574",
-      "chamada": "EZY28RV",
-      "cia": "easyJet",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "PORTO DE MÓS",
-      "alt": "21175",
-      "vel": "378.4",
-      "dist": 22.5,
-      "hora": "2025-07-13T09:48"
-    },
-    {
-      "hex": "440c33",
-      "chamada": "EJU49QD",
-      "cia": "easyJet Europe",
-      "pais": "Áustria",
-      "bandeira": "🇦🇹",
-      "local": "BORBA",
-      "alt": "34000",
-      "vel": "489.3",
-      "dist": 162.2,
-      "hora": "2025-07-13T09:47"
+      "local": "ALCANENA",
+      "alt": "21225",
+      "vel": "348.1",
+      "dist": 37.7,
+      "hora": "2025-07-13T10:00"
     },
     {
       "hex": "3c64b0",
@@ -186,880 +1038,76 @@
       "cia": "Lufthansa",
       "pais": "Alemanha",
       "bandeira": "🇩🇪",
-      "local": "MANGUALDE",
-      "alt": "31000",
-      "vel": "414.9",
-      "dist": 141.1,
-      "hora": "2025-07-13T09:46"
+      "local": "SANTARÉM",
+      "alt": "20350",
+      "vel": "348.1",
+      "dist": 49.6,
+      "hora": "2025-07-13T10:00"
     },
     {
-      "hex": "a8e78e",
-      "chamada": "TWY34",
-      "cia": "Solairus Aviation",
-      "pais": "Estados Unidos",
-      "bandeira": "🇺🇸",
-      "local": "MARINHA GRANDE",
-      "alt": "20000",
-      "vel": "",
-      "dist": 23.8,
-      "hora": "2025-07-13T09:44"
-    },
-    {
-      "hex": "3463c6",
-      "chamada": "VOE3551",
-      "cia": "Volotea",
-      "pais": "Espanha",
-      "bandeira": "🇪🇸",
-      "local": "ARRONCHES",
-      "alt": "38025",
-      "vel": "525.6",
-      "dist": 158.9,
-      "hora": "2025-07-13T09:43"
+      "hex": "407022",
+      "chamada": "EFW63N",
+      "cia": "BA Euroflyer",
+      "pais": "Reino Unido",
+      "bandeira": "🇬🇧",
+      "local": "CORUCHE",
+      "alt": "35000",
+      "vel": "417.3",
+      "dist": 102.2,
+      "hora": "2025-07-13T10:00"
     },
     {
       "hex": "407f7b",
-      "chamada": "EXS96BL",
-      "cia": "Jet2",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "BELMONTE",
-      "alt": "37000",
-      "vel": "400.0",
-      "dist": 153.5,
-      "hora": "2025-07-13T09:42"
-    },
-    {
-      "hex": "3c6dd6",
-      "chamada": "EWG8KU",
-      "cia": "Eurowings",
-      "pais": "Alemanha",
-      "bandeira": "🇩🇪",
-      "local": "ARRONCHES",
-      "alt": "37025",
-      "vel": "386.5",
-      "dist": 159.0,
-      "hora": "2025-07-13T09:41"
-    },
-    {
-      "hex": "407739",
-      "chamada": "TOM10N",
-      "cia": "TUI Airways",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "CHAMUSCA",
-      "alt": "34000",
-      "vel": "462.5",
-      "dist": 85.7,
-      "hora": "2025-07-13T09:39"
-    },
-    {
-      "hex": "407573",
-      "chamada": "EZY78WY",
-      "cia": "easyJet",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "ÉVORA",
-      "alt": "29475",
-      "vel": "470.8",
-      "dist": 161.9,
-      "hora": "2025-07-13T09:38"
-    },
-    {
-      "hex": "0d09ec",
-      "chamada": "AMX002",
-      "cia": "Aeromexico",
-      "pais": "Mexico",
-      "bandeira": "",
-      "local": "PENALVA DO CASTELO",
-      "alt": "33000",
-      "vel": "463.7",
-      "dist": 155.8,
-      "hora": "2025-07-13T09:37"
-    },
-    {
-      "hex": "495212",
-      "chamada": "TAP10DM",
-      "cia": "TAP Air Portugal",
-      "pais": "Portugal",
-      "bandeira": "🇵🇹",
-      "local": "ALMEIRIM",
-      "alt": "17900",
-      "vel": "380.6",
-      "dist": 81.7,
-      "hora": "2025-07-13T09:37"
-    },
-    {
-      "hex": "4cae85",
-      "chamada": "TOM1VL",
-      "cia": "TUI Airways",
-      "pais": "Irlanda",
-      "bandeira": "🇮🇪",
-      "local": "TRANCOSO",
-      "alt": "35000",
-      "vel": "409.5",
-      "dist": 186.0,
-      "hora": "2025-07-13T09:36"
-    },
-    {
-      "hex": "406279",
-      "chamada": "CFE7028",
-      "cia": "BA CityFlyer",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "ESTREMOZ",
-      "alt": "29600",
-      "vel": "445.3",
-      "dist": 146.1,
-      "hora": "2025-07-13T09:35"
-    },
-    {
-      "hex": "4ac8e3",
-      "chamada": "BIX10L",
-      "cia": "Braathens International Airways",
-      "pais": "Suécia",
-      "bandeira": "🇸🇪",
-      "local": "ARRONCHES",
-      "alt": "35000",
-      "vel": "406.4",
-      "dist": 157.6,
-      "hora": "2025-07-13T09:35"
-    },
-    {
-      "hex": "407f0e",
-      "chamada": "RUK6U",
-      "cia": "Ryanair UK",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "ALMEIDA",
-      "alt": "37000",
-      "vel": "392.9",
-      "dist": 189.6,
-      "hora": "2025-07-13T09:34"
-    },
-    {
-      "hex": "348203",
-      "chamada": "VLG6366",
-      "cia": "Vueling",
-      "pais": "Espanha",
-      "bandeira": "🇪🇸",
-      "local": "SOUSEL",
-      "alt": "34025",
-      "vel": "473.9",
-      "dist": 131.7,
-      "hora": "2025-07-13T09:31"
-    },
-    {
-      "hex": "489220",
-      "chamada": "ENT74KZ",
-      "cia": "Enter Air",
-      "pais": "Polónia",
-      "bandeira": "🇵🇱",
-      "local": "SOUSEL",
-      "alt": "38000",
-      "vel": "535.1",
-      "dist": 140.1,
-      "hora": "2025-07-13T09:31"
-    },
-    {
-      "hex": "4cac1e",
-      "chamada": "RYR29GN",
-      "cia": "Ryanair",
-      "pais": "Irlanda",
-      "bandeira": "🇮🇪",
-      "local": "CORUCHE",
-      "alt": "32950",
-      "vel": "472.5",
-      "dist": 110.0,
-      "hora": "2025-07-13T09:28"
-    },
-    {
-      "hex": "40751c",
-      "chamada": "EXS251",
-      "cia": "Jet2",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "BELMONTE",
-      "alt": "39000",
-      "vel": "394.5",
-      "dist": 157.5,
-      "hora": "2025-07-13T09:26"
-    },
-    {
-      "hex": "34529a",
-      "chamada": "AEA120",
-      "cia": "Air Europa",
-      "pais": "Espanha",
-      "bandeira": "🇪🇸",
-      "local": "OURÉM",
-      "alt": "43000",
-      "vel": "532.0",
-      "dist": 27.5,
-      "hora": "2025-07-13T09:26"
-    },
-    {
-      "hex": "4cae98",
-      "chamada": "RYR3XK",
-      "cia": "Ryanair",
-      "pais": "Irlanda",
-      "bandeira": "🇮🇪",
-      "local": "PENALVA DO CASTELO",
-      "alt": "35000",
-      "vel": "398.3",
-      "dist": 154.8,
-      "hora": "2025-07-13T09:26"
-    },
-    {
-      "hex": "3991e8",
-      "chamada": "AFR1225",
-      "cia": "Air France",
-      "pais": "França",
-      "bandeira": "🇫🇷",
-      "local": "ALPIARÇA",
-      "alt": "15300",
-      "vel": "427.9",
-      "dist": 64.3,
-      "hora": "2025-07-13T09:25"
-    },
-    {
-      "hex": "40804e",
-      "chamada": "WUK1SB",
-      "cia": "Wizz Air UK",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "BELMONTE",
-      "alt": "35000",
-      "vel": "418.9",
-      "dist": 159.2,
-      "hora": "2025-07-13T09:24"
-    },
-    {
-      "hex": "4951d7",
-      "chamada": "TAP1923",
-      "cia": "TAP Air Portugal",
-      "pais": "Portugal",
-      "bandeira": "🇵🇹",
-      "local": "CANTANHEDE",
-      "alt": "21000",
-      "vel": "404.5",
-      "dist": 77.9,
-      "hora": "2025-07-13T09:23"
-    },
-    {
-      "hex": "48c1bb",
-      "chamada": "RYR310L",
-      "cia": "Ryanair",
-      "pais": "Polónia",
-      "bandeira": "🇵🇱",
-      "local": "ARRONCHES",
-      "alt": "30875",
-      "vel": "367.6",
-      "dist": 154.3,
-      "hora": "2025-07-13T09:22"
-    },
-    {
-      "hex": "4ca225",
-      "chamada": "RYR9CM",
-      "cia": "Ryanair",
-      "pais": "Irlanda",
-      "bandeira": "🇮🇪",
-      "local": "CORUCHE",
-      "alt": "35125",
-      "vel": "470.5",
-      "dist": 106.1,
-      "hora": "2025-07-13T09:22"
-    },
-    {
-      "hex": "4854ca",
-      "chamada": "TRA5504",
-      "cia": "Transavia",
-      "pais": "Países Baixos",
-      "bandeira": "🇳🇱",
-      "local": "ÉVORA",
-      "alt": "31150",
-      "vel": "477.7",
-      "dist": 176.7,
-      "hora": "2025-07-13T09:22"
-    },
-    {
-      "hex": "4952b1",
-      "chamada": "",
-      "cia": "",
-      "pais": "Portugal",
-      "bandeira": "🇵🇹",
-      "local": null,
-      "alt": "",
-      "vel": "479.5",
-      "dist": "",
-      "hora": "2025-07-13T09:22"
-    },
-    {
-      "hex": "39ceb8",
-      "chamada": "TVF4738",
-      "cia": "Transavia France",
-      "pais": "França",
-      "bandeira": "🇫🇷",
-      "local": "SABUGAL",
-      "alt": "37000",
-      "vel": "387.5",
-      "dist": 172.9,
-      "hora": "2025-07-13T09:20"
-    },
-    {
-      "hex": "44d071",
-      "chamada": "BEL4WV",
-      "cia": "Brussels Airlines",
-      "pais": "Bélgica",
-      "bandeira": "🇧🇪",
-      "local": "SERNANCELHE",
-      "alt": "35000",
-      "vel": "397.2",
-      "dist": 180.0,
-      "hora": "2025-07-13T09:19"
-    },
-    {
-      "hex": "44015a",
-      "chamada": "EJU79ZU",
-      "cia": "easyJet Europe",
-      "pais": "Áustria",
-      "bandeira": "🇦🇹",
-      "local": "Valência (Espanha)",
-      "alt": "34975",
-      "vel": "406.9",
-      "dist": 161.5,
-      "hora": "2025-07-13T09:18"
-    },
-    {
-      "hex": "406754",
-      "chamada": "EZY94VW",
-      "cia": "easyJet",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "MORTÁGUA",
-      "alt": "33600",
-      "vel": "386.1",
-      "dist": 88.7,
-      "hora": "2025-07-13T09:17"
-    },
-    {
-      "hex": "4ca847",
-      "chamada": "RYR372D",
-      "cia": "Ryanair",
-      "pais": "Irlanda",
-      "bandeira": "🇮🇪",
-      "local": "ALPIARÇA",
-      "alt": "19775",
-      "vel": "382.6",
-      "dist": 63.0,
-      "hora": "2025-07-13T09:17"
-    },
-    {
-      "hex": "449681",
-      "chamada": "JAF2GX",
-      "cia": "TUI Airlines Belgium",
-      "pais": "Bélgica",
-      "bandeira": "🇧🇪",
-      "local": "ARGANIL",
-      "alt": "39000",
-      "vel": "380.5",
-      "dist": 91.7,
-      "hora": "2025-07-13T09:15"
-    },
-    {
-      "hex": "4cae9e",
-      "chamada": "RYR53YM",
-      "cia": "Ryanair",
-      "pais": "Irlanda",
-      "bandeira": "🇮🇪",
-      "local": "ARRAIOLOS",
-      "alt": "32600",
-      "vel": "467.1",
-      "dist": 138.4,
-      "hora": "2025-07-13T09:13"
-    },
-    {
-      "hex": "346083",
-      "chamada": "AEA81GJ",
-      "cia": "Air Europa",
-      "pais": "Espanha",
-      "bandeira": "🇪🇸",
-      "local": "Cidade Rodrigo (Espanha)",
-      "alt": "27000",
-      "vel": "413.0",
-      "dist": 239.3,
-      "hora": "2025-07-13T09:12"
-    },
-    {
-      "hex": "e48db4",
-      "chamada": "PPFCC",
-      "cia": "PPF",
-      "pais": "Brasil",
-      "bandeira": "🇧🇷",
-      "local": "CHAMUSCA",
-      "alt": "26725",
-      "vel": "487.7",
-      "dist": 80.7,
-      "hora": "2025-07-13T09:11"
-    },
-    {
-      "hex": "49514f",
-      "chamada": "TAP51AM",
-      "cia": "TAP Air Portugal",
-      "pais": "Portugal",
-      "bandeira": "🇵🇹",
-      "local": "TONDELA",
-      "alt": "34600",
-      "vel": "399.5",
-      "dist": 115.5,
-      "hora": "2025-07-13T09:11"
-    },
-    {
-      "hex": "4ca214",
-      "chamada": "EIN893",
-      "cia": "Air Lingus",
-      "pais": "Irlanda",
-      "bandeira": "🇮🇪",
-      "local": "CORUCHE",
-      "alt": "32150",
-      "vel": "485.7",
-      "dist": 99.6,
-      "hora": "2025-07-13T09:09"
-    },
-    {
-      "hex": "4d2237",
-      "chamada": "RYR551K",
-      "cia": "Ryanair",
-      "pais": "Malta",
-      "bandeira": "🇲🇹",
-      "local": "PENACOVA",
-      "alt": "23325",
-      "vel": "458.2",
-      "dist": 82.7,
-      "hora": "2025-07-13T09:09"
-    },
-    {
-      "hex": "485a83",
-      "chamada": "TFL51Y",
-      "cia": "TUI Airlines Netherlands",
-      "pais": "Países Baixos",
-      "bandeira": "🇳🇱",
-      "local": "CRATO",
-      "alt": "35000",
-      "vel": "421.7",
-      "dist": 110.6,
-      "hora": "2025-07-13T09:06"
-    },
-    {
-      "hex": "3964ee",
-      "chamada": "TVF30ZU",
-      "cia": "Transavia France",
-      "pais": "França",
-      "bandeira": "🇫🇷",
-      "local": "ALPIARÇA",
-      "alt": "20325",
-      "vel": "377.1",
-      "dist": 62.3,
-      "hora": "2025-07-13T09:05"
-    },
-    {
-      "hex": "4401d1",
-      "chamada": "EJU79RE",
-      "cia": "easyJet Europe",
-      "pais": "Áustria",
-      "bandeira": "🇦🇹",
-      "local": "VIMIOSO",
-      "alt": "30050",
-      "vel": "492.5",
-      "dist": 277.1,
-      "hora": "2025-07-13T09:05"
-    },
-    {
-      "hex": "348306",
-      "chamada": "IBB82TT",
-      "cia": "Binter Canarias",
-      "pais": "Espanha",
-      "bandeira": "🇪🇸",
-      "local": "SOUSEL",
-      "alt": "38000",
-      "vel": "514.6",
-      "dist": 140.2,
-      "hora": "2025-07-13T09:04"
-    },
-    {
-      "hex": "346291",
-      "chamada": "",
-      "cia": "",
-      "pais": "Espanha",
-      "bandeira": "🇪🇸",
-      "local": null,
-      "alt": "31975",
-      "vel": "482.4",
-      "dist": "",
-      "hora": "2025-07-13T09:04"
-    },
-    {
-      "hex": "346310",
-      "chamada": "",
-      "cia": "",
-      "pais": "Espanha",
-      "bandeira": "🇪🇸",
-      "local": "Salamanca (Espanha)",
-      "alt": "32000",
-      "vel": "509.2",
-      "dist": 304.8,
-      "hora": "2025-07-13T09:04"
-    },
-    {
-      "hex": "4d21f2",
-      "chamada": "RYR33UV",
-      "cia": "Ryanair",
-      "pais": "Malta",
-      "bandeira": "🇲🇹",
-      "local": "Cidade Rodrigo (Espanha)",
-      "alt": "32000",
-      "vel": "487.6",
-      "dist": 252.1,
-      "hora": "2025-07-13T09:03"
-    },
-    {
-      "hex": "4070e7",
-      "chamada": "EXS89WN",
-      "cia": "Jet2",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "PORTALEGRE",
-      "alt": "36175",
-      "vel": "396.1",
-      "dist": 132.5,
-      "hora": "2025-07-13T09:03"
-    },
-    {
-      "hex": "3482d6",
-      "chamada": "AEA072",
-      "cia": "Air Europa",
-      "pais": "Espanha",
-      "bandeira": "🇪🇸",
-      "local": "OURÉM",
-      "alt": "34000",
-      "vel": "535.9",
-      "dist": 29.2,
-      "hora": "2025-07-13T09:03"
-    },
-    {
-      "hex": "8962e5",
-      "chamada": "ETD87A",
-      "cia": "Etihad Airways",
-      "pais": "United Arab Emirates",
-      "bandeira": "",
-      "local": "CHAMUSCA",
-      "alt": "15525",
-      "vel": "430.2",
-      "dist": 83.4,
-      "hora": "2025-07-13T09:03"
-    },
-    {
-      "hex": "4080e2",
-      "chamada": "EXS6D",
-      "cia": "Jet2",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "REDONDO",
-      "alt": "31300",
-      "vel": "383.2",
-      "dist": 160.1,
-      "hora": "2025-07-13T09:02"
-    },
-    {
-      "hex": "406862",
-      "chamada": "GMA502",
-      "cia": "Gama Aviation",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "Cidade Rodrigo (Espanha)",
-      "alt": "36000",
-      "vel": "516.2",
-      "dist": 237.8,
-      "hora": "2025-07-13T09:02"
-    },
-    {
-      "hex": "34568a",
-      "chamada": "",
-      "cia": "",
-      "pais": "Espanha",
-      "bandeira": "🇪🇸",
-      "local": null,
-      "alt": "35000",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-13T09:02"
-    },
-    {
-      "hex": "020057",
-      "chamada": "RAM809P",
-      "cia": "Royal Air Maroc",
-      "pais": "Marrocos",
-      "bandeira": "🇲🇦",
-      "local": "SABUGAL",
-      "alt": "37000",
-      "vel": "403.5",
-      "dist": 176.9,
-      "hora": "2025-07-13T09:01"
-    },
-    {
-      "hex": "4404a4",
-      "chamada": "",
-      "cia": "",
-      "pais": "Áustria",
-      "bandeira": "🇦🇹",
-      "local": null,
-      "alt": "33975",
-      "vel": "",
-      "dist": "",
-      "hora": "2025-07-13T09:00"
-    },
-    {
-      "hex": "4d2449",
-      "chamada": "RYR45HT",
-      "cia": "Ryanair",
-      "pais": "Malta",
-      "bandeira": "🇲🇹",
-      "local": "CORUCHE",
-      "alt": "32975",
-      "vel": "470.5",
-      "dist": 112.3,
-      "hora": "2025-07-13T09:00"
-    },
-    {
-      "hex": "4cabec",
-      "chamada": "EIN49W",
-      "cia": "Air Lingus",
-      "pais": "Irlanda",
-      "bandeira": "🇮🇪",
-      "local": "SANTA COMBA DÃO",
-      "alt": "39000",
-      "vel": "440.9",
-      "dist": 95.4,
-      "hora": "2025-07-13T09:00"
-    },
-    {
-      "hex": "347206",
-      "chamada": "IBE6138",
-      "cia": "Iberia",
-      "pais": "Espanha",
-      "bandeira": "🇪🇸",
-      "local": "GAVIÃO",
-      "alt": "34000",
-      "vel": "535.3",
-      "dist": 96.3,
-      "hora": "2025-07-13T09:00"
-    },
-    {
-      "hex": "4cae53",
-      "chamada": "RYR40RB",
-      "cia": "Ryanair",
-      "pais": "Irlanda",
-      "bandeira": "🇮🇪",
-      "local": "ESTREMOZ",
-      "alt": "37000",
-      "vel": "404.7",
-      "dist": 143.8,
-      "hora": "2025-07-13T09:00"
-    },
-    {
-      "hex": "49529a",
-      "chamada": "TAP1926",
-      "cia": "TAP Air Portugal",
-      "pais": "Portugal",
-      "bandeira": "🇵🇹",
-      "local": "FIGUEIRA DA FOZ",
-      "alt": "24000",
-      "vel": "350.3",
-      "dist": 43.7,
-      "hora": "2025-07-13T09:00"
-    },
-    {
-      "hex": "39cea1",
-      "chamada": "TVF26DA",
-      "cia": "Transavia France",
-      "pais": "França",
-      "bandeira": "🇫🇷",
-      "local": "ARRONCHES",
-      "alt": "38000",
-      "vel": "517.2",
-      "dist": 159.5,
-      "hora": "2025-07-13T09:00"
-    },
-    {
-      "hex": "4cad7e",
-      "chamada": "EIN82T",
-      "cia": "Air Lingus",
-      "pais": "Irlanda",
-      "bandeira": "🇮🇪",
-      "local": "CONDEIXA-A-NOVA",
-      "alt": "30275",
-      "vel": "408.2",
-      "dist": 51.1,
-      "hora": "2025-07-13T09:00"
-    },
-    {
-      "hex": "406673",
-      "chamada": "EZY57QZ",
-      "cia": "easyJet",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "ANSIÃO",
-      "alt": "27300",
-      "vel": "401.8",
-      "dist": 38.6,
-      "hora": "2025-07-13T09:00"
-    },
-    {
-      "hex": "3c4906",
-      "chamada": "EWG41A",
-      "cia": "Eurowings",
-      "pais": "Alemanha",
-      "bandeira": "🇩🇪",
-      "local": "FUNDÃO",
-      "alt": "29700",
-      "vel": "498.5",
-      "dist": 132.3,
-      "hora": "2025-07-13T09:00"
-    },
-    {
-      "hex": "49d588",
-      "chamada": "DFC3KM",
-      "cia": "Aeropartner",
-      "pais": "Chéquia",
-      "bandeira": "🇨🇿",
-      "local": "Valência (Espanha)",
-      "alt": "39350",
-      "vel": "473.8",
-      "dist": 163.3,
-      "hora": "2025-07-13T09:00"
-    },
-    {
-      "hex": "4ca811",
-      "chamada": "RYR966H",
-      "cia": "Ryanair",
-      "pais": "Irlanda",
-      "bandeira": "🇮🇪",
-      "local": "AGUIAR DA BEIRA",
-      "alt": "26450",
-      "vel": "361.6",
-      "dist": 162.5,
-      "hora": "2025-07-13T09:00"
-    },
-    {
-      "hex": "406011",
-      "chamada": "EZY67KH",
-      "cia": "easyJet",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "IDANHA-A-NOVA",
-      "alt": "35000",
-      "vel": "417.2",
-      "dist": 150.1,
-      "hora": "2025-07-13T09:00"
-    },
-    {
-      "hex": "4080f7",
-      "chamada": "EZY41TV",
-      "cia": "easyJet",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "PORTALEGRE",
-      "alt": "37000",
-      "vel": "404.0",
-      "dist": 137.0,
-      "hora": "2025-07-13T09:00"
-    },
-    {
-      "hex": "40756f",
       "chamada": "",
       "cia": "",
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
-      "local": "ALBERGARIA-A-VELHA",
-      "alt": "36000",
-      "vel": "478.6",
-      "dist": 109.4,
-      "hora": "2025-07-13T09:00"
-    },
-    {
-      "hex": "4951cd",
-      "chamada": "",
-      "cia": "",
-      "pais": "Portugal",
-      "bandeira": "🇵🇹",
-      "local": "Cidade Rodrigo (Espanha)",
-      "alt": "35875",
-      "vel": "",
-      "dist": 221.0,
-      "hora": "2025-07-13T09:00"
-    },
-    {
-      "hex": "44cdd0",
-      "chamada": "BEL5KF",
-      "cia": "Brussels Airlines",
-      "pais": "Bélgica",
-      "bandeira": "🇧🇪",
-      "local": "CASTELO DE VIDE",
-      "alt": "35025",
-      "vel": "402.6",
-      "dist": 132.0,
-      "hora": "2025-07-13T09:00"
-    },
-    {
-      "hex": "44d1c3",
-      "chamada": "TFL82Y",
-      "cia": "TUI Airlines Netherlands",
-      "pais": "Bélgica",
-      "bandeira": "🇧🇪",
-      "local": "ALCANENA",
-      "alt": "35000",
-      "vel": "399.4",
-      "dist": 41.6,
-      "hora": "2025-07-13T09:00"
+      "local": "REGUENGOS DE MONSARAZ",
+      "alt": "28725",
+      "vel": "372.5",
+      "dist": 186.5,
+      "hora": "2025-07-13T10:00"
     }
   ],
   "top_paises": [
     {
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "total": 21
-    },
-    {
       "pais": "Espanha",
       "bandeira": "🇪🇸",
-      "total": 12
+      "total": 22
     },
     {
-      "pais": "Irlanda",
-      "bandeira": "🇮🇪",
-      "total": 11
+      "pais": "Reino Unido",
+      "bandeira": "🇬🇧",
+      "total": 19
     },
     {
       "pais": "Portugal",
       "bandeira": "🇵🇹",
-      "total": 8
+      "total": 9
     },
     {
-      "pais": "França",
-      "bandeira": "🇫🇷",
-      "total": 6
+      "pais": "Irlanda",
+      "bandeira": "🇮🇪",
+      "total": 8
     },
     {
       "pais": "Áustria",
       "bandeira": "🇦🇹",
-      "total": 5
+      "total": 6
     },
     {
-      "pais": "Bélgica",
-      "bandeira": "🇧🇪",
-      "total": 4
+      "pais": "França",
+      "bandeira": "🇫🇷",
+      "total": 5
     },
     {
       "pais": "Malta",
       "bandeira": "🇲🇹",
+      "total": 5
+    },
+    {
+      "pais": "Estados Unidos",
+      "bandeira": "🇺🇸",
       "total": 3
     },
     {
@@ -1075,1073 +1123,1073 @@
   ],
   "top_companhias": [
     {
-      "cia": "Ryanair",
-      "total": 11
-    },
-    {
-      "cia": "easyJet",
-      "total": 8
-    },
-    {
       "cia": "TAP Air Portugal",
-      "total": 4
+      "total": 9
     },
     {
-      "cia": "Transavia France",
-      "total": 4
+      "cia": "Ryanair",
+      "total": 9
     },
     {
       "cia": "Jet2",
-      "total": 4
+      "total": 8
     },
     {
-      "cia": "Air Lingus",
-      "total": 3
+      "cia": "Iberia",
+      "total": 8
     },
     {
       "cia": "easyJet Europe",
-      "total": 3
+      "total": 5
     },
     {
       "cia": "Air Europa",
+      "total": 5
+    },
+    {
+      "cia": "easyJet",
+      "total": 4
+    },
+    {
+      "cia": "Air France",
       "total": 3
     },
     {
       "cia": "TUI Airways",
-      "total": 3
+      "total": 2
     },
     {
-      "cia": "Eurowings",
+      "cia": "Transavia France",
       "total": 2
     }
   ],
   "rotas": [
     {
-      "hex": "4d2449",
-      "chamada": "RYR45HT",
+      "hex": "503ede",
+      "chamada": "TAP762A",
       "de": [
-        38.873912,
-        -8.282166
+        39.257316,
+        -8.566956
       ],
       "para": [
-        40.593598,
-        -8.460971
+        40.096467,
+        -7.464835
       ],
-      "alt": "32975"
+      "alt": "13525"
     },
     {
-      "hex": "020057",
-      "chamada": "RAM809P",
-      "de": [
-        40.329025,
-        -7.002869
-      ],
-      "para": [
-        38.367325,
-        -7.540536
-      ],
-      "alt": "37000"
-    },
-    {
-      "hex": "4d21f2",
-      "chamada": "RYR33UV",
-      "de": [
-        40.736252,
-        -6.456604
-      ],
-      "para": [
-        40.698108,
-        -6.240796
-      ],
-      "alt": "32000"
-    },
-    {
-      "hex": "4cabec",
-      "chamada": "EIN49W",
-      "de": [
-        40.370008,
-        -8.164215
-      ],
-      "para": [
-        38.559451,
-        -7.724976
-      ],
-      "alt": "39000"
-    },
-    {
-      "hex": "347206",
-      "chamada": "IBE6138",
-      "de": [
-        39.546616,
-        -7.842865
-      ],
-      "para": [
-        39.648148,
-        -7.281667
-      ],
-      "alt": "34000"
-    },
-    {
-      "hex": "4cae53",
-      "chamada": "RYR40RB",
-      "de": [
-        38.845515,
-        -7.739197
-      ],
-      "para": [
-        38.651159,
-        -8.004089
-      ],
-      "alt": "37000"
-    },
-    {
-      "hex": "49529a",
-      "chamada": "TAP1926",
-      "de": [
-        40.128708,
-        -8.810303
-      ],
-      "para": [
-        40.3423,
-        -8.821594
-      ],
-      "alt": "24000"
-    },
-    {
-      "hex": "39cea1",
-      "chamada": "TVF26DA",
-      "de": [
-        39.151657,
-        -7.247334
-      ],
-      "para": [
-        40.654162,
-        -6.253593
-      ],
-      "alt": "38000"
-    },
-    {
-      "hex": "4cad7e",
-      "chamada": "EIN82T",
-      "de": [
-        40.090694,
-        -8.538312
-      ],
-      "para": [
-        39.436066,
-        -8.765836
-      ],
-      "alt": "30275"
-    },
-    {
-      "hex": "406673",
-      "chamada": "EZY57QZ",
-      "de": [
-        39.888145,
-        -8.523865
-      ],
-      "para": [
-        39.35376,
-        -8.860832
-      ],
-      "alt": "27300"
-    },
-    {
-      "hex": "3c4906",
-      "chamada": "EWG41A",
-      "de": [
-        40.111267,
-        -7.459717
-      ],
-      "para": [
-        40.475541,
-        -6.980313
-      ],
-      "alt": "29700"
-    },
-    {
-      "hex": "49d588",
-      "chamada": "DFC3KM",
-      "de": [
-        39.579876,
-        -7.041565
-      ],
-      "para": [
-        39.624473,
-        -6.939209
-      ],
-      "alt": "39350"
-    },
-    {
-      "hex": "4070e7",
-      "chamada": "EXS89WN",
-      "de": [
-        39.32753,
-        -7.491064
-      ],
-      "para": [
-        38.324456,
-        -7.591314
-      ],
-      "alt": "36175"
-    },
-    {
-      "hex": "4ca811",
-      "chamada": "RYR966H",
-      "de": [
-        40.777863,
-        -7.578857
-      ],
-      "para": [
-        40.782852,
-        -7.604187
-      ],
-      "alt": "26450"
-    },
-    {
-      "hex": "485a83",
-      "chamada": "TFL51Y",
-      "de": [
-        40.10083,
-        -7.371765
-      ],
-      "para": [
-        38.71138,
-        -8.071667
-      ],
-      "alt": "35000"
-    },
-    {
-      "hex": "406011",
-      "chamada": "EZY67KH",
-      "de": [
-        39.667395,
-        -7.184509
-      ],
-      "para": [
-        38.359137,
-        -7.541935
-      ],
-      "alt": "35000"
-    },
-    {
-      "hex": "4080f7",
-      "chamada": "EZY41TV",
-      "de": [
-        39.295396,
-        -7.450806
-      ],
-      "para": [
-        38.545625,
-        -7.552124
-      ],
-      "alt": "37000"
-    },
-    {
-      "hex": "40756f",
+      "hex": "a92ddf",
       "chamada": "",
       "de": [
-        40.66571,
-        -8.473083
+        40.718079,
+        -7.638494
       ],
       "para": [
-        40.66571,
-        -8.473083
-      ],
-      "alt": "36000"
-    },
-    {
-      "hex": "4951cd",
-      "chamada": "",
-      "de": [
-        40.688782,
-        -6.643738
-      ],
-      "para": [
-        40.688782,
-        -6.643738
-      ],
-      "alt": "35875"
-    },
-    {
-      "hex": "44cdd0",
-      "chamada": "BEL5KF",
-      "de": [
-        39.547709,
-        -7.41626
-      ],
-      "para": [
-        38.566818,
-        -7.558653
-      ],
-      "alt": "35025"
-    },
-    {
-      "hex": "4080e2",
-      "chamada": "EXS6D",
-      "de": [
-        38.634979,
-        -7.757422
-      ],
-      "para": [
-        38.547953,
-        -7.753906
-      ],
-      "alt": "31300"
-    },
-    {
-      "hex": "44d1c3",
-      "chamada": "TFL82Y",
-      "de": [
-        39.439911,
-        -8.660988
-      ],
-      "para": [
-        39.321213,
-        -8.761716
-      ],
-      "alt": "35000"
-    },
-    {
-      "hex": "406862",
-      "chamada": "GMA502",
-      "de": [
-        40.517625,
-        -6.327376
-      ],
-      "para": [
-        40.803036,
-        -5.92263
-      ],
-      "alt": "36000"
-    },
-    {
-      "hex": "348306",
-      "chamada": "IBB82TT",
-      "de": [
-        38.746359,
-        -7.850952
-      ],
-      "para": [
-        40.652766,
-        -6.255778
-      ],
-      "alt": "38000"
-    },
-    {
-      "hex": "44015a",
-      "chamada": "EJU79ZU",
-      "de": [
-        39.287435,
-        -7.15033
-      ],
-      "para": [
-        38.746857,
-        -7.54904
-      ],
-      "alt": "34975"
-    },
-    {
-      "hex": "3482d6",
-      "chamada": "AEA072",
-      "de": [
-        39.626429,
-        -8.815369
-      ],
-      "para": [
-        39.707057,
-        -7.791321
-      ],
-      "alt": "34000"
-    },
-    {
-      "hex": "8962e5",
-      "chamada": "ETD87A",
-      "de": [
-        39.135178,
-        -8.376359
-      ],
-      "para": [
-        39.442932,
-        -7.538591
-      ],
-      "alt": "15525"
-    },
-    {
-      "hex": "3964ee",
-      "chamada": "TVF30ZU",
-      "de": [
-        39.209181,
-        -8.632996
-      ],
-      "para": [
-        40.514738,
-        -6.788927
-      ],
-      "alt": "20325"
-    },
-    {
-      "hex": "346310",
-      "chamada": "",
-      "de": [
-        40.996124,
-        -5.732544
-      ],
-      "para": [
-        40.996124,
-        -5.732544
-      ],
-      "alt": "32000"
-    },
-    {
-      "hex": "4401d1",
-      "chamada": "EJU79RE",
-      "de": [
-        41.443314,
-        -6.530935
-      ],
-      "para": [
-        41.449402,
-        -6.492483
-      ],
-      "alt": "30050"
-    },
-    {
-      "hex": "4ca214",
-      "chamada": "EIN893",
-      "de": [
-        39.008401,
-        -8.282898
-      ],
-      "para": [
-        40.643829,
-        -8.460815
-      ],
-      "alt": "32150"
-    },
-    {
-      "hex": "449681",
-      "chamada": "JAF2GX",
-      "de": [
-        40.272574,
-        -7.945737
-      ],
-      "para": [
-        39.33976,
-        -8.748291
-      ],
-      "alt": "39000"
-    },
-    {
-      "hex": "4d2237",
-      "chamada": "RYR551K",
-      "de": [
-        40.332504,
-        -8.336975
-      ],
-      "para": [
-        38.293452,
-        -6.912371
-      ],
-      "alt": "23325"
-    },
-    {
-      "hex": "e48db4",
-      "chamada": "PPFCC",
-      "de": [
-        39.125977,
-        -8.503239
-      ],
-      "para": [
-        39.622147,
-        -7.093287
-      ],
-      "alt": "26725"
-    },
-    {
-      "hex": "49514f",
-      "chamada": "TAP51AM",
-      "de": [
-        40.59082,
-        -8.143677
-      ],
-      "para": [
-        39.425629,
-        -8.880118
-      ],
-      "alt": "34600"
-    },
-    {
-      "hex": "346083",
-      "chamada": "AEA81GJ",
-      "de": [
-        40.670502,
-        -6.390859
-      ],
-      "para": [
-        40.815399,
-        -7.548462
-      ],
-      "alt": "27000"
-    },
-    {
-      "hex": "4cae9e",
-      "chamada": "RYR53YM",
-      "de": [
-        38.646876,
-        -7.945374
-      ],
-      "para": [
-        39.439041,
-        -7.418817
-      ],
-      "alt": "32600"
-    },
-    {
-      "hex": "406754",
-      "chamada": "EZY94VW",
-      "de": [
-        40.480225,
-        -8.219482
-      ],
-      "para": [
-        39.505253,
-        -8.839783
-      ],
-      "alt": "33600"
-    },
-    {
-      "hex": "39ceb8",
-      "chamada": "TVF4738",
-      "de": [
-        40.582947,
-        -6.9198
-      ],
-      "para": [
-        38.979492,
-        -8.579102
-      ],
-      "alt": "37000"
-    },
-    {
-      "hex": "4ca847",
-      "chamada": "RYR372D",
-      "de": [
-        39.195648,
-        -8.634836
-      ],
-      "para": [
-        40.479813,
-        -6.974182
-      ],
-      "alt": "19775"
-    },
-    {
-      "hex": "44d071",
-      "chamada": "BEL4WV",
-      "de": [
-        40.902332,
-        -7.447794
-      ],
-      "para": [
-        39.288227,
-        -8.76532
-      ],
-      "alt": "35000"
-    },
-    {
-      "hex": "40751c",
-      "chamada": "EXS251",
-      "de": [
-        40.741196,
-        -7.242676
-      ],
-      "para": [
-        38.504013,
-        -7.558236
-      ],
-      "alt": "39000"
-    },
-    {
-      "hex": "48c1bb",
-      "chamada": "RYR310L",
-      "de": [
-        39.18786,
-        -7.292053
-      ],
-      "para": [
-        38.837741,
-        -8.119995
-      ],
-      "alt": "30875"
-    },
-    {
-      "hex": "4ca225",
-      "chamada": "RYR9CM",
-      "de": [
-        38.936371,
-        -8.286796
-      ],
-      "para": [
-        40.67013,
-        -8.468399
-      ],
-      "alt": "35125"
-    },
-    {
-      "hex": "4854ca",
-      "chamada": "TRA5504",
-      "de": [
-        38.448145,
-        -7.757324
-      ],
-      "para": [
-        40.679947,
-        -6.23584
-      ],
-      "alt": "31150"
-    },
-    {
-      "hex": "4951d7",
-      "chamada": "TAP1923",
-      "de": [
-        40.391375,
-        -8.57639
-      ],
-      "para": [
-        39.400976,
-        -8.794556
-      ],
-      "alt": "21000"
-    },
-    {
-      "hex": "40804e",
-      "chamada": "WUK1SB",
-      "de": [
-        40.399979,
-        -7.271484
-      ],
-      "para": [
-        38.384461,
-        -7.56958
-      ],
-      "alt": "35000"
-    },
-    {
-      "hex": "34529a",
-      "chamada": "AEA120",
-      "de": [
-        39.623542,
-        -8.847656
-      ],
-      "para": [
-        39.725784,
-        -7.531009
-      ],
-      "alt": "43000"
-    },
-    {
-      "hex": "3991e8",
-      "chamada": "AFR1225",
-      "de": [
-        39.245636,
-        -8.565515
-      ],
-      "para": [
-        40.678482,
-        -6.706909
-      ],
-      "alt": "15300"
-    },
-    {
-      "hex": "4cae98",
-      "chamada": "RYR3XK",
-      "de": [
-        40.689194,
-        -7.593079
-      ],
-      "para": [
-        38.884991,
-        -8.301819
-      ],
-      "alt": "35000"
-    },
-    {
-      "hex": "4cac1e",
-      "chamada": "RYR29GN",
-      "de": [
-        38.898305,
-        -8.281494
-      ],
-      "para": [
-        40.647738,
-        -8.465403
-      ],
-      "alt": "32950"
-    },
-    {
-      "hex": "407f0e",
-      "chamada": "RUK6U",
-      "de": [
-        40.523071,
-        -6.950256
-      ],
-      "para": [
-        38.679789,
-        -7.457581
-      ],
-      "alt": "37000"
-    },
-    {
-      "hex": "348203",
-      "chamada": "VLG6366",
-      "de": [
-        38.848526,
-        -7.726852
-      ],
-      "para": [
-        40.649414,
-        -8.427368
-      ],
-      "alt": "34025"
-    },
-    {
-      "hex": "0d09ec",
-      "chamada": "AMX002",
-      "de": [
-        40.592388,
-        -6.395728
-      ],
-      "para": [
-        40.763281,
-        -8.379884
-      ],
-      "alt": "33000"
-    },
-    {
-      "hex": "489220",
-      "chamada": "ENT74KZ",
-      "de": [
-        38.911011,
-        -7.718731
-      ],
-      "para": [
-        38.911011,
-        -7.718731
-      ],
-      "alt": "38000"
-    },
-    {
-      "hex": "406279",
-      "chamada": "CFE7028",
-      "de": [
-        38.648506,
-        -7.798401
-      ],
-      "para": [
-        40.643326,
-        -6.262512
-      ],
-      "alt": "29600"
-    },
-    {
-      "hex": "4ac8e3",
-      "chamada": "BIX10L",
-      "de": [
-        39.192282,
-        -7.247864
-      ],
-      "para": [
-        38.510742,
-        -7.859643
-      ],
-      "alt": "35000"
-    },
-    {
-      "hex": "4cae85",
-      "chamada": "TOM1VL",
-      "de": [
-        40.868861,
-        -7.308904
-      ],
-      "para": [
-        38.494744,
-        -7.571533
-      ],
-      "alt": "35000"
-    },
-    {
-      "hex": "407573",
-      "chamada": "EZY78WY",
-      "de": [
-        38.599503,
-        -7.781963
-      ],
-      "para": [
-        39.653549,
-        -7.08045
-      ],
-      "alt": "29475"
-    },
-    {
-      "hex": "407f7b",
-      "chamada": "EXS96BL",
-      "de": [
-        40.490624,
-        -7.315709
-      ],
-      "para": [
-        38.569181,
-        -7.556519
-      ],
-      "alt": "37000"
-    },
-    {
-      "hex": "495212",
-      "chamada": "TAP10DM",
-      "de": [
-        39.097412,
-        -8.492611
-      ],
-      "para": [
-        39.435562,
-        -7.50617
-      ],
-      "alt": "17900"
-    },
-    {
-      "hex": "3c6dd6",
-      "chamada": "EWG8KU",
-      "de": [
-        39.243583,
-        -7.205811
-      ],
-      "para": [
-        38.663315,
-        -7.417204
-      ],
-      "alt": "37025"
-    },
-    {
-      "hex": "3463c6",
-      "chamada": "VOE3551",
-      "de": [
-        38.401872,
-        -7.677115
-      ],
-      "para": [
-        39.242047,
-        -7.208801
-      ],
-      "alt": "38025"
-    },
-    {
-      "hex": "407739",
-      "chamada": "TOM10N",
-      "de": [
-        39.052719,
-        -8.299316
-      ],
-      "para": [
-        40.58871,
-        -8.460034
-      ],
-      "alt": "34000"
-    },
-    {
-      "hex": "345644",
-      "chamada": "VLG86YY",
-      "de": [
-        39.190338,
-        -7.286324
-      ],
-      "para": [
-        38.830804,
-        -8.130188
-      ],
-      "alt": "31375"
-    },
-    {
-      "hex": "3c64b0",
-      "chamada": "DLH82T",
-      "de": [
-        40.617737,
-        -7.728088
-      ],
-      "para": [
-        39.409058,
-        -8.661645
+        40.718079,
+        -7.638494
       ],
       "alt": "31000"
     },
     {
-      "hex": "407022",
-      "chamada": "EFW63N",
+      "hex": "49526b",
+      "chamada": "RZO506",
       "de": [
-        40.198013,
-        -7.79657
+        40.52619,
+        -8.405914
       ],
       "para": [
-        39.098969,
-        -8.224401
+        40.601419,
+        -5.861643
       ],
-      "alt": "33000"
+      "alt": "36000"
     },
     {
-      "hex": "a8e78e",
-      "chamada": "TWY34",
+      "hex": "407686",
+      "chamada": "EZY957A",
       "de": [
-        39.909622,
-        -9.119309
+        38.687622,
+        -7.746436
       ],
       "para": [
-        39.909622,
-        -9.119309
+        39.389385,
+        -7.558533
       ],
-      "alt": "20000"
+      "alt": "34700"
     },
     {
-      "hex": "440c33",
-      "chamada": "EJU49QD",
+      "hex": "495152",
+      "chamada": "TAP11WQ",
       "de": [
-        38.474633,
-        -7.745605
+        39.151363,
+        -7.404358
       ],
       "para": [
-        39.356472,
-        -7.154053
+        38.821447,
+        -8.123596
       ],
-      "alt": "34000"
+      "alt": "28850"
     },
     {
-      "hex": "39bda7",
-      "chamada": "AFR81MN",
+      "hex": "440352",
+      "chamada": "EJU6734",
       "de": [
-        40.52655,
-        -8.00116
+        40.417258,
+        -7.590929
       ],
       "para": [
-        39.513633,
-        -8.70575
+        39.283804,
+        -8.770142
       ],
-      "alt": "35000"
-    },
-    {
-      "hex": "407574",
-      "chamada": "EZY28RV",
-      "de": [
-        39.553761,
-        -8.862488
-      ],
-      "para": [
-        40.59906,
-        -8.744812
-      ],
-      "alt": "21175"
-    },
-    {
-      "hex": "3964f0",
-      "chamada": "TVF99YQ",
-      "de": [
-        40.782926,
-        -7.574574
-      ],
-      "para": [
-        39.987581,
-        -8.304977
-      ],
-      "alt": "39000"
-    },
-    {
-      "hex": "347555",
-      "chamada": "PUE301",
-      "de": [
-        39.303915,
-        -7.593018
-      ],
-      "para": [
-        39.049646,
-        -8.517334
-      ],
-      "alt": "35000"
+      "alt": "35875"
     },
     {
       "hex": "407fae",
       "chamada": "TOM6ND",
       "de": [
-        38.632725,
-        -7.787659
+        39.361593,
+        -7.577698
       ],
       "para": [
-        39.296585,
-        -7.585582
+        39.694767,
+        -7.537048
       ],
-      "alt": "32475"
+      "alt": "36150"
     },
     {
       "hex": "407f63",
       "chamada": "EZY53CV",
       "de": [
-        40.366699,
-        -7.28302
+        39.630199,
+        -7.392578
       ],
       "para": [
-        40.055466,
-        -7.329834
+        38.400429,
+        -7.569401
       ],
       "alt": "37000"
     },
     {
-      "hex": "406e65",
-      "chamada": "EZY91KZ",
+      "hex": "3964f0",
+      "chamada": "TVF99YQ",
       "de": [
-        39.748535,
-        -8.927856
+        39.904345,
+        -8.372375
       ],
       "para": [
-        40.073703,
-        -8.878202
+        39.401116,
+        -8.776978
       ],
-      "alt": "22075"
+      "alt": "26275"
     },
     {
-      "hex": "407686",
-      "chamada": "",
+      "hex": "39bda7",
+      "chamada": "AFR81MN",
       "de": [
-        38.494371,
-        -7.800415
+        39.43428,
+        -8.767806
       ],
       "para": [
-        38.589478,
-        -7.77026
+        39.399673,
+        -8.79778
       ],
-      "alt": "32250"
+      "alt": "21225"
     },
     {
-      "hex": "495152",
-      "chamada": "",
+      "hex": "3c64b0",
+      "chamada": "DLH82T",
       "de": [
-        39.206807,
-        -7.276123
+        39.333527,
+        -8.720756
       ],
       "para": [
-        39.206807,
-        -7.276123
+        39.304779,
+        -8.746849
       ],
-      "alt": "30525"
+      "alt": "20350"
     },
     {
-      "hex": "49526b",
-      "chamada": "",
+      "hex": "407022",
+      "chamada": "EFW63N",
       "de": [
-        40.520645,
-        -8.558899
+        38.988803,
+        -8.266418
       ],
       "para": [
-        40.520645,
-        -8.558899
+        38.988803,
+        -8.266418
+      ],
+      "alt": "35000"
+    },
+    {
+      "hex": "407f7b",
+      "chamada": "",
+      "de": [
+        38.447662,
+        -7.571013
+      ],
+      "para": [
+        38.363434,
+        -7.580508
+      ],
+      "alt": "28725"
+    },
+    {
+      "hex": "39ceae",
+      "chamada": "TVF10CH",
+      "de": [
+        39.340897,
+        -7.589164
+      ],
+      "para": [
+        38.449402,
+        -7.606812
+      ],
+      "alt": "35000"
+    },
+    {
+      "hex": "343147",
+      "chamada": "PUE302",
+      "de": [
+        39.18111,
+        -8.536316
+      ],
+      "para": [
+        39.533045,
+        -7.346252
+      ],
+      "alt": "40000"
+    },
+    {
+      "hex": "440031",
+      "chamada": "EJU45AW",
+      "de": [
+        39.355402,
+        -8.609192
+      ],
+      "para": [
+        40.545547,
+        -6.938416
+      ],
+      "alt": "38000"
+    },
+    {
+      "hex": "4d2102",
+      "chamada": "VJT492",
+      "de": [
+        39.054977,
+        -8.4784
+      ],
+      "para": [
+        39.523828,
+        -7.28186
+      ],
+      "alt": "30375"
+    },
+    {
+      "hex": "346385",
+      "chamada": "AEA056",
+      "de": [
+        39.641046,
+        -8.695007
+      ],
+      "para": [
+        39.714226,
+        -7.72876
+      ],
+      "alt": "39975"
+    },
+    {
+      "hex": "4aca8f",
+      "chamada": "NSZ7WJ",
+      "de": [
+        39.198008,
+        -8.646729
+      ],
+      "para": [
+        39.718277,
+        -7.92789
+      ],
+      "alt": "14850"
+    },
+    {
+      "hex": "a4bef6",
+      "chamada": "",
+      "de": [
+        41.572778,
+        -6.383504
+      ],
+      "para": [
+        41.565236,
+        -6.245153
+      ],
+      "alt": "32000"
+    },
+    {
+      "hex": "4070f0",
+      "chamada": "EXS47QN",
+      "de": [
+        38.849751,
+        -8.275757
+      ],
+      "para": [
+        40.614212,
+        -8.461487
+      ],
+      "alt": "35475"
+    },
+    {
+      "hex": "34568d",
+      "chamada": "VOE2811",
+      "de": [
+        38.702087,
+        -7.403687
+      ],
+      "para": [
+        39.27738,
+        -7.184937
+      ],
+      "alt": "37975"
+    },
+    {
+      "hex": "4cac53",
+      "chamada": "RYR802R",
+      "de": [
+        40.59613,
+        -8.562988
+      ],
+      "para": [
+        39.413592,
+        -8.789795
+      ],
+      "alt": "37000"
+    },
+    {
+      "hex": "39cf03",
+      "chamada": "AFR460",
+      "de": [
+        40.825987,
+        -7.459405
+      ],
+      "para": [
+        39.345253,
+        -8.745361
+      ],
+      "alt": "37000"
+    },
+    {
+      "hex": "4d2357",
+      "chamada": "TAP429",
+      "de": [
+        40.416229,
+        -7.602722
+      ],
+      "para": [
+        39.312015,
+        -8.740479
+      ],
+      "alt": "35000"
+    },
+    {
+      "hex": "4851f6",
+      "chamada": "KLM792",
+      "de": [
+        38.467484,
+        -7.637409
+      ],
+      "para": [
+        40.676042,
+        -6.238487
+      ],
+      "alt": "38000"
+    },
+    {
+      "hex": "4952cf",
+      "chamada": "TAP52TP",
+      "de": [
+        39.393574,
+        -8.735168
+      ],
+      "para": [
+        40.568041,
+        -8.670772
+      ],
+      "alt": "23325"
+    },
+    {
+      "hex": "3450d8",
+      "chamada": "AEA194",
+      "de": [
+        39.629594,
+        -8.84314
+      ],
+      "para": [
+        39.721573,
+        -7.630363
+      ],
+      "alt": "40000"
+    },
+    {
+      "hex": "4cae8c",
+      "chamada": "RYR2YY",
+      "de": [
+        40.730648,
+        -7.880194
+      ],
+      "para": [
+        38.477054,
+        -7.663391
+      ],
+      "alt": "37000"
+    },
+    {
+      "hex": "505d58",
+      "chamada": "EXS22AS",
+      "de": [
+        40.368425,
+        -7.120639
+      ],
+      "para": [
+        38.503123,
+        -7.479675
+      ],
+      "alt": "25000"
+    },
+    {
+      "hex": "3462c8",
+      "chamada": "IBE2603",
+      "de": [
+        39.260056,
+        -7.467658
+      ],
+      "para": [
+        38.781464,
+        -8.24912
+      ],
+      "alt": "33000"
+    },
+    {
+      "hex": "4ca263",
+      "chamada": "RYR74UB",
+      "de": [
+        39.166351,
+        -7.345913
+      ],
+      "para": [
+        38.836949,
+        -8.121033
+      ],
+      "alt": "28250"
+    },
+    {
+      "hex": "4d2218",
+      "chamada": "RYR88VH",
+      "de": [
+        38.946213,
+        -7.807398
+      ],
+      "para": [
+        39.398928,
+        -7.4021
       ],
       "alt": "36000"
+    },
+    {
+      "hex": "4070e8",
+      "chamada": "EXS9GT",
+      "de": [
+        38.862181,
+        -8.275757
+      ],
+      "para": [
+        40.610962,
+        -8.460596
+      ],
+      "alt": "34675"
+    },
+    {
+      "hex": "3455d5",
+      "chamada": "IBE0243",
+      "de": [
+        40.514738,
+        -6.636304
+      ],
+      "para": [
+        40.183319,
+        -8.821838
+      ],
+      "alt": "33000"
+    },
+    {
+      "hex": "405a46",
+      "chamada": "EFW79S",
+      "de": [
+        40.948471,
+        -7.23291
+      ],
+      "para": [
+        38.475494,
+        -7.541696
+      ],
+      "alt": "35000"
+    },
+    {
+      "hex": "495304",
+      "chamada": "TAP432",
+      "de": [
+        39.282501,
+        -8.532104
+      ],
+      "para": [
+        40.787064,
+        -6.55188
+      ],
+      "alt": "22025"
+    },
+    {
+      "hex": "4070ea",
+      "chamada": "EXS963Q",
+      "de": [
+        38.894669,
+        -8.280288
+      ],
+      "para": [
+        40.62941,
+        -8.463013
+      ],
+      "alt": "35775"
+    },
+    {
+      "hex": "344345",
+      "chamada": "IBE0338",
+      "de": [
+        41.187515,
+        -6.887268
+      ],
+      "para": [
+        40.900269,
+        -5.665955
+      ],
+      "alt": "32525"
+    },
+    {
+      "hex": "495cd0",
+      "chamada": "WFL3218",
+      "de": [
+        39.649155,
+        -8.7281
+      ],
+      "para": [
+        39.725352,
+        -7.653259
+      ],
+      "alt": "40000"
+    },
+    {
+      "hex": "34324e",
+      "chamada": "IBE05VP",
+      "de": [
+        39.183563,
+        -7.337972
+      ],
+      "para": [
+        38.726028,
+        -8.290856
+      ],
+      "alt": "27125"
+    },
+    {
+      "hex": "34530c",
+      "chamada": "AEA198",
+      "de": [
+        39.64119,
+        -8.704933
+      ],
+      "para": [
+        39.721436,
+        -7.634901
+      ],
+      "alt": "39975"
+    },
+    {
+      "hex": "4ca766",
+      "chamada": "RYR25ZJ",
+      "de": [
+        39.274401,
+        -8.534363
+      ],
+      "para": [
+        39.712411,
+        -7.970398
+      ],
+      "alt": "18600"
+    },
+    {
+      "hex": "49514e",
+      "chamada": "TAP1925",
+      "de": [
+        40.471771,
+        -8.586003
+      ],
+      "para": [
+        39.407043,
+        -8.789242
+      ],
+      "alt": "23000"
+    },
+    {
+      "hex": "44079a",
+      "chamada": "EJU43LY",
+      "de": [
+        39.252136,
+        -7.12953
+      ],
+      "para": [
+        38.824846,
+        -8.138794
+      ],
+      "alt": "27625"
+    },
+    {
+      "hex": "394c18",
+      "chamada": "AFR1162",
+      "de": [
+        40.763048,
+        -7.514711
+      ],
+      "para": [
+        39.336777,
+        -8.751566
+      ],
+      "alt": "33000"
+    },
+    {
+      "hex": "40665e",
+      "chamada": "TOM7YV",
+      "de": [
+        39.53109,
+        -7.101746
+      ],
+      "para": [
+        40.757881,
+        -7.878134
+      ],
+      "alt": "36000"
+    },
+    {
+      "hex": "347245",
+      "chamada": "WFL2502",
+      "de": [
+        39.64072,
+        -8.83728
+      ],
+      "para": [
+        39.723083,
+        -7.687922
+      ],
+      "alt": "40000"
+    },
+    {
+      "hex": "34644d",
+      "chamada": "IBS1523",
+      "de": [
+        39.265695,
+        -7.111877
+      ],
+      "para": [
+        38.404665,
+        -7.781365
+      ],
+      "alt": "35000"
+    },
+    {
+      "hex": "4ca61b",
+      "chamada": "RYR5499",
+      "de": [
+        39.62587,
+        -8.840942
+      ],
+      "para": [
+        40.558411,
+        -8.493408
+      ],
+      "alt": "33800"
+    },
+    {
+      "hex": "4d2519",
+      "chamada": "RYR62EA",
+      "de": [
+        40.526733,
+        -8.188049
+      ],
+      "para": [
+        39.411823,
+        -8.786255
+      ],
+      "alt": "37000"
+    },
+    {
+      "hex": "4952c2",
+      "chamada": "TAP1142",
+      "de": [
+        39.075576,
+        -8.528259
+      ],
+      "para": [
+        39.405957,
+        -7.647644
+      ],
+      "alt": "20225"
+    },
+    {
+      "hex": "34520b",
+      "chamada": "IBE03PP",
+      "de": [
+        40.57933,
+        -6.478943
+      ],
+      "para": [
+        40.49109,
+        -8.671334
+      ],
+      "alt": "33000"
+    },
+    {
+      "hex": "ab6116",
+      "chamada": "JAS832",
+      "de": [
+        38.997461,
+        -8.267517
+      ],
+      "para": [
+        39.606812,
+        -6.863947
+      ],
+      "alt": "30850"
+    },
+    {
+      "hex": "49514c",
+      "chamada": "TAP1032",
+      "de": [
+        39.071619,
+        -8.512695
+      ],
+      "para": [
+        39.380167,
+        -7.701477
+      ],
+      "alt": "22125"
+    },
+    {
+      "hex": "3444c3",
+      "chamada": "AEA35WQ",
+      "de": [
+        39.235995,
+        -7.182617
+      ],
+      "para": [
+        38.7782,
+        -7.621765
+      ],
+      "alt": "37000"
+    },
+    {
+      "hex": "440172",
+      "chamada": "EJU84EQ",
+      "de": [
+        41.003448,
+        -7.153687
+      ],
+      "para": [
+        39.140749,
+        -7.428711
+      ],
+      "alt": "37025"
+    },
+    {
+      "hex": "406c71",
+      "chamada": "EZY39RF",
+      "de": [
+        38.769608,
+        -8.216818
+      ],
+      "para": [
+        40.760441,
+        -8.458474
+      ],
+      "alt": "37975"
+    },
+    {
+      "hex": "407fca",
+      "chamada": "BAW505",
+      "de": [
+        38.593552,
+        -7.72721
+      ],
+      "para": [
+        40.463112,
+        -6.399973
+      ],
+      "alt": "29675"
+    },
+    {
+      "hex": "3c65cf",
+      "chamada": "DLH68H",
+      "de": [
+        41.438893,
+        -6.576531
+      ],
+      "para": [
+        41.453613,
+        -6.478376
+      ],
+      "alt": "32950"
+    },
+    {
+      "hex": "4866de",
+      "chamada": "TRA8R",
+      "de": [
+        38.652145,
+        -7.420966
+      ],
+      "para": [
+        39.285141,
+        -7.179804
+      ],
+      "alt": "38025"
+    },
+    {
+      "hex": "440019",
+      "chamada": "EJU81BC",
+      "de": [
+        38.399414,
+        -7.717077
+      ],
+      "para": [
+        39.631456,
+        -6.949585
+      ],
+      "alt": "38000"
+    },
+    {
+      "hex": "3c618b",
+      "chamada": "TUI3VM",
+      "de": [
+        38.527039,
+        -7.820415
+      ],
+      "para": [
+        39.61528,
+        -7.13568
+      ],
+      "alt": "29400"
+    },
+    {
+      "hex": "4070ed",
+      "chamada": "EXS5DK",
+      "de": [
+        38.901672,
+        -8.28202
+      ],
+      "para": [
+        40.626755,
+        -8.463196
+      ],
+      "alt": "35300"
+    },
+    {
+      "hex": "346057",
+      "chamada": "IBE3271",
+      "de": [
+        39.24852,
+        -7.142307
+      ],
+      "para": [
+        38.508756,
+        -7.839661
+      ],
+      "alt": "35000"
+    },
+    {
+      "hex": "4080c1",
+      "chamada": "RUK57LV",
+      "de": [
+        39.641373,
+        -8.902867
+      ],
+      "para": [
+        40.156566,
+        -8.833382
+      ],
+      "alt": "36000"
+    },
+    {
+      "hex": "407534",
+      "chamada": "BAW51P",
+      "de": [
+        39.264066,
+        -8.548279
+      ],
+      "para": [
+        40.3526,
+        -7.140869
+      ],
+      "alt": "18375"
+    },
+    {
+      "hex": "4cafc0",
+      "chamada": "RYR50BM",
+      "de": [
+        40.660028,
+        -7.686497
+      ],
+      "para": [
+        39.760208,
+        -8.481624
+      ],
+      "alt": "37000"
+    },
+    {
+      "hex": "4d2237",
+      "chamada": "RYR5509",
+      "de": [
+        38.569611,
+        -7.528919
+      ],
+      "para": [
+        39.477787,
+        -7.754395
+      ],
+      "alt": "33750"
+    },
+    {
+      "hex": "34659a",
+      "chamada": "IBE6137",
+      "de": [
+        40.526889,
+        -6.494793
+      ],
+      "para": [
+        40.341424,
+        -7.772078
+      ],
+      "alt": "33000"
+    },
+    {
+      "hex": "49d034",
+      "chamada": "EWG2JL",
+      "de": [
+        40.680359,
+        -7.660156
+      ],
+      "para": [
+        40.044525,
+        -8.23999
+      ],
+      "alt": "37000"
+    },
+    {
+      "hex": "406673",
+      "chamada": "EZY86VV",
+      "de": [
+        39.177841,
+        -8.661944
+      ],
+      "para": [
+        39.658218,
+        -8.041156
+      ],
+      "alt": "17400"
+    },
+    {
+      "hex": "4080e2",
+      "chamada": "EXS29DE",
+      "de": [
+        38.965247,
+        -8.269592
+      ],
+      "para": [
+        39.499878,
+        -8.328353
+      ],
+      "alt": "37225"
+    },
+    {
+      "hex": "495210",
+      "chamada": "TAP1123",
+      "de": [
+        39.123322,
+        -7.414637
+      ],
+      "para": [
+        38.870886,
+        -7.978638
+      ],
+      "alt": "28650"
+    },
+    {
+      "hex": "4bb20e",
+      "chamada": "THY1NB",
+      "de": [
+        39.049438,
+        -8.583606
+      ],
+      "para": [
+        39.218352,
+        -8.116028
+      ],
+      "alt": "15800"
+    },
+    {
+      "hex": "345109",
+      "chamada": "IBE0221",
+      "de": [
+        40.558731,
+        -6.468079
+      ],
+      "para": [
+        40.514832,
+        -6.773071
+      ],
+      "alt": "31000"
+    },
+    {
+      "hex": "344459",
+      "chamada": "AEA41UB",
+      "de": [
+        41.675354,
+        -6.15715
+      ],
+      "para": [
+        41.675354,
+        -6.15715
+      ],
+      "alt": "30000"
+    },
+    {
+      "hex": "406e9f",
+      "chamada": "EXS28YD",
+      "de": [
+        38.697144,
+        -7.676159
+      ],
+      "para": [
+        38.697144,
+        -7.676159
+      ],
+      "alt": "30600"
+    },
+    {
+      "hex": "4070e7",
+      "chamada": "EXS31F",
+      "de": [
+        39.049833,
+        -8.300781
+      ],
+      "para": [
+        39.049833,
+        -8.300781
+      ],
+      "alt": "34925"
     }
   ]
 }
