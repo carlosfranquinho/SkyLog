@@ -3,13 +3,13 @@ from pathlib import Path
 import os
 import json
 import csv
-from datetime import datetime
 from math import radians, cos, sin, asin, sqrt
 from collections import defaultdict
 
 # Coordenadas da estação
 ESTACAO_LAT = 39.74759200010467
 ESTACAO_LON = -8.936510104648143
+
 
 def haversine(lat1, lon1, lat2, lon2):
     R = 6371.0
@@ -20,9 +20,11 @@ def haversine(lat1, lon1, lat2, lon2):
     c = 2 * asin(sqrt(a))
     return round(R * c, 1)
 
+
 def carregar_json(caminho: Path):
     with caminho.open(encoding="utf-8") as f:
         return json.load(f)
+
 
 def hex_para_info_pais(hexcode: str, ranges: list[dict]):
     try:
@@ -31,17 +33,24 @@ def hex_para_info_pais(hexcode: str, ranges: list[dict]):
             inicio = int(entrada["start"], 16)
             fim = int(entrada["end"], 16)
             if inicio <= valor <= fim:
-                return entrada.get("country", "Desconhecido"), entrada.get("bandeira", "")
+                return (
+                    entrada.get("country", "Desconhecido"),
+                    entrada.get("bandeira", ""),
+                )
     except Exception:
         pass
     return "Desconhecido", ""
+
 
 def encontrar_local(lat: float, lon: float, features: list[dict]):
     """Devolve o município mais próximo das coordenadas indicadas."""
     melhor = None
     melhor_dist = None
     for feat in features:
-        nome = feat.get("properties", {}).get("nome") or feat.get("properties", {}).get("name")
+        nome = (
+            feat.get("properties", {}).get("nome")
+            or feat.get("properties", {}).get("name")
+        )
         try:
             flon, flat = feat["geometry"]["coordinates"]
         except Exception:
@@ -52,8 +61,11 @@ def encontrar_local(lat: float, lon: float, features: list[dict]):
             melhor = nome
     return melhor
 
+
 def main() -> None:
-    base_dir = Path(os.environ.get("BASE_DIR", Path(__file__).resolve().parent.parent))
+    base_dir = Path(
+        os.environ.get("BASE_DIR", Path(__file__).resolve().parent.parent)
+    )
     dir_csv = base_dir / "dados" / "horarios"
     output_path = base_dir / "docs" / "painel.json"
     icao_ranges_path = base_dir / "dados" / "icao_ranges.json"
@@ -69,7 +81,9 @@ def main() -> None:
 
     ficheiros = sorted(dir_csv.glob("*.csv"))
     if len(ficheiros) < 2:
-        raise FileNotFoundError("Pelo menos dois ficheiros CSV são necessários em dados/horarios")
+        raise FileNotFoundError(
+            "Pelo menos dois ficheiros CSV são necessários em dados/horarios"
+        )
 
     ultimo_csv = ficheiros[-2]
 
@@ -108,7 +122,10 @@ def main() -> None:
                     continue
                 info = rotas_raw.get(voo_id)
                 if not info:
-                    rotas_raw[voo_id] = {"de": [latf, lonf], "para": [latf, lonf]}
+                    rotas_raw[voo_id] = {
+                        "de": [latf, lonf],
+                        "para": [latf, lonf],
+                    }
                 else:
                     info["para"] = [latf, lonf]
 
@@ -117,7 +134,9 @@ def main() -> None:
         chamada = linha["flight"].strip()
         hexcode = linha["hex"].strip()
         companhia = chamada[:3] if len(chamada) >= 3 else ""
-        companhia_nome = companhias_info.get(companhia, {}).get("nome", companhia)
+        companhia_nome = companhias_info.get(companhia, {}).get(
+            "nome", companhia
+        )
         alt = linha.get("alt_baro", "").strip()
         vel = linha.get("gs", "").strip()
         hora = linha["timestamp"][:16]
@@ -127,7 +146,9 @@ def main() -> None:
             lat = float(linha["lat"])
             lon = float(linha["lon"])
             dist = haversine(ESTACAO_LAT, ESTACAO_LON, lat, lon)
-            local = encontrar_local(lat, lon, geo_dados) if geo_dados else None
+            local = (
+                encontrar_local(lat, lon, geo_dados) if geo_dados else None
+            )
         except Exception:
             dist = ""
 
@@ -159,7 +180,9 @@ def main() -> None:
     ultima_hora = sorted(registos, key=lambda x: x["hora"], reverse=True)
 
     top_paises = sorted(paises.items(), key=lambda x: x[1], reverse=True)[:10]
-    top_companhias = sorted(companhias.items(), key=lambda x: x[1], reverse=True)[:10]
+    top_companhias = sorted(
+        companhias.items(), key=lambda x: x[1], reverse=True
+    )[:10]
 
     top_paises_legiveis = [
         {"pais": chave[0], "bandeira": chave[1], "total": total}
@@ -199,6 +222,7 @@ def main() -> None:
         json.dump(saida, f, ensure_ascii=False, indent=2)
 
     print(f"Ficheiro gerado: {output_path.name}")
+
 
 if __name__ == "__main__":
     main()
