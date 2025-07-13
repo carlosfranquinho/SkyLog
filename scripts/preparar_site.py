@@ -12,7 +12,7 @@ ESTACAO_LON = -8.936510104648143
 # Diretórios relativos ao projeto
 BASE_DIR = Path(__file__).resolve().parent.parent
 dir_csv = BASE_DIR / "dados" / "horarios"
-output_path = BASE_DIR / "site" / "painel.json"
+output_path = BASE_DIR / "docs" / "painel.json"
 icao_ranges_path = BASE_DIR / "dados" / "icao_ranges.json"
 companhias_path = BASE_DIR / "dados" / "companhias.json"
 geo_path = BASE_DIR / "dados" / "geo" / "ContinenteConcelhos.geojson"
