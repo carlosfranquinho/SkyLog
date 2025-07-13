@@ -440,8 +440,8 @@
   {
     "start": "0D0000",
     "end": "0D7FFF",
-    "country": "Mexico",
-    "bandeira": ""
+    "country": "México",
+    "bandeira": "🇲🇽"
   },
   {
     "start": "0D8000",
@@ -584,8 +584,8 @@
   {
     "start": "460000",
     "end": "467FFF",
-    "country": "Finland",
-    "bandeira": ""
+    "country": "Finlândia",
+    "bandeira": "🇫🇮"
   },
   {
     "start": "468000",
@@ -764,8 +764,8 @@
   {
     "start": "511000",
     "end": "5113FF",
-    "country": "Estonia",
-    "bandeira": ""
+    "country": "Estónia",
+    "bandeira": "🇪🇪"
   },
   {
     "start": "512000",
@@ -1046,8 +1046,8 @@
   {
     "start": "896000",
     "end": "896FFF",
-    "country": "United Arab Emirates",
-    "bandeira": ""
+    "country": "Emirados Árabes Unidos",
+    "bandeira": "🇦🇪"
   },
   {
     "start": "897000",

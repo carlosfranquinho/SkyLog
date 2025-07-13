@@ -88,7 +88,7 @@ async function carregarPainel() {
 
       const horaRef = dados.ultima_hora[0].hora.slice(11, 13);
       const h = horaRef.padStart(2, "0");
-      const prox = String((parseInt(h, 10) + 1) % 24).padStart(2, "0");
+      const prox = String((parseInt(h, 10) + 2) % 24).padStart(2, "0");
 
       resumoEl.textContent =
         `Entre as ${h}h00m e as ${h}h59 foram detetados ${total} aviões de ${paisesSet.size} países e ${ciasSet.size} companhias. ` +
