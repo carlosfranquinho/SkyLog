@@ -146,6 +146,7 @@ async function carregarPainel() {
       const left = destPoint(fim[0], fim[1], bearing + 210, len);
       const right = destPoint(fim[0], fim[1], bearing + 150, len);
       L.polyline([left, fim, right], { color: cor, weight: 2 }).addTo(map);
+
     }
 
     dados.rotas.forEach(r => {
@@ -154,6 +155,7 @@ async function carregarPainel() {
       const fim = [r.para[0], r.para[1]];
       const cor = altitudeColor(r.alt);
       desenharSeta(ini, fim, cor);
+
     });
   } catch (e) {
     console.error("Erro ao carregar painel:", e);
