@@ -1,4 +1,3 @@
-
 async function carregarPainel() {
   try {
     const resp = await fetch("painel.json");

@@ -64,7 +64,6 @@ main.painel {
   border-radius: 6px;
 }
 
-
 /* Coluna lateral (países + companhias) - agora fica abaixo do mapa */
 #coluna-lateral {
   display: grid;
