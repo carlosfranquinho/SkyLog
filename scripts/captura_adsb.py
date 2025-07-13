@@ -2,6 +2,7 @@
 import os
 import csv
 import json
+
 import requests
 from datetime import datetime
 from pathlib import Path
@@ -9,7 +10,9 @@ from pathlib import Path
 
 def main() -> None:
     # Diretórios base
-    root_dir = Path(os.environ.get("BASE_DIR", Path(__file__).resolve().parent.parent))
+    root_dir = Path(
+        os.environ.get("BASE_DIR", Path(__file__).resolve().parent.parent)
+    )
     base_dir = root_dir / "dados"
     hourly_dir = base_dir / "horarios"
     daily_dir = base_dir / "diarios"
@@ -29,6 +32,7 @@ def main() -> None:
             headers={"User-Agent": "SkyLog/1.0"},
             proxies={"http": None, "https": None},
         )
+
         resposta.raise_for_status()
         data = resposta.json()
         # O timestamp fornecido pelo dump1090 está em UTC. Convertemos para a
