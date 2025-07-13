@@ -47,11 +47,12 @@ base_dir = root_dir / "dados"
 HOURLY_DIR = base_dir / "horarios"
 DAILY_DIR  = base_dir / "diarios"
 url = os.environ.get("DUMP1090_URL", "http://localhost:8080/data/aircraft.json")
-resposta = requests.get(
+session = requests.Session()
+session.trust_env = False
+resposta = session.get(
     url,
     timeout=5,
     headers={"User-Agent": "SkyLog/1.0"},
-    proxies={"http": None, "https": None},
 )
 
 resposta.raise_for_status()

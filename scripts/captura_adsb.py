@@ -2,7 +2,6 @@
 import os
 import csv
 import json
-
 import requests
 from datetime import datetime
 from pathlib import Path
@@ -26,11 +25,14 @@ def main() -> None:
     )
     print(f"ℹ️ A obter dados de {url}")
     try:
-        resposta = requests.get(
+        session = requests.Session()
+        # Ignore proxy configuration from the environment so the request always
+        # targets the local dump1090 instance directly.
+        session.trust_env = False
+        resposta = session.get(
             url,
             timeout=5,
             headers={"User-Agent": "SkyLog/1.0"},
-            proxies={"http": None, "https": None},
         )
 
         resposta.raise_for_status()
