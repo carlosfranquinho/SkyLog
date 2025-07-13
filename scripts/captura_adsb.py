@@ -24,8 +24,14 @@ def main() -> None:
         "DUMP1090_URL",
         "http://localhost:8080/data/aircraft.json",
     )
+    print(f"ℹ️ A obter dados de {url}")
     try:
-        resposta = requests.get(url, timeout=5)
+        resposta = requests.get(
+            url,
+            timeout=5,
+            headers={"User-Agent": "SkyLog/1.0"},
+            proxies={"http": None, "https": None},
+        )
 
         resposta.raise_for_status()
         data = resposta.json()
