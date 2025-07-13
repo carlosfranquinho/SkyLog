@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/usr/bin/env bash
 
 # Caminho base do projeto
 PROJECT_DIR="${BASE_DIR:-$(cd "$(dirname "$0")/.." && pwd)}"
