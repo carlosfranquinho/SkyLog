@@ -45,6 +45,7 @@ async function carregarPainel() {
       ulHora.innerHTML += `
         <li>
           <strong>${v.chamada || v.hex}</strong>: ${v.cia || ""}, ${bandeira}${v.pais}
+          ${v.origem && v.destino ? `<br>- Origem: ${v.origem} - Destino: ${v.destino}` : ""}
           <br>– avistado ${localTxt}às ${hm}${v.dist ? ` a ${v.dist} km de distância` : ""}
           ${altM !== null ? `<br>- Altitude: ${altM} metros` : ""}
           ${velK !== null ? `<br>- Velocidade: ${velK} km/h` : ""}

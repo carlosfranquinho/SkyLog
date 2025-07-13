@@ -3,6 +3,8 @@ from pathlib import Path
 import os
 import json
 import csv
+import urllib.request
+import urllib.parse
 from math import radians, cos, sin, asin, sqrt
 from collections import defaultdict
 
@@ -62,6 +64,39 @@ def encontrar_local(lat: float, lon: float, features: list[dict]):
     return melhor
 
 
+def _obter_nome_aeroporto(icao: str) -> str | None:
+    """Devolve o nome do aeroporto a partir do código ICAO."""
+    try:
+        url = (
+            "https://opensky-network.org/api/airports?icao="
+            + urllib.parse.quote(icao)
+        )
+        with urllib.request.urlopen(url, timeout=10) as resp:
+            dados = json.loads(resp.read().decode())
+        return dados.get("name")
+    except Exception:
+        return None
+
+
+def obter_rota(callsign: str) -> tuple[str | None, str | None]:
+    """Tenta obter a rota (origem e destino) de um voo pelo callsign."""
+    try:
+        url = (
+            "https://opensky-network.org/api/routes?callsign="
+            + urllib.parse.quote(callsign)
+        )
+        with urllib.request.urlopen(url, timeout=10) as resp:
+            dados = json.loads(resp.read().decode())
+        rota = dados.get("route")
+        if rota and len(rota) >= 2:
+            origem = _obter_nome_aeroporto(rota[0])
+            destino = _obter_nome_aeroporto(rota[-1])
+            return origem, destino
+    except Exception:
+        pass
+    return None, None
+
+
 def main() -> None:
     base_dir = Path(
         os.environ.get("BASE_DIR", Path(__file__).resolve().parent.parent)
@@ -92,6 +127,7 @@ def main() -> None:
     paises = defaultdict(int)
     rotas_raw = {}
     melhores_linhas = {}
+    rota_cache = {}
 
     with ultimo_csv.open(encoding="utf-8") as f:
         leitor = csv.DictReader(f)
@@ -157,6 +193,13 @@ def main() -> None:
 
         pais, bandeira = hex_para_info_pais(hexcode, icao_ranges)
 
+        origem = destino = None
+        if chamada:
+            rota = rota_cache.get(chamada)
+            if rota is None:
+                rota_cache[chamada] = obter_rota(chamada)
+            origem, destino = rota_cache.get(chamada, (None, None))
+
         if companhia:
             companhias[companhia] += 1
         if pais:
@@ -170,6 +213,8 @@ def main() -> None:
                 "pais": pais,
                 "bandeira": bandeira,
                 "local": local,
+                "origem": origem,
+                "destino": destino,
                 "alt": alt,
                 "vel": vel,
                 "dist": dist,
