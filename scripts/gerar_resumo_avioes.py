@@ -9,7 +9,9 @@ from collections import defaultdict
 
 def main() -> None:
     # Caminhos
-    base_dir = Path(os.environ.get("BASE_DIR", Path(__file__).resolve().parent.parent))
+    base_dir = Path(
+        os.environ.get("BASE_DIR", Path(__file__).resolve().parent.parent)
+    )
     diario_dir = base_dir / "dados" / "diarios"
     resumos_dir = base_dir / "resumos"
     resumos_dir.mkdir(parents=True, exist_ok=True)

@@ -9,6 +9,7 @@ web panel showing the latest detections. The raw CSV logs are kept under the
 - Python 3.8 or newer
 - A running `dump1090` server reachable at `http://localhost:8080` (or set
   `DUMP1090_URL` to a custom endpoint)
+
 - Install Python dependencies with `pip install -r requirements.txt`
 
 ## Directory layout
@@ -39,6 +40,7 @@ This command is run every minute via cron to capture new aircraft data.
 
 The script uses the `requests` library to fetch the JSON data. You can override
 the default URL with the `DUMP1090_URL` environment variable:
+
 ```python
 root_dir = Path(os.environ.get("BASE_DIR", Path(__file__).resolve().parent.parent))
 base_dir = root_dir / "dados"
@@ -56,6 +58,7 @@ mapping of callsign prefixes to airline names.
 
 ```bash
 python3 scripts/gerar_companhias.py
+
 ```
 
 ### gerar_resumo_avioes.py
@@ -104,8 +107,7 @@ This script is triggered hourly via cron to publish the updated site.
 
 1. Run `captura_adsb.py` periodically to gather new data. This repository uses
    a cron job to execute it every minute.
-2. Optionally run `gerar_companhias.py` and `gerar_resumo_avioes.py` to refresh
-   the auxiliary JSON files.
+2. Optionally run `gerar_resumo_avioes.py` to refresh the auxiliary JSON files.
 3. Run `preparar_site.py` to create `docs/painel.json`.
 4. Serve the contents of the `docs/` directory with any static web server or
    push them to GitHub Pages. The `publicar_site.sh` script, executed hourly via
