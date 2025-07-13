@@ -84,7 +84,7 @@ python3 scripts/gerar_resumo_avioes.py
 
 ### preparar_site.py
 Processes the latest hourly CSV together with auxiliary data to produce the
-JSON file used by the web panel (`docs/painel.json`).
+JSON file used by the web panel (`docs/hora_corrente.json`).
 
 ```bash
 python3 scripts/preparar_site.py
@@ -93,7 +93,7 @@ python3 scripts/preparar_site.py
 The relevant paths can be seen at the top of the script:
 ```python
 base_dir = Path(os.environ.get("BASE_DIR", Path(__file__).resolve().parent.parent))
-output_path = base_dir / "docs" / "painel.json"
+output_path = base_dir / "docs" / "hora_corrente.json"
 ```
 
 The file is written at the end of the run:
@@ -121,7 +121,7 @@ This script is triggered hourly via cron to publish the updated site.
 1. Run `captura_adsb.py` periodically to gather new data. This repository uses
    a cron job to execute it every minute.
 2. Optionally run `gerar_resumo_avioes.py` to refresh the auxiliary JSON files.
-3. Run `preparar_site.py` to create `docs/painel.json`.
+3. Run `preparar_site.py` to create `docs/hora_corrente.json`.
 4. Serve the contents of the `docs/` directory with any static web server or
    push them to GitHub Pages. The `publicar_site.sh` script, executed hourly via
    cron, automates the generation and commit of these files.

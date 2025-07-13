@@ -26,7 +26,7 @@ def test_preparar_site_generates_keys(tmp_path):
     base_dir = setup_preparar_site_data(tmp_path)
     os.environ["BASE_DIR"] = str(base_dir)
     preparar_site.main()
-    painel_path = base_dir / "docs" / "painel.json"
+    painel_path = base_dir / "docs" / "hora_corrente.json"
     assert painel_path.exists()
     data = json.loads(painel_path.read_text())
     for key in ["ultima_hora", "top_paises", "top_companhias", "rotas"]:
