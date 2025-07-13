@@ -1,9 +1,8 @@
 #!/bin/zsh
 
 # Caminho base do projeto
-PROJECT_DIR=~/Projetos/SkyLog
-SCRIPT_DIR="$PROJECT_DIR/scripts"
-PYTHON_SCRIPT="$SCRIPT_DIR/preparar_site.py"
+PROJECT_DIR="${BASE_DIR:-$(cd "$(dirname "$0")/.." && pwd)}"
+PYTHON_SCRIPT="$PROJECT_DIR/scripts/preparar_site.py"
 
 # Entrar na pasta do projeto
 cd "$PROJECT_DIR" || exit 1
