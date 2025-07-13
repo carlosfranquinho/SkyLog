@@ -67,7 +67,7 @@ def main() -> None:
         os.environ.get("BASE_DIR", Path(__file__).resolve().parent.parent)
     )
     dir_csv = base_dir / "dados" / "horarios"
-    output_path = base_dir / "docs" / "painel.json"
+    output_path = base_dir / "docs" / "hora_corrente.json"
     icao_ranges_path = base_dir / "dados" / "icao_ranges.json"
     companhias_path = base_dir / "dados" / "companhias.json"
     geo_path = base_dir / "dados" / "geo" / "ContinenteConcelhos.geojson"

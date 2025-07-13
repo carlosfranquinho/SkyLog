@@ -1,7 +1,7 @@
 
 async function carregarPainel() {
   try {
-    const resp = await fetch("painel.json");
+    const resp = await fetch("hora_corrente.json");
     const dados = await resp.json();
 
     const bandeiras = {};
