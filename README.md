@@ -105,3 +105,8 @@ This script is triggered hourly via cron to publish the updated site.
 4. Serve the contents of the `docs/` directory with any static web server or
    push them to GitHub Pages. The `publicar_site.sh` script, executed hourly via
    cron, automates the generation and commit of these files.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
