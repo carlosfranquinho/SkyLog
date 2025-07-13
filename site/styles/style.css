@@ -64,9 +64,6 @@ main.painel {
   border-radius: 6px;
 }
 
-.plane-icon {
-  font-size: 20px;
-}
 
 /* Coluna lateral (países + companhias) - agora fica abaixo do mapa */
 #coluna-lateral {
