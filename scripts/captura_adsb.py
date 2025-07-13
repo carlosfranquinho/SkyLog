@@ -2,7 +2,7 @@
 import os
 import csv
 import json
-import subprocess
+import requests
 from datetime import datetime
 from pathlib import Path
 
@@ -16,20 +16,18 @@ def main() -> None:
     hourly_dir.mkdir(parents=True, exist_ok=True)
     daily_dir.mkdir(parents=True, exist_ok=True)
 
-    # Executar curl para obter o JSON diretamente
+    # Obter o JSON diretamente via requests
     try:
-        resultado = subprocess.run(
-            ["curl", "-s", "http://localhost:8080/data/aircraft.json"],
-            check=True,
-            capture_output=True,
-            text=True,
+        resposta = requests.get(
+            "http://localhost:8080/data/aircraft.json", timeout=5
         )
-        data = json.loads(resultado.stdout)
+        resposta.raise_for_status()
+        data = resposta.json()
         # O timestamp fornecido pelo dump1090 está em UTC. Convertemos para a
         # hora local para que os ficheiros sejam gravados com a hora correta.
         now = datetime.fromtimestamp(data["now"])
     except Exception as e:
-        print(f"❌ Erro ao obter dados do dump1090 via curl: {e}")
+        print(f"❌ Erro ao obter dados do dump1090: {e}")
         return
 
     # Verificar se há aviões
