@@ -7,7 +7,6 @@ web panel showing the latest detections. The raw CSV logs are kept under the
 ## Requirements
 
 - Python 3.8 or newer
-- `curl` available in the system PATH
 - A running `dump1090` server reachable at `http://localhost:8080`
 - Install Python dependencies with `pip install -r requirements.txt`
 
@@ -37,17 +36,15 @@ BASE_DIR=/path/to/dir python3 scripts/captura_adsb.py
 ```
 This command is run every minute via cron to capture new aircraft data.
 
-Lines in the script show it directly calls `curl` and stores the files:
+The script uses the `requests` library to fetch the JSON data:
 ```python
 root_dir = Path(os.environ.get("BASE_DIR", Path(__file__).resolve().parent.parent))
 base_dir = root_dir / "dados"
 HOURLY_DIR = base_dir / "horarios"
 DAILY_DIR  = base_dir / "diarios"
-# Executar curl para obter o JSON diretamente
-resultado = subprocess.run(
-    ["curl", "-s", "http://localhost:8080/data/aircraft.json"],
-    check=True, capture_output=True, text=True,
-)
+resposta = requests.get("http://localhost:8080/data/aircraft.json", timeout=5)
+resposta.raise_for_status()
+data = resposta.json()
 ```
 
 ### gerar_companhias.py
