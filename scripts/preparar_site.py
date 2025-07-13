@@ -183,8 +183,15 @@ for reg in registos:
     pos = rotas_raw.get(vid)
     if not pos:
         continue
-    rota = {"hex": reg["hex"], "chamada": reg["chamada"],
-            "de": pos.get("de"), "para": pos.get("para")}
+    rota = {
+        "hex": reg["hex"],
+        "chamada": reg["chamada"],
+        "de": pos.get("de"),
+        "para": pos.get("para"),
+    }
+    alt = reg.get("alt")
+    if alt:
+        rota["alt"] = alt
     rotas.append(rota)
 
 saida = {

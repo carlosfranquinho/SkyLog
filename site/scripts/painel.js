@@ -1,3 +1,4 @@
+
 async function carregarPainel() {
   try {
     const resp = await fetch("painel.json");
@@ -131,23 +132,30 @@ async function carregarPainel() {
       return [toDeg(lat2), toDeg(lon2)];
     }
 
-    function desenharSeta(inicio, fim) {
-      L.polyline([inicio, fim], { color: "red", weight: 2 }).addTo(map);
+    function altitudeColor(alt) {
+      const a = parseFloat(alt);
+      if (isNaN(a)) return "#fff";
+      const hue = 120 - (Math.min(Math.max(a, 0), 40000) / 40000) * 120;
+      return `hsl(${hue}, 80%, 45%)`;
+    }
+
+    function desenharSeta(inicio, fim, cor) {
+      L.polyline([inicio, fim], { color: cor, weight: 2 }).addTo(map);
       const bearing = calcBearing(inicio[0], inicio[1], fim[0], fim[1]);
-      const distKm =
-        map.distance(L.latLng(inicio[0], inicio[1]), L.latLng(fim[0], fim[1])) /
-        1000;
-      const len = Math.min(distKm * 0.2, 20);
+      const len = 10; // arrowhead length in km
       const left = destPoint(fim[0], fim[1], bearing + 210, len);
       const right = destPoint(fim[0], fim[1], bearing + 150, len);
-      L.polyline([left, fim, right], { color: "red", weight: 2 }).addTo(map);
+      L.polyline([left, fim, right], { color: cor, weight: 2 }).addTo(map);
+
     }
 
     dados.rotas.forEach(r => {
       if (!r.de || !r.para) return;
       const ini = [r.de[0], r.de[1]];
       const fim = [r.para[0], r.para[1]];
-      desenharSeta(ini, fim);
+      const cor = altitudeColor(r.alt);
+      desenharSeta(ini, fim, cor);
+
     });
   } catch (e) {
     console.error("Erro ao carregar painel:", e);
