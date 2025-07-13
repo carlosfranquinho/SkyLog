@@ -148,6 +148,7 @@ async function carregarPainel() {
       const bearing = calcBearing(ini[0], ini[1], fim[0], fim[1]);
       const rot = bearing + 45; // emoji points NW by default
       L.marker(fim, { icon: planeIcon, rotationAngle: rot }).addTo(map);
+
     });
   } catch (e) {
     console.error("Erro ao carregar painel:", e);
