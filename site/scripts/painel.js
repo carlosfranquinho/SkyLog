@@ -106,9 +106,14 @@ async function carregarPainel() {
       ulCias.innerHTML += `<li><strong>${c.cia}</strong>: ${c.total} voos</li>`;
     });
 
-    const map = L.map("mapa").setView([39.7078, -8.0570], 8);
-    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    const initialZoom = 8;
+    const map = L.map("mapa", {
+      dragging: false,
+      minZoom: initialZoom,
       maxZoom: 18,
+      touchZoom: "center",
+    }).setView([39.7078, -8.0570], initialZoom);
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       attribution: "© OpenStreetMap"
     }).addTo(map);
 
@@ -132,20 +137,17 @@ async function carregarPainel() {
       return [toDeg(lat2), toDeg(lon2)];
     }
 
-    function altitudeColor(alt) {
-      const a = parseFloat(alt);
-      if (isNaN(a)) return "#fff";
-      const hue = 120 - (Math.min(Math.max(a, 0), 40000) / 40000) * 120;
-      return `hsl(${hue}, 80%, 45%)`;
+    function directionColor(bearing) {
+      const h = ((bearing % 360) + 360) % 360;
+      return `hsl(${h}, 80%, 45%)`;
     }
 
-    function desenharSeta(inicio, fim, cor) {
+    function desenharSeta(inicio, fim, bearing, cor) {
       L.polyline([inicio, fim], { color: cor, weight: 2 }).addTo(map);
-      const bearing = calcBearing(inicio[0], inicio[1], fim[0], fim[1]);
-      const len = 10; // arrowhead length in km
+      const len = 5; // arrowhead length in km
       const left = destPoint(fim[0], fim[1], bearing + 210, len);
       const right = destPoint(fim[0], fim[1], bearing + 150, len);
-      L.polyline([left, fim, right], { color: cor, weight: 2 }).addTo(map);
+      L.polygon([left, fim, right], { color: cor, fillColor: cor, weight: 1 }).addTo(map);
 
     }
 
@@ -153,8 +155,9 @@ async function carregarPainel() {
       if (!r.de || !r.para) return;
       const ini = [r.de[0], r.de[1]];
       const fim = [r.para[0], r.para[1]];
-      const cor = altitudeColor(r.alt);
-      desenharSeta(ini, fim, cor);
+      const bearing = calcBearing(ini[0], ini[1], fim[0], fim[1]);
+      const cor = directionColor(bearing);
+      desenharSeta(ini, fim, bearing, cor);
 
     });
   } catch (e) {
