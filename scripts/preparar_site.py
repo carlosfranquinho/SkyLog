@@ -1,22 +1,15 @@
+#!/usr/bin/env python3
 from pathlib import Path
+import os
 import json
 import csv
 from datetime import datetime
 from math import radians, cos, sin, asin, sqrt
 from collections import defaultdict
 
-# Coordenadas da estção
+# Coordenadas da estação
 ESTACAO_LAT = 39.74759200010467
 ESTACAO_LON = -8.936510104648143
-
-# Diretórios relativos ao projeto
-BASE_DIR = Path(__file__).resolve().parent.parent
-dir_csv = BASE_DIR / "dados" / "horarios"
-output_path = BASE_DIR / "docs" / "painel.json"
-icao_ranges_path = BASE_DIR / "dados" / "icao_ranges.json"
-companhias_path = BASE_DIR / "dados" / "companhias.json"
-geo_path = BASE_DIR / "dados" / "geo" / "ContinenteConcelhos.geojson"
-
 
 def haversine(lat1, lon1, lat2, lon2):
     R = 6371.0
@@ -27,18 +20,11 @@ def haversine(lat1, lon1, lat2, lon2):
     c = 2 * asin(sqrt(a))
     return round(R * c, 1)
 
-def carregar_json(caminho):
+def carregar_json(caminho: Path):
     with caminho.open(encoding="utf-8") as f:
         return json.load(f)
 
-icao_ranges = carregar_json(icao_ranges_path)
-companhias_info = carregar_json(companhias_path)
-try:
-    geo_dados = carregar_json(geo_path)["features"]
-except FileNotFoundError:
-    geo_dados = []
-
-def hex_para_info_pais(hexcode, ranges):
+def hex_para_info_pais(hexcode: str, ranges: list[dict]):
     try:
         valor = int(hexcode, 16)
         for entrada in ranges:
@@ -46,18 +32,16 @@ def hex_para_info_pais(hexcode, ranges):
             fim = int(entrada["end"], 16)
             if inicio <= valor <= fim:
                 return entrada.get("country", "Desconhecido"), entrada.get("bandeira", "")
-    except:
+    except Exception:
         pass
     return "Desconhecido", ""
 
-def encontrar_local(lat, lon, features):
+def encontrar_local(lat: float, lon: float, features: list[dict]):
     """Devolve o município mais próximo das coordenadas indicadas."""
     melhor = None
     melhor_dist = None
     for feat in features:
-        nome = feat.get("properties", {}).get("nome") or feat.get(
-            "properties", {}
-        ).get("name")
+        nome = feat.get("properties", {}).get("nome") or feat.get("properties", {}).get("name")
         try:
             flon, flat = feat["geometry"]["coordinates"]
         except Exception:
@@ -68,141 +52,153 @@ def encontrar_local(lat, lon, features):
             melhor = nome
     return melhor
 
-ficheiros = sorted(dir_csv.glob("*.csv"))
-if len(ficheiros) < 2:
-    raise FileNotFoundError("Pelo menos dois ficheiros CSV são necessários em dados/horarios")
+def main() -> None:
+    base_dir = Path(os.environ.get("BASE_DIR", Path(__file__).resolve().parent.parent))
+    dir_csv = base_dir / "dados" / "horarios"
+    output_path = base_dir / "docs" / "painel.json"
+    icao_ranges_path = base_dir / "dados" / "icao_ranges.json"
+    companhias_path = base_dir / "dados" / "companhias.json"
+    geo_path = base_dir / "dados" / "geo" / "ContinenteConcelhos.geojson"
 
-# Selecionar o penúltimo ficheiro (hora completa anterior)
-ultimo_csv = ficheiros[-2]
+    icao_ranges = carregar_json(icao_ranges_path)
+    companhias_info = carregar_json(companhias_path)
+    try:
+        geo_dados = carregar_json(geo_path)["features"]
+    except FileNotFoundError:
+        geo_dados = []
 
-registos = []
-companhias = defaultdict(int)
-paises = defaultdict(int)
+    ficheiros = sorted(dir_csv.glob("*.csv"))
+    if len(ficheiros) < 2:
+        raise FileNotFoundError("Pelo menos dois ficheiros CSV são necessários em dados/horarios")
 
-# Guardar primeira e última coordenada por voo
-rotas_raw = {}
+    ultimo_csv = ficheiros[-2]
 
-# Guardar a linha mais completa por voo (hex ou callsign)
-melhores_linhas = {}
+    registos = []
+    companhias = defaultdict(int)
+    paises = defaultdict(int)
+    rotas_raw = {}
+    melhores_linhas = {}
 
-with ultimo_csv.open(encoding="utf-8") as f:
-    leitor = csv.DictReader(f)
-    for linha in leitor:
+    with ultimo_csv.open(encoding="utf-8") as f:
+        leitor = csv.DictReader(f)
+        for linha in leitor:
+            chamada = linha["flight"].strip()
+            hexcode = linha["hex"].strip()
+            voo_id = hexcode or chamada
+            if not voo_id:
+                continue
+
+            campos_check = [
+                "flight", "alt_baro", "gs", "track", "lat", "lon",
+                "seen", "squawk", "category",
+            ]
+            score = sum(1 for c in campos_check if linha.get(c))
+
+            atual = melhores_linhas.get(voo_id)
+            if not atual or score > atual["score"]:
+                melhores_linhas[voo_id] = {"score": score, "linha": linha}
+
+            lat = linha.get("lat", "").strip()
+            lon = linha.get("lon", "").strip()
+            if lat and lon:
+                try:
+                    latf = float(lat)
+                    lonf = float(lon)
+                except ValueError:
+                    continue
+                info = rotas_raw.get(voo_id)
+                if not info:
+                    rotas_raw[voo_id] = {"de": [latf, lonf], "para": [latf, lonf]}
+                else:
+                    info["para"] = [latf, lonf]
+
+    for info in melhores_linhas.values():
+        linha = info["linha"]
         chamada = linha["flight"].strip()
         hexcode = linha["hex"].strip()
-        voo_id = hexcode or chamada
-        if not voo_id:
+        companhia = chamada[:3] if len(chamada) >= 3 else ""
+        companhia_nome = companhias_info.get(companhia, {}).get("nome", companhia)
+        alt = linha.get("alt_baro", "").strip()
+        vel = linha.get("gs", "").strip()
+        hora = linha["timestamp"][:16]
+
+        local = None
+        try:
+            lat = float(linha["lat"])
+            lon = float(linha["lon"])
+            dist = haversine(ESTACAO_LAT, ESTACAO_LON, lat, lon)
+            local = encontrar_local(lat, lon, geo_dados) if geo_dados else None
+        except Exception:
+            dist = ""
+
+        if not alt and not vel and not dist:
             continue
 
-        # Número de campos não vazios para definir "completo"
-        campos_check = [
-            "flight", "alt_baro", "gs", "track", "lat", "lon",
-            "seen", "squawk", "category"
-        ]
-        score = sum(1 for c in campos_check if linha.get(c))
+        pais, bandeira = hex_para_info_pais(hexcode, icao_ranges)
 
-        atual = melhores_linhas.get(voo_id)
-        if not atual or score > atual["score"]:
-            melhores_linhas[voo_id] = {"score": score, "linha": linha}
+        if companhia:
+            companhias[companhia] += 1
+        if pais:
+            paises[(pais, bandeira)] += 1
 
-        # Guardar primeira e última posição com coordenadas
-        lat = linha.get("lat", "").strip()
-        lon = linha.get("lon", "").strip()
-        if lat and lon:
-            try:
-                latf = float(lat)
-                lonf = float(lon)
-            except ValueError:
-                continue
-            info = rotas_raw.get(voo_id)
-            if not info:
-                rotas_raw[voo_id] = {"de": [latf, lonf], "para": [latf, lonf]}
-            else:
-                info["para"] = [latf, lonf]
+        registos.append(
+            {
+                "hex": hexcode,
+                "chamada": chamada,
+                "cia": companhia_nome,
+                "pais": pais,
+                "bandeira": bandeira,
+                "local": local,
+                "alt": alt,
+                "vel": vel,
+                "dist": dist,
+                "hora": hora,
+            }
+        )
 
-for info in melhores_linhas.values():
-    linha = info["linha"]
-    chamada = linha["flight"].strip()
-    hexcode = linha["hex"].strip()
-    companhia = chamada[:3] if len(chamada) >= 3 else ""
-    companhia_nome = companhias_info.get(companhia, {}).get("nome", companhia)
-    alt = linha.get("alt_baro", "").strip()
-    vel = linha.get("gs", "").strip()
-    hora = linha["timestamp"][:16]
+    ultima_hora = sorted(registos, key=lambda x: x["hora"], reverse=True)
 
-    local = None
-    try:
-        lat = float(linha["lat"])
-        lon = float(linha["lon"])
-        dist = haversine(ESTACAO_LAT, ESTACAO_LON, lat, lon)
-        local = encontrar_local(lat, lon, geo_dados) if geo_dados else None
-    except Exception:
-        dist = ""
+    top_paises = sorted(paises.items(), key=lambda x: x[1], reverse=True)[:10]
+    top_companhias = sorted(companhias.items(), key=lambda x: x[1], reverse=True)[:10]
 
-    if not alt and not vel and not dist:
-        continue
+    top_paises_legiveis = [
+        {"pais": chave[0], "bandeira": chave[1], "total": total}
+        for chave, total in top_paises
+    ]
+    top_companhias_legiveis = [
+        {"cia": companhias_info.get(c, {}).get("nome", c), "total": t}
+        for c, t in top_companhias
+    ]
 
-    pais, bandeira = hex_para_info_pais(hexcode, icao_ranges)
+    rotas = []
+    for reg in registos:
+        vid = reg["hex"] or reg["chamada"]
+        pos = rotas_raw.get(vid)
+        if not pos:
+            continue
+        rota = {
+            "hex": reg["hex"],
+            "chamada": reg["chamada"],
+            "de": pos.get("de"),
+            "para": pos.get("para"),
+        }
+        alt = reg.get("alt")
+        if alt:
+            rota["alt"] = alt
+        rotas.append(rota)
 
-    if companhia:
-        companhias[companhia] += 1
-    if pais:
-        paises[(pais, bandeira)] += 1
-
-    registos.append({
-        "hex": hexcode,
-        "chamada": chamada,
-        "cia": companhia_nome,
-        "pais": pais,
-        "bandeira": bandeira,
-        "local": local,
-        "alt": alt,
-        "vel": vel,
-        "dist": dist,
-        "hora": hora
-    })
-
-ultima_hora = sorted(registos, key=lambda x: x["hora"], reverse=True)
-
-top_paises = sorted(paises.items(), key=lambda x: x[1], reverse=True)[:10]
-top_companhias = sorted(companhias.items(), key=lambda x: x[1], reverse=True)[:10]
-
-top_paises_legiveis = [
-    {"pais": chave[0], "bandeira": chave[1], "total": total}
-    for chave, total in top_paises
-]
-top_companhias_legiveis = [
-    {"cia": companhias_info.get(c, {}).get("nome", c), "total": t}
-    for c, t in top_companhias
-]
-
-# Extrair rotas apenas para os voos presentes em ultima_hora
-rotas = []
-for reg in registos:
-    vid = reg["hex"] or reg["chamada"]
-    pos = rotas_raw.get(vid)
-    if not pos:
-        continue
-    rota = {
-        "hex": reg["hex"],
-        "chamada": reg["chamada"],
-        "de": pos.get("de"),
-        "para": pos.get("para"),
+    saida = {
+        "ultima_hora": ultima_hora,
+        "top_paises": top_paises_legiveis,
+        "top_companhias": top_companhias_legiveis,
+        "rotas": rotas,
     }
-    alt = reg.get("alt")
-    if alt:
-        rota["alt"] = alt
-    rotas.append(rota)
 
-saida = {
-    "ultima_hora": ultima_hora,
-    "top_paises": top_paises_legiveis,
-    "top_companhias": top_companhias_legiveis,
-    "rotas": rotas
-}
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    with output_path.open("w", encoding="utf-8") as f:
+        json.dump(saida, f, ensure_ascii=False, indent=2)
 
-output_path.parent.mkdir(parents=True, exist_ok=True)
-with output_path.open("w", encoding="utf-8") as f:
-    json.dump(saida, f, ensure_ascii=False, indent=2)
+    print(f"Ficheiro gerado: {output_path.name}")
 
-print(f"Ficheiro gerado: {output_path.name}")
+if __name__ == "__main__":
+    main()
