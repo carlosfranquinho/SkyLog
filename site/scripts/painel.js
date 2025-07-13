@@ -107,15 +107,28 @@ async function carregarPainel() {
     });
 
     const initialZoom = 8;
+    const center = [39.7078, -8.0570];
     const map = L.map("mapa", {
       dragging: false,
       minZoom: initialZoom,
       maxZoom: 18,
       touchZoom: "center",
-    }).setView([39.7078, -8.0570], initialZoom);
+    }).setView(center, initialZoom);
+
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       attribution: "© OpenStreetMap"
     }).addTo(map);
+
+    const initialBounds = map.getBounds();
+    map.setMaxBounds(initialBounds);
+    map.options.maxBoundsViscosity = 1.0;
+    map.on("zoomend", () => {
+      if (map.getZoom() > initialZoom) {
+        map.dragging.enable();
+      } else {
+        map.dragging.disable();
+      }
+    });
 
     function destPoint(lat, lon, brng, distKm) {
       const R = 6371;
