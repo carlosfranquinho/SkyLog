@@ -1,6 +1,6 @@
 {
   "AAL": {
-    "nome": "AAL"
+    "nome": "American Airlines"
   },
   "ACA": {
     "nome": "ACA"
@@ -63,7 +63,7 @@
     "nome": "BA CityFlyer"
   },
   "CFG": {
-    "nome": "CFG"
+    "nome": "Condor"
   },
   "CSX": {
     "nome": "CSX"
@@ -132,7 +132,7 @@
     "nome": "FlyOne"
   },
   "FIN": {
-    "nome": "FIN"
+    "nome": "Finnair"
   },
   "FJO": {
     "nome": "FJO"
@@ -149,6 +149,9 @@
   "FYL": {
     "nome": "FYL"
   },
+  "GES": {
+    "nome": "Gestair"
+  },  
   "GMA": {
     "nome": "Gama Aviation"
   },
@@ -210,7 +213,7 @@
     "nome": "Bulgaria Air"
   },
   "MBU": {
-    "nome": "MBU"
+    "nome": "Marabu"
   },
   "MRT": {
     "nome": "MRT"
@@ -225,7 +228,7 @@
     "nome": "Norwegian Air Sweden"
   },
   "OCN": {
-    "nome": "OCN"
+    "nome": "Discover Airlines"
   },
   "OEX": {
     "nome": "OEX"
@@ -270,7 +273,7 @@
     "nome": "SDR"
   },
   "SHA": {
-    "nome": "SHA"
+    "nome": "Shree Airlines"
   },
   "SJI": {
     "nome": "SJI"
@@ -285,7 +288,7 @@
     "nome": "SWT"
   },
   "TAM": {
-    "nome": "TAM"
+    "nome": "LATAM Brasil"
   },
   "TAP": {
     "nome": "TAP Air Portugal"
@@ -294,7 +297,7 @@
     "nome": "TUI Airlines Netherlands"
   },
   "THY": {
-    "nome": "THY"
+    "nome": "Turkish Airlines"
   },
   "TOM": {
     "nome": "TUI Airways"
@@ -327,7 +330,7 @@
     "nome": "VistaJet Germany"
   },
   "VJT": {
-    "nome": "VJT"
+    "nome": "VistaJet"
   },
   "VLG": {
     "nome": "Vueling"
