@@ -115,9 +115,15 @@ def _obter_rota_adsb(callsign: str, lat: float, lon: float) -> tuple[str | None,
     try:
         with urllib.request.urlopen(req, timeout=10) as resp:
             dados = json.loads(resp.read().decode())
-        rotas = dados.get("routes", {}).get(callsign)
-        if rotas and len(rotas) >= 2:
-            return rotas[0], rotas[-1]
+        if isinstance(dados, list) and dados:
+            info = dados[0]
+            codes = info.get("airport_codes")
+            if codes and "-" in codes:
+                origem_icao, destino_icao = codes.split("-", 1)
+                origem = _obter_nome_aeroporto(origem_icao)
+                destino = _obter_nome_aeroporto(destino_icao)
+                return origem, destino
+
     except Exception:
         pass
     return None, None
