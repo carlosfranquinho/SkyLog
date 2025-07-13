@@ -85,6 +85,7 @@ main.painel {
 }
 
 /* Bordas coloridas para cada painel lateral */
+#painel-ultima-hora { border-left: 6px solid #03a9f4; }
 #top-paises { border-left: 6px solid #4caf50; }
 #top-companhias { border-left: 6px solid #ff9800; }
 
