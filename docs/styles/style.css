@@ -20,6 +20,7 @@ main.painel {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr; /* colunas com a mesma largura */
   column-gap: 2rem; /* Espaço horizontal */
+  row-gap: 2rem; /* Espaço vertical para quando empilha */
   align-items: start; /* Alinhar pelo topo */
 }
 
