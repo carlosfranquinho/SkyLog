@@ -75,7 +75,7 @@
     {
       "hex": "aa92f8",
       "chamada": "UAL885",
-      "cia": "UAL",
+      "cia": "United Airlines",
       "pais": "Estados Unidos",
       "bandeira": "🇺🇸",
       "local": "NELAS",
@@ -87,7 +87,7 @@
     {
       "hex": "49d2a8",
       "chamada": "JBC699D",
-      "cia": "JBC",
+      "cia": "JetBee",
       "pais": "Chéquia",
       "bandeira": "🇨🇿",
       "local": "TRANCOSO",
@@ -327,7 +327,7 @@
     {
       "hex": "e47f08",
       "chamada": "PROFT",
-      "cia": "PRO",
+      "cia": "Propair",
       "pais": "Brasil",
       "bandeira": "🇧🇷",
       "local": "ARRONCHES",
@@ -459,7 +459,7 @@
     {
       "hex": "40829e",
       "chamada": "EMC8",
-      "cia": "EMC",
+      "cia": "247 Aviation",
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
       "local": "MONFORTE",
@@ -591,7 +591,7 @@
     {
       "hex": "e8044e",
       "chamada": "LPE2484",
-      "cia": "LPE",
+      "cia": "LATAM Peru",
       "pais": "Chile",
       "bandeira": "🇨🇱",
       "local": "POMBAL",
@@ -795,7 +795,7 @@
     {
       "hex": "347245",
       "chamada": "WFL2501",
-      "cia": "WFL",
+      "cia": "World2Fly",
       "pais": "Espanha",
       "bandeira": "🇪🇸",
       "local": "Cidade Rodrigo (Espanha)",
@@ -939,7 +939,7 @@
     {
       "hex": "aa44cf",
       "chamada": "UAL509",
-      "cia": "UAL",
+      "cia": "United Airlines",
       "pais": "Estados Unidos",
       "bandeira": "🇺🇸",
       "local": "Cidade Rodrigo (Espanha)",
@@ -1047,7 +1047,7 @@
     {
       "hex": "491673",
       "chamada": "JME750A",
-      "cia": "JME",
+      "cia": "EJM Europe",
       "pais": "Portugal",
       "bandeira": "🇵🇹",
       "local": "FIGUEIRA DA FOZ",

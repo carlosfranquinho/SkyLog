@@ -6652,3 +6652,39 @@
 ✅ 25 aviões gravados às 16:02 (hora local)
 ↪ Ficheiro horário: /home/carlos/Projetos/SkyLog/dados/horarios/2025-07-13_16.csv
 ↪ Ficheiro diário : /home/carlos/Projetos/SkyLog/dados/diarios/2025-07-13.csv
+✅ 25 aviões gravados às 16:03 (hora local)
+↪ Ficheiro horário: /home/carlos/Projetos/SkyLog/dados/horarios/2025-07-13_16.csv
+↪ Ficheiro diário : /home/carlos/Projetos/SkyLog/dados/diarios/2025-07-13.csv
+✅ 27 aviões gravados às 16:04 (hora local)
+↪ Ficheiro horário: /home/carlos/Projetos/SkyLog/dados/horarios/2025-07-13_16.csv
+↪ Ficheiro diário : /home/carlos/Projetos/SkyLog/dados/diarios/2025-07-13.csv
+✅ 26 aviões gravados às 16:05 (hora local)
+↪ Ficheiro horário: /home/carlos/Projetos/SkyLog/dados/horarios/2025-07-13_16.csv
+↪ Ficheiro diário : /home/carlos/Projetos/SkyLog/dados/diarios/2025-07-13.csv
+✅ 25 aviões gravados às 16:06 (hora local)
+↪ Ficheiro horário: /home/carlos/Projetos/SkyLog/dados/horarios/2025-07-13_16.csv
+↪ Ficheiro diário : /home/carlos/Projetos/SkyLog/dados/diarios/2025-07-13.csv
+✅ 23 aviões gravados às 16:07 (hora local)
+↪ Ficheiro horário: /home/carlos/Projetos/SkyLog/dados/horarios/2025-07-13_16.csv
+↪ Ficheiro diário : /home/carlos/Projetos/SkyLog/dados/diarios/2025-07-13.csv
+✅ 23 aviões gravados às 16:08 (hora local)
+↪ Ficheiro horário: /home/carlos/Projetos/SkyLog/dados/horarios/2025-07-13_16.csv
+↪ Ficheiro diário : /home/carlos/Projetos/SkyLog/dados/diarios/2025-07-13.csv
+✅ 19 aviões gravados às 16:09 (hora local)
+↪ Ficheiro horário: /home/carlos/Projetos/SkyLog/dados/horarios/2025-07-13_16.csv
+↪ Ficheiro diário : /home/carlos/Projetos/SkyLog/dados/diarios/2025-07-13.csv
+✅ 20 aviões gravados às 16:10 (hora local)
+↪ Ficheiro horário: /home/carlos/Projetos/SkyLog/dados/horarios/2025-07-13_16.csv
+↪ Ficheiro diário : /home/carlos/Projetos/SkyLog/dados/diarios/2025-07-13.csv
+✅ 21 aviões gravados às 16:11 (hora local)
+↪ Ficheiro horário: /home/carlos/Projetos/SkyLog/dados/horarios/2025-07-13_16.csv
+↪ Ficheiro diário : /home/carlos/Projetos/SkyLog/dados/diarios/2025-07-13.csv
+✅ 23 aviões gravados às 16:12 (hora local)
+↪ Ficheiro horário: /home/carlos/Projetos/SkyLog/dados/horarios/2025-07-13_16.csv
+↪ Ficheiro diário : /home/carlos/Projetos/SkyLog/dados/diarios/2025-07-13.csv
+✅ 23 aviões gravados às 16:13 (hora local)
+↪ Ficheiro horário: /home/carlos/Projetos/SkyLog/dados/horarios/2025-07-13_16.csv
+↪ Ficheiro diário : /home/carlos/Projetos/SkyLog/dados/diarios/2025-07-13.csv
+✅ 24 aviões gravados às 16:14 (hora local)
+↪ Ficheiro horário: /home/carlos/Projetos/SkyLog/dados/horarios/2025-07-13_16.csv
+↪ Ficheiro diário : /home/carlos/Projetos/SkyLog/dados/diarios/2025-07-13.csv

@@ -46,8 +46,8 @@ async function carregarPainel() {
         <li>
           <strong>${v.chamada || v.hex}</strong>: ${v.cia || ""}, ${bandeira}${v.pais}
           <br>– avistado ${localTxt}às ${hm}${v.dist ? ` a ${v.dist} km de distância` : ""}
-          ${altM !== null ? `<br>– Altitude: ${altM} metros` : ""}
-          ${velK !== null ? `<br>– Velocidade: ${velK} km/h` : ""}
+          ${altM !== null ? `<br>- Altitude: ${altM} metros` : ""}
+          ${velK !== null ? `<br>- Velocidade: ${velK} km/h` : ""}
         </li>`;
     });
 
@@ -103,10 +103,10 @@ async function carregarPainel() {
     });
 
     const initialZoom = 8;
-    const center = [39.7078, -8.0570];
+    const center = [39.6625, -7.7848];
     const map = L.map("mapa", {
       dragging: false,
-      minZoom: initialZoom,
+      minZoom: 7,
       maxZoom: 18,
       touchZoom: "center",
     }).setView(center, initialZoom);

@@ -101,6 +101,9 @@
   "EJU": {
     "nome": "easyJet Europe"
   },
+  "EMC": {
+    "nome": "247 Aviation"
+  },  
   "ENT": {
     "nome": "Enter Air"
   },
@@ -182,9 +185,15 @@
   "JAF": {
     "nome": "TUI Airlines Belgium"
   },
+  "JBC": {
+    "nome": "JetBee"
+  },  
   "JFA": {
     "nome": "JFA"
   },
+  "JME": {
+    "nome": "EJM Europe"
+  },  
   "JTD": {
     "nome": "JTD"
   },
@@ -204,7 +213,7 @@
     "nome": "LGL"
   },
   "LPE": {
-    "nome": "LPE"
+    "nome": "LATAM Peru"
   },
   "LVK": {
     "nome": "LVK"
@@ -244,6 +253,9 @@
   },
   "PHP": {
     "nome": "PHP"
+  },
+  "PRO": {
+    "nome": "Propair"
   },
   "PSA": {
     "nome": "PSA Airlines"
@@ -323,6 +335,9 @@
   "UAE": {
     "nome": "United Airlines"
   },
+  "UAL": {
+    "nome": "United Airlines"
+  },
   "VCG": {
     "nome": "VCG"
   },
@@ -339,7 +354,7 @@
     "nome": "Volotea"
   },
   "WFL": {
-    "nome": "WFL"
+    "nome": "World2Fly"
   },
   "WMT": {
     "nome": "Wizz Air Malta"

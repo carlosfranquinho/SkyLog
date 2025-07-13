@@ -25,3 +25,8 @@ Ficheiro gerado: painel.json
 To github.com:carlosfranquinho/SkyLog.git
    a728a25..307c61c  main -> main
 Ficheiro gerado: painel.json
+[main 05e124d] Atualização automática via cron
+ 8 files changed, 2260 insertions(+), 1421 deletions(-)
+ create mode 100644 dados/horarios/2025-07-13_16.csv
+To github.com:carlosfranquinho/SkyLog.git
+   4d540af..05e124d  main -> main
