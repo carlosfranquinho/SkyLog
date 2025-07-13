@@ -34,16 +34,7 @@ async function carregarPainel() {
 
     const ulHora = document.getElementById("ultima-hora-lista");
     dados.ultima_hora.forEach(v => {
-      const dt = new Date(v.hora + "Z");
-      const opt = {
-        hour: "2-digit",
-        minute: "2-digit",
-        hour12: false,
-        timeZone: "Europe/Lisbon",
-      };
-      const hm = new Intl.DateTimeFormat("pt-PT", opt)
-        .format(dt)
-        .replace(":", "h") + "m";
+      const hm = v.hora.slice(11, 16).replace(":", "h") + "m";
 
       const altM = v.alt ? Math.round(parseFloat(v.alt) * 0.3048) : null;
       const velK = v.vel ? Math.round(parseFloat(v.vel) * 1.852) : null;
@@ -95,14 +86,8 @@ async function carregarPainel() {
         }
       });
 
-      const horaRef = new Date(dados.ultima_hora[0].hora + "Z");
-      const h = new Intl.DateTimeFormat("pt-PT", {
-        hour: "2-digit",
-        hour12: false,
-        timeZone: "Europe/Lisbon",
-      })
-        .format(horaRef)
-        .padStart(2, "0");
+      const horaRef = dados.ultima_hora[0].hora.slice(11, 13);
+      const h = horaRef.padStart(2, "0");
       const prox = String((parseInt(h, 10) + 1) % 24).padStart(2, "0");
 
       resumoEl.textContent =
