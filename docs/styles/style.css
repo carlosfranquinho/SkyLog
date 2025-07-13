@@ -15,6 +15,30 @@ header h1 {
   font-size: 2.2rem;
 }
 
+/* Menu temporal abaixo do título */
+#menu-tempo {
+  display: flex;
+  justify-content: center;
+  gap: 0.8rem;
+  margin-top: -1rem;
+  margin-bottom: 2rem;
+}
+
+#menu-tempo button {
+  background: #0288d1;
+  color: #fff;
+  border: none;
+  padding: 0.4rem 0.8rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background 0.2s ease;
+}
+
+#menu-tempo button:hover {
+  background: #0277bd;
+}
+
 /* Painel principal com grid */
 main.painel {
   display: grid;
