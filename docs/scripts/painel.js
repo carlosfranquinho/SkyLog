@@ -61,13 +61,21 @@ async function carregarPainel() {
     const btnNext = document.getElementById("hora-seguinte");
     if (btnNext) {
       if (horaParam) {
-        btnNext.onclick = () => {
+        btnNext.onclick = async () => {
           if (nextLabel === currentLabel) {
             window.location.search = "";
-          } else {
-            window.location.search = "?h=" + nextLabel;
+            return;
           }
-
+          try {
+            const resp = await fetch(`arquivo/${nextLabel}.json`, { method: "HEAD" });
+            if (resp.ok) {
+              window.location.search = "?h=" + nextLabel;
+            } else {
+              window.location.search = "";
+            }
+          } catch {
+            window.location.search = "";
+          }
         };
       } else {
         btnNext.disabled = true;
