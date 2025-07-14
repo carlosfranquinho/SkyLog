@@ -76,6 +76,7 @@ async function carregarPainel() {
           } catch {
             window.location.search = "";
           }
+
         };
       } else {
         btnNext.disabled = true;
@@ -95,16 +96,16 @@ async function carregarPainel() {
       ulHora.innerHTML += `
         <li>
           <strong>${v.chamada || v.hex}</strong>: ${v.cia || ""}, ${bandeira}${v.pais}
-          ${v.origem && v.destino ? `<br>- Origem: ${v.origem} - Destino: ${v.destino}` : ""}
-          <br>– avistado ${localTxt}às ${hm}${v.dist ? ` a ${v.dist} km de distância` : ""}
-          ${altM !== null ? `<br>- Altitude: ${altM} metros` : ""}
-          ${velK !== null ? `<br>- Velocidade: ${velK} km/h` : ""}
+          <ul>${v.origem && v.destino ? `<strong>Origem:</strong> ${v.origem}. <strong>Destino:</strong> ${v.destino}` : ""}</ul>
+          <ul>Avistado ${localTxt}às ${hm}${v.dist ? ` a ${v.dist} km de distância` : ""}</ul>
+          <ul>${altM !== null ? `<strong>Altitude:</strong> ${altM} metros` : ""}</ul>
+          <ul>${velK !== null ? `<strong>Velocidade:</strong> ${velK} km/h` : ""}</ul>
         </li>`;
     });
 
     const ulPaises = document.getElementById("top-paises-lista");
     dados.top_paises.forEach(p => {
-      ulPaises.innerHTML += `<li>${p.bandeira || ""} <strong>${p.pais}</strong>: ${p.total} aviões</li>`;
+      ulPaises.innerHTML += `<li>${p.bandeira || ""} <strong>${p.pais}</strong>: ${p.total} aeronavas</li>`;
     });
 
     // resumo "Na última hora"
@@ -142,10 +143,10 @@ async function carregarPainel() {
       const prox = String((parseInt(h, 10) + 2) % 24).padStart(2, "0");
 
       resumoEl.textContent =
-        `Entre as ${h}h00m e as ${h}h59 foram detetados ${total} aviões de ${paisesSet.size} países e ${ciasSet.size} companhias. ` +
-        `O avião mais distante estava a ${maxDist}km sobre ${capitalizar(maxLoc)} e o mais próximo a ${minDist}km, sobre ${capitalizar(minLoc)}. ` +
-        `Entre estes avistamentos, houve ${semLoc} aviões que não partilharam a sua localização. ` +
-        `Próxima atualização às ${prox}h03m.`;
+        `Entre as <strong>${h}h00m</strong> e as <strong>${h}h59m</strong> foram detetadas ${total} aeronaves de ${paisesSet.size} países e ${ciasSet.size} companhias. ` +
+        `A mais distante estava a ${maxDist}km sobre ${capitalizar(maxLoc)} e a mais próxima a ${minDist}km, sobre ${capitalizar(minLoc)}. ` +
+        `Entre estes avistamentos, houve ${semLoc} aeronaves que não partilharam a sua localização. ` +
+        `A próxima atualização desta página será depois das ${prox}h03m.`;
     }
 
     const ulCias = document.getElementById("top-companhias-lista");
