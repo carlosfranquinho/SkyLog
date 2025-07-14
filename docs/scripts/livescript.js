@@ -3,7 +3,14 @@ const API_URL = "https://share-physics-gulf-changing.trycloudflare.com/dados";
 const ESTACAO_LAT = 39.74759200010467;
 const ESTACAO_LON = -8.936510104648143;
 
-const map = L.map('mapa').setView([39.5, -8.0], 7); // centro de Portugal
+    const initialZoom = 7;
+    const center = [39.6625, -7.7848];
+    const map = L.map("mapa", {
+      dragging: false,
+      minZoom: 7,
+      maxZoom: 18,
+      touchZoom: "center",
+    }).setView(center, initialZoom);
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '© OpenStreetMap',
@@ -137,7 +144,7 @@ function fetchAircraft() {
         novos[key] = true; // marca como ainda ativo
         const altM = altitude ? Math.round(altitude * 0.3048) : null;
         const dist = haversine(ESTACAO_LAT, ESTACAO_LON, ac.lat, ac.lon).toFixed(1);
-        const hora = new Date().toLocaleTimeString('pt-PT', { hour: '2-digit', minute: '2-digit' });
+        const hora = new Date().toLocaleTimeString('pt-PT', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
         listaAvioes.innerHTML += `<li><strong>${info}</strong>
           <ul>${altM !== null ? `<strong>Altitude:</strong> ${altM} m` : ''}</ul>
           <ul>${velocidade !== null ? `<strong>Velocidade:</strong> ${velocidade} km/h` : ''}</ul>
