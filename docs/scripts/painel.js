@@ -1,7 +1,11 @@
 
 async function carregarPainel() {
   try {
-    const resp = await fetch("hora_corrente.json");
+    const params = new URLSearchParams(window.location.search);
+    const horaParam = params.get("h");
+    const ficheiro = horaParam ? `arquivo/${horaParam}.json` : "hora_corrente.json";
+    const resp = await fetch(ficheiro);
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
     const dados = await resp.json();
 
     const bandeiras = {};
@@ -30,6 +34,40 @@ async function carregarPainel() {
         Math.cos(toRad(lat1)) * Math.sin(toRad(lat2)) -
         Math.sin(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.cos(dLon);
       return ((Math.atan2(y, x) * 180) / Math.PI + 360) % 360;
+    }
+
+    function formatLabel(date) {
+      const yyyy = date.getFullYear();
+      const mm = String(date.getMonth() + 1).padStart(2, "0");
+      const dd = String(date.getDate()).padStart(2, "0");
+      const hh = String(date.getHours()).padStart(2, "0");
+      return `${yyyy}-${mm}-${dd}_${hh}`;
+    }
+
+    const currentLabel = formatLabel(new Date(dados.ultima_hora[0].hora));
+    const baseLabel = horaParam || currentLabel;
+    const baseDate = new Date(baseLabel.replace("_", "T") + ":00");
+    const prevLabel = formatLabel(new Date(baseDate.getTime() - 3600 * 1000));
+    const nextLabel = formatLabel(new Date(baseDate.getTime() + 3600 * 1000));
+
+    const btnPrev = document.getElementById("hora-anterior");
+    if (btnPrev) btnPrev.onclick = () => {
+      window.location.search = "?h=" + prevLabel;
+    };
+
+    const btnNext = document.getElementById("hora-seguinte");
+    if (btnNext) {
+      if (horaParam) {
+        btnNext.onclick = () => {
+          if (nextLabel === currentLabel) {
+            window.location.search = "";
+          } else {
+            window.location.search = "?h=" + nextLabel;
+          }
+        };
+      } else {
+        btnNext.disabled = true;
+      }
     }
 
     const ulHora = document.getElementById("ultima-hora-lista");
