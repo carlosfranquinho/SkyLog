@@ -26,19 +26,29 @@ function getColorByAltitude(alt) {
 // Cria ícone com rotação e cor
 function createPlaneIcon(track = 0, altitude = 0) {
   const color = getColorByAltitude(altitude);
+  const size = 40;
 
   return L.divIcon({
     className: "plane-icon",
-    html: `<img src="images/plane.png" style="
-      width: 40px;
-      transform: rotate(${track}deg);
-      filter: drop-shadow(0 0 0 ${color}) brightness(0) saturate(1000%);
-    ">`,
-    iconSize: [40, 40],
-    iconAnchor: [20, 20],
+    html: `
+      <div style="
+        width: ${size}px;
+        height: ${size}px;
+        transform: rotate(${track}deg);
+        -webkit-mask-image: url('images/plane.png');
+        -webkit-mask-repeat: no-repeat;
+        -webkit-mask-size: contain;
+        background-color: ${color};
+        border: 2px solid black;
+        border-radius: 50%;
+        box-shadow: 0 0 2px black;
+      ">
+      </div>
+    `,
+    iconSize: [size, size],
+    iconAnchor: [size / 2, size / 2],
   });
 }
-
 
 // Vai buscar os dados e atualiza o mapa
 function fetchAircraft() {
