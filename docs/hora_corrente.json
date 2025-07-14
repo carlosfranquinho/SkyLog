@@ -1,685 +1,141 @@
 {
   "ultima_hora": [
     {
-      "hex": "406e2e",
-      "chamada": "EXS29KR",
-      "cia": "Jet2",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "SOUSEL",
-      "origem": "Tenerife South Airport",
-      "destino": "London Stansted Airport",
-      "alt": "36000",
-      "vel": "436.8",
-      "dist": 131.6,
-      "hora": "2025-07-14T00:56"
-    },
-    {
-      "hex": "46b82f",
-      "chamada": "AEE3LP",
-      "cia": "Aegean Airlines",
-      "pais": "Greece",
-      "bandeira": "",
-      "local": "ALMEIRIM",
-      "origem": "Humberto Delgado Airport (Lisbon Portela Airport)",
-      "destino": "Eleftherios Venizelos International Airport",
-      "alt": "13225",
-      "vel": "415.5",
-      "dist": 84.4,
-      "hora": "2025-07-14T00:56"
-    },
-    {
-      "hex": "4066ce",
-      "chamada": "TOM4KN",
-      "cia": "TUI Airways",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "BORBA",
-      "origem": "Lanzarote Airport",
-      "destino": "London Luton Airport",
-      "alt": "40000",
-      "vel": "470.5",
-      "dist": 165.5,
-      "hora": "2025-07-14T00:43"
-    },
-    {
-      "hex": "394a11",
-      "chamada": "AFR710",
-      "cia": "Air France",
-      "pais": "França",
-      "bandeira": "🇫🇷",
-      "local": "MORTÁGUA",
-      "origem": "Charles de Gaulle International Airport",
-      "destino": "Diass-Thies Blaise Diagne International Airport",
-      "alt": "33000",
-      "vel": "481.8",
-      "dist": 91.8,
-      "hora": "2025-07-14T00:40"
-    },
-    {
-      "hex": "346386",
-      "chamada": "IBE0155",
-      "cia": "Iberia",
-      "pais": "Espanha",
-      "bandeira": "🇪🇸",
-      "local": "Valência (Espanha)",
-      "origem": null,
-      "destino": null,
-      "alt": "36450",
-      "vel": "471.9",
-      "dist": 152.4,
-      "hora": "2025-07-14T00:36"
-    },
-    {
-      "hex": "347605",
-      "chamada": "AEA041",
-      "cia": "Air Europa",
-      "pais": "Espanha",
-      "bandeira": "🇪🇸",
-      "local": "ARRONCHES",
-      "origem": null,
-      "destino": null,
-      "alt": "30625",
-      "vel": "490.7",
-      "dist": 152.3,
-      "hora": "2025-07-14T00:36"
-    },
-    {
-      "hex": "3965a1",
-      "chamada": "AFR454",
-      "cia": "Air France",
-      "pais": "França",
-      "bandeira": "🇫🇷",
-      "local": "TRANCOSO",
-      "origem": "Charles de Gaulle International Airport",
-      "destino": "Guarulhos - Governador André Franco Montoro International Airport",
-      "alt": "31000",
-      "vel": "479.0",
-      "dist": 179.9,
-      "hora": "2025-07-14T00:35"
-    },
-    {
-      "hex": "406696",
-      "chamada": "TOM3FE",
-      "cia": "TUI Airways",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "MARINHA GRANDE",
-      "origem": "Lanzarote Airport",
-      "destino": "Bristol Airport",
-      "alt": "38000",
-      "vel": "432.7",
-      "dist": 19.9,
-      "hora": "2025-07-14T00:26"
-    },
-    {
-      "hex": "346385",
-      "chamada": "AEA057",
-      "cia": "Air Europa",
-      "pais": "Espanha",
-      "bandeira": "🇪🇸",
-      "local": null,
-      "origem": "Adolfo Suárez Madrid–Barajas Airport",
-      "destino": "Guarulhos - Governador André Franco Montoro International Airport",
-      "alt": "32350",
-      "vel": "492.4",
-      "dist": "",
-      "hora": "2025-07-14T00:15"
-    },
-    {
-      "hex": "40766d",
-      "chamada": "EXS6J",
-      "cia": "Jet2",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "SOUSEL",
-      "origem": "Gran Canaria Airport",
-      "destino": "East Midlands Airport",
-      "alt": "38000",
-      "vel": "454.1",
-      "dist": 137.7,
-      "hora": "2025-07-14T00:15"
-    },
-    {
-      "hex": "346555",
-      "chamada": "IBE0101",
-      "cia": "Iberia",
-      "pais": "Espanha",
-      "bandeira": "🇪🇸",
-      "local": "ARRONCHES",
-      "origem": null,
-      "destino": null,
-      "alt": "34825",
-      "vel": "487.5",
-      "dist": 157.9,
-      "hora": "2025-07-14T00:14"
-    },
-    {
-      "hex": "34529a",
-      "chamada": "AEA045",
-      "cia": "Air Europa",
-      "pais": "Espanha",
-      "bandeira": "🇪🇸",
-      "local": "ESTREMOZ",
-      "origem": null,
-      "destino": null,
-      "alt": "34050",
-      "vel": "494.7",
-      "dist": 156.0,
-      "hora": "2025-07-14T00:12"
-    },
-    {
-      "hex": "347518",
-      "chamada": "IBE0123",
-      "cia": "Iberia",
-      "pais": "Espanha",
-      "bandeira": "🇪🇸",
-      "local": "Valência (Espanha)",
-      "origem": null,
-      "destino": null,
-      "alt": "34875",
-      "vel": "480.6",
-      "dist": 148.4,
-      "hora": "2025-07-14T00:11"
-    },
-    {
-      "hex": "3c4a03",
-      "chamada": "DLH500",
-      "cia": "Lufthansa",
-      "pais": "Alemanha",
-      "bandeira": "🇩🇪",
-      "local": "ESTREMOZ",
-      "origem": "Munich Airport",
-      "destino": "Rio Galeão – Tom Jobim International Airport",
-      "alt": "32975",
-      "vel": "491.9",
-      "dist": 156.7,
-      "hora": "2025-07-14T00:09"
-    },
-    {
-      "hex": "02005b",
-      "chamada": "RAM751P",
-      "cia": "Royal Air Maroc",
-      "pais": "Marrocos",
-      "bandeira": "🇲🇦",
-      "local": "SABUGAL",
-      "origem": "Paris-Orly Airport",
-      "destino": "Mohammed V International Airport",
-      "alt": "37050",
-      "vel": "441.7",
-      "dist": 184.7,
-      "hora": "2025-07-14T00:09"
-    },
-    {
-      "hex": "4ca9aa",
+      "hex": "e49f94",
       "chamada": "",
       "cia": "",
-      "pais": "Irlanda",
-      "bandeira": "🇮🇪",
-      "local": null,
+      "pais": "Brasil",
+      "bandeira": "🇧🇷",
+      "local": "ARRONCHES",
       "origem": null,
       "destino": null,
-      "alt": "38000",
-      "vel": "474.1",
-      "dist": "",
-      "hora": "2025-07-14T00:06"
+      "alt": "41000",
+      "vel": "433.7",
+      "dist": 162.3,
+      "hora": "2025-07-14T02:59"
     },
     {
-      "hex": "4b191d",
-      "chamada": "SWR92",
-      "cia": "Swiss",
-      "pais": "Suiça",
-      "bandeira": "🇨🇭",
-      "local": "ESTREMOZ",
-      "origem": "Zürich Airport",
-      "destino": "Guarulhos - Governador André Franco Montoro International Airport",
-      "alt": "31000",
-      "vel": "487.4",
-      "dist": 156.3,
-      "hora": "2025-07-14T00:04"
-    },
-    {
-      "hex": "346181",
-      "chamada": "AEA023",
+      "hex": "34635a",
+      "chamada": "AEA176",
       "cia": "Air Europa",
       "pais": "Espanha",
       "bandeira": "🇪🇸",
+      "local": "CHAMUSCA",
+      "origem": "Jorge Chávez International Airport",
+      "destino": "Adolfo Suárez Madrid–Barajas Airport",
+      "alt": "38000",
+      "vel": "495.1",
+      "dist": 75.5,
+      "hora": "2025-07-14T02:51"
+    },
+    {
+      "hex": "345251",
+      "chamada": "AEA040",
+      "cia": "Air Europa",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "BATALHA",
+      "origem": null,
+      "destino": null,
+      "alt": "40975",
+      "vel": "492.8",
+      "dist": 15.8,
+      "hora": "2025-07-14T02:42"
+    },
+    {
+      "hex": "4951d9",
+      "chamada": "TAP837",
+      "cia": "TAP Air Portugal",
+      "pais": "Portugal",
+      "bandeira": "🇵🇹",
       "local": "PORTALEGRE",
-      "origem": null,
-      "destino": null,
-      "alt": "32175",
-      "vel": "476.6",
-      "dist": 146.3,
-      "hora": "2025-07-14T00:02"
-    },
-    {
-      "hex": "34558f",
-      "chamada": "AEA121",
-      "cia": "Air Europa",
-      "pais": "Espanha",
-      "bandeira": "🇪🇸",
-      "local": "FRONTEIRA",
-      "origem": "Adolfo Suárez Madrid–Barajas Airport",
-      "destino": "Ingeniero Ambrosio Taravella Airport",
-      "alt": "29650",
-      "vel": "487.5",
-      "dist": 137.7,
-      "hora": "2025-07-14T00:00"
-    },
-    {
-      "hex": "34628d",
-      "chamada": "IBE6117",
-      "cia": "Iberia",
-      "pais": "Espanha",
-      "bandeira": "🇪🇸",
-      "local": "MONFORTE",
-      "origem": "Adolfo Suárez Madrid–Barajas Airport",
-      "destino": "Miami International Airport",
-      "alt": "33450",
-      "vel": "486.8",
-      "dist": 156.1,
-      "hora": "2025-07-14T00:00"
-    },
-    {
-      "hex": "406542",
-      "chamada": "EZY3428",
-      "cia": "easyJet",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "Valência (Espanha)",
-      "origem": "Faro Airport",
-      "destino": "Liverpool John Lennon Airport",
-      "alt": "34225",
-      "vel": "463.4",
-      "dist": 149.4,
-      "hora": "2025-07-14T00:00"
-    },
-    {
-      "hex": "34615a",
-      "chamada": "",
-      "cia": "",
-      "pais": "Espanha",
-      "bandeira": "🇪🇸",
-      "local": "SALVATERRA DE MAGOS",
-      "origem": null,
-      "destino": null,
-      "alt": "32975",
-      "vel": "",
-      "dist": 79.8,
-      "hora": "2025-07-14T00:00"
-    },
-    {
-      "hex": "4070e2",
-      "chamada": "EXS74LT",
-      "cia": "Jet2",
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "local": "FUNDÃO",
-      "origem": "Gran Canaria Airport",
-      "destino": "London Stansted Airport",
-      "alt": "36000",
-      "vel": "452.2",
-      "dist": 120.1,
-      "hora": "2025-07-14T00:00"
+      "origem": "Leonardo da Vinci–Fiumicino Airport",
+      "destino": "Humberto Delgado Airport (Lisbon Portela Airport)",
+      "alt": "32525",
+      "vel": "446.3",
+      "dist": 152.0,
+      "hora": "2025-07-14T02:20"
     }
   ],
   "top_paises": [
     {
       "pais": "Espanha",
       "bandeira": "🇪🇸",
-      "total": 10
-    },
-    {
-      "pais": "Reino Unido",
-      "bandeira": "🇬🇧",
-      "total": 6
-    },
-    {
-      "pais": "França",
-      "bandeira": "🇫🇷",
       "total": 2
     },
     {
-      "pais": "Irlanda",
-      "bandeira": "🇮🇪",
+      "pais": "Portugal",
+      "bandeira": "🇵🇹",
       "total": 1
     },
     {
-      "pais": "Suiça",
-      "bandeira": "🇨🇭",
-      "total": 1
-    },
-    {
-      "pais": "Alemanha",
-      "bandeira": "🇩🇪",
-      "total": 1
-    },
-    {
-      "pais": "Marrocos",
-      "bandeira": "🇲🇦",
-      "total": 1
-    },
-    {
-      "pais": "Greece",
-      "bandeira": "",
+      "pais": "Brasil",
+      "bandeira": "🇧🇷",
       "total": 1
     }
   ],
   "top_companhias": [
     {
       "cia": "Air Europa",
-      "total": 5
-    },
-    {
-      "cia": "Iberia",
-      "total": 4
-    },
-    {
-      "cia": "Jet2",
-      "total": 3
-    },
-    {
-      "cia": "TUI Airways",
       "total": 2
     },
     {
-      "cia": "Air France",
-      "total": 2
-    },
-    {
-      "cia": "easyJet",
-      "total": 1
-    },
-    {
-      "cia": "Swiss",
-      "total": 1
-    },
-    {
-      "cia": "Lufthansa",
-      "total": 1
-    },
-    {
-      "cia": "Royal Air Maroc",
-      "total": 1
-    },
-    {
-      "cia": "Aegean Airlines",
+      "cia": "TAP Air Portugal",
       "total": 1
     }
   ],
   "rotas": [
     {
-      "hex": "34558f",
-      "chamada": "AEA121",
+      "hex": "4951d9",
+      "chamada": "TAP837",
       "de": [
-        39.173584,
-        -7.515186
+        39.276868,
+        -7.099915
       ],
       "para": [
-        38.87447,
-        -8.405579
+        38.900665,
+        -8.181411
       ],
-      "alt": "29650"
+      "alt": "32525"
     },
     {
-      "hex": "34628d",
-      "chamada": "IBE6117",
+      "hex": "345251",
+      "chamada": "AEA040",
       "de": [
-        39.07134,
-        -7.344299
+        39.595963,
+        -9.260161
       ],
       "para": [
-        38.720243,
-        -7.99585
+        39.724514,
+        -7.594177
       ],
-      "alt": "33450"
+      "alt": "40975"
     },
     {
-      "hex": "406542",
-      "chamada": "EZY3428",
+      "hex": "34635a",
+      "chamada": "AEA176",
       "de": [
-        39.354284,
-        -7.270813
+        39.192562,
+        -8.509033
       ],
       "para": [
-        39.354284,
-        -7.270813
+        39.392969,
+        -7.833984
       ],
-      "alt": "34225"
+      "alt": "38000"
     },
     {
-      "hex": "34615a",
+      "hex": "e49f94",
       "chamada": "",
       "de": [
-        39.067337,
-        -8.641523
+        39.24065,
+        -7.163147
       ],
       "para": [
-        39.067337,
-        -8.641523
+        39.24065,
+        -7.163147
       ],
-      "alt": "32975"
-    },
-    {
-      "hex": "4070e2",
-      "chamada": "EXS74LT",
-      "de": [
-        40.060776,
-        -7.589355
-      ],
-      "para": [
-        40.687866,
-        -7.364807
-      ],
-      "alt": "36000"
-    },
-    {
-      "hex": "346181",
-      "chamada": "AEA023",
-      "de": [
-        39.282852,
-        -7.341076
-      ],
-      "para": [
-        38.914902,
-        -8.420782
-      ],
-      "alt": "32175"
-    },
-    {
-      "hex": "4b191d",
-      "chamada": "SWR92",
-      "de": [
-        39.093871,
-        -7.337219
-      ],
-      "para": [
-        38.565317,
-        -7.81134
-      ],
-      "alt": "31000"
-    },
-    {
-      "hex": "3c4a03",
-      "chamada": "DLH500",
-      "de": [
-        39.178894,
-        -7.260231
-      ],
-      "para": [
-        38.762833,
-        -7.6352
-      ],
-      "alt": "32975"
-    },
-    {
-      "hex": "02005b",
-      "chamada": "RAM751P",
-      "de": [
-        40.623205,
-        -6.866018
-      ],
-      "para": [
-        38.22488,
-        -7.57579
-      ],
-      "alt": "37050"
-    },
-    {
-      "hex": "34529a",
-      "chamada": "AEA045",
-      "de": [
-        39.256256,
-        -7.145472
-      ],
-      "para": [
-        38.791351,
-        -7.609764
-      ],
-      "alt": "34050"
-    },
-    {
-      "hex": "347518",
-      "chamada": "IBE0123",
-      "de": [
-        39.32515,
-        -7.294623
-      ],
-      "para": [
-        38.935364,
-        -8.428842
-      ],
-      "alt": "34875"
-    },
-    {
-      "hex": "346555",
-      "chamada": "IBE0101",
-      "de": [
-        39.486586,
-        -6.656067
-      ],
-      "para": [
-        38.526353,
-        -7.846069
-      ],
-      "alt": "34825"
-    },
-    {
-      "hex": "40766d",
-      "chamada": "EXS6J",
-      "de": [
-        38.867813,
-        -7.809937
-      ],
-      "para": [
-        40.707687,
-        -6.747437
-      ],
-      "alt": "38000"
-    },
-    {
-      "hex": "406696",
-      "chamada": "TOM3FE",
-      "de": [
-        39.532021,
-        -8.944336
-      ],
-      "para": [
-        40.129623,
-        -8.857239
-      ],
-      "alt": "38000"
-    },
-    {
-      "hex": "3965a1",
-      "chamada": "AFR454",
-      "de": [
-        41.172455,
-        -7.109436
-      ],
-      "para": [
-        39.320892,
-        -8.741953
-      ],
-      "alt": "31000"
-    },
-    {
-      "hex": "346386",
-      "chamada": "IBE0155",
-      "de": [
-        39.591339,
-        -6.906161
-      ],
-      "para": [
-        39.290085,
-        -8.71598
-      ],
-      "alt": "36450"
-    },
-    {
-      "hex": "347605",
-      "chamada": "AEA041",
-      "de": [
-        39.125931,
-        -7.356481
-      ],
-      "para": [
-        38.851148,
-        -7.745056
-      ],
-      "alt": "30625"
-    },
-    {
-      "hex": "394a11",
-      "chamada": "AFR710",
-      "de": [
-        40.527168,
-        -8.197236
-      ],
-      "para": [
-        39.556137,
-        -8.930332
-      ],
-      "alt": "33000"
-    },
-    {
-      "hex": "4066ce",
-      "chamada": "TOM4KN",
-      "de": [
-        38.782949,
-        -7.472412
-      ],
-      "para": [
-        40.654861,
-        -6.309586
-      ],
-      "alt": "40000"
-    },
-    {
-      "hex": "406e2e",
-      "chamada": "EXS29KR",
-      "de": [
-        38.947495,
-        -7.80919
-      ],
-      "para": [
-        39.279053,
-        -7.616272
-      ],
-      "alt": "36000"
-    },
-    {
-      "hex": "46b82f",
-      "chamada": "AEE3LP",
-      "de": [
-        39.024078,
-        -8.614117
-      ],
-      "para": [
-        39.222635,
-        -8.095154
-      ],
-      "alt": "13225"
+      "alt": "41000"
     }
   ]
 }
