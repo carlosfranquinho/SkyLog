@@ -14,7 +14,10 @@ function fetchAircraft() {
     .then(data => {
       const now = Date.now() / 1000;
       const seenThreshold = now - 60; // só mostrar aviões recentes
-      data.aircraft.forEach(ac => {
+
+      const novos = {};
+
+      (data.aircraft || []).forEach(ac => {
         if (!ac.lat || !ac.lon || ac.seen > 60) return;
 
         const key = ac.hex;
@@ -28,7 +31,17 @@ function fetchAircraft() {
             .bindPopup(`<strong>${info}</strong><br>Alt: ${ac.alt_baro || '-'} ft`);
           aircraftMarkers[key] = marker;
         }
+
+        novos[key] = true; // marca como ainda ativo
       });
+
+      // Remover marcadores que já não estão ativos
+      for (const key in aircraftMarkers) {
+        if (!novos[key]) {
+          map.removeLayer(aircraftMarkers[key]);
+          delete aircraftMarkers[key];
+        }
+      }
     })
     .catch(err => console.error("Erro ao buscar dados:", err));
 }
