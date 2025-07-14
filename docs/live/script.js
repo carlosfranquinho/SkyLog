@@ -27,10 +27,14 @@ function fetchAircraft() {
         if (aircraftMarkers[key]) {
           aircraftMarkers[key].setLatLng(pos);
         } else {
-          const marker = L.marker(pos).addTo(map)
+            const heading = ac.track || 0; // graus (0 = norte)
+            const marker = L.marker(pos, {
+            icon: createPlaneIcon(heading)
+            }).addTo(map)
             .bindPopup(`<strong>${info}</strong><br>Alt: ${ac.alt_baro || '-'} ft`);
-          aircraftMarkers[key] = marker;
-        }
+            // Atualiza a direção:
+            const icon = createPlaneIcon(ac.track || 0);
+            aircraftMarkers[key].setIcon(icon);        }
 
         novos[key] = true; // marca como ainda ativo
       });
