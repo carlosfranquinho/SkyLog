@@ -100,6 +100,31 @@ main.painel {
   height: auto; /* Altura conforme conteúdo */
 }
 
+/* Lista de avistamentos com estilo de cartões */
+#ultima-hora-lista {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-height: 75vh;
+  overflow-y: auto;
+}
+
+#ultima-hora-lista li {
+  background: #f2f9ff;
+  border-left: 4px solid #2196f3;
+  padding: 0.75rem 1rem;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  line-height: 1.4;
+}
+
+#ultima-hora-lista li strong {
+  color: #0277bd;
+}
+
 /* Mapa no centro */
 #rotas {
   border-left: 6px solid #9c27b0;
