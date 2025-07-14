@@ -98,7 +98,11 @@ def _obter_rota_opensky(callsign: str) -> tuple[str | None, str | None]:
 
 
 def _obter_rota_adsb(callsign: str, lat: float, lon: float) -> tuple[str | None, str | None]:
-    """Tenta obter a rota usando a API do adsb.im."""
+    """Tenta obter a rota usando a API do adsb.im.
+
+    Sempre que possível devolve "Cidade, PAÍS" para os aeroportos de origem
+    e destino.
+    """
     url = "https://adsb.im/api/0/routeset"
     payload = {
         "planes": [
@@ -117,6 +121,20 @@ def _obter_rota_adsb(callsign: str, lat: float, lon: float) -> tuple[str | None,
             dados = json.loads(resp.read().decode())
         if isinstance(dados, list) and dados:
             info = dados[0]
+            airports = info.get("_airports")
+            if airports and len(airports) >= 2:
+                def fmt(ap):
+                    if not isinstance(ap, dict):
+                        return None
+                    cidade = ap.get("location")
+                    pais = ap.get("countryiso2") or ap.get("country")
+                    return f"{cidade}, {pais}" if cidade and pais else None
+
+                origem = fmt(airports[0])
+                destino = fmt(airports[-1])
+                if origem or destino:
+                    return origem, destino
+
             codes = info.get("airport_codes")
             if codes and "-" in codes:
                 origem_icao, destino_icao = codes.split("-", 1)
@@ -130,10 +148,12 @@ def _obter_rota_adsb(callsign: str, lat: float, lon: float) -> tuple[str | None,
 
 
 def obter_rota(callsign: str, lat: float | None, lon: float | None) -> tuple[str | None, str | None]:
-    """Obtém a rota de um voo usando OpenSky com fallback em adsb.im."""
-    origem, destino = _obter_rota_opensky(callsign)
-    if (origem is None or destino is None) and lat is not None and lon is not None:
-        alt_origem, alt_destino = _obter_rota_adsb(callsign, lat, lon)
+    """Obtém a rota de um voo usando adsb.im com fallback no OpenSky."""
+    origem = destino = None
+    if lat is not None and lon is not None:
+        origem, destino = _obter_rota_adsb(callsign, lat, lon)
+    if origem is None or destino is None:
+        alt_origem, alt_destino = _obter_rota_opensky(callsign)
         origem = origem or alt_origem
         destino = destino or alt_destino
     return origem, destino
