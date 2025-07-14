@@ -4,3 +4,7 @@
 .plane-icon {
   pointer-events: auto;
 }
+
+#mapa .leaflet-tile {
+  filter: brightness(0.9) grayscale(20%);
+}
