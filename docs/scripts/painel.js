@@ -144,7 +144,7 @@ async function carregarPainel() {
       const prox = String((parseInt(h, 10) + 2) % 24).padStart(2, "0");
 
       resumoEl.textContent =
-        `Entre as`+ <strong> + `${h}h00m` + </strong> + `e as` + <strong> + `${h}h59m` + </strong> + `foram detetadas ${total} aeronaves de ${paisesSet.size} países e ${ciasSet.size} companhias. ` +
+        `Entre as <strong> ${h}h00m </strong> e as <strong> ${h}h59m </strong> foram detetadas ${total} aeronaves de ${paisesSet.size} países e ${ciasSet.size} companhias. ` +
         `A mais distante estava a ${maxDist}km sobre ${capitalizar(maxLoc)} e a mais próxima a ${minDist}km, sobre ${capitalizar(minLoc)}. ` +
         `Entre estes avistamentos, houve ${semLoc} aeronaves que não partilharam a sua localização. ` +
         `A próxima atualização desta página será depois das ${prox}h03m.`;
