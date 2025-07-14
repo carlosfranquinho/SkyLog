@@ -1,5 +1,4 @@
-//const API_URL = "https://share-physics-gulf-changing.trycloudflare.com/dados";
-const API_URL = "http://localhost:5000/dados";
+const API_URL = "https://share-physics-gulf-changing.trycloudflare.com/dados";
 
 const map = L.map("map").setView([39.5, -8.0], 7); // centro de Portugal
 
