@@ -1,0 +1,293 @@
+{
+  "ultima_hora": [
+    {
+      "hex": "34810b",
+      "chamada": "",
+      "cia": "",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "Zamora (Espanha)",
+      "origem": null,
+      "destino": null,
+      "alt": "32450",
+      "vel": "",
+      "dist": 335.9,
+      "hora": "2025-07-14T04:49"
+    },
+    {
+      "hex": "3455c1",
+      "chamada": "IBE0382",
+      "cia": "Iberia",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "NAZARÉ",
+      "origem": null,
+      "destino": null,
+      "alt": "40025",
+      "vel": "466.7",
+      "dist": 14.8,
+      "hora": "2025-07-14T04:48"
+    },
+    {
+      "hex": "345699",
+      "chamada": "VOE2807",
+      "cia": "Volotea",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "CORUCHE",
+      "origem": "Tenerife South Airport",
+      "destino": "Nantes Atlantique Airport",
+      "alt": "38000",
+      "vel": "407.3",
+      "dist": 89.3,
+      "hora": "2025-07-14T04:28"
+    },
+    {
+      "hex": "aad981",
+      "chamada": "AAL68",
+      "cia": "American Airlines",
+      "pais": "Estados Unidos",
+      "bandeira": "🇺🇸",
+      "local": "Salamanca (Espanha)",
+      "origem": "Miami International Airport",
+      "destino": "Adolfo Suárez Madrid–Barajas Airport",
+      "alt": "35100",
+      "vel": "513.8",
+      "dist": 293.5,
+      "hora": "2025-07-14T04:23"
+    },
+    {
+      "hex": "344346",
+      "chamada": "IBE0212",
+      "cia": "Iberia",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "Salamanca (Espanha)",
+      "origem": null,
+      "destino": null,
+      "alt": "31875",
+      "vel": "477.6",
+      "dist": 325.6,
+      "hora": "2025-07-14T04:23"
+    },
+    {
+      "hex": "440201",
+      "chamada": "TAY1MN",
+      "cia": "TAY",
+      "pais": "Áustria",
+      "bandeira": "🇦🇹",
+      "local": "MORTÁGUA",
+      "origem": "Charles de Gaulle International Airport",
+      "destino": null,
+      "alt": "36850",
+      "vel": "458.6",
+      "dist": 95.4,
+      "hora": "2025-07-14T04:15"
+    },
+    {
+      "hex": "347386",
+      "chamada": "",
+      "cia": "",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "ALMEIDA",
+      "origem": null,
+      "destino": null,
+      "alt": "38000",
+      "vel": "524.8",
+      "dist": 213.3,
+      "hora": "2025-07-14T04:03"
+    },
+    {
+      "hex": "347519",
+      "chamada": "IBE0124",
+      "cia": "Iberia",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "FIGUEIRA DA FOZ",
+      "origem": null,
+      "destino": null,
+      "alt": "39000",
+      "vel": "509.2",
+      "dist": 52.2,
+      "hora": "2025-07-14T04:02"
+    },
+    {
+      "hex": "394a09",
+      "chamada": "AFR453",
+      "cia": "Air France",
+      "pais": "França",
+      "bandeira": "🇫🇷",
+      "local": "VILA VELHA DE RÓDÃO",
+      "origem": "Guarulhos - Governador André Franco Montoro International Airport",
+      "destino": "Charles de Gaulle International Airport",
+      "alt": "36000",
+      "vel": "469.5",
+      "dist": 101.8,
+      "hora": "2025-07-14T04:00"
+    }
+  ],
+  "top_paises": [
+    {
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "total": 6
+    },
+    {
+      "pais": "França",
+      "bandeira": "🇫🇷",
+      "total": 1
+    },
+    {
+      "pais": "Áustria",
+      "bandeira": "🇦🇹",
+      "total": 1
+    },
+    {
+      "pais": "Estados Unidos",
+      "bandeira": "🇺🇸",
+      "total": 1
+    }
+  ],
+  "top_companhias": [
+    {
+      "cia": "Iberia",
+      "total": 3
+    },
+    {
+      "cia": "Air France",
+      "total": 1
+    },
+    {
+      "cia": "TAY",
+      "total": 1
+    },
+    {
+      "cia": "American Airlines",
+      "total": 1
+    },
+    {
+      "cia": "Volotea",
+      "total": 1
+    }
+  ],
+  "rotas": [
+    {
+      "hex": "347386",
+      "chamada": "",
+      "de": [
+        40.662076,
+        -6.728314
+      ],
+      "para": [
+        40.636659,
+        -6.640299
+      ],
+      "alt": "38000"
+    },
+    {
+      "hex": "394a09",
+      "chamada": "AFR453",
+      "de": [
+        39.653641,
+        -7.753004
+      ],
+      "para": [
+        40.692475,
+        -6.626629
+      ],
+      "alt": "36000"
+    },
+    {
+      "hex": "347519",
+      "chamada": "IBE0124",
+      "de": [
+        40.20484,
+        -8.797177
+      ],
+      "para": [
+        40.205383,
+        -6.982117
+      ],
+      "alt": "39000"
+    },
+    {
+      "hex": "440201",
+      "chamada": "TAY1MN",
+      "de": [
+        40.42061,
+        -8.241931
+      ],
+      "para": [
+        39.553024,
+        -8.875341
+      ],
+      "alt": "36850"
+    },
+    {
+      "hex": "aad981",
+      "chamada": "AAL68",
+      "de": [
+        41.250549,
+        -6.763245
+      ],
+      "para": [
+        41.010054,
+        -5.893104
+      ],
+      "alt": "35100"
+    },
+    {
+      "hex": "344346",
+      "chamada": "IBE0212",
+      "de": [
+        41.189513,
+        -5.585736
+      ],
+      "para": [
+        41.189513,
+        -5.585736
+      ],
+      "alt": "31875"
+    },
+    {
+      "hex": "345699",
+      "chamada": "VOE2807",
+      "de": [
+        39.010345,
+        -8.418931
+      ],
+      "para": [
+        41.995697,
+        -5.698097
+      ],
+      "alt": "38000"
+    },
+    {
+      "hex": "3455c1",
+      "chamada": "IBE0382",
+      "de": [
+        39.603665,
+        -9.110779
+      ],
+      "para": [
+        39.728471,
+        -7.509155
+      ],
+      "alt": "40025"
+    },
+    {
+      "hex": "34810b",
+      "chamada": "",
+      "de": [
+        41.289459,
+        -5.518799
+      ],
+      "para": [
+        41.289459,
+        -5.518799
+      ],
+      "alt": "32450"
+    }
+  ]
+}
