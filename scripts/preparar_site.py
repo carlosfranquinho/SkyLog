@@ -7,6 +7,7 @@ import urllib.request
 import urllib.parse
 from math import radians, cos, sin, asin, sqrt
 from collections import defaultdict
+from typing import Any, Dict
 
 # Coordenadas da estação
 ESTACAO_LAT = 39.74759200010467
@@ -26,6 +27,30 @@ def haversine(lat1, lon1, lat2, lon2):
 def carregar_json(caminho: Path):
     with caminho.open(encoding="utf-8") as f:
         return json.load(f)
+
+
+def carregar_rotas(caminho: Path) -> Dict[str, Dict[str, Any]]:
+    """Carrega o cache de rotas do disco, se existir."""
+    if not caminho.exists():
+        return {}
+    try:
+        with caminho.open(encoding="utf-8") as f:
+            data = json.load(f)
+        if isinstance(data, dict):
+            return data
+    except Exception:
+        pass
+    return {}
+
+
+def gravar_rotas(caminho: Path, rotas: Dict[str, Dict[str, Any]]) -> None:
+    """Grava o cache de rotas para ficheiro."""
+    try:
+        caminho.parent.mkdir(parents=True, exist_ok=True)
+        with caminho.open("w", encoding="utf-8") as f:
+            json.dump(rotas, f, ensure_ascii=False, indent=2)
+    except Exception:
+        pass
 
 
 def hex_para_info_pais(hexcode: str, ranges: list[dict]):
@@ -171,6 +196,9 @@ def main() -> None:
 
     icao_ranges = carregar_json(icao_ranges_path)
     companhias_info = carregar_json(companhias_path)
+    rotas_cache_path = base_dir / "dados" / "rotas.json"
+    rotas_persistidas = carregar_rotas(rotas_cache_path)
+    rotas_alteradas = False
     try:
         geo_dados = carregar_json(geo_path)["features"]
     except FileNotFoundError:
@@ -257,10 +285,31 @@ def main() -> None:
 
         origem = destino = None
         if chamada:
-            rota = rota_cache.get(chamada)
-            if rota is None:
-                rota_cache[chamada] = obter_rota(chamada, lat, lon)
-            origem, destino = rota_cache.get(chamada, (None, None))
+            info_persistida = rotas_persistidas.get(chamada)
+            if info_persistida:
+                origem = info_persistida.get("origem")
+                destino = info_persistida.get("destino")
+
+            if origem is None or destino is None:
+                rota = rota_cache.get(chamada)
+                if rota is None:
+                    rota_cache[chamada] = obter_rota(chamada, lat, lon)
+                nova_origem, nova_destino = rota_cache.get(chamada, (None, None))
+                origem = origem or nova_origem
+                destino = destino or nova_destino
+
+            if chamada not in rotas_persistidas and (origem or destino):
+                rotas_persistidas[chamada] = {
+                    "origem": origem,
+                    "destino": destino,
+                }
+                rotas_alteradas = True
+            elif info_persistida and (origem != info_persistida.get("origem") or destino != info_persistida.get("destino")):
+                rotas_persistidas[chamada] = {
+                    "origem": origem,
+                    "destino": destino,
+                }
+                rotas_alteradas = True
 
         if companhia:
             companhias[companhia] += 1
@@ -327,6 +376,9 @@ def main() -> None:
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with output_path.open("w", encoding="utf-8") as f:
         json.dump(saida, f, ensure_ascii=False, indent=2)
+
+    if rotas_alteradas:
+        gravar_rotas(rotas_cache_path, rotas_persistidas)
 
     print(f"Ficheiro gerado: {output_path.name}")
 
