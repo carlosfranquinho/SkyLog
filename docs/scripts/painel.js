@@ -37,11 +37,17 @@ async function carregarPainel() {
     }
 
     function formatLabel(date) {
-      return date.toISOString().slice(0, 13).replace("T", "_");
+      const yyyy = date.getFullYear();
+      const mm = String(date.getMonth() + 1).padStart(2, "0");
+      const dd = String(date.getDate()).padStart(2, "0");
+      const hh = String(date.getHours()).padStart(2, "0");
+      return `${yyyy}-${mm}-${dd}_${hh}`;
     }
 
-    const baseStr = horaParam || formatLabel(new Date(dados.ultima_hora[0].hora));
-    const baseDate = new Date(baseStr.replace("_", "T") + ":00");
+    const currentLabel = formatLabel(new Date(dados.ultima_hora[0].hora));
+    const baseLabel = horaParam || currentLabel;
+    const baseDate = new Date(baseLabel.replace("_", "T") + ":00");
+
     const prevLabel = formatLabel(new Date(baseDate.getTime() - 3600 * 1000));
     const nextLabel = formatLabel(new Date(baseDate.getTime() + 3600 * 1000));
 
@@ -54,7 +60,12 @@ async function carregarPainel() {
     if (btnNext) {
       if (horaParam) {
         btnNext.onclick = () => {
-          window.location.search = "?h=" + nextLabel;
+          if (nextLabel === currentLabel) {
+            window.location.search = "";
+          } else {
+            window.location.search = "?h=" + nextLabel;
+          }
+
         };
       } else {
         btnNext.disabled = true;
