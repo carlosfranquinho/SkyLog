@@ -10,6 +10,7 @@ let aircraftMarkers = {};
 let rastosPorAeronave = {};
 let linhasRasto = {};
 
+
 // Aplica uma cor à imagem branca com contorno, usando CSS filter
 function cssFilterFromColor(hex) {
   return `drop-shadow(0 0 0 ${hex}) brightness(0) saturate(1000%)`;
@@ -65,12 +66,15 @@ function createPlaneIcon(track = 0, altitude = 0) {
   });
 }
 
+
 // Vai buscar os dados e atualiza o mapa
 function fetchAircraft() {
   fetch(API_URL)
     .then(response => response.json())
     .then(data => {
       const now = Date.now() / 1000;
+      const seenThreshold = now - 60; // mostrar apenas aviões recentes
+
       const novos = {};
 
       (data.aircraft || []).forEach(ac => {
@@ -82,16 +86,6 @@ function fetchAircraft() {
         const heading = ac.track || 0;
         const altitude = ac.alt_baro || 0;
 
-        // Inicializa o rasto se não existir
-        if (!rastosPorAeronave[key]) rastosPorAeronave[key] = [];
-
-        const rasto = rastosPorAeronave[key];
-        // Só adiciona se mudou de posição
-        if (rasto.length === 0 || rasto[rasto.length - 1][0] !== pos[0] || rasto[rasto.length - 1][1] !== pos[1]) {
-          rasto.push(pos);
-        }
-
-        // Atualiza ou cria o marcador
         if (aircraftMarkers[key]) {
           aircraftMarkers[key].setLatLng(pos);
           aircraftMarkers[key].setIcon(createPlaneIcon(heading, altitude));
@@ -103,32 +97,14 @@ function fetchAircraft() {
           aircraftMarkers[key] = marker;
         }
 
-        // Atualiza ou cria o rasto (linha)
-        if (linhasRasto[key]) {
-          linhasRasto[key].setLatLngs(rasto);
-        } else {
-          linhasRasto[key] = L.polyline(rasto, {
-            color: getColorByAltitude(altitude),
-            weight: 2,
-            opacity: 0.5,
-          }).addTo(map);
-        }
-
-        novos[key] = true; // marca como ativo
+        novos[key] = true; // marca como ainda ativo
       });
 
-      // Limpeza: remover os que desapareceram
+      // Remove os que já não estão ativos
       for (const key in aircraftMarkers) {
         if (!novos[key]) {
           map.removeLayer(aircraftMarkers[key]);
           delete aircraftMarkers[key];
-        }
-      }
-      for (const key in linhasRasto) {
-        if (!novos[key]) {
-          map.removeLayer(linhasRasto[key]);
-          delete linhasRasto[key];
-          delete rastosPorAeronave[key];
         }
       }
     })
