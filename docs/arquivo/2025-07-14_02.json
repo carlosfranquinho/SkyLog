@@ -1,0 +1,141 @@
+{
+  "ultima_hora": [
+    {
+      "hex": "e49f94",
+      "chamada": "",
+      "cia": "",
+      "pais": "Brasil",
+      "bandeira": "🇧🇷",
+      "local": "ARRONCHES",
+      "origem": null,
+      "destino": null,
+      "alt": "41000",
+      "vel": "433.7",
+      "dist": 162.3,
+      "hora": "2025-07-14T02:59"
+    },
+    {
+      "hex": "34635a",
+      "chamada": "AEA176",
+      "cia": "Air Europa",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "CHAMUSCA",
+      "origem": "Jorge Chávez International Airport",
+      "destino": "Adolfo Suárez Madrid–Barajas Airport",
+      "alt": "38000",
+      "vel": "495.1",
+      "dist": 75.5,
+      "hora": "2025-07-14T02:51"
+    },
+    {
+      "hex": "345251",
+      "chamada": "AEA040",
+      "cia": "Air Europa",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "BATALHA",
+      "origem": null,
+      "destino": null,
+      "alt": "40975",
+      "vel": "492.8",
+      "dist": 15.8,
+      "hora": "2025-07-14T02:42"
+    },
+    {
+      "hex": "4951d9",
+      "chamada": "TAP837",
+      "cia": "TAP Air Portugal",
+      "pais": "Portugal",
+      "bandeira": "🇵🇹",
+      "local": "PORTALEGRE",
+      "origem": "Leonardo da Vinci–Fiumicino Airport",
+      "destino": "Humberto Delgado Airport (Lisbon Portela Airport)",
+      "alt": "32525",
+      "vel": "446.3",
+      "dist": 152.0,
+      "hora": "2025-07-14T02:20"
+    }
+  ],
+  "top_paises": [
+    {
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "total": 2
+    },
+    {
+      "pais": "Portugal",
+      "bandeira": "🇵🇹",
+      "total": 1
+    },
+    {
+      "pais": "Brasil",
+      "bandeira": "🇧🇷",
+      "total": 1
+    }
+  ],
+  "top_companhias": [
+    {
+      "cia": "Air Europa",
+      "total": 2
+    },
+    {
+      "cia": "TAP Air Portugal",
+      "total": 1
+    }
+  ],
+  "rotas": [
+    {
+      "hex": "4951d9",
+      "chamada": "TAP837",
+      "de": [
+        39.276868,
+        -7.099915
+      ],
+      "para": [
+        38.900665,
+        -8.181411
+      ],
+      "alt": "32525"
+    },
+    {
+      "hex": "345251",
+      "chamada": "AEA040",
+      "de": [
+        39.595963,
+        -9.260161
+      ],
+      "para": [
+        39.724514,
+        -7.594177
+      ],
+      "alt": "40975"
+    },
+    {
+      "hex": "34635a",
+      "chamada": "AEA176",
+      "de": [
+        39.192562,
+        -8.509033
+      ],
+      "para": [
+        39.392969,
+        -7.833984
+      ],
+      "alt": "38000"
+    },
+    {
+      "hex": "e49f94",
+      "chamada": "",
+      "de": [
+        39.24065,
+        -7.163147
+      ],
+      "para": [
+        39.24065,
+        -7.163147
+      ],
+      "alt": "41000"
+    }
+  ]
+}
