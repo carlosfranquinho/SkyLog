@@ -2,7 +2,3 @@
 log.txt
 scripts/cron.log
 scripts/output_file
-
-# Ignore generated CSV data
-dados/diarios/
-dados/horarios/
