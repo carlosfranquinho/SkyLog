@@ -24,7 +24,8 @@ header h1 {
   margin-bottom: 2rem;
 }
 
-#menu-tempo button {
+#menu-tempo button,
+#menu-tempo a {
   background: #0288d1;
   color: #fff;
   border: none;
@@ -35,7 +36,8 @@ header h1 {
   transition: background 0.2s ease;
 }
 
-#menu-tempo button:hover {
+#menu-tempo button:hover,
+#menu-tempo a:hover {
   background: #0277bd;
 }
 
