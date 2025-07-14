@@ -29,18 +29,16 @@ function createPlaneIcon(track = 0, altitude = 0) {
 
   return L.divIcon({
     className: "plane-icon",
-    html: `<div style="
+    html: `<img src="images/plane.png" style="
       width: 40px;
-      height: 40px;
-      background-color: ${color};
-      mask: url('images/plane.png') center / contain no-repeat;
-      -webkit-mask: url('images/plane.png') center / contain no-repeat;
       transform: rotate(${track}deg);
-    "></div>`,
+      filter: drop-shadow(0 0 0 ${color}) brightness(0) saturate(1000%);
+    ">`,
     iconSize: [40, 40],
     iconAnchor: [20, 20],
   });
 }
+
 
 // Vai buscar os dados e atualiza o mapa
 function fetchAircraft() {
