@@ -29,13 +29,16 @@ function createPlaneIcon(track = 0, altitude = 0) {
 
   return L.divIcon({
     className: "plane-icon",
-    html: `<img src="images/plane.png" style="
+    html: `<div style="
       width: 40px;
+      height: 40px;
+      background-color: ${color};
+      mask: url('images/plane.png') center / contain no-repeat;
+      -webkit-mask: url('images/plane.png') center / contain no-repeat;
       transform: rotate(${track}deg);
-      filter: ${cssFilterFromColor(color)};
-    ">`,
+    "></div>`,
     iconSize: [40, 40],
-    iconAnchor: [20, 20], // centro da imagem
+    iconAnchor: [20, 20],
   });
 }
 
