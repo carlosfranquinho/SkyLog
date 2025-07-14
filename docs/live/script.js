@@ -1,0 +1,38 @@
+const API_URL = "https://technologies-corporations-artists-witness.trycloudflare.com/dados";
+
+const map = L.map('map').setView([39.5, -8.0], 7); // centro de Portugal
+
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '© OpenStreetMap',
+}).addTo(map);
+
+let aircraftMarkers = {};
+
+function fetchAircraft() {
+  fetch(API_URL)
+    .then(response => response.json())
+    .then(data => {
+      const now = Date.now() / 1000;
+      const seenThreshold = now - 60; // só mostrar aviões recentes
+      data.aircraft.forEach(ac => {
+        if (!ac.lat || !ac.lon || ac.seen > 60) return;
+
+        const key = ac.hex;
+        const pos = [ac.lat, ac.lon];
+        const info = ac.flight ? ac.flight.trim() : ac.hex.toUpperCase();
+
+        if (aircraftMarkers[key]) {
+          aircraftMarkers[key].setLatLng(pos);
+        } else {
+          const marker = L.marker(pos).addTo(map)
+            .bindPopup(`<strong>${info}</strong><br>Alt: ${ac.alt_baro || '-'} ft`);
+          aircraftMarkers[key] = marker;
+        }
+      });
+    })
+    .catch(err => console.error("Erro ao buscar dados:", err));
+}
+
+// Atualizar de 10 em 10 segundos
+fetchAircraft();
+setInterval(fetchAircraft, 10000);
