@@ -1,15 +1,31 @@
 const API_URL = "https://share-physics-gulf-changing.trycloudflare.com/dados";
 
+const ESTACAO_LAT = 39.74759200010467;
+const ESTACAO_LON = -8.936510104648143;
+
 const map = L.map('mapa').setView([39.5, -8.0], 7); // centro de Portugal
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '© OpenStreetMap',
+  opacity: 0.65,
 }).addTo(map);
 
 let aircraftMarkers = {};
 let rastosPorAeronave = {};
 let linhasRasto = {};
 const listaAvioes = document.getElementById('lista-avioes');
+
+function haversine(lat1, lon1, lat2, lon2) {
+  const R = 6371;
+  const toRad = d => (d * Math.PI) / 180;
+  const dLat = toRad(lat2 - lat1);
+  const dLon = toRad(lon2 - lon1);
+  const a = Math.sin(dLat / 2) ** 2 +
+            Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) *
+            Math.sin(dLon / 2) ** 2;
+  const c = 2 * Math.asin(Math.sqrt(a));
+  return R * c;
+}
 
 
 // Aplica uma cor à imagem branca com contorno, usando CSS filter
@@ -20,11 +36,15 @@ function cssFilterFromColor(hex) {
 // Define a cor consoante a altitude
 function getColorByAltitude(alt) {
   if (!alt) return "#888";
-  if (alt > 35000) return "#ff0000"; // vermelho
-  if (alt > 25000) return "#ff9900"; // laranja
-  if (alt > 15000) return "#ffff00"; // amarelo
-  if (alt > 5000) return "#00cc00";  // verde
-  return "#0066ff";                  // azul
+  if (alt > 40000) return "#d500f9"; // violeta
+  if (alt > 35000) return "#ff1744"; // vermelho
+  if (alt > 30000) return "#ff9100"; // laranja forte
+  if (alt > 25000) return "#ffc400"; // laranja
+  if (alt > 20000) return "#c0ca33"; // verde-amarelado
+  if (alt > 15000) return "#4caf50"; // verde
+  if (alt > 10000) return "#00bcd4"; // azul claro
+  if (alt > 5000) return "#2196f3";  // azul
+  return "#3f51b5";                  // azul escuro
 }
 
 // Cria ícone com rotação e cor
@@ -87,6 +107,7 @@ function fetchAircraft() {
         const info = ac.flight ? ac.flight.trim() : ac.hex.toUpperCase();
         const heading = ac.track || 0;
         const altitude = ac.alt_baro || 0;
+        const velocidade = ac.gs ? Math.round(ac.gs * 1.852) : null;
 
         if (aircraftMarkers[key]) {
           aircraftMarkers[key].setLatLng(pos);
@@ -99,15 +120,43 @@ function fetchAircraft() {
           aircraftMarkers[key] = marker;
         }
 
+        if (!rastosPorAeronave[key]) {
+          rastosPorAeronave[key] = [];
+        }
+        rastosPorAeronave[key].push(pos);
+        if (linhasRasto[key]) {
+          linhasRasto[key].setLatLngs(rastosPorAeronave[key]);
+          linhasRasto[key].setStyle({ color: getColorByAltitude(altitude) });
+        } else {
+          linhasRasto[key] = L.polyline(rastosPorAeronave[key], {
+            color: getColorByAltitude(altitude),
+            weight: 2
+          }).addTo(map);
+        }
+
         novos[key] = true; // marca como ainda ativo
-        listaAvioes.innerHTML += `<li><strong>${info}</strong> – ${altitude} ft</li>`;
+        const altM = altitude ? Math.round(altitude * 0.3048) : null;
+        const dist = haversine(ESTACAO_LAT, ESTACAO_LON, ac.lat, ac.lon).toFixed(1);
+        const hora = new Date().toLocaleTimeString('pt-PT', { hour: '2-digit', minute: '2-digit' });
+        listaAvioes.innerHTML += `<li><strong>${info}</strong>
+          <ul>${altM !== null ? `<strong>Altitude:</strong> ${altM} m` : ''}</ul>
+          <ul>${velocidade !== null ? `<strong>Velocidade:</strong> ${velocidade} km/h` : ''}</ul>
+          <ul><strong>Rumo:</strong> ${heading.toFixed(0)}º</ul>
+          <ul><strong>Distância:</strong> ${dist} km</ul>
+          <ul>Atualizado às ${hora}</ul>
+        </li>`;
       });
 
       // Remove os que já não estão ativos
       for (const key in aircraftMarkers) {
         if (!novos[key]) {
           map.removeLayer(aircraftMarkers[key]);
+          if (linhasRasto[key]) {
+            map.removeLayer(linhasRasto[key]);
+            delete linhasRasto[key];
+          }
           delete aircraftMarkers[key];
+          delete rastosPorAeronave[key];
         }
       }
     })
