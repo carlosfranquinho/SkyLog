@@ -1,101 +1,106 @@
-const API_URL = "https://share-physics-gulf-changing.trycloudflare.com/dados";
+//const API_URL = "https://share-physics-gulf-changing.trycloudflare.com/dados";
+const API_URL = "http://localhost:5000/dados";
 
-const map = L.map('map').setView([39.5, -8.0], 7); // centro de Portugal
+const map = L.map("map").setView([39.5, -8.0], 7); // centro de Portugal
 
-L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-  attribution: '© OpenStreetMap',
+L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+  attribution: "© OpenStreetMap",
 }).addTo(map);
 
 let aircraftMarkers = {};
 let aircraftTrails = {};
-let aircraftHistory = {};
 
-function getColorByAltitude(alt) {
-  if (!alt) return "#888";
-  if (alt < 5000) return "#00cc00";
-  if (alt < 15000) return "#ffff00";
-  if (alt < 30000) return "#ff9900";
-  return "#ff0000";
+function colorFromAltitude(alt) {
+  if (alt > 30000) return "hue-rotate(0deg)";      // vermelho
+  if (alt > 15000) return "hue-rotate(60deg)";     // amarelo
+  return "hue-rotate(120deg)";                     // verde
 }
 
 function createPlaneIcon(track = 0, alt = 0) {
-  const color = getColorByAltitude(alt);
+  const filter = colorFromAltitude(alt);
   return L.divIcon({
     className: "plane-icon",
-    html: `<img src="images/plane.png" style="width: 30px; filter: drop-shadow(0 0 1px ${color}); transform: rotate(${track}deg);">`,
-    iconSize: [30, 30],
-    iconAnchor: [15, 15],
+    html: `<img src="images/plane.png" style="width: 40px; transform: rotate(${track}deg); filter: ${filter};">`,
+    iconSize: [40, 40],
+    iconAnchor: [20, 20],
   });
 }
 
 function fetchAircraft() {
   fetch(API_URL)
-    .then(response => response.json())
-    .then(data => {
+    .then((response) => response.json())
+    .then((data) => {
       const now = Date.now() / 1000;
-      const seenThreshold = now - 60;
+      const novos = {};
 
-      const ativos = {};
-
-      (data.aircraft || []).forEach(ac => {
+      (data.aircraft || []).forEach((ac) => {
         if (!ac.lat || !ac.lon || ac.seen > 60) return;
 
         const key = ac.hex;
         const pos = [ac.lat, ac.lon];
         const info = ac.flight ? ac.flight.trim() : ac.hex.toUpperCase();
         const heading = ac.track || 0;
-        const alt = ac.alt_baro || 0;
+        const altitude = ac.alt_baro || 0;
 
-        ativos[key] = true;
+        // Rasto
+        if (!aircraftTrails[key]) {
+          aircraftTrails[key] = [pos];
+        } else {
+          const last = aircraftTrails[key][aircraftTrails[key].length - 1];
+          if (last[0] !== pos[0] || last[1] !== pos[1]) {
+            aircraftTrails[key].push(pos);
+            if (aircraftTrails[key].length > 10) {
+              aircraftTrails[key].shift(); // manter só últimos 10
+            }
+          }
+        }
 
-        // Atualizar ou criar marcador
+        // Atualiza ou cria marcador
         if (aircraftMarkers[key]) {
           aircraftMarkers[key].setLatLng(pos);
-          const icon = createPlaneIcon(heading, alt);
-          aircraftMarkers[key].setIcon(icon);
+          aircraftMarkers[key].setIcon(createPlaneIcon(heading, altitude));
         } else {
           const marker = L.marker(pos, {
-            icon: createPlaneIcon(heading, alt)
-          }).addTo(map)
-            .bindPopup(`<strong>${info}</strong><br>Alt: ${alt} ft`);
+            icon: createPlaneIcon(heading, altitude),
+          })
+            .addTo(map)
+            .bindPopup(
+              `<strong>${info}</strong><br>Alt: ${altitude} ft`
+            );
           aircraftMarkers[key] = marker;
         }
 
-        // Atualizar histórico de posições
-        if (!aircraftHistory[key]) aircraftHistory[key] = [];
-        aircraftHistory[key].push(pos);
-        if (aircraftHistory[key].length > 5) aircraftHistory[key].shift();
-
-        // Atualizar ou criar trilho
+        // Adiciona ou atualiza linha do rasto
         if (aircraftTrails[key]) {
-          aircraftTrails[key].setLatLngs(aircraftHistory[key]);
-        } else {
-          aircraftTrails[key] = L.polyline(aircraftHistory[key], {
-            color: "#666",
+          if (aircraftTrails[key].polyline) {
+            map.removeLayer(aircraftTrails[key].polyline);
+          }
+          aircraftTrails[key].polyline = L.polyline(aircraftTrails[key], {
+            color: "#888",
             weight: 1.5,
-            opacity: 0.7
+            opacity: 0.5,
+            dashArray: "2, 4",
           }).addTo(map);
         }
+
+        novos[key] = true;
       });
 
-      // Limpar marcadores inativos
+      // Remover marcadores e rastos inativos
       for (const key in aircraftMarkers) {
-        if (!ativos[key]) {
+        if (!novos[key]) {
           map.removeLayer(aircraftMarkers[key]);
-          delete aircraftMarkers[key];
-
-          if (aircraftTrails[key]) {
-            map.removeLayer(aircraftTrails[key]);
-            delete aircraftTrails[key];
+          if (aircraftTrails[key]?.polyline) {
+            map.removeLayer(aircraftTrails[key].polyline);
           }
-
-          delete aircraftHistory[key];
+          delete aircraftMarkers[key];
+          delete aircraftTrails[key];
         }
       }
     })
-    .catch(err => console.error("Erro ao buscar dados:", err));
+    .catch((err) => console.error("Erro ao buscar dados:", err));
 }
 
-// Atualiza a cada 5 segundos
+// Atualizar de 5 em 5 segundos
 fetchAircraft();
 setInterval(fetchAircraft, 5000);
