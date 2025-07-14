@@ -189,7 +189,6 @@ def main() -> None:
         os.environ.get("BASE_DIR", Path(__file__).resolve().parent.parent)
     )
     dir_csv = base_dir / "dados" / "horarios"
-    output_path = base_dir / "docs" / "hora_corrente.json"
     icao_ranges_path = base_dir / "dados" / "icao_ranges.json"
     companhias_path = base_dir / "dados" / "companhias.json"
     geo_path = base_dir / "dados" / "geo" / "ContinenteConcelhos.geojson"
@@ -373,6 +372,8 @@ def main() -> None:
         "rotas": rotas,
     }
 
+    hora_label = ultima_hora[0]["hora"][:13].replace("T", "_")
+    output_path = base_dir / "docs" / "arquivo" / f"{hora_label}.json"
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with output_path.open("w", encoding="utf-8") as f:
         json.dump(saida, f, ensure_ascii=False, indent=2)

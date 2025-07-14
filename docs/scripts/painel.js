@@ -3,7 +3,9 @@ async function carregarPainel() {
   try {
     const params = new URLSearchParams(window.location.search);
     const horaParam = params.get("h");
-    const ficheiro = horaParam ? `arquivo/${horaParam}.json` : "hora_corrente.json";
+    const ficheiro = horaParam
+      ? `arquivo/${horaParam}.json`
+      : `arquivo/${formatLabel(new Date())}.json`;
     const resp = await fetch(ficheiro);
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
     const dados = await resp.json();
