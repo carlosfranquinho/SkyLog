@@ -3553,7 +3553,7 @@
         {
             "type": "Feature",
             "properties": {
-                "nome": "MARINHA GRANDE"
+                "nome": "a Marinha Grande"
             },
             "geometry": {
                 "type": "Point",

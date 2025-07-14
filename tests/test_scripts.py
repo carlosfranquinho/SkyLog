@@ -3,6 +3,7 @@ import json
 import shutil
 from pathlib import Path
 import sys
+import os
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(REPO_ROOT))
@@ -31,6 +32,23 @@ def test_preparar_site_generates_keys(tmp_path):
     data = json.loads(painel_path.read_text())
     for key in ["ultima_hora", "top_paises", "top_companhias", "rotas"]:
         assert key in data
+
+
+def test_preparar_site_uses_route_cache(tmp_path):
+    base_dir = setup_preparar_site_data(tmp_path)
+    cache_file = base_dir / "dados" / "rotas.json"
+    cache_file.parent.mkdir(parents=True, exist_ok=True)
+    cache_file.write_text(
+        json.dumps({"WZZ8744": {"origem": "X", "destino": "Y"}}, ensure_ascii=False, indent=2)
+    )
+    os.environ["BASE_DIR"] = str(base_dir)
+    preparar_site.main()
+    painel_path = base_dir / "docs" / "hora_corrente.json"
+    data = json.loads(painel_path.read_text())
+    assert any(
+        r.get("origem") == "X" and r.get("destino") == "Y" and r.get("chamada") == "WZZ8744"
+        for r in data.get("ultima_hora", [])
+    )
 
 
 def setup_diarios_data(tmp_path: Path) -> Path:

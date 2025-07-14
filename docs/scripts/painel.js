@@ -47,6 +47,7 @@ async function carregarPainel() {
     const currentLabel = formatLabel(new Date(dados.ultima_hora[0].hora));
     const baseLabel = horaParam || currentLabel;
     const baseDate = new Date(baseLabel.replace("_", "T") + ":00");
+
     const prevLabel = formatLabel(new Date(baseDate.getTime() - 3600 * 1000));
     const nextLabel = formatLabel(new Date(baseDate.getTime() + 3600 * 1000));
 
@@ -64,6 +65,7 @@ async function carregarPainel() {
           } else {
             window.location.search = "?h=" + nextLabel;
           }
+
         };
       } else {
         btnNext.disabled = true;
