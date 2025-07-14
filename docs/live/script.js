@@ -48,4 +48,4 @@ function fetchAircraft() {
 
 // Atualizar de 10 em 10 segundos
 fetchAircraft();
-setInterval(fetchAircraft, 10000);
+setInterval(fetchAircraft, 5000);
