@@ -1,0 +1,247 @@
+{
+  "ultima_hora": [
+    {
+      "hex": "347386",
+      "chamada": "",
+      "cia": "",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": null,
+      "origem": null,
+      "destino": null,
+      "alt": "38150",
+      "vel": "531.6",
+      "dist": "",
+      "hora": "2025-07-14T03:59"
+    },
+    {
+      "hex": "394a09",
+      "chamada": "AFR453",
+      "cia": "Air France",
+      "pais": "França",
+      "bandeira": "🇫🇷",
+      "local": "CHAMUSCA",
+      "origem": null,
+      "destino": null,
+      "alt": "36000",
+      "vel": "463.4",
+      "dist": 86.8,
+      "hora": "2025-07-14T03:55"
+    },
+    {
+      "hex": "347519",
+      "chamada": "IBE0124",
+      "cia": "Iberia",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": null,
+      "origem": null,
+      "destino": null,
+      "alt": "39000",
+      "vel": "",
+      "dist": "",
+      "hora": "2025-07-14T03:51"
+    },
+    {
+      "hex": "aace5c",
+      "chamada": "",
+      "cia": "",
+      "pais": "Estados Unidos",
+      "bandeira": "🇺🇸",
+      "local": null,
+      "origem": null,
+      "destino": null,
+      "alt": "35600",
+      "vel": "",
+      "dist": "",
+      "hora": "2025-07-14T03:47"
+    },
+    {
+      "hex": "348249",
+      "chamada": "IBE0348",
+      "cia": "Iberia",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "Salamanca (Espanha)",
+      "origem": null,
+      "destino": null,
+      "alt": "31300",
+      "vel": "479.2",
+      "dist": 334.4,
+      "hora": "2025-07-14T03:39"
+    },
+    {
+      "hex": "34520c",
+      "chamada": "IBE9169",
+      "cia": "Iberia",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "ARRONCHES",
+      "origem": null,
+      "destino": null,
+      "alt": "33000",
+      "vel": "466.3",
+      "dist": 162.3,
+      "hora": "2025-07-14T03:10"
+    },
+    {
+      "hex": "347659",
+      "chamada": "IBE0156",
+      "cia": "Iberia",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": "BATALHA",
+      "origem": null,
+      "destino": null,
+      "alt": "38000",
+      "vel": "508.5",
+      "dist": 16.2,
+      "hora": "2025-07-14T03:02"
+    },
+    {
+      "hex": "3451cf",
+      "chamada": "",
+      "cia": "",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": null,
+      "origem": null,
+      "destino": null,
+      "alt": "40000",
+      "vel": "",
+      "dist": "",
+      "hora": "2025-07-14T03:00"
+    },
+    {
+      "hex": "e49f94",
+      "chamada": "PSFST",
+      "cia": "PSF",
+      "pais": "Brasil",
+      "bandeira": "🇧🇷",
+      "local": "ARRONCHES",
+      "origem": null,
+      "destino": null,
+      "alt": "41000",
+      "vel": "436.5",
+      "dist": 155.1,
+      "hora": "2025-07-14T03:00"
+    },
+    {
+      "hex": "34635a",
+      "chamada": "",
+      "cia": "",
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "local": null,
+      "origem": null,
+      "destino": null,
+      "alt": "",
+      "vel": "500.8",
+      "dist": "",
+      "hora": "2025-07-14T03:00"
+    }
+  ],
+  "top_paises": [
+    {
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "total": 7
+    },
+    {
+      "pais": "Brasil",
+      "bandeira": "🇧🇷",
+      "total": 1
+    },
+    {
+      "pais": "Estados Unidos",
+      "bandeira": "🇺🇸",
+      "total": 1
+    },
+    {
+      "pais": "França",
+      "bandeira": "🇫🇷",
+      "total": 1
+    }
+  ],
+  "top_companhias": [
+    {
+      "cia": "Iberia",
+      "total": 4
+    },
+    {
+      "cia": "PSF",
+      "total": 1
+    },
+    {
+      "cia": "Air France",
+      "total": 1
+    }
+  ],
+  "rotas": [
+    {
+      "hex": "e49f94",
+      "chamada": "PSFST",
+      "de": [
+        39.169373,
+        -7.292534
+      ],
+      "para": [
+        38.651825,
+        -8.002585
+      ],
+      "alt": "41000"
+    },
+    {
+      "hex": "347659",
+      "chamada": "IBE0156",
+      "de": [
+        39.642768,
+        -8.80481
+      ],
+      "para": [
+        39.726334,
+        -7.634543
+      ],
+      "alt": "38000"
+    },
+    {
+      "hex": "34520c",
+      "chamada": "IBE9169",
+      "de": [
+        39.231898,
+        -7.167114
+      ],
+      "para": [
+        38.504101,
+        -7.835876
+      ],
+      "alt": "33000"
+    },
+    {
+      "hex": "348249",
+      "chamada": "IBE0348",
+      "de": [
+        41.219353,
+        -5.562703
+      ],
+      "para": [
+        41.147476,
+        -5.438794
+      ],
+      "alt": "31300"
+    },
+    {
+      "hex": "394a09",
+      "chamada": "AFR453",
+      "de": [
+        39.051498,
+        -8.387882
+      ],
+      "para": [
+        39.550688,
+        -7.862671
+      ],
+      "alt": "36000"
+    }
+  ]
+}
