@@ -1,7 +1,11 @@
 from flask import Flask, send_file
+from flask_cors import CORS
 import os
 
 app = Flask(__name__)
+
+# Ativar CORS apenas para o teu site GitHub Pages
+CORS(app, origins=["https://carlosfranquinho.github.io"])
 
 # Caminho absoluto para o teu ficheiro de dados
 CAMINHO_DADOS = os.path.expanduser("/run/dump1090-fa/aircraft.json")
