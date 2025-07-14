@@ -730,5 +730,205 @@
   "TAP439X": {
     "origem": "Paris-Orly Airport",
     "destino": "Humberto Delgado Airport (Lisbon Portela Airport)"
+  },
+  "TAP67U": {
+    "origem": "Amsterdam, NL",
+    "destino": "Lisbon, PT"
+  },
+  "TAP828": {
+    "origem": "Lisbon, PT",
+    "destino": "Milan, IT"
+  },
+  "IBS1513": {
+    "origem": "Madrid, ES",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EZY13AR": {
+    "origem": "Lisbon, PT",
+    "destino": "Manchester, GB"
+  },
+  "IBE05CY": {
+    "origem": "Lisbon, PT",
+    "destino": "Madrid, ES"
+  },
+  "TAP555": {
+    "origem": "Munich, DE",
+    "destino": "Lisbon, PT"
+  },
+  "DLH48X": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Lisbon, PT"
+  },
+  "EZY45GK": {
+    "origem": "Málaga, ES",
+    "destino": "Glasgow, GB"
+  },
+  "TOM3GX": {
+    "origem": "Faro, PT",
+    "destino": "London, GB"
+  },
+  "TVF7680": {
+    "origem": "Paris, FR",
+    "destino": "Faro, PT"
+  },
+  "EJU64ZH": {
+    "origem": "Milan, IT",
+    "destino": "Lisbon, PT"
+  },
+  "VLG4QP": {
+    "origem": "Lisbon, PT",
+    "destino": "Barcelona, ES"
+  },
+  "TAP1095": {
+    "origem": "Valencia, ES",
+    "destino": "Lisbon, PT"
+  },
+  "RYR263Q": {
+    "origem": "Porto, PT",
+    "destino": "Luqa, MT"
+  },
+  "FPY15L": {
+    "origem": "Lisbon, PT",
+    "destino": "Reykjavík, IS"
+  },
+  "RYR64AW": {
+    "origem": "Madrid, ES",
+    "destino": "Porto, PT"
+  },
+  "EZY32RD": {
+    "origem": "Faro, PT",
+    "destino": "Belfast, GB"
+  },
+  "TOM288": {
+    "origem": "Manchester, GB",
+    "destino": "Agadir, MA"
+  },
+  "TVF16BA": {
+    "origem": "Paris, FR",
+    "destino": "Lisbon, PT"
+  },
+  "RYR5716": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Nottingham, GB"
+  },
+  "EXS72UT": {
+    "origem": "Marrakech, MA",
+    "destino": "Manchester, GB"
+  },
+  "TAP1369": {
+    "origem": "London, GB",
+    "destino": "Lisbon, PT"
+  },
+  "VLG7VF": {
+    "origem": "Lisbon, PT",
+    "destino": "Ibiza, ES"
+  },
+  "TAP5AS": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Lisbon, PT"
+  },
+  "TVF96PD": {
+    "origem": "Paris, FR",
+    "destino": "Lisbon, PT"
+  },
+  "EWG3601": {
+    "origem": "Lisbon, PT",
+    "destino": "Hannover, DE"
+  },
+  "EJU45FP": {
+    "origem": "Geneva, CH",
+    "destino": "Porto, PT"
+  },
+  "EZY56ME": {
+    "origem": "Faro, PT",
+    "destino": "Bristol, GB"
+  },
+  "EJU41RK": {
+    "origem": "London, GB",
+    "destino": "Lisbon, PT"
+  },
+  "RYR72NA": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Nottingham, GB"
+  },
+  "TAP36RC": {
+    "origem": "Lisbon, PT",
+    "destino": "Porto, PT"
+  },
+  "RYR13ZW": {
+    "origem": "Eindhoven, NL",
+    "destino": "Lisbon, PT"
+  },
+  "EZY68UZ": {
+    "origem": "Lisbon, PT",
+    "destino": "London, GB"
+  },
+  "TOM847": {
+    "origem": "Marrakech, MA",
+    "destino": "Bristol, GB"
+  },
+  "RYR96XD": {
+    "origem": "Torino, IT",
+    "destino": "Porto, PT"
+  },
+  "AFR23CP": {
+    "origem": "Paris, FR",
+    "destino": "Lisbon, PT"
+  },
+  "RYR886M": {
+    "origem": "Newcastle, GB",
+    "destino": "Faro, PT"
+  },
+  "RYR44SL": {
+    "origem": "Manchester, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR96NC": {
+    "origem": "Aberdeen, GB",
+    "destino": "Faro, PT"
+  },
+  "EZY39VZ": {
+    "origem": "Lisbon, PT",
+    "destino": "London, GB"
+  },
+  "EJU18AQ": {
+    "origem": "Athens, GR",
+    "destino": "Lisbon, PT"
+  },
+  "DLH35J": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Lisbon, PT"
+  },
+  "RYR1349": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Shannon, IE"
+  },
+  "ELY376": {
+    "origem": "Lisbon, PT",
+    "destino": "Tel Aviv, IL"
+  },
+  "RYR599J": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "TOM17N": {
+    "origem": "Marrakech, MA",
+    "destino": "Birmingham, GB"
+  },
+  "TAP21MM": {
+    "origem": "Madrid, ES",
+    "destino": "Lisbon, PT"
+  },
+  "RYR3WL": {
+    "origem": "Porto, PT",
+    "destino": "Alicante, ES"
+  },
+  "CND124": {
+    "origem": "Palma De Mallorca Airport",
+    "destino": "Amsterdam Airport Schiphol"
+  },
+  "WMT4BS": {
+    "origem": "Lisbon, PT",
+    "destino": "Rome, IT"
   }
 }
