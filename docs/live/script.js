@@ -8,6 +8,15 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 let aircraftMarkers = {};
 
+function createPlaneIcon(track = 0) {
+  return L.divIcon({
+    className: "plane-icon",
+    html: `<img src="images/plane.png" style="width: 40px; transform: rotate(${track}deg);">`,
+    iconSize: [40, 40],
+    iconAnchor: [20, 20], // centro da imagem
+  });
+}
+
 function fetchAircraft() {
   fetch(API_URL)
     .then(response => response.json())
