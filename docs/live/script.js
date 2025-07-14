@@ -7,6 +7,8 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 let aircraftMarkers = {};
+let rastosPorAeronave = {};
+let linhasRasto = {};
 
 // Aplica uma cor à imagem branca com contorno, usando CSS filter
 function cssFilterFromColor(hex) {
@@ -31,18 +33,31 @@ function createPlaneIcon(track = 0, altitude = 0) {
   return L.divIcon({
     className: "plane-icon",
     html: `
-      <div style="
-        width: ${size}px;
-        height: ${size}px;
-        transform: rotate(${track}deg);
-        -webkit-mask-image: url('images/plane.png');
-        -webkit-mask-repeat: no-repeat;
-        -webkit-mask-size: contain;
-        background-color: ${color};
-        border: 2px solid black;
-        border-radius: 50%;
-        box-shadow: 0 0 2px black;
-      ">
+      <div style="position: relative; width: ${size}px; height: ${size}px; transform: rotate(${track}deg);">
+        <!-- camada inferior (contorno preto) -->
+        <div style="
+          position: absolute;
+          top: 0; left: 0;
+          width: ${size}px; height: ${size}px;
+          -webkit-mask-image: url('images/plane.png');
+          -webkit-mask-repeat: no-repeat;
+          -webkit-mask-size: contain;
+          background-color: black;
+          filter: blur(1px);
+          z-index: 0;
+        "></div>
+
+        <!-- camada superior (avião colorido) -->
+        <div style="
+          position: absolute;
+          top: 0; left: 0;
+          width: ${size}px; height: ${size}px;
+          -webkit-mask-image: url('images/plane.png');
+          -webkit-mask-repeat: no-repeat;
+          -webkit-mask-size: contain;
+          background-color: ${color};
+          z-index: 1;
+        "></div>
       </div>
     `,
     iconSize: [size, size],
@@ -56,8 +71,6 @@ function fetchAircraft() {
     .then(response => response.json())
     .then(data => {
       const now = Date.now() / 1000;
-      const seenThreshold = now - 60; // mostrar apenas aviões recentes
-
       const novos = {};
 
       (data.aircraft || []).forEach(ac => {
@@ -69,6 +82,16 @@ function fetchAircraft() {
         const heading = ac.track || 0;
         const altitude = ac.alt_baro || 0;
 
+        // Inicializa o rasto se não existir
+        if (!rastosPorAeronave[key]) rastosPorAeronave[key] = [];
+
+        const rasto = rastosPorAeronave[key];
+        // Só adiciona se mudou de posição
+        if (rasto.length === 0 || rasto[rasto.length - 1][0] !== pos[0] || rasto[rasto.length - 1][1] !== pos[1]) {
+          rasto.push(pos);
+        }
+
+        // Atualiza ou cria o marcador
         if (aircraftMarkers[key]) {
           aircraftMarkers[key].setLatLng(pos);
           aircraftMarkers[key].setIcon(createPlaneIcon(heading, altitude));
@@ -80,14 +103,32 @@ function fetchAircraft() {
           aircraftMarkers[key] = marker;
         }
 
-        novos[key] = true; // marca como ainda ativo
+        // Atualiza ou cria o rasto (linha)
+        if (linhasRasto[key]) {
+          linhasRasto[key].setLatLngs(rasto);
+        } else {
+          linhasRasto[key] = L.polyline(rasto, {
+            color: getColorByAltitude(altitude),
+            weight: 2,
+            opacity: 0.5,
+          }).addTo(map);
+        }
+
+        novos[key] = true; // marca como ativo
       });
 
-      // Remove os que já não estão ativos
+      // Limpeza: remover os que desapareceram
       for (const key in aircraftMarkers) {
         if (!novos[key]) {
           map.removeLayer(aircraftMarkers[key]);
           delete aircraftMarkers[key];
+        }
+      }
+      for (const key in linhasRasto) {
+        if (!novos[key]) {
+          map.removeLayer(linhasRasto[key]);
+          delete linhasRasto[key];
+          delete rastosPorAeronave[key];
         }
       }
     })
