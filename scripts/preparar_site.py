@@ -373,9 +373,14 @@ def main() -> None:
     }
 
     hora_label = ultima_hora[0]["hora"][:13].replace("T", "_")
-    output_path = base_dir / "docs" / "arquivo" / f"{hora_label}.json"
-    output_path.parent.mkdir(parents=True, exist_ok=True)
+    output_dir = base_dir / "docs" / "arquivo"
+    output_path = output_dir / f"{hora_label}.json"
+    output_dir.mkdir(parents=True, exist_ok=True)
     with output_path.open("w", encoding="utf-8") as f:
+        json.dump(saida, f, ensure_ascii=False, indent=2)
+
+    latest_path = output_dir / "ultima.json"
+    with latest_path.open("w", encoding="utf-8") as f:
         json.dump(saida, f, ensure_ascii=False, indent=2)
 
     if rotas_alteradas:

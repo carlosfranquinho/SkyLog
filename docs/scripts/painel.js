@@ -5,7 +5,7 @@ async function carregarPainel() {
     const horaParam = params.get("h");
     const ficheiro = horaParam
       ? `arquivo/${horaParam}.json`
-      : `arquivo/${formatLabel(new Date())}.json`;
+      : `arquivo/ultima.json`;
     const resp = await fetch(ficheiro);
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
     const dados = await resp.json();

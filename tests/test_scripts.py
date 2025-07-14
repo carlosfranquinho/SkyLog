@@ -28,8 +28,8 @@ def test_preparar_site_generates_keys(tmp_path):
     os.environ["BASE_DIR"] = str(base_dir)
     preparar_site.main()
     arquivos = list((base_dir / "docs" / "arquivo").glob("*.json"))
-    assert len(arquivos) == 1
-    painel_path = arquivos[0]
+    assert len(arquivos) == 2
+    painel_path = next(p for p in arquivos if p.name != "ultima.json")
     data = json.loads(painel_path.read_text())
     for key in ["ultima_hora", "top_paises", "top_companhias", "rotas"]:
         assert key in data
@@ -45,8 +45,8 @@ def test_preparar_site_uses_route_cache(tmp_path):
     os.environ["BASE_DIR"] = str(base_dir)
     preparar_site.main()
     arquivos = list((base_dir / "docs" / "arquivo").glob("*.json"))
-    assert len(arquivos) == 1
-    painel_path = arquivos[0]
+    assert len(arquivos) == 2
+    painel_path = next(p for p in arquivos if p.name != "ultima.json")
     data = json.loads(painel_path.read_text())
     assert any(
         r.get("origem") == "X" and r.get("destino") == "Y" and r.get("chamada") == "WZZ8744"

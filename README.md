@@ -84,9 +84,9 @@ python3 scripts/gerar_resumo_avioes.py
 
 ### preparar_site.py
 Processes the latest hourly CSV together with auxiliary data to produce the
-JSON file used by the web panel. The file is stored inside
-`docs/arquivo/` with the name `YYYY-MM-DD_HH.json` corresponding to the
-captured hour.
+JSON files used by the web panel. Each run generates a file inside
+`docs/arquivo/` named `YYYY-MM-DD_HH.json` for the captured hour and also
+updates `docs/arquivo/ultima.json` with the same contents.
 
 The script queries [adsb.im](https://adsb.im/api/0/routeset) for route
 information and, if that fails, falls back to the OpenSky API to resolve the
@@ -102,14 +102,16 @@ base_dir = Path(os.environ.get("BASE_DIR", Path(__file__).resolve().parent.paren
 output_dir = base_dir / "docs" / "arquivo"
 ```
 
-The file is written at the end of the run:
+The files are written at the end of the run:
 
 ```python
 hora_label = ultima_hora[0]["hora"][:13].replace("T", "_")
 output_path = output_dir / f"{hora_label}.json"
 with output_path.open("w", encoding="utf-8") as f:
     json.dump(saida, f, ensure_ascii=False, indent=2)
-print(f"Ficheiro gerado: {output_path.name}")
+with (output_dir / "ultima.json").open("w", encoding="utf-8") as f:
+    json.dump(saida, f, ensure_ascii=False, indent=2)
+print(f"Ficheiros gerados: {output_path.name} e ultima.json")
 ```
 
 ### publicar_site.sh
@@ -130,7 +132,8 @@ This script is triggered hourly via cron to publish the updated site.
    a cron job to execute it every minute.
 2. Optionally run `gerar_resumo_avioes.py` to refresh the auxiliary JSON files.
 3. Run `preparar_site.py` to create a new JSON file in `docs/arquivo/` with the
-   current hour, e.g. `docs/arquivo/2025-07-12_00.json`.
+   current hour (e.g. `docs/arquivo/2025-07-12_00.json`) and update
+   `docs/arquivo/ultima.json`.
 4. Serve the contents of the `docs/` directory with any static web server or
    push them to GitHub Pages. The `publicar_site.sh` script, executed hourly via
    cron, automates the generation and commit of these files.
