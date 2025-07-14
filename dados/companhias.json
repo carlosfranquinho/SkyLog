@@ -87,7 +87,7 @@
     "nome": "DUK"
   },
   "EDW": {
-    "nome": "EDW"
+    "nome": "Edelweiss Air"
   },
   "EFW": {
     "nome": "BA Euroflyer"
@@ -138,7 +138,7 @@
     "nome": "Finnair"
   },
   "FJO": {
-    "nome": "FJO"
+    "nome": "Flexjet Operations Malta"
   },
   "FPO": {
     "nome": "FPO"
@@ -210,7 +210,7 @@
     "nome": "LER"
   },
   "LGL": {
-    "nome": "LGL"
+    "nome": "Luxair"
   },
   "LPE": {
     "nome": "LATAM Peru"
@@ -290,6 +290,9 @@
   "SJI": {
     "nome": "SJI"
   },
+  "SRR": {
+    "nome": "Maersk Air Cargo"
+  },  
   "SVA": {
     "nome": "SVA"
   },
@@ -335,6 +338,9 @@
   "UAL": {
     "nome": "United Airlines"
   },
+  "ULC": {
+    "nome": "Albinati Aviation"
+  },  
   "VCG": {
     "nome": "VCG"
   },
