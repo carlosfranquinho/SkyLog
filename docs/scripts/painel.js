@@ -96,16 +96,17 @@ async function carregarPainel() {
       ulHora.innerHTML += `
         <li>
           <strong>${v.chamada || v.hex}</strong>: ${v.cia || ""}, ${bandeira}${v.pais}
-          <ul>${v.origem && v.destino ? `<strong>Origem:</strong> ${v.origem}. <strong>Destino:</strong> ${v.destino}` : ""}</ul>
-          <ul>Avistado ${localTxt}às ${hm}${v.dist ? ` a ${v.dist} km de distância` : ""}</ul>
+          <ul>${v.origem ? `<strong>Origem:</strong> ${v.origem}` : ""}</ul>
+          <ul>${v.destino ? `<strong>Origem:</strong> ${v.destino}` : ""}</ul>
           <ul>${altM !== null ? `<strong>Altitude:</strong> ${altM} metros` : ""}</ul>
           <ul>${velK !== null ? `<strong>Velocidade:</strong> ${velK} km/h` : ""}</ul>
+          <ul>Avistado ${localTxt}às ${hm}${v.dist ? ` a ${v.dist} km de distância` : ""}</ul>
         </li>`;
     });
 
     const ulPaises = document.getElementById("top-paises-lista");
     dados.top_paises.forEach(p => {
-      ulPaises.innerHTML += `<li>${p.bandeira || ""} <strong>${p.pais}</strong>: ${p.total} aeronavas</li>`;
+      ulPaises.innerHTML += `<li>${p.bandeira || ""} <strong>${p.pais}</strong>: ${p.total} aeronaves</li>`;
     });
 
     // resumo "Na última hora"
@@ -143,7 +144,7 @@ async function carregarPainel() {
       const prox = String((parseInt(h, 10) + 2) % 24).padStart(2, "0");
 
       resumoEl.textContent =
-        `Entre as <strong>${h}h00m</strong> e as <strong>${h}h59m</strong> foram detetadas ${total} aeronaves de ${paisesSet.size} países e ${ciasSet.size} companhias. ` +
+        `Entre as`+ <strong> + `${h}h00m` + </strong> + `e as` + <strong> + `${h}h59m` + </strong> + `foram detetadas ${total} aeronaves de ${paisesSet.size} países e ${ciasSet.size} companhias. ` +
         `A mais distante estava a ${maxDist}km sobre ${capitalizar(maxLoc)} e a mais próxima a ${minDist}km, sobre ${capitalizar(minLoc)}. ` +
         `Entre estes avistamentos, houve ${semLoc} aeronaves que não partilharam a sua localização. ` +
         `A próxima atualização desta página será depois das ${prox}h03m.`;
