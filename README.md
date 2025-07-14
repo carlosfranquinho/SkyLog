@@ -84,7 +84,9 @@ python3 scripts/gerar_resumo_avioes.py
 
 ### preparar_site.py
 Processes the latest hourly CSV together with auxiliary data to produce the
-JSON file used by the web panel (`docs/hora_corrente.json`).
+JSON file used by the web panel. The file is stored inside
+`docs/arquivo/` with the name `YYYY-MM-DD_HH.json` corresponding to the
+captured hour.
 
 The script queries [adsb.im](https://adsb.im/api/0/routeset) for route
 information and, if that fails, falls back to the OpenSky API to resolve the
@@ -97,12 +99,14 @@ python3 scripts/preparar_site.py
 The relevant paths can be seen at the top of the script:
 ```python
 base_dir = Path(os.environ.get("BASE_DIR", Path(__file__).resolve().parent.parent))
-output_path = base_dir / "docs" / "hora_corrente.json"
+output_dir = base_dir / "docs" / "arquivo"
 ```
 
 The file is written at the end of the run:
 
 ```python
+hora_label = ultima_hora[0]["hora"][:13].replace("T", "_")
+output_path = output_dir / f"{hora_label}.json"
 with output_path.open("w", encoding="utf-8") as f:
     json.dump(saida, f, ensure_ascii=False, indent=2)
 print(f"Ficheiro gerado: {output_path.name}")
@@ -125,7 +129,8 @@ This script is triggered hourly via cron to publish the updated site.
 1. Run `captura_adsb.py` periodically to gather new data. This repository uses
    a cron job to execute it every minute.
 2. Optionally run `gerar_resumo_avioes.py` to refresh the auxiliary JSON files.
-3. Run `preparar_site.py` to create `docs/hora_corrente.json`.
+3. Run `preparar_site.py` to create a new JSON file in `docs/arquivo/` with the
+   current hour, e.g. `docs/arquivo/2025-07-12_00.json`.
 4. Serve the contents of the `docs/` directory with any static web server or
    push them to GitHub Pages. The `publicar_site.sh` script, executed hourly via
    cron, automates the generation and commit of these files.
