@@ -1,6 +1,6 @@
 const API_URL = "https://share-physics-gulf-changing.trycloudflare.com/dados";
 
-const map = L.map('map').setView([39.5, -8.0], 7); // centro de Portugal
+const map = L.map('mapa').setView([39.5, -8.0], 7); // centro de Portugal
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '© OpenStreetMap',
@@ -9,6 +9,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 let aircraftMarkers = {};
 let rastosPorAeronave = {};
 let linhasRasto = {};
+const listaAvioes = document.getElementById('lista-avioes');
 
 
 // Aplica uma cor à imagem branca com contorno, usando CSS filter
@@ -76,6 +77,7 @@ function fetchAircraft() {
       const seenThreshold = now - 60; // mostrar apenas aviões recentes
 
       const novos = {};
+      listaAvioes.innerHTML = "";
 
       (data.aircraft || []).forEach(ac => {
         if (!ac.lat || !ac.lon || ac.seen > 60) return;
@@ -98,6 +100,7 @@ function fetchAircraft() {
         }
 
         novos[key] = true; // marca como ainda ativo
+        listaAvioes.innerHTML += `<li><strong>${info}</strong> – ${altitude} ft</li>`;
       });
 
       // Remove os que já não estão ativos
