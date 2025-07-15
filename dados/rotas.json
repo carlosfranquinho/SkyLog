@@ -1186,5 +1186,13 @@
   "IBE6118": {
     "origem": "Santiago, CL",
     "destino": "Madrid, ES"
+  },
+  "RAM808": {
+    "origem": "Rabat, MA",
+    "destino": "London, GB"
+  },
+  "IBE0348": {
+    "origem": "Boston, US",
+    "destino": "Madrid, ES"
   }
 }
