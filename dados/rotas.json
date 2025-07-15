@@ -2030,5 +2030,197 @@
   "RYR6BK": {
     "origem": "Cologne, DE",
     "destino": "Fuerteventura Island, ES"
+  },
+  "EWG70L": {
+    "origem": "Lisbon, PT",
+    "destino": "Düsseldorf, DE"
+  },
+  "TAP51AM": {
+    "origem": "London, GB",
+    "destino": "Lisbon, PT"
+  },
+  "MBU1ST": {
+    "origem": "Faro, PT",
+    "destino": "Hamburg, DE"
+  },
+  "EZY91DE": {
+    "origem": "Faro, PT",
+    "destino": "Liverpool, GB"
+  },
+  "EXS22AS": {
+    "origem": "Nottingham, GB",
+    "destino": "Faro, PT"
+  },
+  "RYR38VZ": {
+    "origem": "Faro, PT",
+    "destino": "Dublin, IE"
+  },
+  "NSZ75Z": {
+    "origem": "Stockholm, SE",
+    "destino": "Faro, PT"
+  },
+  "RUK4088": {
+    "origem": "Manchester, GB",
+    "destino": "Faro, PT"
+  },
+  "RAM809P": {
+    "origem": "London, GB",
+    "destino": "Casablanca, MA"
+  },
+  "AEA81LU": {
+    "origem": "Madrid, ES",
+    "destino": "Lisbon, PT"
+  },
+  "TAP1924": {
+    "origem": "Lisbon, PT",
+    "destino": "Porto, PT"
+  },
+  "TVF30ZU": {
+    "origem": "Lisbon, PT",
+    "destino": "Paris, FR"
+  },
+  "WMT3NK": {
+    "origem": "Porto, PT",
+    "destino": "Rome, IT"
+  },
+  "EWG3569": {
+    "origem": "Faro, PT",
+    "destino": "Hannover, DE"
+  },
+  "AEA81GJ": {
+    "origem": "Madrid, ES",
+    "destino": "Porto, PT"
+  },
+  "EZY72FR": {
+    "origem": "Faro, PT",
+    "destino": "Belfast, GB"
+  },
+  "WFL2502": {
+    "origem": "Cancún, MX",
+    "destino": "Madrid, ES"
+  },
+  "TOM37N": {
+    "origem": "Manchester, GB",
+    "destino": "Rabil, CV"
+  },
+  "RYR772L": {
+    "origem": "Lisbon, PT",
+    "destino": "Kraków, PL"
+  },
+  "TFL3TG": {
+    "origem": "Amsterdam, NL",
+    "destino": "Amsterdam, NL"
+  },
+  "EFW79S": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "EXS47QN": {
+    "origem": "Faro, PT",
+    "destino": "Bristol, GB"
+  },
+  "EJU49QD": {
+    "origem": "Faro, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "TAP1923": {
+    "origem": "Porto, PT",
+    "destino": "Lisbon, PT"
+  },
+  "RYR8946": {
+    "origem": "Bournemouth, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "VLG6366": {
+    "origem": "Sevilla, ES",
+    "destino": "Santiago de Compostela, ES"
+  },
+  "AEA97SP": {
+    "origem": "Madrid, ES",
+    "destino": "Vigo, ES"
+  },
+  "KLM1579": {
+    "origem": "Amsterdam, NL",
+    "destino": "Lisbon, PT"
+  },
+  "RYR53PE": {
+    "origem": "Brussels, BE",
+    "destino": "Lisbon, PT"
+  },
+  "RYR52YQ": {
+    "origem": "Lisbon, PT",
+    "destino": "Dublin, IE"
+  },
+  "RYR25ZJ": {
+    "origem": "Lisbon, PT",
+    "destino": "London, GB"
+  },
+  "WUK1SB": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "FPO745": {
+    "origem": "Paris, FR",
+    "destino": "Bodrum, TR"
+  },
+  "EJU95ZL": {
+    "origem": "Ibiza, ES",
+    "destino": "Porto, PT"
+  },
+  "RYR2AA": {
+    "origem": "Faro, PT",
+    "destino": "London, GB"
+  },
+  "NOZ1821": {
+    "origem": "Faro, PT",
+    "destino": "Oslo, NO"
+  },
+  "EXS8WJ": {
+    "origem": "Birmingham, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "AVA181": {
+    "origem": "Barcelona, ES",
+    "destino": "Bogota, CO"
+  },
+  "EZY957A": {
+    "origem": "Faro, PT",
+    "destino": "London, GB"
+  },
+  "EZY91KZ": {
+    "origem": "Lisbon, PT",
+    "destino": "Edinburgh, GB"
+  },
+  "BEL4WV": {
+    "origem": "Brussels, BE",
+    "destino": "Lisbon, PT"
+  },
+  "VLG3292": {
+    "origem": "Bilbao, ES",
+    "destino": "Copenhagen, DK"
+  },
+  "TAP52TP": {
+    "origem": "Lisbon, PT",
+    "destino": "London, GB"
+  },
+  "BEL5KF": {
+    "origem": "Brussels, BE",
+    "destino": "Faro, PT"
+  },
+  "EZY19UC": {
+    "origem": "London, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EZS37HW": {
+    "origem": "Agadir, MA",
+    "destino": "Saint-Louis, FR"
+  },
+  "TAP432": {
+    "origem": "Humberto Delgado Airport (Lisbon Portela Airport)",
+    "destino": "Paris-Orly Airport"
+  },
+  "AFR443": {
+    "origem": "Rio Galeão – Tom Jobim International Airport",
+    "destino": "Charles de Gaulle International Airport"
   }
 }
