@@ -1162,5 +1162,29 @@
   "TOM289": {
     "origem": "Agadir, MA",
     "destino": "Manchester, GB"
+  },
+  "AMX034": {
+    "origem": "General Mariano Escobedo International Airport",
+    "destino": "Adolfo Suárez Madrid–Barajas Airport"
+  },
+  "IBE2602": {
+    "origem": "Buenos Aires, AR",
+    "destino": "Barcelona, ES"
+  },
+  "AEA176": {
+    "origem": "Lima, PE",
+    "destino": "Madrid, ES"
+  },
+  "ELY017": {
+    "origem": "Ben Gurion International Airport",
+    "destino": "Miami International Airport"
+  },
+  "TVF3233": {
+    "origem": "Espargos, CV",
+    "destino": "Paris, FR"
+  },
+  "IBE6118": {
+    "origem": "Santiago, CL",
+    "destino": "Madrid, ES"
   }
 }
