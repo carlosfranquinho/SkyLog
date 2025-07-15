@@ -1,4 +1,4 @@
-const API_URL = "https://share-physics-gulf-changing.trycloudflare.com/dados";
+const API_URL = "https://skylog.franquinho.info/data/aircraft.json";
 
 const ESTACAO_LAT = 39.74759200010467;
 const ESTACAO_LON = -8.936510104648143;
