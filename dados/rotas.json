@@ -1846,5 +1846,189 @@
   "TAP7AB": {
     "origem": "Lisbon, PT",
     "destino": "Frankfurt-am-Main, DE"
+  },
+  "TAP93ZR": {
+    "origem": "Lisbon, PT",
+    "destino": "Zürich, CH"
+  },
+  "VLG52FK": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Barcelona, ES"
+  },
+  "TAP5DL": {
+    "origem": "Lisbon, PT",
+    "destino": "Düsseldorf, DE"
+  },
+  "ANE47WP": {
+    "origem": "Porto, PT",
+    "destino": "Madrid, ES"
+  },
+  "TRA96A": {
+    "origem": "Faro, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "EXS14J": {
+    "origem": "Liverpool, GB",
+    "destino": "Faro, PT"
+  },
+  "TAP552N": {
+    "origem": "Lisbon, PT",
+    "destino": "Munich, DE"
+  },
+  "DAH2702": {
+    "origem": "Algiers, DZ",
+    "destino": "Montréal, CA"
+  },
+  "THY2QL": {
+    "origem": "Istanbul, TR",
+    "destino": "Porto, PT"
+  },
+  "EXS17MB": {
+    "origem": "Birmingham, GB",
+    "destino": "Faro, PT"
+  },
+  "TAP940": {
+    "origem": "Lisbon, PT",
+    "destino": "Geneva, CH"
+  },
+  "TRA38U": {
+    "origem": "Rotterdam, NL",
+    "destino": "Faro, PT"
+  },
+  "EXS4VS": {
+    "origem": "Manchester, GB",
+    "destino": "Faro, PT"
+  },
+  "TRA15U": {
+    "origem": "Eindhoven, NL",
+    "destino": "Faro, PT"
+  },
+  "EZS97KT": {
+    "origem": "Lisbon, PT",
+    "destino": "Saint-Louis, FR"
+  },
+  "LAN708": {
+    "origem": "Santiago, CL",
+    "destino": "Madrid, ES"
+  },
+  "TOM7MD": {
+    "origem": "Exeter, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "WFL3410": {
+    "origem": "Santo Domingo, DO",
+    "destino": "Madrid, ES"
+  },
+  "EZY57QZ": {
+    "origem": "London, GB",
+    "destino": "Lisbon, PT"
+  },
+  "RUK70TJ": {
+    "origem": "Manchester, GB",
+    "destino": "Marrakech, MA"
+  },
+  "IBB900Z": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "TAP668": {
+    "origem": "Lisbon, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "BAW5PT": {
+    "origem": "London, GB",
+    "destino": "Lisbon, PT"
+  },
+  "RYR19UV": {
+    "origem": "Cork, IE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "IBE05DT": {
+    "origem": "Lisbon, PT",
+    "destino": "Madrid, ES"
+  },
+  "THY5AU": {
+    "origem": "Istanbul, TR",
+    "destino": "Lisbon, PT"
+  },
+  "CFG5TX": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Düsseldorf, DE"
+  },
+  "EXS6KA": {
+    "origem": "Edinburgh, GB",
+    "destino": "Faro, PT"
+  },
+  "VLG8RZ": {
+    "origem": "Lisbon, PT",
+    "destino": "Paris, FR"
+  },
+  "EXS6D": {
+    "origem": "Belfast, GB",
+    "destino": "Faro, PT"
+  },
+  "TAP640": {
+    "origem": "Lisbon, PT",
+    "destino": "Brussels, BE"
+  },
+  "BAW240F": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "TAP832": {
+    "origem": "Lisbon, PT",
+    "destino": "Rome, IT"
+  },
+  "EZS86MH": {
+    "origem": "Lisbon, PT",
+    "destino": "Geneva, CH"
+  },
+  "TAP1921": {
+    "origem": "Porto, PT",
+    "destino": "Lisbon, PT"
+  },
+  "EJU35VY": {
+    "origem": "Madrid, ES",
+    "destino": "Lisbon, PT"
+  },
+  "TVF48LB": {
+    "origem": "Faro, PT",
+    "destino": "Paris, FR"
+  },
+  "VLG2DY": {
+    "origem": "Lisbon, PT",
+    "destino": "Barcelona, ES"
+  },
+  "EIN49W": {
+    "origem": "Dublin, IE",
+    "destino": "Faro, PT"
+  },
+  "EIN893": {
+    "origem": "Faro, PT",
+    "destino": "Cork, IE"
+  },
+  "CFG9YW": {
+    "origem": "Faro Airport",
+    "destino": "Frankfurt am Main Airport"
+  },
+  "EFW2GH": {
+    "origem": "London, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EZY29EV": {
+    "origem": "London, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "RYR63SB": {
+    "origem": "Lisbon, PT",
+    "destino": "Poznań, PL"
+  },
+  "TOM258": {
+    "origem": "London, GB",
+    "destino": "Rabil, CV"
+  },
+  "RYR6BK": {
+    "origem": "Cologne, DE",
+    "destino": "Fuerteventura Island, ES"
   }
 }
