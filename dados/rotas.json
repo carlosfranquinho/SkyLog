@@ -1194,5 +1194,21 @@
   "IBE0348": {
     "origem": "Boston, US",
     "destino": "Madrid, ES"
+  },
+  "AVA180": {
+    "origem": "Bogota, CO",
+    "destino": "Barcelona, ES"
+  },
+  "DLH37Y": {
+    "origem": "Lisbon, PT",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "RYR99VG": {
+    "origem": "Valencia, ES",
+    "destino": "Santiago de Compostela, ES"
+  },
+  "IBS15DX": {
+    "origem": "Madrid, ES",
+    "destino": "Tenerife Island, ES"
   }
 }
