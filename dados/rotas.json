@@ -1138,5 +1138,25 @@
   "TOM8DW": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Nottingham, GB"
+  },
+  "AEE3LP": {
+    "origem": "Lisbon, PT",
+    "destino": "Athens, GR"
+  },
+  "LPE2485": {
+    "origem": "Madrid, ES",
+    "destino": "Lima, PE"
+  },
+  "AEA137": {
+    "origem": "Madrid, ES",
+    "destino": "Quito, EC"
+  },
+  "EZY34CA": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "London, GB"
+  },
+  "WZZ8744": {
+    "origem": "Lisbon, PT",
+    "destino": "Warsaw, PL"
   }
 }
