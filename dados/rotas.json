@@ -1082,5 +1082,61 @@
   "IBE6117": {
     "origem": "Madrid, ES",
     "destino": "Santiago, CL"
+  },
+  "TOM2LE": {
+    "origem": "Agadir, MA",
+    "destino": "London, GB"
+  },
+  "AEA057": {
+    "origem": "Adolfo Suárez Madrid–Barajas Airport",
+    "destino": "Guarulhos - Governador André Franco Montoro International Airport"
+  },
+  "BAW249": {
+    "origem": "London, GB",
+    "destino": "Buenos Aires, AR"
+  },
+  "EXS1422": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "London, GB"
+  },
+  "EXS56B": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Birmingham, GB"
+  },
+  "EJU1872": {
+    "origem": "Faro, PT",
+    "destino": "Bordeaux, FR"
+  },
+  "FIA812": {
+    "origem": "Lisbon, PT",
+    "destino": "Chişinău, MD"
+  },
+  "BAW247": {
+    "origem": "London, GB",
+    "destino": "São Paulo, BR"
+  },
+  "IBE9169": {
+    "origem": "Madrid, ES",
+    "destino": "Montevideo, UY"
+  },
+  "AFR454": {
+    "origem": "Paris, FR",
+    "destino": "São Paulo, BR"
+  },
+  "RYR51MQ": {
+    "origem": "Lisbon, PT",
+    "destino": "Madrid, ES"
+  },
+  "TOM67T": {
+    "origem": "Bristol, GB",
+    "destino": "Sharm el-Sheikh, EG"
+  },
+  "EZY85XD": {
+    "origem": "Agadir, MA",
+    "destino": "Manchester, GB"
+  },
+  "TOM8DW": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Nottingham, GB"
   }
 }
