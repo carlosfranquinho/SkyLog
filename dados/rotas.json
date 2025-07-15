@@ -4326,5 +4326,57 @@
   "AFR23CP": {
     "origem": "Paris, FR",
     "destino": "Lisbon, PT"
+  },
+  "TAP127M": {
+    "origem": "Vienna, AT",
+    "destino": "Lisbon, PT"
+  },
+  "RYR87XC": {
+    "origem": "London, GB",
+    "destino": "Lisbon, PT"
+  },
+  "AEE7PT": {
+    "origem": "Athens, GR",
+    "destino": "Lisbon, PT"
+  },
+  "RYR51VN": {
+    "origem": "Luxembourg, LU",
+    "destino": "Lisbon, PT"
+  },
+  "TVS2147": {
+    "origem": "Funchal, PT",
+    "destino": "Brno, CZ"
+  },
+  "TAM8085": {
+    "origem": "London, GB",
+    "destino": "São Paulo, BR"
+  },
+  "EIN4RL": {
+    "origem": "Lisbon, PT",
+    "destino": "Dublin, IE"
+  },
+  "LAN705": {
+    "origem": "Madrid, ES",
+    "destino": "Santiago, CL"
+  },
+  "IBE9169": {
+    "origem": "Madrid, ES",
+    "destino": "Montevideo, UY"
+  },
+  "RYR7033": {
+    "origem": "Faro, PT",
+    "destino": "Dublin, IE"
+  },
+  "IBE3267": {
+    "origem": "Madrid, ES",
+    "destino": "São Paulo, BR"
+  },
+  "RYR9VH": {
+    "origem": "Beauvais/Tillé, FR",
+    "destino": "Agadir, MA"
+  },
+  "AEA121": {
+    "origem": "Madrid, ES",
+    "destino": "Cordoba, AR"
   }
 }
