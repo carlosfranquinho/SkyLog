@@ -97,7 +97,7 @@ async function carregarPainel() {
         <li>
           <strong>${v.chamada || v.hex}</strong>: ${v.cia || ""}, ${bandeira}${v.pais}
           <ul>${v.origem ? `<strong>Origem:</strong> ${v.origem}` : ""}</ul>
-          <ul>${v.destino ? `<strong>Origem:</strong> ${v.destino}` : ""}</ul>
+          <ul>${v.destino ? `<strong>Destino:</strong> ${v.destino}` : ""}</ul>
           <ul>${altM !== null ? `<strong>Altitude:</strong> ${altM} metros` : ""}</ul>
           <ul>${velK !== null ? `<strong>Velocidade:</strong> ${velK} km/h` : ""}</ul>
           <ul>Avistado ${localTxt}às ${hm}${v.dist ? ` a ${v.dist} km de distância` : ""}</ul>
