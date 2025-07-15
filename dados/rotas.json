@@ -4154,5 +4154,113 @@
   "WZZ24HB": {
     "origem": "Tenerife Island, ES",
     "destino": "Gdańsk, PL"
+  },
+  "RYR206E": {
+    "origem": "Lisbon, PT",
+    "destino": "Venezia, IT"
+  },
+  "EZY31BG": {
+    "origem": "Marrakech, MA",
+    "destino": "Birmingham, GB"
+  },
+  "EIN497": {
+    "origem": "Faro, PT",
+    "destino": "Dublin, IE"
+  },
+  "RYR809N": {
+    "origem": "Dublin, IE",
+    "destino": "Lisbon, PT"
+  },
+  "TVF11JJ": {
+    "origem": "Diass, SN",
+    "destino": "Nantes, FR"
+  },
+  "EJU94BV": {
+    "origem": "Nantes, FR",
+    "destino": "Faro, PT"
+  },
+  "ANE69NZ": {
+    "origem": "Lisbon, PT",
+    "destino": "Madrid, ES"
+  },
+  "EJU96XG": {
+    "origem": "Palermo, IT",
+    "destino": "Lisbon, PT"
+  },
+  "WZZ6ZY": {
+    "origem": "Lisbon, PT",
+    "destino": "Belgrad, RS"
+  },
+  "VLG6368": {
+    "origem": "Sevilla, ES",
+    "destino": "Santiago de Compostela, ES"
+  },
+  "EJU48XP": {
+    "origem": "Funchal, PT",
+    "destino": "Bordeaux, FR"
+  },
+  "BEL2ET": {
+    "origem": "Lisbon, PT",
+    "destino": "Brussels, BE"
+  },
+  "EJU83PD": {
+    "origem": "Milan, IT",
+    "destino": "Lisbon, PT"
+  },
+  "TFL6JA": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "TVS4104": {
+    "origem": "Prague, CZ",
+    "destino": "Prague, CZ"
+  },
+  "EIN4PT": {
+    "origem": "Dublin, IE",
+    "destino": "Lisbon, PT"
+  },
+  "EZY34CU": {
+    "origem": "Faro, PT",
+    "destino": "Liverpool, GB"
+  },
+  "TAP758": {
+    "origem": "Lisbon, PT",
+    "destino": "Copenhagen, DK"
+  },
+  "WMT656": {
+    "origem": "Funchal, PT",
+    "destino": "Vienna, AT"
+  },
+  "TRA52J": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "RYR16TB": {
+    "origem": "Lisbon, PT",
+    "destino": "Bologna, IT"
+  },
+  "RYR536Q": {
+    "origem": "Manchester, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "TAP1933": {
+    "origem": "Porto, PT",
+    "destino": "Lisbon, PT"
+  },
+  "UAE194": {
+    "origem": "Lisbon, PT",
+    "destino": "Dubai, AE"
+  },
+  "EZY49HA": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "VLG837V": {
+    "origem": "Lisbon, PT",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "TAP765": {
+    "origem": "Oslo, NO",
+    "destino": "Lisbon, PT"
   }
 }
