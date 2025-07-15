@@ -2426,5 +2426,209 @@
   "EWG2JL": {
     "origem": "Cologne, DE",
     "destino": "Lisbon, PT"
+  },
+  "EJU98FK": {
+    "origem": "Saint-Louis, FR",
+    "destino": "Lisbon, PT"
+  },
+  "EXS3UQ": {
+    "origem": "Faro, PT",
+    "destino": "Nottingham, GB"
+  },
+  "SAS2837": {
+    "origem": "Copenhagen, DK",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TAP1032": {
+    "origem": "Lisbon, PT",
+    "destino": "Barcelona, ES"
+  },
+  "TAP642": {
+    "origem": "Lisbon, PT",
+    "destino": "Brussels, BE"
+  },
+  "EJU49RV": {
+    "origem": "Funchal, PT",
+    "destino": "Lyon, FR"
+  },
+  "EVE814": {
+    "origem": "Cancún, MX",
+    "destino": "Madrid, ES"
+  },
+  "ANE8124": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Ibiza, ES"
+  },
+  "RYR4ZF": {
+    "origem": "Dublin, IE",
+    "destino": "Faro, PT"
+  },
+  "IBE3271": {
+    "origem": "Madrid, ES",
+    "destino": "São Paulo, BR"
+  },
+  "RYR2YY": {
+    "origem": "Shannon, IE",
+    "destino": "Faro, PT"
+  },
+  "RYR56SX": {
+    "origem": "Bristol, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "DLH68H": {
+    "origem": "Porto, PT",
+    "destino": "Munich, DE"
+  },
+  "TVF16KA": {
+    "origem": "Nantes, FR",
+    "destino": "Diass, SN"
+  },
+  "IBS1531": {
+    "origem": "Madrid, ES",
+    "destino": "Sta Cruz de la Palma, La Palma Island, ES"
+  },
+  "RYR3DP": {
+    "origem": "Beauvais/Tillé, FR",
+    "destino": "Marrakech, MA"
+  },
+  "VLG4TF": {
+    "origem": "Santiago de Compostela, ES",
+    "destino": "Sevilla, ES"
+  },
+  "EJU61MW": {
+    "origem": "Luxembourg, LU",
+    "destino": "Lisbon, PT"
+  },
+  "BAW507": {
+    "origem": "Faro, PT",
+    "destino": "London, GB"
+  },
+  "AEA39AT": {
+    "origem": "Lisbon, PT",
+    "destino": "Madrid, ES"
+  },
+  "LAN706": {
+    "origem": "Santiago, CL",
+    "destino": "Madrid, ES"
+  },
+  "BAW528": {
+    "origem": "London, GB",
+    "destino": "Lisbon, PT"
+  },
+  "RYR642M": {
+    "origem": "Brussels, BE",
+    "destino": "Faro, PT"
+  },
+  "VLG9VN": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Barcelona, ES"
+  },
+  "KLM74L": {
+    "origem": "Lisbon, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "EXS98UT": {
+    "origem": "Manchester, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "DAL127": {
+    "origem": "Madrid, ES",
+    "destino": "New York, US"
+  },
+  "RYR5499": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Porto, PT"
+  },
+  "WUK42LD": {
+    "origem": "Faro, PT",
+    "destino": "London, GB"
+  },
+  "RYR89JQ": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "EFW8XD": {
+    "origem": "Marrakech, MA",
+    "destino": "London, GB"
+  },
+  "TRA5958": {
+    "origem": "Lisbon, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "EIN93T": {
+    "origem": "Faro, PT",
+    "destino": "Dublin, IE"
+  },
+  "TVF96YK": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Paris, FR"
+  },
+  "LAN714": {
+    "origem": "Santiago, CL",
+    "destino": "Madrid, ES"
+  },
+  "EJU72CG": {
+    "origem": "Manchester, GB",
+    "destino": "Lisbon, PT"
+  },
+  "BEL3HE": {
+    "origem": "Humberto Delgado Airport (Lisbon Portela Airport)",
+    "destino": "Brussels Airport"
+  },
+  "NSZ6MJ": {
+    "origem": "Faro, PT",
+    "destino": "Stockholm, SE"
+  },
+  "EJU41LZ": {
+    "origem": "Birmingham, GB",
+    "destino": "Lisbon, PT"
+  },
+  "RUK677D": {
+    "origem": "Marrakech, MA",
+    "destino": "Manchester, GB"
+  },
+  "AAL749": {
+    "origem": "Madrid, ES",
+    "destino": "Charlotte, US"
+  },
+  "EJU13BL": {
+    "origem": "London, GB",
+    "destino": "Lisbon, PT"
+  },
+  "ACA835": {
+    "origem": "Munich Airport",
+    "destino": "Lester B. Pearson International Airport"
+  },
+  "TRA6522": {
+    "origem": "Gran Canaria Airport",
+    "destino": "Amsterdam Airport Schiphol"
+  },
+  "TAP43JD": {
+    "origem": "Paris, FR",
+    "destino": "Lisbon, PT"
+  },
+  "RYR28QA": {
+    "origem": "Brussels, BE",
+    "destino": "Tenerife Island, ES"
+  },
+  "AFR15AQ": {
+    "origem": "Lisbon, PT",
+    "destino": "Paris, FR"
+  },
+  "TRA86A": {
+    "origem": "Thessaloniki Macedonia International Airport",
+    "destino": "Amsterdam Airport Schiphol"
+  },
+  "EJU67GE": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "EWG62A": {
+    "origem": "Faro, PT",
+    "destino": "Düsseldorf, DE"
+  },
+  "IBS1571": {
+    "origem": "Madrid, ES",
+    "destino": "Tenerife Island, ES"
   }
 }
