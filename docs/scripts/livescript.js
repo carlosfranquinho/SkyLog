@@ -171,4 +171,4 @@ function fetchAircraft() {
 }
 
 fetchAircraft();
-setInterval(fetchAircraft, 5000);
+setInterval(fetchAircraft, 3000);
