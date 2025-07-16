@@ -120,12 +120,15 @@ function atualizarPainelMaisProximo(ac, dist) {
       .then(j => {
         const p = j.photos && j.photos[0];
         if (p) {
-          fotoCache[ac.hex] = {
-            url: p.thumbnail_large,
-            link: p.link,
-            photographer: p.photographer
-          };
-          atualizarPainelMaisProximo(ac, dist);
+          const thumb = p.thumbnail_large || p.thumbail_large;
+          if (thumb) {
+            fotoCache[ac.hex] = {
+              url: thumb,
+              link: p.link,
+              photographer: p.photographer
+            };
+            atualizarPainelMaisProximo(ac, dist);
+          }
         }
       })
       .catch(() => {});
