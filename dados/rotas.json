@@ -5670,5 +5670,129 @@
   "EWG6VJ": {
     "origem": "Hamburg, DE",
     "destino": "Lisbon, PT"
+  },
+  "MBU6KR": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Hamburg, DE"
+  },
+  "RYR1882": {
+    "origem": "Porto, PT",
+    "destino": "Lisbon, PT"
+  },
+  "TAP1124": {
+    "origem": "Lisbon, PT",
+    "destino": "Alicante, ES"
+  },
+  "IBB82TT": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Ranón, ES"
+  },
+  "CUB470": {
+    "origem": "Havana, CU",
+    "destino": "Madrid, ES"
+  },
+  "RYR792F": {
+    "origem": "Porto, PT",
+    "destino": "Sevilla, ES"
+  },
+  "VLG819Q": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Bilbao, ES"
+  },
+  "TAP71LW": {
+    "origem": "Vienna, AT",
+    "destino": "Lisbon, PT"
+  },
+  "EXS17BV": {
+    "origem": "Bristol, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "NOZ6GA": {
+    "origem": "Oslo, NO",
+    "destino": "Lisbon, PT"
+  },
+  "TOM4XA": {
+    "origem": "Birmingham, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EZY32TX": {
+    "origem": "Faro, PT",
+    "destino": "Bristol, GB"
+  },
+  "TAP781": {
+    "origem": "Stockholm, SE",
+    "destino": "Lisbon, PT"
+  },
+  "CFG9MK": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "TVF3200": {
+    "origem": "Nantes, FR",
+    "destino": "Casablanca, MA"
+  },
+  "EJU83AZ": {
+    "origem": "Lisbon, PT",
+    "destino": "Saint-Louis, FR"
+  },
+  "TOM3WK": {
+    "origem": "Manchester, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "BEL1TF": {
+    "origem": "Faro, PT",
+    "destino": "Brussels, BE"
+  },
+  "TAP18YL": {
+    "origem": "Lisbon, PT",
+    "destino": "Madrid, ES"
+  },
+  "TOM96B": {
+    "origem": "Newcastle, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EZY28RV": {
+    "origem": "Lisbon, PT",
+    "destino": "Bristol, GB"
+  },
+  "MBU2CS": {
+    "origem": "Faro, PT",
+    "destino": "Leipzig, DE"
+  },
+  "RUK6U": {
+    "origem": "London, GB",
+    "destino": "Ouarzazate, MA"
+  },
+  "RYR63HF": {
+    "origem": "Dublin, IE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "RYR53YM": {
+    "origem": "Faro, PT",
+    "destino": "Brussels, BE"
+  },
+  "RYR33UV": {
+    "origem": "Porto, PT",
+    "destino": "Barcelona, ES"
+  },
+  "RYR90AP": {
+    "origem": "Wrocław, PL",
+    "destino": "Lisbon, PT"
+  },
+  "RYR3XK": {
+    "origem": "Newcastle, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "TAP455": {
+    "origem": "Paris, FR",
+    "destino": "Porto, PT"
+  },
+  "TOM556": {
+    "origem": "Manchester, GB",
+    "destino": "Espargos, CV"
+  },
+  "VJH956": {
+    "origem": "Barcelona, ES",
+    "destino": "Manchester, GB"
   }
 }
