@@ -4506,5 +4506,113 @@
   "EJU31NF": {
     "origem": "Lisbon, PT",
     "destino": "Geneva, CH"
+  },
+  "IBE05KY": {
+    "origem": "Madrid, ES",
+    "destino": "Lisbon, PT"
+  },
+  "TAM8068": {
+    "origem": "São Paulo, BR",
+    "destino": "Paris, FR"
+  },
+  "VLG2655": {
+    "origem": "Málaga, ES",
+    "destino": "Santiago de Compostela, ES"
+  },
+  "TVF19WY": {
+    "origem": "Nantes, FR",
+    "destino": "Marrakech, MA"
+  },
+  "RYR7872": {
+    "origem": "Rome, IT",
+    "destino": "Lisbon, PT"
+  },
+  "TAP874H": {
+    "origem": "Lisbon, PT",
+    "destino": "Firenze, IT"
+  },
+  "TUI9FT": {
+    "origem": "Hannover, DE",
+    "destino": "Faro, PT"
+  },
+  "RYR103V": {
+    "origem": "Cologne, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "JAF4DT": {
+    "origem": "Brussels, BE",
+    "destino": "Brussels, BE"
+  },
+  "EJU13PG": {
+    "origem": "Nantes, FR",
+    "destino": "Tenerife Island, ES"
+  },
+  "TRA16J": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "DLH507": {
+    "origem": "São Paulo, BR",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "PUE702": {
+    "origem": "Caracas, VE",
+    "destino": "Madrid, ES"
+  },
+  "RYR9827": {
+    "origem": "Cork, IE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "TUI74A": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Faro, PT"
+  },
+  "LGL771": {
+    "origem": "Luxembourg, LU",
+    "destino": "Funchal, PT"
+  },
+  "EJU64KG": {
+    "origem": "Faro, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "TAP13J": {
+    "origem": "Lisbon, PT",
+    "destino": "Dublin, IE"
+  },
+  "CFG1HE": {
+    "origem": "Hamburg, DE",
+    "destino": "Funchal, PT"
+  },
+  "EIN892": {
+    "origem": "Cork, IE",
+    "destino": "Faro, PT"
+  },
+  "TAP752": {
+    "origem": "Lisbon, PT",
+    "destino": "Copenhagen, DK"
+  },
+  "TAP575": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Lisbon, PT"
+  },
+  "TAP882": {
+    "origem": "Lisbon, PT",
+    "destino": "Napoli, IT"
+  },
+  "EJU15AL": {
+    "origem": "Porto, PT",
+    "destino": "Prague, CZ"
+  },
+  "TRA21H": {
+    "origem": "Brussels, BE",
+    "destino": "Tenerife Island, ES"
+  },
+  "TAP1310": {
+    "origem": "Lisbon, PT",
+    "destino": "Manchester, GB"
+  },
+  "RYR1403": {
+    "origem": "Lisbon, PT",
+    "destino": "Marseille, FR"
   }
 }
