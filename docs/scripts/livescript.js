@@ -58,8 +58,22 @@ function getColorByAltitude(alt) {
 }
 
 // Cria ícone com rotação e cor
-function createPlaneIcon(track = 0, altitude = 0) {
+function getImageByCategory(cat) {
+  if (!cat) return 'images/a0.png';
+  const c = cat.toUpperCase();
+  if (c === 'A3') return 'images/a3.png';
+  if (c === 'A2') return 'images/a2.png';
+  if (c === 'A1') return 'images/a1.png';
+  if (c === 'A0') return 'images/a0.png';
+  if (c.startsWith('B')) return 'images/bx.png';
+  if (c.startsWith('C')) return 'images/cx.png';
+  if (c === 'E0') return 'images/e0.png';
+  return 'images/a0.png';
+}
+
+function createPlaneIcon(track = 0, altitude = 0, category = '') {
   const color = getColorByAltitude(altitude);
+  const img = getImageByCategory(category);
   const size = 30;
 
   return L.divIcon({
@@ -71,7 +85,7 @@ function createPlaneIcon(track = 0, altitude = 0) {
           position: absolute;
           top: 0; left: 0;
           width: ${size}px; height: ${size}px;
-          -webkit-mask-image: url('images/plane.png');
+          -webkit-mask-image: url('${img}');
           -webkit-mask-repeat: no-repeat;
           -webkit-mask-size: contain;
           background-color: black;
@@ -84,7 +98,7 @@ function createPlaneIcon(track = 0, altitude = 0) {
           position: absolute;
           top: 0; left: 0;
           width: ${size}px; height: ${size}px;
-          -webkit-mask-image: url('images/plane.png');
+          -webkit-mask-image: url('${img}');
           -webkit-mask-repeat: no-repeat;
           -webkit-mask-size: contain;
           background-color: ${color};
@@ -169,14 +183,15 @@ function fetchAircraft() {
         const info = ac.flight ? ac.flight.trim() : ac.hex.toUpperCase();
         const heading = ac.track || 0;
         const altitude = ac.alt_baro || 0;
+        const category = ac.category || '';
         const velocidade = ac.gs ? Math.round(ac.gs * 1.852) : null;
 
         if (aircraftMarkers[key]) {
           aircraftMarkers[key].setLatLng(pos);
-          aircraftMarkers[key].setIcon(createPlaneIcon(heading, altitude));
+          aircraftMarkers[key].setIcon(createPlaneIcon(heading, altitude, category));
         } else {
           const marker = L.marker(pos, {
-            icon: createPlaneIcon(heading, altitude)
+            icon: createPlaneIcon(heading, altitude, category)
           }).addTo(map)
             .bindPopup(`<strong>${info}</strong><br>Alt: ${altitude} ft`);
           aircraftMarkers[key] = marker;
