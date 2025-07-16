@@ -10,18 +10,7 @@
 </head>
 <body>
 
-  <header>
-    <h1>SkyLog - Um olhar pousado no céu</h1>
-    <nav id="menu-tempo">
-      <a href="index.html">Ao vivo</a>
-      <a href="hora.html">Hora</a>
-      <button>Dia</button>
-      <button>Semana</button>
-      <button>Mês</button>
-      <button>Ano</button>
-      <button>Global</button>
-    </nav>
-  </header>
+  <div data-include-html="header.html"></div>
 
   <main class="painel">
 
@@ -46,6 +35,7 @@
     </section>
   </main>
 
+  <script src="scripts/incluir.js"></script>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="scripts/livescript.js"></script>
 </body>
