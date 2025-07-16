@@ -4846,5 +4846,113 @@
   "RYR19XH": {
     "origem": "Faro, PT",
     "destino": "Bergamo, IT"
+  },
+  "RYR859V": {
+    "origem": "Manchester, GB",
+    "destino": "Faro, PT"
+  },
+  "TAP48N": {
+    "origem": "Lisbon, PT",
+    "destino": "Nice, FR"
+  },
+  "EZY53BD": {
+    "origem": "Bristol, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "RYR275P": {
+    "origem": "Lisbon, PT",
+    "destino": "Rome, IT"
+  },
+  "RYR36AL": {
+    "origem": "Agadir, MA",
+    "destino": "Nantes, FR"
+  },
+  "CFE33U": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "AVA182": {
+    "origem": "Bogota, CO",
+    "destino": "Madrid, ES"
+  },
+  "TAP470": {
+    "origem": "Lisbon, PT",
+    "destino": "Lyon, FR"
+  },
+  "TOM5346": {
+    "origem": "London, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EZY69AM": {
+    "origem": "Liverpool, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "TUI4PC": {
+    "origem": "Faro, PT",
+    "destino": "Hannover, DE"
+  },
+  "TOM608": {
+    "origem": "London, GB",
+    "destino": "Rabil, CV"
+  },
+  "TAP400": {
+    "origem": "Lisbon, PT",
+    "destino": "Marseille, FR"
+  },
+  "TUI63V": {
+    "origem": "Faro, PT",
+    "destino": "Düsseldorf, DE"
+  },
+  "RUK73VM": {
+    "origem": "London, GB",
+    "destino": "Agadir, MA"
+  },
+  "RYR63MG": {
+    "origem": "Toulouse, FR",
+    "destino": "Lisbon, PT"
+  },
+  "TFL82Y": {
+    "origem": "Eindhoven, NL",
+    "destino": "Tenerife Island, ES"
+  },
+  "TAP1270": {
+    "origem": "Lisbon, PT",
+    "destino": "Vienna, AT"
+  },
+  "EVE802": {
+    "origem": "Punta Cana, DO",
+    "destino": "Madrid, ES"
+  },
+  "AAL69": {
+    "origem": "Madrid, ES",
+    "destino": "Miami, US"
+  },
+  "EZY38NU": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "TAP62JR": {
+    "origem": "Lisbon, PT",
+    "destino": "Bilbao, ES"
+  },
+  "TAP49L": {
+    "origem": "Lisbon, PT",
+    "destino": "Toulouse, FR"
+  },
+  "RYR13HR": {
+    "origem": "Faro, PT",
+    "destino": "Newcastle, GB"
+  },
+  "HYS8303": {
+    "origem": "Bucharest, RO",
+    "destino": "Funchal, PT"
+  },
+  "EJU61YH": {
+    "origem": "Bordeaux, FR",
+    "destino": "Lisbon, PT"
+  },
+  "EZY18ER": {
+    "origem": "London, GB",
+    "destino": "Sevilla, ES"
   }
 }
