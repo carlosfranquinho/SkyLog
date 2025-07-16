@@ -4398,5 +4398,13 @@
   "AEE727": {
     "origem": "Lisbon, PT",
     "destino": "Athens, GR"
+  },
+  "AEA039": {
+    "origem": "Adolfo Suárez Madrid–Barajas Airport",
+    "destino": "Mariscal Sucre International Airport"
+  },
+  "AEA024": {
+    "origem": "Ingeniero Ambrosio Taravella Airport",
+    "destino": "Adolfo Suárez Madrid–Barajas Airport"
   }
 }
