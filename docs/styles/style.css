@@ -41,6 +41,18 @@ header h1 {
   background: #0277bd;
 }
 
+/* Botão do menu hamburguer */
+#menu-toggle {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 2rem;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  cursor: pointer;
+}
+
 /* Navegação entre horas */
 #navegacao-horas {
   display: flex;
@@ -246,4 +258,21 @@ canvas {
   display: block;
   margin-top: 1rem;
   border-radius: 6px;
+}
+
+@media (max-width: 700px) {
+  #menu-tempo {
+    display: none;
+    flex-direction: column;
+    gap: 0.6rem;
+  }
+  #menu-tempo.open {
+    display: flex;
+  }
+  #menu-toggle {
+    display: block;
+  }
+  header {
+    position: relative;
+  }
 }
