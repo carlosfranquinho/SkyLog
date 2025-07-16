@@ -214,6 +214,8 @@ def main() -> None:
     registos = []
     companhias = defaultdict(int)
     paises = defaultdict(int)
+    origens = defaultdict(int)
+    destinos = defaultdict(int)
     rotas_raw = {}
     melhores_linhas = {}
     rota_cache = {}
@@ -316,6 +318,10 @@ def main() -> None:
                 }
                 rotas_alteradas = True
 
+        if origem:
+            origens[origem] += 1
+        if destino:
+            destinos[destino] += 1
         if companhia:
             companhias[companhia] += 1
         if pais:
@@ -342,6 +348,8 @@ def main() -> None:
 
     top_paises = sorted(paises.items(), key=lambda x: x[1], reverse=True)[:10]
     top_companhias = sorted(companhias.items(), key=lambda x: x[1], reverse=True)[:10]
+    top_origens = sorted(origens.items(), key=lambda x: x[1], reverse=True)[:20]
+    top_destinos = sorted(destinos.items(), key=lambda x: x[1], reverse=True)[:20]
 
     top_paises_legiveis = [
         {"pais": chave[0], "bandeira": chave[1], "total": total}
@@ -350,6 +358,10 @@ def main() -> None:
     top_companhias_legiveis = [
         {"cia": companhias_info.get(c, {}).get("nome", c), "total": t}
         for c, t in top_companhias
+    ]
+    top_origens_legiveis = [{"origem": o, "total": t} for o, t in top_origens]
+    top_destinos_legiveis = [
+        {"destino": d, "total": t} for d, t in top_destinos
     ]
 
     rotas = []
@@ -373,6 +385,8 @@ def main() -> None:
         "voos_dia": voos_dia,
         "top_paises": top_paises_legiveis,
         "top_companhias": top_companhias_legiveis,
+        "top_origens": top_origens_legiveis,
+        "top_destinos": top_destinos_legiveis,
         "rotas": rotas,
     }
 
