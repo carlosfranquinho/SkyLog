@@ -4417,8 +4417,8 @@
       "pais": "Irlanda",
       "bandeira": "🇮🇪",
       "local": "NAZARÉ",
-      "origem": null,
-      "destino": null,
+      "origem": "Lanzarote Island, ES",
+      "destino": "Cork, IE",
       "alt": "38000",
       "vel": "451.3",
       "dist": 23.0,
@@ -6111,8 +6111,8 @@
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
       "local": "MÊDA",
-      "origem": null,
-      "destino": null,
+      "origem": "Leeds, GB",
+      "destino": "Faro, PT",
       "alt": "39000",
       "vel": "442.1",
       "dist": 193.4,
@@ -6629,8 +6629,8 @@
       "pais": "França",
       "bandeira": "🇫🇷",
       "local": "AGUIAR DA BEIRA",
-      "origem": null,
-      "destino": null,
+      "origem": "Paris, FR",
+      "destino": "Lisbon, PT",
       "alt": "35000",
       "vel": "434.2",
       "dist": 171.6,
@@ -10803,6 +10803,170 @@
     {
       "cia": "TUI Airways",
       "total": 16
+    }
+  ],
+  "top_origens": [
+    {
+      "origem": "Lisboa, Portugal",
+      "total": 74
+    },
+    {
+      "origem": "Londres, Reino Unido",
+      "total": 52
+    },
+    {
+      "origem": "Madrid, Espanha",
+      "total": 34
+    },
+    {
+      "origem": "Paris, França",
+      "total": 25
+    },
+    {
+      "origem": "Amesterdão, Países Baixos",
+      "total": 20
+    },
+    {
+      "origem": "Faro, Portugal",
+      "total": 19
+    },
+    {
+      "origem": "Manchester, Reino Unido",
+      "total": 14
+    },
+    {
+      "origem": "Tenerife, Espanha",
+      "total": 13
+    },
+    {
+      "origem": "Bruxelas, Bélgica",
+      "total": 12
+    },
+    {
+      "origem": "Porto, Portugal",
+      "total": 11
+    },
+    {
+      "origem": "Dublin, Irlanda",
+      "total": 11
+    },
+    {
+      "origem": "Bristol, Reino Unido",
+      "total": 10
+    },
+    {
+      "origem": "Barcelona, Espanha",
+      "total": 8
+    },
+    {
+      "origem": "Agadir, Marrocos",
+      "total": 7
+    },
+    {
+      "origem": "Grã-Canária, Espanha",
+      "total": 7
+    },
+    {
+      "origem": "Lisbon, PT",
+      "total": 7
+    },
+    {
+      "origem": "Frankfurt-am-Main, Alemanha",
+      "total": 7
+    },
+    {
+      "origem": "Geneva, Suiça",
+      "total": 6
+    },
+    {
+      "origem": "Zürich, Suiça",
+      "total": 6
+    },
+    {
+      "origem": "Nottingham, Reino Unido",
+      "total": 6
+    }
+  ],
+  "top_destinos": [
+    {
+      "destino": "Lisboa, Portugal",
+      "total": 99
+    },
+    {
+      "destino": "Faro, Portugal",
+      "total": 52
+    },
+    {
+      "destino": "Tenerife, Espanha",
+      "total": 39
+    },
+    {
+      "destino": "Lanzarote, Espanha",
+      "total": 30
+    },
+    {
+      "destino": "Madrid, Espanha",
+      "total": 22
+    },
+    {
+      "destino": "Londres, Reino Unido",
+      "total": 17
+    },
+    {
+      "destino": "Porto, Portugal",
+      "total": 14
+    },
+    {
+      "destino": "Forteventura, Espanha",
+      "total": 14
+    },
+    {
+      "destino": "Funchal, Portugal",
+      "total": 14
+    },
+    {
+      "destino": "Paris, França",
+      "total": 13
+    },
+    {
+      "destino": "Barcelona, Espanha",
+      "total": 11
+    },
+    {
+      "destino": "Lisbon, PT",
+      "total": 11
+    },
+    {
+      "destino": "Grã-Canária, Espanha",
+      "total": 11
+    },
+    {
+      "destino": "Amesterdão, Países Baixos",
+      "total": 9
+    },
+    {
+      "destino": "Marrakech, Marrocos",
+      "total": 9
+    },
+    {
+      "destino": "Frankfurt-am-Main, Alemanha",
+      "total": 7
+    },
+    {
+      "destino": "Düsseldorf, Alemanha",
+      "total": 6
+    },
+    {
+      "destino": "Manchester, Reino Unido",
+      "total": 5
+    },
+    {
+      "destino": "Madrid, ES",
+      "total": 5
+    },
+    {
+      "destino": "Roma, Itália",
+      "total": 5
     }
   ],
   "rotas": [
@@ -20113,170 +20277,6 @@
         -7.706784
       ],
       "alt": "31000"
-    }
-  ],
-  "top_origens": [
-    {
-      "origem": "Lisboa, Portugal",
-      "total": 74
-    },
-    {
-      "origem": "Londres, Reino Unido",
-      "total": 52
-    },
-    {
-      "origem": "Madrid, Espanha",
-      "total": 34
-    },
-    {
-      "origem": "Paris, França",
-      "total": 25
-    },
-    {
-      "origem": "Amesterdão, Países Baixos",
-      "total": 20
-    },
-    {
-      "origem": "Faro, Portugal",
-      "total": 19
-    },
-    {
-      "origem": "Manchester, Reino Unido",
-      "total": 14
-    },
-    {
-      "origem": "Tenerife, Espanha",
-      "total": 13
-    },
-    {
-      "origem": "Bruxelas, Bélgica",
-      "total": 12
-    },
-    {
-      "origem": "Dublin, Irlanda",
-      "total": 11
-    },
-    {
-      "origem": "Porto, Portugal",
-      "total": 11
-    },
-    {
-      "origem": "Bristol, Reino Unido",
-      "total": 10
-    },
-    {
-      "origem": "Barcelona, Espanha",
-      "total": 8
-    },
-    {
-      "origem": "Agadir, Marrocos",
-      "total": 7
-    },
-    {
-      "origem": "Frankfurt-am-Main, Alemanha",
-      "total": 7
-    },
-    {
-      "origem": "Grã-Canária, Espanha",
-      "total": 7
-    },
-    {
-      "origem": "Lisbon, PT",
-      "total": 7
-    },
-    {
-      "origem": "Geneva, Suiça",
-      "total": 6
-    },
-    {
-      "origem": "Nottingham, Reino Unido",
-      "total": 6
-    },
-    {
-      "origem": "Zürich, Suiça",
-      "total": 6
-    }
-  ],
-  "top_destinos": [
-    {
-      "destino": "Lisboa, Portugal",
-      "total": 99
-    },
-    {
-      "destino": "Faro, Portugal",
-      "total": 52
-    },
-    {
-      "destino": "Tenerife, Espanha",
-      "total": 39
-    },
-    {
-      "destino": "Lanzarote, Espanha",
-      "total": 30
-    },
-    {
-      "destino": "Madrid, Espanha",
-      "total": 22
-    },
-    {
-      "destino": "Londres, Reino Unido",
-      "total": 17
-    },
-    {
-      "destino": "Forteventura, Espanha",
-      "total": 14
-    },
-    {
-      "destino": "Funchal, Portugal",
-      "total": 14
-    },
-    {
-      "destino": "Porto, Portugal",
-      "total": 14
-    },
-    {
-      "destino": "Paris, França",
-      "total": 13
-    },
-    {
-      "destino": "Barcelona, Espanha",
-      "total": 11
-    },
-    {
-      "destino": "Grã-Canária, Espanha",
-      "total": 11
-    },
-    {
-      "destino": "Lisbon, PT",
-      "total": 10
-    },
-    {
-      "destino": "Amesterdão, Países Baixos",
-      "total": 9
-    },
-    {
-      "destino": "Marrakech, Marrocos",
-      "total": 9
-    },
-    {
-      "destino": "Frankfurt-am-Main, Alemanha",
-      "total": 7
-    },
-    {
-      "destino": "Düsseldorf, Alemanha",
-      "total": 6
-    },
-    {
-      "destino": "Bruxelas, Bélgica",
-      "total": 5
-    },
-    {
-      "destino": "Madrid, ES",
-      "total": 5
-    },
-    {
-      "destino": "Manchester, Reino Unido",
-      "total": 5
     }
   ]
 }
