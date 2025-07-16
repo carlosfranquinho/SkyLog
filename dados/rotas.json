@@ -4998,5 +4998,113 @@
   "AZU8001": {
     "origem": "Madrid, ES",
     "destino": "Recife, BR"
+  },
+  "RYR88NE": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Barcelona, ES"
+  },
+  "RUK91KV": {
+    "origem": "Manchester, GB",
+    "destino": "Faro, PT"
+  },
+  "TRA28L": {
+    "origem": "Lisbon, PT",
+    "destino": "Rotterdam, NL"
+  },
+  "EVE884": {
+    "origem": "Punta Cana, DO",
+    "destino": "Barcelona, ES"
+  },
+  "EZY57LX": {
+    "origem": "Faro, PT",
+    "destino": "London, GB"
+  },
+  "PUE301": {
+    "origem": "Madrid, ES",
+    "destino": "Lima, PE"
+  },
+  "TAP11WQ": {
+    "origem": "Madrid, ES",
+    "destino": "Lisbon, PT"
+  },
+  "AFR460": {
+    "origem": "Paris, FR",
+    "destino": "São Paulo, BR"
+  },
+  "RYR67RF": {
+    "origem": "Cork, IE",
+    "destino": "Faro, PT"
+  },
+  "RYR62EA": {
+    "origem": "London, GB",
+    "destino": "Lisbon, PT"
+  },
+  "IBE05VP": {
+    "origem": "Madrid, ES",
+    "destino": "Lisbon, PT"
+  },
+  "JAF7YA": {
+    "origem": "Agadir, MA",
+    "destino": "Brussels, BE"
+  },
+  "VKG1566": {
+    "origem": "Oslo, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "IBS1523": {
+    "origem": "Madrid, ES",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "JAF7NY": {
+    "origem": "Marrakech, MA",
+    "destino": "Brussels, BE"
+  },
+  "LOT425": {
+    "origem": "Warsaw, PL",
+    "destino": "Lisbon, PT"
+  },
+  "TOM724": {
+    "origem": "Glasgow, GB",
+    "destino": "Montego Bay, JM"
+  },
+  "AEA35WQ": {
+    "origem": "Madrid, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR902K": {
+    "origem": "Sevilla, ES",
+    "destino": "Porto, PT"
+  },
+  "EXS6FV": {
+    "origem": "Málaga, ES",
+    "destino": "Edinburgh, GB"
+  },
+  "EXS28YD": {
+    "origem": "Faro, PT",
+    "destino": "Manchester, GB"
+  },
+  "THY800": {
+    "origem": "Istanbul, TR",
+    "destino": "Istanbul, TR"
+  },
+  "EZY64PB": {
+    "origem": "Marrakech, MA",
+    "destino": "Manchester, GB"
+  },
+  "VOE50PQ": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Bilbao, ES"
+  },
+  "RYR6BU": {
+    "origem": "Sevilla, ES",
+    "destino": "Santiago de Compostela, ES"
+  },
+  "VLG3203": {
+    "origem": "Ranón, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "EZY94VW": {
+    "origem": "Manchester, GB",
+    "destino": "Lisbon, PT"
   }
 }
