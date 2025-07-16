@@ -82,25 +82,27 @@ async function carregarPainelDia() {
     }
 
     const ulHora = document.getElementById("ultima-hora-lista");
-    dados.voos_dia.forEach(v => {
-      const hm = v.hora.slice(11, 16).replace(":", "h") + "m";
+    if (ulHora) {
+      dados.voos_dia.forEach(v => {
+        const hm = v.hora.slice(11, 16).replace(":", "h") + "m";
 
-      const altM = v.alt ? Math.round(parseFloat(v.alt) * 0.3048) : null;
-      const velK = v.vel ? Math.round(parseFloat(v.vel) * 1.852) : null;
+        const altM = v.alt ? Math.round(parseFloat(v.alt) * 0.3048) : null;
+        const velK = v.vel ? Math.round(parseFloat(v.vel) * 1.852) : null;
 
-      const localTxt = v.local ? `sobre ${capitalizar(v.local)} ` : "";
-      const bandeira = v.bandeira ? v.bandeira + " " : "";
+        const localTxt = v.local ? `sobre ${capitalizar(v.local)} ` : "";
+        const bandeira = v.bandeira ? v.bandeira + " " : "";
 
-      ulHora.innerHTML += `
-        <li>
-          <strong>${v.chamada || v.hex}</strong>: ${v.cia || ""}, ${bandeira}${v.pais}
-          <ul>${v.origem ? `<strong>Origem:</strong> ${v.origem}` : ""}</ul>
-          <ul>${v.destino ? `<strong>Destino:</strong> ${v.destino}` : ""}</ul>
-          <ul>${altM !== null ? `<strong>Altitude:</strong> ${altM} metros` : ""}</ul>
-          <ul>${velK !== null ? `<strong>Velocidade:</strong> ${velK} km/h` : ""}</ul>
-          <ul>Avistado ${localTxt}às ${hm}${v.dist ? ` a ${v.dist} km de distância` : ""}</ul>
-        </li>`;
-    });
+        ulHora.innerHTML += `
+          <li>
+            <strong>${v.chamada || v.hex}</strong>: ${v.cia || ""}, ${bandeira}${v.pais}
+            <ul>${v.origem ? `<strong>Origem:</strong> ${v.origem}` : ""}</ul>
+            <ul>${v.destino ? `<strong>Destino:</strong> ${v.destino}` : ""}</ul>
+            <ul>${altM !== null ? `<strong>Altitude:</strong> ${altM} metros` : ""}</ul>
+            <ul>${velK !== null ? `<strong>Velocidade:</strong> ${velK} km/h` : ""}</ul>
+            <ul>Avistado ${localTxt}às ${hm}${v.dist ? ` a ${v.dist} km de distância` : ""}</ul>
+          </li>`;
+      });
+    }
 
     const ulPaises = document.getElementById("top-paises-lista");
     dados.top_paises.forEach(p => {
