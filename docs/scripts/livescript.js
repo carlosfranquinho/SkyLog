@@ -21,6 +21,9 @@ let aircraftMarkers = {};
 let rastosPorAeronave = {};
 let linhasRasto = {};
 const listaAvioes = document.getElementById('lista-avioes');
+const painelProximo = document.getElementById('mais-proximo');
+const fotoCache = {};
+let ultimoProximoHex = null;
 
 function haversine(lat1, lon1, lat2, lon2) {
   const R = 6371;
@@ -94,6 +97,52 @@ function createPlaneIcon(track = 0, altitude = 0) {
   });
 }
 
+function atualizarPainelMaisProximo(ac, dist) {
+  if (!painelProximo) return;
+  const info = ac.flight ? ac.flight.trim() : ac.hex.toUpperCase();
+  const altM = ac.alt_baro ? Math.round(ac.alt_baro * 0.3048) : null;
+  const vel = ac.gs ? Math.round(ac.gs * 1.852) : null;
+  const heading = ac.track || 0;
+  const hora = new Date().toLocaleTimeString('pt-PT', {
+    hour: '2-digit', minute: '2-digit', second: '2-digit'
+  });
+
+  const foto = fotoCache[ac.hex];
+  let fotoHtml = '';
+  if (foto) {
+    fotoHtml = `<a href="${foto.link}" target="_blank" rel="noopener">
+      <img src="${foto.url}" alt="Foto aeronave"><br>
+      <small>Foto: ${foto.photographer}</small>
+    </a>`;
+  } else if (ultimoProximoHex !== ac.hex) {
+    fetch(`https://api.planespotters.net/pub/photos/hex/${ac.hex}`)
+      .then(r => r.json())
+      .then(j => {
+        const p = j.photos && j.photos[0];
+        if (p) {
+          fotoCache[ac.hex] = {
+            url: p.thumbnail_large,
+            link: p.link,
+            photographer: p.photographer
+          };
+          atualizarPainelMaisProximo(ac, dist);
+        }
+      })
+      .catch(() => {});
+  }
+
+  painelProximo.innerHTML = `
+    <p><strong>${info}</strong> (${ac.hex.toUpperCase()})</p>
+    <ul>${altM !== null ? `<strong>Altitude:</strong> ${altM} m` : ''}</ul>
+    <ul>${vel !== null ? `<strong>Velocidade:</strong> ${vel} km/h` : ''}</ul>
+    <ul><strong>Rumo:</strong> ${heading.toFixed(0)}º</ul>
+    <ul><strong>Distância:</strong> ${dist.toFixed(1)} km</ul>
+    <ul>Atualizado às ${hora}</ul>
+    ${fotoHtml}
+  `;
+  ultimoProximoHex = ac.hex;
+}
+
 
 // Vai buscar os dados e atualiza o mapa
 function fetchAircraft() {
@@ -105,6 +154,8 @@ function fetchAircraft() {
 
       const novos = {};
       listaAvioes.innerHTML = "";
+      let prox = null;
+      let distProx = Infinity;
 
       (data.aircraft || []).forEach(ac => {
         if (!ac.lat || !ac.lon || ac.seen > 60) return;
@@ -143,7 +194,8 @@ function fetchAircraft() {
 
         novos[key] = true; // marca como ainda ativo
         const altM = altitude ? Math.round(altitude * 0.3048) : null;
-        const dist = haversine(ESTACAO_LAT, ESTACAO_LON, ac.lat, ac.lon).toFixed(1);
+        const distNum = haversine(ESTACAO_LAT, ESTACAO_LON, ac.lat, ac.lon);
+        const dist = distNum.toFixed(1);
         const hora = new Date().toLocaleTimeString('pt-PT', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
         listaAvioes.innerHTML += `<li><strong>${info}</strong>
           <ul>${altM !== null ? `<strong>Altitude:</strong> ${altM} m` : ''}</ul>
@@ -152,6 +204,10 @@ function fetchAircraft() {
           <ul><strong>Distância:</strong> ${dist} km</ul>
           <ul>Atualizado às ${hora}</ul>
         </li>`;
+        if (distNum < distProx) {
+          prox = ac;
+          distProx = distNum;
+        }
       });
 
       // Remove os que já não estão ativos
@@ -165,6 +221,10 @@ function fetchAircraft() {
           delete aircraftMarkers[key];
           delete rastosPorAeronave[key];
         }
+      }
+
+      if (prox) {
+        atualizarPainelMaisProximo(prox, distProx);
       }
     })
     .catch(err => console.error("Erro ao buscar dados:", err));
