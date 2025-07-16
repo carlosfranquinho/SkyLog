@@ -120,7 +120,8 @@ function atualizarPainelMaisProximo(ac, dist) {
       .then(j => {
         const p = j.photos && j.photos[0];
         if (p) {
-          const thumb = p.thumbnail_large || p.thumbail_large;
+          const thumb = (p.thumbnail_large && p.thumbnail_large.src) ||
+                        (p.thumbnail && p.thumbnail.src);
           if (thumb) {
             fotoCache[ac.hex] = {
               url: thumb,
@@ -135,13 +136,13 @@ function atualizarPainelMaisProximo(ac, dist) {
   }
 
   painelProximo.innerHTML = `
+    ${fotoHtml}
     <p><strong>${info}</strong> (${ac.hex.toUpperCase()})</p>
     <ul>${altM !== null ? `<strong>Altitude:</strong> ${altM} m` : ''}</ul>
     <ul>${vel !== null ? `<strong>Velocidade:</strong> ${vel} km/h` : ''}</ul>
     <ul><strong>Rumo:</strong> ${heading.toFixed(0)}º</ul>
     <ul><strong>Distância:</strong> ${dist.toFixed(1)} km</ul>
     <ul>Atualizado às ${hora}</ul>
-    ${fotoHtml}
   `;
   ultimoProximoHex = ac.hex;
 }
