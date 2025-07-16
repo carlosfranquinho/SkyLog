@@ -4426,5 +4426,25 @@
   "AFR719": {
     "origem": "Diass, SN",
     "destino": "Paris, FR"
+  },
+  "ACA834": {
+    "origem": "Montréal, CA",
+    "destino": "Madrid, ES"
+  },
+  "ETD7TR": {
+    "origem": "Abu Dhabi, AE",
+    "destino": "Lisbon, PT"
+  },
+  "AFR12SH": {
+    "origem": "Lisbon, PT",
+    "destino": "Paris, FR"
+  },
+  "IBE03CC": {
+    "origem": "Lajes, PT",
+    "destino": "Lisbon, PT"
+  },
+  "IBS1601": {
+    "origem": "Madrid, ES",
+    "destino": "Gran Canaria Island, ES"
   }
 }
