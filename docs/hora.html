@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SkyLog - Um olhar pousado no céu</title>
+  <link rel="stylesheet" href="styles/style.css" />
+  <link
+    rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""/>
+</head>
+<body>
+
+  <header>
+    <h1>SkyLog - Um olhar pousado no céu</h1>
+    <nav id="menu-tempo">
+      <a href="index.html">Ao vivo</a>
+      <a href="hora.html">Hora</a>
+      <button>Dia</button>
+      <button>Semana</button>
+      <button>Mês</button>
+      <button>Ano</button>
+      <button>Global</button>
+    </nav>
+  </header>
+
+  <main class="painel">
+
+    <!-- Rankings à esquerda -->
+    <div id="coluna-lateral">
+      <nav id="navegacao-horas">
+        <button id="hora-anterior">Hora anterior</button>
+        <button id="hora-seguinte">Hora seguinte</button>
+      </nav>
+      <div id="painel-ultima-hora">
+        <h2>Nesta hora</h2>
+        <p id="resumo-ultima-hora"></p>
+      </div>
+
+      <div id="top-paises">
+        <h2>Top Países</h2>
+        <ul id="top-paises-lista"></ul>
+      </div>
+
+      <div id="top-companhias">
+        <h2>Top Companhias</h2>
+        <ul id="top-companhias-lista"></ul>
+      </div>
+    </div>
+
+    <!-- Mapa no centro -->
+    <section id="rotas">
+      <h2>Mapa de rotas</h2>
+      <div id="mapa">[Mapa de rotas]</div>
+    </section>
+
+    <!-- Avistamentos à direita -->
+    <section id="ultima-hora">
+      <h2>Avistamentos</h2>
+      <ul id="ultima-hora-lista"></ul>
+    </section>
+
+  </main>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""></script>
+  <script src="scripts/painel.js"></script>
+</body>
+</html>
