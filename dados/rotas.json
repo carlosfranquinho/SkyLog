@@ -4406,5 +4406,21 @@
   "AEA024": {
     "origem": "Ingeniero Ambrosio Taravella Airport",
     "destino": "Adolfo Suárez Madrid–Barajas Airport"
+  },
+  "IBE6118": {
+    "origem": "Santiago, CL",
+    "destino": "Madrid, ES"
+  },
+  "IBE2606": {
+    "origem": "Santiago, CL",
+    "destino": "Barcelona, ES"
+  },
+  "AAL68": {
+    "origem": "Miami, US",
+    "destino": "Madrid, ES"
+  },
+  "SWT180": {
+    "origem": "Madrid, ES",
+    "destino": "Gran Canaria Island, ES"
   }
 }
