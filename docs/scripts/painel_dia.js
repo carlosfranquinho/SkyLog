@@ -145,6 +145,20 @@ async function carregarPainelDia() {
       ulCias.innerHTML += `<li><strong>${c.cia}</strong>: ${c.total} voos</li>`;
     });
 
+    const olDest = document.getElementById("top-destinos-lista");
+    if (olDest && dados.top_destinos) {
+      dados.top_destinos.forEach(d => {
+        olDest.innerHTML += `<li><strong>${d.destino}</strong>: ${d.total} voos</li>`;
+      });
+    }
+
+    const olOrig = document.getElementById("top-origens-lista");
+    if (olOrig && dados.top_origens) {
+      dados.top_origens.forEach(o => {
+        olOrig.innerHTML += `<li><strong>${o.origem}</strong>: ${o.total} voos</li>`;
+      });
+    }
+
     const initialZoom = 7;
     const center = [39.6625, -7.7848];
     const map = L.map("mapa", {
