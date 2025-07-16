@@ -69,6 +69,34 @@ header h1 {
   cursor: not-allowed;
 }
 
+/* Navegação entre dias */
+#navegacao-dias {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+#navegacao-dias button {
+  background: #0288d1;
+  color: #fff;
+  border: none;
+  padding: 0.3rem 0.6rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background 0.2s ease;
+}
+
+#navegacao-dias button:hover {
+  background: #0277bd;
+}
+
+#navegacao-dias button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
 /* Painel principal com grid */
 main.painel {
   display: grid;

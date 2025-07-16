@@ -114,6 +114,22 @@ with (output_dir / "ultima.json").open("w", encoding="utf-8") as f:
 print(f"Ficheiros gerados: {output_path.name} e ultima.json")
 ```
 
+### preparar_dia.py
+Processes the daily CSV logs to generate a JSON file per day and update
+`docs/arquivo/ultimo-dia.json` used by `dia.html`.
+
+```bash
+python3 scripts/preparar_dia.py
+```
+
+The output paths are similar to the hourly script:
+
+```python
+output_dir = base_dir / "docs" / "arquivo"
+dia_label = voos_dia[0]["hora"][:10]
+output_path = output_dir / f"{dia_label}.json"
+```
+
 ### publicar_site.sh
 A small helper that calls `preparar_site.py` and commits the updated files to
 Git. Execute it with:
@@ -134,7 +150,9 @@ This script is triggered hourly via cron to publish the updated site.
 3. Run `preparar_site.py` to create a new JSON file in `docs/arquivo/` with the
    current hour (e.g. `docs/arquivo/2025-07-12_00.json`) and update
    `docs/arquivo/ultima.json`.
-4. Serve the contents of the `docs/` directory with any static web server or
+4. Run `preparar_dia.py` to build the daily summary and update
+   `docs/arquivo/ultimo-dia.json`.
+5. Serve the contents of the `docs/` directory with any static web server or
    push them to GitHub Pages. The `publicar_site.sh` script, executed hourly via
    cron, automates the generation and commit of these files.
 
