@@ -7458,5 +7458,53 @@
   "TAP1096": {
     "origem": "Lisbon, PT",
     "destino": "Valencia, ES"
+  },
+  "VLG1SG": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Barcelona, ES"
+  },
+  "TRA83Q": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "AEE4RO": {
+    "origem": "Athens, GR",
+    "destino": "Porto, PT"
+  },
+  "TAP474": {
+    "origem": "Lisbon, PT",
+    "destino": "Lyon, FR"
+  },
+  "RYR40RB": {
+    "origem": "Madrid, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "KLM701": {
+    "origem": "Amsterdam, NL",
+    "destino": "Santiago, CL"
+  },
+  "TRA5960": {
+    "origem": "Lisbon, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "EXS9CM": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Nottingham, GB"
+  },
+  "EJU85RP": {
+    "origem": "Milan, IT",
+    "destino": "Porto, PT"
+  },
+  "TOM7LE": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Nottingham, GB"
+  },
+  "EXS6L": {
+    "origem": "Agadir, MA",
+    "destino": "Bristol, GB"
+  },
+  "RYR1768": {
+    "origem": "Lisbon, PT",
+    "destino": "Valencia, ES"
   }
 }
