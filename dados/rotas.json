@@ -6278,5 +6278,41 @@
   "FPY290": {
     "origem": "Faro, PT",
     "destino": "Reykjavík, IS"
+  },
+  "NSZ3407": {
+    "origem": "Marrakech, MA",
+    "destino": "Copenhagen, DK"
+  },
+  "RYR375Y": {
+    "origem": "Marrakech, MA",
+    "destino": "Dublin, IE"
+  },
+  "TUI6YX": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "CFG1MW": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "ETH740": {
+    "origem": "Addis Ababa, ET",
+    "destino": "Porto, PT"
+  },
+  "TAP485": {
+    "origem": "Nice, FR",
+    "destino": "Lisbon, PT"
+  },
+  "RYR13HN": {
+    "origem": "Venezia, IT",
+    "destino": "Lisbon, PT"
+  },
+  "RYR64VP": {
+    "origem": "Porto, PT",
+    "destino": "Barcelona, ES"
+  },
+  "TAP27UZ": {
+    "origem": "Dublin, IE",
+    "destino": "Lisbon, PT"
   }
 }

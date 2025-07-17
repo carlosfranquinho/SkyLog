@@ -9,12 +9,12 @@ PYTHON_SCRIPT_DIARIO="$PROJECT_DIR/scripts/preparar_dia.py"
 cd "$PROJECT_DIR" || exit 1
 
 # Executar o script Python
-python3 "$PYTHON_SCRIPT"
+python3 "$PYTHON_SCRIPT_HORARIO"
 
 # Se for entre as 00:00 e as 00:59, correr o script diário
 HORA_ATUAL=$(date +%H)
 if [[ "$HORA_ATUAL" == "00" ]]; then
-  python3 "$PYTHON_SCRIPT2"
+  python3 "$PYTHON_SCRIPT_DIARIO"
 fi
 
 # Fazer commit e push para o GitHub
