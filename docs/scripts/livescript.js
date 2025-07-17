@@ -9,9 +9,9 @@ const HEX_BLACKLIST = new Set(window.BLACKLIST || []);
     const initialZoom = 7;
     const center = [39.6625, -7.7848];
     const map = L.map("mapa", {
-      dragging: false,
+      dragging: true,
       minZoom: 7,
-      maxZoom: 18,
+      maxZoom: 16,
       touchZoom: "center",
     }).setView(center, initialZoom);
 
