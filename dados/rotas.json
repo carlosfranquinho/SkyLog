@@ -6962,5 +6962,101 @@
   "EJU82TF": {
     "origem": "Lisbon, PT",
     "destino": "Geneva, CH"
+  },
+  "EXS39MQ": {
+    "origem": "London, GB",
+    "destino": "Agadir, MA"
+  },
+  "JAF4TY": {
+    "origem": "Agadir, MA",
+    "destino": "Lille/Lesquin, FR"
+  },
+  "EXS9LA": {
+    "origem": "Bristol, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "SAS23N": {
+    "origem": "Copenhagen, DK",
+    "destino": "Faro, PT"
+  },
+  "EJU57VP": {
+    "origem": "Funchal, PT",
+    "destino": "Porto, PT"
+  },
+  "MBU3GF": {
+    "origem": "Nürnberg, DE",
+    "destino": "Funchal, PT"
+  },
+  "AEA119": {
+    "origem": "Madrid, ES",
+    "destino": "Santiago, DO"
+  },
+  "TOM3DE": {
+    "origem": "Bournemouth, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EWG19K": {
+    "origem": "Hamburg, DE",
+    "destino": "Hamburg, DE"
+  },
+  "EXS66R": {
+    "origem": "Nottingham, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TVF65JK": {
+    "origem": "Montpellier, FR",
+    "destino": "Lisbon, PT"
+  },
+  "RYR3GA": {
+    "origem": "Leeds, GB",
+    "destino": "Faro, PT"
+  },
+  "EZY49VC": {
+    "origem": "London, GB",
+    "destino": "Marrakech, MA"
+  },
+  "EXS54G": {
+    "origem": "Birmingham, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "ANE79CP": {
+    "origem": "Lisbon, PT",
+    "destino": "Madrid, ES"
+  },
+  "EXS92MJ": {
+    "origem": "Manchester, GB",
+    "destino": "Agadir, MA"
+  },
+  "EWG59H": {
+    "origem": "Faro, PT",
+    "destino": "Cologne, DE"
+  },
+  "RYR5464": {
+    "origem": "Marrakech, MA",
+    "destino": "Porto, PT"
+  },
+  "TOM782": {
+    "origem": "London, GB",
+    "destino": "Espargos, CV"
+  },
+  "EZY27UT": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "TOM97X": {
+    "origem": "Nottingham, GB",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "WUK22JT": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "EWG79M": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Porto, PT"
+  },
+  "EXS92YH": {
+    "origem": "Liverpool, GB",
+    "destino": "Lanzarote Island, ES"
   }
 }
