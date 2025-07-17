@@ -3,6 +3,9 @@ const API_URL = "https://skylog.franquinho.info/data/aircraft.json";
 const ESTACAO_LAT = 39.74759200010467;
 const ESTACAO_LON = -8.936510104648143;
 
+// Lista de hex codes a ignorar
+const HEX_BLACKLIST = new Set(window.BLACKLIST || []);
+
     const initialZoom = 7;
     const center = [39.6625, -7.7848];
     const map = L.map("mapa", {
@@ -183,6 +186,7 @@ function fetchAircraft() {
       let distProx = Infinity;
 
       (data.aircraft || []).forEach(ac => {
+        if (HEX_BLACKLIST.has(ac.hex)) return; // ignorar aeronaves banidas
         if (!ac.lat || !ac.lon || ac.seen > 60) return;
 
         const key = ac.hex;
