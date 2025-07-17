@@ -6738,5 +6738,65 @@
   "EZS12HL": {
     "origem": "Geneva, CH",
     "destino": "Porto, PT"
+  },
+  "WZZ69NP": {
+    "origem": "Warsaw, PL",
+    "destino": "Funchal, PT"
+  },
+  "TAP691P": {
+    "origem": "Luxembourg, LU",
+    "destino": "Lisbon, PT"
+  },
+  "BAW414": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "PUE221": {
+    "origem": "Madrid, ES",
+    "destino": "Madrid, ES"
+  },
+  "EZY76HD": {
+    "origem": "Marrakech, MA",
+    "destino": "Edinburgh, GB"
+  },
+  "EVE813": {
+    "origem": "Madrid, ES",
+    "destino": "Cancún, MX"
+  },
+  "EXS2SW": {
+    "origem": "Agadir, MA",
+    "destino": "Leeds, GB"
+  },
+  "JAF5EX": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Antwerp, BE"
+  },
+  "RYR4ET": {
+    "origem": "Porto, PT",
+    "destino": "Marrakech, MA"
+  },
+  "EJU76WG": {
+    "origem": "Lisbon, PT",
+    "destino": "Bordeaux, FR"
+  },
+  "RZO507": {
+    "origem": "Barcelona, ES",
+    "destino": "Ponta Delgada, PT"
+  },
+  "RYR78ER": {
+    "origem": "Málaga, ES",
+    "destino": "Shannon, IE"
+  },
+  "IBB90ZL": {
+    "origem": "Santander, ES",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "MBU5SM": {
+    "origem": "Leipzig, DE",
+    "destino": "Funchal, PT"
+  },
+  "PUE231": {
+    "origem": "Madrid, ES",
+    "destino": "Madrid, ES"
   }
 }
