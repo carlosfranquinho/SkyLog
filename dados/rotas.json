@@ -6870,5 +6870,97 @@
   "LCO3614": {
     "origem": "Brussels, BE",
     "destino": "Santiago, CL"
+  },
+  "DLH32X": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Porto, PT"
+  },
+  "EZY5739": {
+    "origem": "Southend, GB",
+    "destino": "Marrakech, MA"
+  },
+  "EXS4VA": {
+    "origem": "Bristol, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "DLH15E": {
+    "origem": "Faro, PT",
+    "destino": "Munich, DE"
+  },
+  "IBB36": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Hondarribia, ES"
+  },
+  "KLM1575": {
+    "origem": "Amsterdam, NL",
+    "destino": "Porto, PT"
+  },
+  "EJU68EB": {
+    "origem": "Vila Baleira, PT",
+    "destino": "Porto, PT"
+  },
+  "TAP1929": {
+    "origem": "Porto, PT",
+    "destino": "Lisbon, PT"
+  },
+  "EZY36ZY": {
+    "origem": "Birmingham, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "TAP763": {
+    "origem": "Oslo, NO",
+    "destino": "Lisbon, PT"
+  },
+  "RYR3XF": {
+    "origem": "Porto, PT",
+    "destino": "Málaga, ES"
+  },
+  "EWG7KC": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Hamburg, DE"
+  },
+  "WMT591": {
+    "origem": "Cluj-Napoca, RO",
+    "destino": "Lisbon, PT"
+  },
+  "RYR130V": {
+    "origem": "Barcelona, ES",
+    "destino": "Porto, PT"
+  },
+  "TFL87D": {
+    "origem": "Amsterdam, NL",
+    "destino": "Tenerife Island, ES"
+  },
+  "EXS81TB": {
+    "origem": "London, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "JAF1TE": {
+    "origem": "Brussels, BE",
+    "destino": "Faro, PT"
+  },
+  "TFL2VT": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Rotterdam, NL"
+  },
+  "EFW08D": {
+    "origem": "London, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "SAS4698": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Oslo, NO"
+  },
+  "IBB3RE": {
+    "origem": "Madrid, ES",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR3MT": {
+    "origem": "Nottingham, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EJU82TF": {
+    "origem": "Lisbon, PT",
+    "destino": "Geneva, CH"
   }
 }
