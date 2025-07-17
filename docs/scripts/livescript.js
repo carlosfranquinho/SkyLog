@@ -89,7 +89,8 @@ function createPlaneIcon(track = 0, altitude = 0, category = '') {
           -webkit-mask-repeat: no-repeat;
           -webkit-mask-size: contain;
           background-color: black;
-          filter: blur(1px);
+          /* removido o desfoque que criava uma aura involuntária */
+          filter: none;
           z-index: 0;
         "></div>
 
