@@ -7402,5 +7402,61 @@
   "ANE73JA": {
     "origem": "Porto, PT",
     "destino": "Madrid, ES"
+  },
+  "RYR7FA": {
+    "origem": "Valencia, ES",
+    "destino": "Lisbon, PT"
+  },
+  "EIN887": {
+    "origem": "Málaga, ES",
+    "destino": "Cork, IE"
+  },
+  "RUK158V": {
+    "origem": "Manchester, GB",
+    "destino": "Faro, PT"
+  },
+  "EZY67LM": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "London, GB"
+  },
+  "RYR5RV": {
+    "origem": "Birmingham, GB",
+    "destino": "Faro, PT"
+  },
+  "TFL2FK": {
+    "origem": "Faro, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "EXS1762": {
+    "origem": "Agadir, MA",
+    "destino": "Manchester, GB"
+  },
+  "IBS1536": {
+    "origem": "Sta Cruz de la Palma, La Palma Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "TAP484H": {
+    "origem": "Lisbon, PT",
+    "destino": "Nice, FR"
+  },
+  "RYR91BQ": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Nottingham, GB"
+  },
+  "TRA1P": {
+    "origem": "Faro, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "TFL3DG": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "EWG3KN": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Cologne, DE"
+  },
+  "TAP1096": {
+    "origem": "Lisbon, PT",
+    "destino": "Valencia, ES"
   }
 }
