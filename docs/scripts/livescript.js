@@ -86,8 +86,11 @@ function createPlaneIcon(track = 0, altitude = 0, category = '') {
           top: 0; left: 0;
           width: ${size}px; height: ${size}px;
           -webkit-mask-image: url('${img}');
+          mask-image: url('${img}');
           -webkit-mask-repeat: no-repeat;
+          mask-repeat: no-repeat;
           -webkit-mask-size: contain;
+          mask-size: contain;
           background-color: black;
           /* removido o desfoque que criava uma aura involuntária */
           filter: none;
@@ -100,8 +103,11 @@ function createPlaneIcon(track = 0, altitude = 0, category = '') {
           top: 0; left: 0;
           width: ${size}px; height: ${size}px;
           -webkit-mask-image: url('${img}');
+          mask-image: url('${img}');
           -webkit-mask-repeat: no-repeat;
+          mask-repeat: no-repeat;
           -webkit-mask-size: contain;
+          mask-size: contain;
           background-color: ${color};
           z-index: 1;
         "></div>
