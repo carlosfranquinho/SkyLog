@@ -6798,5 +6798,77 @@
   "PUE231": {
     "origem": "Madrid, ES",
     "destino": "Madrid, ES"
+  },
+  "RAM995": {
+    "origem": "Porto, PT",
+    "destino": "Casablanca, MA"
+  },
+  "EJU78EM": {
+    "origem": "Nantes, FR",
+    "destino": "Lanzarote Island, ES"
+  },
+  "VOE2799": {
+    "origem": "Porto, PT",
+    "destino": "Rodez/Marcillac, FR"
+  },
+  "CFG4MF": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Funchal, PT"
+  },
+  "AEA42TF": {
+    "origem": "Madrid, ES",
+    "destino": "Vigo, ES"
+  },
+  "RYR277Q": {
+    "origem": "Milan, IT",
+    "destino": "Porto, PT"
+  },
+  "VLG9ZP": {
+    "origem": "Málaga, ES",
+    "destino": "Santiago de Compostela, ES"
+  },
+  "TAP884": {
+    "origem": "Lisbon, PT",
+    "destino": "Napoli, IT"
+  },
+  "TAP876": {
+    "origem": "Lisbon, PT",
+    "destino": "Firenze, IT"
+  },
+  "EWG9MK": {
+    "origem": "Cologne, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EJU35FG": {
+    "origem": "Espargos, CV",
+    "destino": "Porto, PT"
+  },
+  "TAP938": {
+    "origem": "Porto, PT",
+    "destino": "Geneva, CH"
+  },
+  "EWG7A": {
+    "origem": "Cologne, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "ANE91TE": {
+    "origem": "Madrid, ES",
+    "destino": "Lisbon, PT"
+  },
+  "CFG7CF": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Funchal, PT"
+  },
+  "RYR2SM": {
+    "origem": "Reus, ES",
+    "destino": "Liverpool, GB"
+  },
+  "WZZ81WN": {
+    "origem": "Gdańsk, PL",
+    "destino": "Funchal, PT"
+  },
+  "LCO3614": {
+    "origem": "Brussels, BE",
+    "destino": "Santiago, CL"
   }
 }
