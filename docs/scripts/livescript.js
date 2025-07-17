@@ -79,25 +79,41 @@ function createPlaneIcon(track = 0, altitude = 0, category = '') {
   const img = getImageByCategory(category);
   const size = 30;
 
-  const colorFilter = cssFilterFromColor(color);
-
   return L.divIcon({
     className: "plane-icon",
     html: `
       <div style="position: relative; width: ${size}px; height: ${size}px; transform: rotate(${track}deg);">
-        <img src="${img}" style="
+        <!-- camada inferior (contorno preto) -->
+        <div style="
           position: absolute;
           top: 0; left: 0;
           width: ${size}px; height: ${size}px;
+          -webkit-mask-image: url('${img}');
+          mask-image: url('${img}');
+          -webkit-mask-repeat: no-repeat;
+          mask-repeat: no-repeat;
+          -webkit-mask-size: contain;
+          mask-size: contain;
+          background-color: black;
+          /* removido o desfoque que criava uma aura involuntária */
+          filter: none;
           z-index: 0;
-        ">
-        <img src="${img}" style="
+        "></div>
+
+        <!-- camada superior (avião colorido) -->
+        <div style="
           position: absolute;
           top: 0; left: 0;
           width: ${size}px; height: ${size}px;
-          filter: ${colorFilter};
+          -webkit-mask-image: url('${img}');
+          mask-image: url('${img}');
+          -webkit-mask-repeat: no-repeat;
+          mask-repeat: no-repeat;
+          -webkit-mask-size: contain;
+          mask-size: contain;
+          background-color: ${color};
           z-index: 1;
-        ">
+        "></div>
       </div>
     `,
     iconSize: [size, size],
