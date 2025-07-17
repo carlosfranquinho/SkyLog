@@ -6474,5 +6474,49 @@
   "TVF78FJ": {
     "origem": "Paris, FR",
     "destino": "Faro, PT"
+  },
+  "SWR36K": {
+    "origem": "Zürich, CH",
+    "destino": "Lisbon, PT"
+  },
+  "RYR651B": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "TRA12P": {
+    "origem": "Faro, PT",
+    "destino": "Rotterdam, NL"
+  },
+  "FIN1707": {
+    "origem": "Helsinki, FI",
+    "destino": "Lanzarote Island, ES"
+  },
+  "BIX74T": {
+    "origem": "Oslo, NO",
+    "destino": "Tenerife Island, ES"
+  },
+  "TOM88V": {
+    "origem": "London, GB",
+    "destino": "Larnarca, CY"
+  },
+  "WFL1506": {
+    "origem": "Havana, CU",
+    "destino": "Madrid, ES"
+  },
+  "EZY95VR": {
+    "origem": "Edinburgh, GB",
+    "destino": "Marrakech, MA"
+  },
+  "SAS4708": {
+    "origem": "Faro, PT",
+    "destino": "Oslo, NO"
+  },
+  "TRA11R": {
+    "origem": "Faro, PT",
+    "destino": "Rotterdam, NL"
+  },
+  "TOM95C": {
+    "origem": "Faro, PT",
+    "destino": "Manchester, GB"
   }
 }
