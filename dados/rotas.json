@@ -7662,5 +7662,53 @@
   "RYR82GJ": {
     "origem": "Barcelona, ES",
     "destino": "Porto, PT"
+  },
+  "EJU52DC": {
+    "origem": "Porto, PT",
+    "destino": "Zürich, CH"
+  },
+  "EJU6721": {
+    "origem": "Lisbon, PT",
+    "destino": "Luxembourg, LU"
+  },
+  "RYR1188": {
+    "origem": "Santiago de Compostela, ES",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "TAP475": {
+    "origem": "Lyon, FR",
+    "destino": "Lisbon, PT"
+  },
+  "EJU51YN": {
+    "origem": "Faro, PT",
+    "destino": "Zürich, CH"
+  },
+  "AAL121": {
+    "origem": "Doha, QA",
+    "destino": "Philadelphia, US"
+  },
+  "RYR13ZH": {
+    "origem": "Porto, PT",
+    "destino": "Edinburgh, GB"
+  },
+  "EZS82QX": {
+    "origem": "Geneva, CH",
+    "destino": "Porto, PT"
+  },
+  "LAV5533": {
+    "origem": "Madrid, ES",
+    "destino": "Espargos, CV"
+  },
+  "RYR53LZ": {
+    "origem": "Alicante, ES",
+    "destino": "Porto, PT"
+  },
+  "RYR8616": {
+    "origem": "Porto, PT",
+    "destino": "Tangier, MA"
+  },
+  "VOE60YR": {
+    "origem": "Ranón, ES",
+    "destino": "Sevilla, ES"
   }
 }
