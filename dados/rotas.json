@@ -7966,5 +7966,81 @@
   "EVE858": {
     "origem": "San Jose, CR",
     "destino": "Madrid, ES"
+  },
+  "RYR9ZU": {
+    "origem": "Luxembourg, LU",
+    "destino": "Faro, PT"
+  },
+  "EJU52FK": {
+    "origem": "Zürich, CH",
+    "destino": "Faro, PT"
+  },
+  "EZY75HQ": {
+    "origem": "Marrakech, MA",
+    "destino": "Manchester, GB"
+  },
+  "TVF32WP": {
+    "origem": "Agadir, MA",
+    "destino": "Nantes, FR"
+  },
+  "EJU83MN": {
+    "origem": "London, GB",
+    "destino": "Porto, PT"
+  },
+  "EJU43VY": {
+    "origem": "Luxembourg, LU",
+    "destino": "Lisbon, PT"
+  },
+  "IBE7269": {
+    "origem": "Madrid, ES",
+    "destino": "Rio De Janeiro, BR"
+  },
+  "EJU41AE": {
+    "origem": "Luxembourg, LU",
+    "destino": "Porto, PT"
+  },
+  "EZY83FR": {
+    "origem": "London, GB",
+    "destino": "Espargos, CV"
+  },
+  "JAF8HC": {
+    "origem": "Brussels, BE",
+    "destino": "Brussels, BE"
+  },
+  "JAF6VL": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Brussels, BE"
+  },
+  "RYR2DR": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Cologne, DE"
+  },
+  "EXS9ZV": {
+    "origem": "Marrakech, MA",
+    "destino": "Birmingham, GB"
+  },
+  "IBE05GZ": {
+    "origem": "Madrid, ES",
+    "destino": "Faro, PT"
+  },
+  "FHM1542": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Leipzig, DE"
+  },
+  "CFG1CD": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "BAW510": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "RYR23EN": {
+    "origem": "Lisbon, PT",
+    "destino": "Napoli, IT"
+  },
+  "TFL83V": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Amsterdam, NL"
   }
 }
