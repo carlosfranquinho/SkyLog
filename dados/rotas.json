@@ -7638,5 +7638,13 @@
   "UAL64": {
     "origem": "Newark, US",
     "destino": "Lisbon, PT"
+  },
+  "TAP26T": {
+    "origem": "Lisbon, PT",
+    "destino": "Dublin, IE"
+  },
+  "TOM681": {
+    "origem": "Agadir, MA",
+    "destino": "London, GB"
   }
 }
