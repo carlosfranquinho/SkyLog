@@ -8090,5 +8090,53 @@
   "EZY2472": {
     "origem": "Funchal, PT",
     "destino": "London, GB"
+  },
+  "VLG3XB": {
+    "origem": "Barcelona, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "FHM6507": {
+    "origem": "Paderborn, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "JTD532": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Billund, DK"
+  },
+  "RYR8BA": {
+    "origem": "Porto, PT",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "EXS27FJ": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Nottingham, GB"
+  },
+  "TRA621F": {
+    "origem": "Eindhoven, NL",
+    "destino": "Tenerife Island, ES"
+  },
+  "EJU58GH": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Berlin, DE"
+  },
+  "LCO1515": {
+    "origem": "Brussels, BE",
+    "destino": "Santiago, CL"
+  },
+  "FLI7127": {
+    "origem": "Vila Baleira, PT",
+    "destino": "Copenhagen, DK"
+  },
+  "EXS66KE": {
+    "origem": "Marrakech, MA",
+    "destino": "London, GB"
+  },
+  "VLG69RJ": {
+    "origem": "Málaga, ES",
+    "destino": "Santiago de Compostela, ES"
+  },
+  "BAW59FA": {
+    "origem": "Faro, PT",
+    "destino": "London, GB"
   }
 }
