@@ -8634,5 +8634,37 @@
   "LAN9954": {
     "origem": "Santiago, CL",
     "destino": "Madrid, ES"
+  },
+  "EJU18MK": {
+    "origem": "Southend, GB",
+    "destino": "Faro, PT"
+  },
+  "IBS16DT": {
+    "origem": "Madrid, ES",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "VOE9PH": {
+    "origem": "Nantes, FR",
+    "destino": "Split, HR"
+  },
+  "TOM2TG": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Bournemouth, GB"
+  },
+  "RAM751": {
+    "origem": "Paris, FR",
+    "destino": "Casablanca, MA"
+  },
+  "RYR3636": {
+    "origem": "Beauvais/Tillé, FR",
+    "destino": "Lisbon, PT"
+  },
+  "EJU12AL": {
+    "origem": "Saint-Louis, FR",
+    "destino": "Porto, PT"
+  },
+  "EJU69ZR": {
+    "origem": "Nantes, FR",
+    "destino": "Porto, PT"
   }
 }
