@@ -7850,5 +7850,57 @@
   "TOM9LV": {
     "origem": "Birmingham, GB",
     "destino": "Tenerife Island, ES"
+  },
+  "RYR47BZ": {
+    "origem": "Shannon, IE",
+    "destino": "Tenerife Island, ES"
+  },
+  "TOM578": {
+    "origem": "London, GB",
+    "destino": "Rabil, CV"
+  },
+  "RYR98XX": {
+    "origem": "Faro, PT",
+    "destino": "Cologne, DE"
+  },
+  "EZS587H": {
+    "origem": "Marrakech, MA",
+    "destino": "Saint-Louis, FR"
+  },
+  "EFW69H": {
+    "origem": "London, GB",
+    "destino": "Porto, PT"
+  },
+  "SVW29VM": {
+    "origem": "Marseille, FR",
+    "destino": "Geneva, CH"
+  },
+  "TAP212": {
+    "origem": "Newark, US",
+    "destino": "Porto, PT"
+  },
+  "RYR48UY": {
+    "origem": "Napoli, IT",
+    "destino": "Lisbon, PT"
+  },
+  "TAP247": {
+    "origem": "Lisbon, PT",
+    "destino": "Los Angeles, US"
+  },
+  "AEA120": {
+    "origem": "Santiago, DO",
+    "destino": "Madrid, ES"
+  },
+  "TOM438": {
+    "origem": "Manchester, GB",
+    "destino": "Rabil, CV"
+  },
+  "UAL65": {
+    "origem": "Lisbon, PT",
+    "destino": "Newark, US"
+  },
+  "DAL273": {
+    "origem": "Lisbon, PT",
+    "destino": "New York, US"
   }
 }
