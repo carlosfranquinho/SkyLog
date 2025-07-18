@@ -8666,5 +8666,85 @@
   "EJU69ZR": {
     "origem": "Nantes, FR",
     "destino": "Porto, PT"
+  },
+  "EJU79RE": {
+    "origem": "Porto, PT",
+    "destino": "Milan, IT"
+  },
+  "IBS1582": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "IBS16WM": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "DLH03U": {
+    "origem": "Munich, DE",
+    "destino": "Porto, PT"
+  },
+  "EIN499": {
+    "origem": "Faro, PT",
+    "destino": "Dublin, IE"
+  },
+  "EJU34TH": {
+    "origem": "Luxembourg, LU",
+    "destino": "Porto, PT"
+  },
+  "EJU7654": {
+    "origem": "Madrid, ES",
+    "destino": "Lisbon, PT"
+  },
+  "EXS74LT": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "London, GB"
+  },
+  "AFR710": {
+    "origem": "Paris, FR",
+    "destino": "Diass, SN"
+  },
+  "TOM781": {
+    "origem": "Cancún, MX",
+    "destino": "Glasgow, GB"
+  },
+  "TOM3ET": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EXS73YD": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
+  },
+  "DLH506": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "São Paulo, BR"
+  },
+  "VOE2LY": {
+    "origem": "Lisbon, PT",
+    "destino": "Ranón, ES"
+  },
+  "KAL922": {
+    "origem": "Lisbon, PT",
+    "destino": "Seoul, KR"
+  },
+  "EXS1912": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Newcastle, GB"
+  },
+  "DLH1330": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Casablanca, MA"
+  },
+  "TOM457": {
+    "origem": "Marrakech, MA",
+    "destino": "Birmingham, GB"
+  },
+  "EZY59VW": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "London, GB"
+  },
+  "EXS24PV": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Birmingham, GB"
   }
 }
