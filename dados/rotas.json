@@ -7834,5 +7834,21 @@
   "EXS45TP": {
     "origem": "Bournemouth, GB",
     "destino": "Faro, PT"
+  },
+  "EXS44U": {
+    "origem": "Birmingham, GB",
+    "destino": "Marrakech, MA"
+  },
+  "RYR8QJ": {
+    "origem": "Tangier, MA",
+    "destino": "Porto, PT"
+  },
+  "FLI7126": {
+    "origem": "Copenhagen, DK",
+    "destino": "Vila Baleira, PT"
+  },
+  "TOM9LV": {
+    "origem": "Birmingham, GB",
+    "destino": "Tenerife Island, ES"
   }
 }
