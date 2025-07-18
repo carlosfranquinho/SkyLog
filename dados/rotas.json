@@ -8534,5 +8534,105 @@
   "THY6936": {
     "origem": "New York, US",
     "destino": "Istanbul, TR"
+  },
+  "TRA142": {
+    "origem": "Sta Cruz de la Palma, La Palma Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "RYR55EZ": {
+    "origem": "Birmingham, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EZY5726": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Southend, GB"
+  },
+  "BOV777": {
+    "origem": "Madrid, ES",
+    "destino": "Santa Cruz, BO"
+  },
+  "EXS68KW": {
+    "origem": "Liverpool, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EXS17MT": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Bristol, GB"
+  },
+  "TRA6182": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "EIN498": {
+    "origem": "Dublin, IE",
+    "destino": "Faro, PT"
+  },
+  "EZY2870": {
+    "origem": "Lisbon, PT",
+    "destino": "Bristol, GB"
+  },
+  "JAF11D": {
+    "origem": "Paris, FR",
+    "destino": "Casablanca, MA"
+  },
+  "SEU452": {
+    "origem": "Lisbon, PT",
+    "destino": "Chişinău, MD"
+  },
+  "IBE05CY": {
+    "origem": "Lisbon, PT",
+    "destino": "Madrid, ES"
+  },
+  "EFW8CQ": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
+  },
+  "TVF91SE": {
+    "origem": "Paris, FR",
+    "destino": "Porto, PT"
+  },
+  "EJU13NK": {
+    "origem": "Milan, IT",
+    "destino": "Porto, PT"
+  },
+  "EJU64XZ": {
+    "origem": "Saint-Louis, FR",
+    "destino": "Lisbon, PT"
+  },
+  "CFE7029": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "EXS1024": {
+    "origem": "Faro, PT",
+    "destino": "Manchester, GB"
+  },
+  "TRA45W": {
+    "origem": "Faro, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "TOM26A": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Exeter, GB"
+  },
+  "RYR8PC": {
+    "origem": "Weeze, DE",
+    "destino": "Agadir, MA"
+  },
+  "EXS68Z": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Bournemouth, GB"
+  },
+  "TRA23A": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "EJU62CN": {
+    "origem": "Saint-Louis, FR",
+    "destino": "Faro, PT"
+  },
+  "LAN9954": {
+    "origem": "Santiago, CL",
+    "destino": "Madrid, ES"
   }
 }
