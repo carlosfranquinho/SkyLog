@@ -8042,5 +8042,53 @@
   "TFL83V": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Amsterdam, NL"
+  },
+  "TFL1642": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "RYR28BU": {
+    "origem": "Faro, PT",
+    "destino": "Aberdeen, GB"
+  },
+  "RYR9507": {
+    "origem": "Faro, PT",
+    "destino": "Porto, PT"
+  },
+  "IBE2604": {
+    "origem": "Buenos Aires, AR",
+    "destino": "Barcelona, ES"
+  },
+  "RYR51XY": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "London, GB"
+  },
+  "VJH556": {
+    "origem": "Birmingham, GB",
+    "destino": "Amsterdam, NL"
+  },
+  "TAP11EG": {
+    "origem": "Manchester, GB",
+    "destino": "Lisbon, PT"
+  },
+  "CFG2LV": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "MBU3PK": {
+    "origem": "Hamburg, DE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EJU37PF": {
+    "origem": "Faro, PT",
+    "destino": "Southend, GB"
+  },
+  "CFG6DW": {
+    "origem": "Hamburg, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "EZY2472": {
+    "origem": "Funchal, PT",
+    "destino": "London, GB"
   }
 }
