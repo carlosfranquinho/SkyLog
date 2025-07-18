@@ -7710,5 +7710,65 @@
   "VOE60YR": {
     "origem": "Ranón, ES",
     "destino": "Sevilla, ES"
+  },
+  "BCS57D": {
+    "origem": "Alava, ES",
+    "destino": "Porto, PT"
+  },
+  "TVF93DC": {
+    "origem": "Paris, FR",
+    "destino": "Funchal, PT"
+  },
+  "RYR3643": {
+    "origem": "Beauvais/Tillé, FR",
+    "destino": "Essaouira, MA"
+  },
+  "TVF16NR": {
+    "origem": "Paris, FR",
+    "destino": "Porto, PT"
+  },
+  "RZO131": {
+    "origem": "Lisbon, PT",
+    "destino": "Lajes, PT"
+  },
+  "RYR308L": {
+    "origem": "Weeze, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR96XM": {
+    "origem": "Nürnberg, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "AAL740": {
+    "origem": "Philadelphia, US",
+    "destino": "Madrid, ES"
+  },
+  "EJU93UF": {
+    "origem": "Lyon, FR",
+    "destino": "Porto, PT"
+  },
+  "RYR63CT": {
+    "origem": "Shannon, IE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "TVF74FM": {
+    "origem": "Paris, FR",
+    "destino": "Rome, IT"
+  },
+  "RYR2MP": {
+    "origem": "Cologne, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "SWR93": {
+    "origem": "São Paulo, BR",
+    "destino": "Zürich, CH"
+  },
+  "TFL1641": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TRA39T": {
+    "origem": "Amsterdam, NL",
+    "destino": "Porto, PT"
   }
 }
