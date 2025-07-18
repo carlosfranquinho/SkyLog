@@ -8370,5 +8370,105 @@
   "TVF10WN": {
     "origem": "Nantes, FR",
     "destino": "Porto, PT"
+  },
+  "CFG2MW": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "VLG12UP": {
+    "origem": "Bilbao, ES",
+    "destino": "Faro, PT"
+  },
+  "TRA2E": {
+    "origem": "Ibiza, ES",
+    "destino": "Eindhoven, NL"
+  },
+  "EZY69MW": {
+    "origem": "Belfast, GB",
+    "destino": "Málaga, ES"
+  },
+  "TOM74E": {
+    "origem": "Rabil, CV",
+    "destino": "London, GB"
+  },
+  "TVF55BQ": {
+    "origem": "Paris, FR",
+    "destino": "Porto, PT"
+  },
+  "DAH3005": {
+    "origem": "Lisbon, PT",
+    "destino": "Algiers, DZ"
+  },
+  "NOZ23Y": {
+    "origem": "Faro, PT",
+    "destino": "Oslo, NO"
+  },
+  "TOM439": {
+    "origem": "Rabil, CV",
+    "destino": "Manchester, GB"
+  },
+  "RYR1509": {
+    "origem": "Luqa, MT",
+    "destino": "Porto, PT"
+  },
+  "AEA9057": {
+    "origem": "Madrid, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "TRA216C": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Eindhoven, NL"
+  },
+  "EZY2869": {
+    "origem": "Bristol, GB",
+    "destino": "Lisbon, PT"
+  },
+  "CFG9TC": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Düsseldorf, DE"
+  },
+  "SEU451": {
+    "origem": "Chişinău, MD",
+    "destino": "Lisbon, PT"
+  },
+  "CFG6WL": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Hamburg, DE"
+  },
+  "VOE3850": {
+    "origem": "Culleredo, ES",
+    "destino": "Málaga, ES"
+  },
+  "EWG92W": {
+    "origem": "Faro, PT",
+    "destino": "Berlin, DE"
+  },
+  "RAM997": {
+    "origem": "Porto, PT",
+    "destino": "Casablanca, MA"
+  },
+  "ANE31WP": {
+    "origem": "Madrid, ES",
+    "destino": "Porto, PT"
+  },
+  "FPY93K": {
+    "origem": "Reykjavík, IS",
+    "destino": "Lisbon, PT"
+  },
+  "IBE05EP": {
+    "origem": "Madrid, ES",
+    "destino": "Lisbon, PT"
+  },
+  "TOM3JB": {
+    "origem": "Newcastle, GB",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "EDW289K": {
+    "origem": "Faro, PT",
+    "destino": "Zürich, CH"
+  },
+  "EXS21CV": {
+    "origem": "Manchester, GB",
+    "destino": "Faro, PT"
   }
 }
