@@ -7650,5 +7650,13 @@
   "TOM33A": {
     "origem": "Gran Canaria Island, ES",
     "destino": "London, GB"
+  },
+  "BEL26E": {
+    "origem": "Conakry, GN",
+    "destino": "Brussels, BE"
+  },
+  "AEA138": {
+    "origem": "Quito, EC",
+    "destino": "Madrid, ES"
   }
 }
