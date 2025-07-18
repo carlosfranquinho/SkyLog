@@ -8138,5 +8138,41 @@
   "BAW59FA": {
     "origem": "Faro, PT",
     "destino": "London, GB"
+  },
+  "TOM5ME": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Birmingham, GB"
+  },
+  "SWR93Q": {
+    "origem": "Porto, PT",
+    "destino": "Geneva, CH"
+  },
+  "BTI7FR": {
+    "origem": "Riga, LV",
+    "destino": "Lisbon, PT"
+  },
+  "BAW594": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "RYR90SP": {
+    "origem": "Warsaw, PL",
+    "destino": "Lisbon, PT"
+  },
+  "BAW45UR": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
+  },
+  "ETR894": {
+    "origem": "Madrid, ES",
+    "destino": "Caracas, VE"
+  },
+  "EZY85RG": {
+    "origem": "London, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EZY25RY": {
+    "origem": "Southend, GB",
+    "destino": "Gran Canaria Island, ES"
   }
 }
