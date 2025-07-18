@@ -7902,5 +7902,69 @@
   "DAL273": {
     "origem": "Lisbon, PT",
     "destino": "New York, US"
+  },
+  "TFL34X": {
+    "origem": "Rotterdam, NL",
+    "destino": "Tenerife Island, ES"
+  },
+  "EXS31DR": {
+    "origem": "London, GB",
+    "destino": "Marrakech, MA"
+  },
+  "RZO228": {
+    "origem": "Boston, US",
+    "destino": "Milan, IT"
+  },
+  "TAP223": {
+    "origem": "Lisbon, PT",
+    "destino": "Miami, US"
+  },
+  "RYR8029": {
+    "origem": "Exeter, GB",
+    "destino": "Faro, PT"
+  },
+  "RYR9508": {
+    "origem": "Porto, PT",
+    "destino": "Faro, PT"
+  },
+  "IBE26MK": {
+    "origem": "New York, US",
+    "destino": "Barcelona, ES"
+  },
+  "EXS74H": {
+    "origem": "Faro, PT",
+    "destino": "Bournemouth, GB"
+  },
+  "VKG1104": {
+    "origem": "Copenhagen, DK",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EJU53GQ": {
+    "origem": "Zürich, CH",
+    "destino": "Porto, PT"
+  },
+  "EXS3FR": {
+    "origem": "Málaga, ES",
+    "destino": "Belfast, GB"
+  },
+  "TVF3211": {
+    "origem": "Marrakech, MA",
+    "destino": "Nantes, FR"
+  },
+  "EJU19WZ": {
+    "origem": "Marrakech, MA",
+    "destino": "Nantes, FR"
+  },
+  "AAL126": {
+    "origem": "Chicago, US",
+    "destino": "Madrid, ES"
+  },
+  "IBE6137": {
+    "origem": "Madrid, ES",
+    "destino": "Quito, EC"
+  },
+  "EVE858": {
+    "origem": "San Jose, CR",
+    "destino": "Madrid, ES"
   }
 }
