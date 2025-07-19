@@ -9774,5 +9774,57 @@
   "VOE1LR": {
     "origem": "Tenerife Island, ES",
     "destino": "Ranón, ES"
+  },
+  "VOE94FM": {
+    "origem": "Nantes, FR",
+    "destino": "Tenerife Island, ES"
+  },
+  "LCO1516": {
+    "origem": "Brussels, BE",
+    "destino": "Santiago, CL"
+  },
+  "EZY57GC": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
+  },
+  "TOM52V": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Bristol, GB"
+  },
+  "LZB564": {
+    "origem": "Lisbon, PT",
+    "destino": "Sofia, BG"
+  },
+  "EXS87MD": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Nottingham, GB"
+  },
+  "RUK54PC": {
+    "origem": "Agadir, MA",
+    "destino": "Edinburgh, GB"
+  },
+  "ASL80L": {
+    "origem": "Lisbon, PT",
+    "destino": "Belgrad, RS"
+  },
+  "VLG1WE": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Barcelona, ES"
+  },
+  "LAN715": {
+    "origem": "Madrid, ES",
+    "destino": "Santiago, CL"
+  },
+  "BEL1082": {
+    "origem": "Ajaccio, FR",
+    "destino": "Brussels, BE"
+  },
+  "RYR1UE": {
+    "origem": "Porto, PT",
+    "destino": "Funchal, PT"
+  },
+  "EXS21Y": {
+    "origem": "Faro, PT",
+    "destino": "Nottingham, GB"
   }
 }
