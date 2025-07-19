@@ -9010,5 +9010,33 @@
   "TFL9DL": {
     "origem": "Rotterdam, NL",
     "destino": "Gran Canaria Island, ES"
+  },
+  "NOZ1824": {
+    "origem": "Oslo, NO",
+    "destino": "Lisbon, PT"
+  },
+  "EZY87KQ": {
+    "origem": "Faro, PT",
+    "destino": "Manchester, GB"
+  },
+  "TOM864": {
+    "origem": "Birmingham, GB",
+    "destino": "Hurghada, EG"
+  },
+  "RYR66DU": {
+    "origem": "Brussels, BE",
+    "destino": "Porto, PT"
+  },
+  "RYR8VR": {
+    "origem": "Lisbon, PT",
+    "destino": "Birmingham, GB"
+  },
+  "KLM792": {
+    "origem": "São Paulo, BR",
+    "destino": "Amsterdam, NL"
+  },
+  "KLM706": {
+    "origem": "Rio De Janeiro, BR",
+    "destino": "Amsterdam, NL"
   }
 }
