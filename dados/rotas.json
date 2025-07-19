@@ -8746,5 +8746,29 @@
   "EXS24PV": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Birmingham, GB"
+  },
+  "SWR92": {
+    "origem": "Zürich, CH",
+    "destino": "São Paulo, BR"
+  },
+  "DLH500": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Rio De Janeiro, BR"
+  },
+  "EZY2009": {
+    "origem": "London, GB",
+    "destino": "Sevilla, ES"
+  },
+  "EXS5GW": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "London, GB"
+  },
+  "RYR2UN": {
+    "origem": "Berlin, DE",
+    "destino": "Marrakech, MA"
+  },
+  "TOM705": {
+    "origem": "Espargos, CV",
+    "destino": "Birmingham, GB"
   }
 }
