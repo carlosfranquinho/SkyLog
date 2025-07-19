@@ -9138,5 +9138,77 @@
   "EJU16ET": {
     "origem": "Porto, PT",
     "destino": "Geneva, CH"
+  },
+  "TRA6184": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "RYR3253": {
+    "origem": "Trapani, IT",
+    "destino": "Porto, PT"
+  },
+  "TAP532": {
+    "origem": "Lisbon, PT",
+    "destino": "Berlin, DE"
+  },
+  "TVF7843": {
+    "origem": "Funchal, PT",
+    "destino": "Lyon, FR"
+  },
+  "CFG7AK": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "LGL3799": {
+    "origem": "Luxembourg, LU",
+    "destino": "Porto, PT"
+  },
+  "AAL193": {
+    "origem": "Barcelona, ES",
+    "destino": "Dallas-Fort Worth, US"
+  },
+  "CFE453": {
+    "origem": "Faro, PT",
+    "destino": "Castletown, IM"
+  },
+  "SWR3HE": {
+    "origem": "Porto, PT",
+    "destino": "Zürich, CH"
+  },
+  "EJU68LC": {
+    "origem": "Berlin, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "RZO123": {
+    "origem": "Lisbon, PT",
+    "destino": "Ponta Delgada, PT"
+  },
+  "RYR486D": {
+    "origem": "Ibiza, ES",
+    "destino": "Porto, PT"
+  },
+  "RYR3ME": {
+    "origem": "Beauvais/Tillé, FR",
+    "destino": "Porto, PT"
+  },
+  "CFG9EX": {
+    "origem": "Hannover, DE",
+    "destino": "Olbia, IT"
+  },
+  "EJU74BC": {
+    "origem": "Porto, PT",
+    "destino": "Nantes, FR"
+  },
+  "CFG9WY": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "JBU2260": {
+    "origem": "Madrid, ES",
+    "destino": "Boston, US"
+  },
+  "CFG4TX": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Tenerife Island, ES"
   }
 }
