@@ -9486,5 +9486,61 @@
   "BEL9KF": {
     "origem": "Brussels, BE",
     "destino": "Faro, PT"
+  },
+  "EZY19HN": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "TAP219": {
+    "origem": "Lisbon, PT",
+    "destino": "Boston, US"
+  },
+  "TOM17B": {
+    "origem": "London, GB",
+    "destino": "Chambéry, FR"
+  },
+  "RYR44PQ": {
+    "origem": "London, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "VOE2373": {
+    "origem": "Marrakech, MA",
+    "destino": "Nantes, FR"
+  },
+  "RYR14XC": {
+    "origem": "Newcastle, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EJU64VT": {
+    "origem": "Porto, PT",
+    "destino": "Lyon, FR"
+  },
+  "TOM2HW": {
+    "origem": "Bristol, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "CFG9XM": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "EJU52NB": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "CFE15L": {
+    "origem": "Castletown, IM",
+    "destino": "Faro, PT"
+  },
+  "ANE8265": {
+    "origem": "Melilla Island, ES",
+    "destino": "Málaga, ES"
+  },
+  "LBT6130": {
+    "origem": "Djerba, TN",
+    "destino": "Porto, PT"
+  },
+  "RYR961L": {
+    "origem": "Lisbon, PT",
+    "destino": "Luqa, MT"
   }
 }
