@@ -9310,5 +9310,69 @@
   "VOE50XM": {
     "origem": "Nantes, França",
     "destino": "Marrakech, Marrocos"
+  },
+  "TFL1MX": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Rotterdam, NL"
+  },
+  "JME515U": {
+    "origem": "Nice, FR",
+    "destino": "Rome, IT"
+  },
+  "AAL759": {
+    "origem": "Athens, GR",
+    "destino": "Philadelphia, US"
+  },
+  "BEL2EF": {
+    "origem": "Brussels, BE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "OCN27K": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "CFG5MF": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Funchal, PT"
+  },
+  "TRA5683": {
+    "origem": "Amsterdam, NL",
+    "destino": "Amsterdam, NL"
+  },
+  "VJH738": {
+    "origem": "Cologne, DE",
+    "destino": "London, GB"
+  },
+  "SDR36WW": {
+    "origem": "Berlin, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "RYR3861": {
+    "origem": "Porto, PT",
+    "destino": "Verona, IT"
+  },
+  "EWG5U": {
+    "origem": "Cologne, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "SAS2901": {
+    "origem": "Stockholm, SE",
+    "destino": "Funchal, PT"
+  },
+  "VOE9EQ": {
+    "origem": "Nantes, FR",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EJU82YG": {
+    "origem": "Lyon, FR",
+    "destino": "Tenerife Island, ES"
+  },
+  "EJU46TN": {
+    "origem": "Paris, FR",
+    "destino": "Lanzarote Island, ES"
+  },
+  "NOZ8UE": {
+    "origem": "Oslo, NO",
+    "destino": "Marrakech, MA"
   }
 }
