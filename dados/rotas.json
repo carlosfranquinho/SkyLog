@@ -8834,5 +8834,73 @@
   "EJU4683": {
     "origem": "Paris, FR",
     "destino": "Agadir, MA"
+  },
+  "UAL350": {
+    "origem": "Newark, US",
+    "destino": "Málaga, ES"
+  },
+  "EWG6AY": {
+    "origem": "Berlin, DE",
+    "destino": "Porto, PT"
+  },
+  "EZY37EM": {
+    "origem": "London, GB",
+    "destino": "Porto, PT"
+  },
+  "ANE8261": {
+    "origem": "Melilla Island, ES",
+    "destino": "Málaga, ES"
+  },
+  "CFG8FY": {
+    "origem": "Leipzig, DE",
+    "destino": "Faro, PT"
+  },
+  "RYR3252": {
+    "origem": "Porto, PT",
+    "destino": "Trapani, IT"
+  },
+  "LGL787": {
+    "origem": "Luxembourg, LU",
+    "destino": "Faro, PT"
+  },
+  "EWG7NT": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "CFG6ZT": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Faro, PT"
+  },
+  "TRA183R": {
+    "origem": "Amsterdam, NL",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR545W": {
+    "origem": "Roma, IT",
+    "destino": "Beauvais/Tillé, FR"
+  },
+  "TFL3HD": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "LGL3769": {
+    "origem": "Luxembourg, LU",
+    "destino": "Porto, PT"
+  },
+  "RYR87LF": {
+    "origem": "Birmingham, GB",
+    "destino": "Porto, PT"
+  },
+  "TRA5951": {
+    "origem": "Amsterdam, NL",
+    "destino": "Lisbon, PT"
+  },
+  "MAC265": {
+    "origem": "Casablanca, MA",
+    "destino": "Saint-Louis, FR"
+  },
+  "RYR7YP": {
+    "origem": "Luqa, MT",
+    "destino": "Lisbon, PT"
   }
 }
