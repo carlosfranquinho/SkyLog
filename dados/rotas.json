@@ -9038,5 +9038,61 @@
   "KLM706": {
     "origem": "Rio De Janeiro, BR",
     "destino": "Amsterdam, NL"
+  },
+  "TOM610": {
+    "origem": "London, GB",
+    "destino": "Rabil, CV"
+  },
+  "UAL50": {
+    "origem": "Madrid, ES",
+    "destino": "Newark, US"
+  },
+  "RZO504": {
+    "origem": "Ponta Delgada, PT",
+    "destino": "Bilbao, ES"
+  },
+  "JTD564": {
+    "origem": "Faro, PT",
+    "destino": "Billund, DK"
+  },
+  "VOE3605": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Ranón, ES"
+  },
+  "TAP453": {
+    "origem": "Paris, FR",
+    "destino": "Porto, PT"
+  },
+  "AFR476": {
+    "origem": "Paris, FR",
+    "destino": "Salvador, BR"
+  },
+  "EXS84L": {
+    "origem": "Leeds, GB",
+    "destino": "Faro, PT"
+  },
+  "RYR155N": {
+    "origem": "Luxembourg, LU",
+    "destino": "Porto, PT"
+  },
+  "THY801": {
+    "origem": "Istanbul, TR",
+    "destino": "Istanbul, TR"
+  },
+  "UAE3MV": {
+    "origem": "Dubai, AE",
+    "destino": "Lisbon, PT"
+  },
+  "SAS57M": {
+    "origem": "Oslo, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EJU86EU": {
+    "origem": "Lisbon, PT",
+    "destino": "Milan, IT"
+  },
+  "EZY63CR": {
+    "origem": "Málaga, ES",
+    "destino": "Glasgow, GB"
   }
 }
