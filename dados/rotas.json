@@ -9446,5 +9446,45 @@
   "RYR1191": {
     "origem": "Porto, PT",
     "destino": "Roma, IT"
+  },
+  "ANE22NP": {
+    "origem": "Porto, PT",
+    "destino": "Madrid, ES"
+  },
+  "BEL2KJ": {
+    "origem": "Brussels, BE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EJU57TQ": {
+    "origem": "Lyon, FR",
+    "destino": "Porto, PT"
+  },
+  "TVF7658": {
+    "origem": "Paris, FR",
+    "destino": "Lisbon, PT"
+  },
+  "CFE43K": {
+    "origem": "Saint Helier, JE",
+    "destino": "Faro, PT"
+  },
+  "TUI6BM": {
+    "origem": "Hannover, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "TRA13H": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EJU39RG": {
+    "origem": "Bordeaux, FR",
+    "destino": "Essaouira, MA"
+  },
+  "VOE6YL": {
+    "origem": "Ranón, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "BEL9KF": {
+    "origem": "Brussels, BE",
+    "destino": "Faro, PT"
   }
 }
