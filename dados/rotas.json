@@ -2485,7 +2485,7 @@
   },
   "IBS1531": {
     "origem": "Madrid, Espanha",
-    "destino": "Sta Cruz de la Palma, La Palma Island, Espanha"
+    "destino": "La Palma, Espanha"
   },
   "RYR3DP": {
     "origem": "Beauvais/Tillé, França",
@@ -3513,14 +3513,14 @@
   },
   "IBS1535": {
     "origem": "Madrid, Espanha",
-    "destino": "Sta Cruz de la Palma, La Palma Island, Espanha"
+    "destino": "La Palma, Espanha"
   },
   "TVF83WZ": {
     "origem": "Paris, França",
     "destino": "Paris, França"
   },
   "IBS15BH": {
-    "origem": "Sta Cruz de la Palma, La Palma Island, Espanha",
+    "origem": "La Palma, Espanha",
     "destino": "Madrid, Espanha"
   },
   "EJU51NK": {
@@ -4532,11 +4532,11 @@
     "destino": "Firenze, Itália"
   },
   "TUI9FT": {
-    "origem": "Hannover, DE",
+    "origem": "Hannover, Alemanha",
     "destino": "Faro, Portugal"
   },
   "RYR103V": {
-    "origem": "Cologne, DE",
+    "origem": "Cologne, Alemanha",
     "destino": "Tenerife, Espanha"
   },
   "JAF4DT": {
@@ -4553,7 +4553,7 @@
   },
   "DLH507": {
     "origem": "São Paulo, BR",
-    "destino": "Frankfurt-am-Main, DE"
+    "destino": "Frankfurt-am-Main, Alemanha"
   },
   "PUE702": {
     "origem": "Caracas, VE",
@@ -4564,7 +4564,7 @@
     "destino": "Forteventura, Espanha"
   },
   "TUI74A": {
-    "origem": "Düsseldorf, DE",
+    "origem": "Düsseldorf, Alemanha",
     "destino": "Faro, Portugal"
   },
   "LGL771": {
@@ -4580,7 +4580,7 @@
     "destino": "Dublin, Irlanda"
   },
   "CFG1HE": {
-    "origem": "Hamburg, DE",
+    "origem": "Hamburg, Alemanha",
     "destino": "Funchal, Portugal"
   },
   "EIN892": {
@@ -4592,7 +4592,7 @@
     "destino": "Copenhagen, Dinamarca"
   },
   "TAP575": {
-    "origem": "Frankfurt-am-Main, DE",
+    "origem": "Frankfurt-am-Main, Alemanha",
     "destino": "Lisboa, Portugal"
   },
   "TAP882": {
@@ -4664,7 +4664,7 @@
     "destino": "Liverpool, Reino Unido"
   },
   "EWG2WY": {
-    "origem": "Düsseldorf, DE",
+    "origem": "Düsseldorf, Alemanha",
     "destino": "Funchal, Portugal"
   },
   "RYR81SJ": {
@@ -4685,7 +4685,7 @@
   },
   "TAP532B": {
     "origem": "Lisboa, Portugal",
-    "destino": "Berlin, DE"
+    "destino": "Berlin, Alemanha"
   },
   "EJU71GP": {
     "origem": "Milan, Itália",
@@ -4704,7 +4704,7 @@
     "destino": "Londres, Reino Unido"
   },
   "RYR65QF": {
-    "origem": "Berlin, DE",
+    "origem": "Berlin, Alemanha",
     "destino": "Lisboa, Portugal"
   },
   "EZY68UC": {
@@ -4720,7 +4720,7 @@
     "destino": "Lanzarote, Espanha"
   },
   "CFG8PA": {
-    "origem": "Düsseldorf, DE",
+    "origem": "Düsseldorf, Alemanha",
     "destino": "Tenerife, Espanha"
   },
   "EXS5RD": {
@@ -4728,7 +4728,7 @@
     "destino": "Lanzarote, Espanha"
   },
   "TAP5HA": {
-    "origem": "Hamburg, DE",
+    "origem": "Hamburg, Alemanha",
     "destino": "Lisboa, Portugal"
   },
   "EXS42N": {
@@ -4744,7 +4744,7 @@
     "destino": "Lisboa, Portugal"
   },
   "TAP535": {
-    "origem": "Berlin, DE",
+    "origem": "Berlin, Alemanha",
     "destino": "Lisboa, Portugal"
   },
   "IBE05EE": {
@@ -4821,7 +4821,7 @@
   },
   "TAP560": {
     "origem": "Lisboa, Portugal",
-    "destino": "Hamburg, DE"
+    "destino": "Hamburg, Alemanha"
   },
   "TRA5513": {
     "origem": "Eindhoven, Países Baixos",
@@ -4840,7 +4840,7 @@
     "destino": "Lanzarote, Espanha"
   },
   "OCN704": {
-    "origem": "Munich, DE",
+    "origem": "Munich, Alemanha",
     "destino": "Funchal, Portugal"
   },
   "RYR19XH": {
@@ -4889,7 +4889,7 @@
   },
   "TUI4PC": {
     "origem": "Faro, Portugal",
-    "destino": "Hannover, DE"
+    "destino": "Hannover, Alemanha"
   },
   "TOM608": {
     "origem": "Londres, Reino Unido",
@@ -4901,7 +4901,7 @@
   },
   "TUI63V": {
     "origem": "Faro, Portugal",
-    "destino": "Düsseldorf, DE"
+    "destino": "Düsseldorf, Alemanha"
   },
   "RUK73VM": {
     "origem": "Londres, Reino Unido",
@@ -5113,7 +5113,7 @@
   },
   "TUI5TA": {
     "origem": "Lanzarote, Espanha",
-    "destino": "Düsseldorf, DE"
+    "destino": "Düsseldorf, Alemanha"
   },
   "RYR1TT": {
     "origem": "Bruxelas, Bélgica",
@@ -5160,12 +5160,12 @@
     "destino": "Amesterdão, Países Baixos"
   },
   "RYR8XT": {
-    "origem": "Cologne, DE",
+    "origem": "Cologne, Alemanha",
     "destino": "Zadar, HR"
   },
   "OCN2ND": {
     "origem": "Funchal, Portugal",
-    "destino": "Munich, DE"
+    "destino": "Munich, Alemanha"
   },
   "EZY51RP": {
     "origem": "Marrakech, Marrocos",
@@ -5200,8 +5200,8 @@
     "destino": "Faro, Portugal"
   },
   "CFG8AC": {
-    "origem": "Frankfurt-am-Main, DE",
-    "destino": "Sta Cruz de la Palma, La Palma Island, Espanha"
+    "origem": "Frankfurt-am-Main, Alemanha",
+    "destino": "La Palma, Espanha"
   },
   "TRA36X": {
     "origem": "Grã-Canária, Espanha",
@@ -5209,7 +5209,7 @@
   },
   "RYR67SU": {
     "origem": "Tenerife, Espanha",
-    "destino": "Berlin, DE"
+    "destino": "Berlin, Alemanha"
   },
   "BEL6HB": {
     "origem": "Tenerife, Espanha",
@@ -5237,7 +5237,7 @@
   },
   "CFG7PL": {
     "origem": "Tenerife, Espanha",
-    "destino": "Düsseldorf, DE"
+    "destino": "Düsseldorf, Alemanha"
   },
   "TVF7828": {
     "origem": "Nantes, França",
@@ -5245,11 +5245,11 @@
   },
   "VLG97GA": {
     "origem": "Barcelona, Espanha",
-    "destino": "Sta Cruz de la Palma, La Palma Island, Espanha"
+    "destino": "La Palma, Espanha"
   },
   "EWG8KH": {
     "origem": "Lisboa, Portugal",
-    "destino": "Cologne, DE"
+    "destino": "Cologne, Alemanha"
   },
   "VOE90TQ": {
     "origem": "Grã-Canária, Espanha",
@@ -5289,7 +5289,7 @@
   },
   "CFG1KL": {
     "origem": "Jerez de la Forntera, Espanha",
-    "destino": "Düsseldorf, DE"
+    "destino": "Düsseldorf, Alemanha"
   },
   "EJU67VX": {
     "origem": "Lyon, França",
@@ -5324,7 +5324,7 @@
     "destino": "Cork, IE"
   },
   "TUI2EJ": {
-    "origem": "Frankfurt-am-Main, DE",
+    "origem": "Frankfurt-am-Main, Alemanha",
     "destino": "Forteventura, Espanha"
   },
   "TAP291": {
@@ -5356,7 +5356,7 @@
     "destino": "Lisboa, Portugal"
   },
   "CFG9VL": {
-    "origem": "Hamburg, DE",
+    "origem": "Hamburg, Alemanha",
     "destino": "Tenerife, Espanha"
   },
   "TAP481": {
@@ -5377,34 +5377,34 @@
   },
   "DLH49Y": {
     "origem": "Faro, Portugal",
-    "destino": "Frankfurt-am-Main, DE"
+    "destino": "Frankfurt-am-Main, Alemanha"
   },
   "RYR2853": {
     "origem": "Manchester, Reino Unido",
     "destino": "Lanzarote, Espanha"
   },
   "CFG9HZ": {
-    "origem": "Düsseldorf, DE",
+    "origem": "Düsseldorf, Alemanha",
     "destino": "Grã-Canária, Espanha"
   },
   "EWG6C": {
-    "origem": "Düsseldorf, DE",
+    "origem": "Düsseldorf, Alemanha",
     "destino": "Faro, Portugal"
   },
   "CFG8DM": {
-    "origem": "Munich, DE",
+    "origem": "Munich, Alemanha",
     "destino": "Tenerife, Espanha"
   },
   "RAM779H": {
     "origem": "Paris, França",
-    "destino": "Casablanca, MA"
+    "destino": "Casablanca, Marrocos"
   },
   "DLH37N": {
-    "origem": "Frankfurt-am-Main, DE",
+    "origem": "Frankfurt-am-Main, Alemanha",
     "destino": "Faro, Portugal"
   },
   "TUI3DK": {
-    "origem": "Düsseldorf, DE",
+    "origem": "Düsseldorf, Alemanha",
     "destino": "Forteventura, Espanha"
   },
   "TFL6YM": {
@@ -5456,7 +5456,7 @@
     "destino": "Porto, Portugal"
   },
   "TVF3003": {
-    "origem": "Agadir, MA",
+    "origem": "Agadir, Marrocos",
     "destino": "Paris, França"
   },
   "WZZ558L": {
@@ -5488,11 +5488,11 @@
     "destino": "Lisboa, Portugal"
   },
   "TAP553R": {
-    "origem": "Munich, DE",
+    "origem": "Munich, Alemanha",
     "destino": "Lisboa, Portugal"
   },
   "TAP56DJ": {
-    "origem": "Hamburg, DE",
+    "origem": "Hamburg, Alemanha",
     "destino": "Lisboa, Portugal"
   },
   "WFL1505": {
@@ -5521,10 +5521,10 @@
   },
   "DLH98H": {
     "origem": "Lisboa, Portugal",
-    "destino": "Munich, DE"
+    "destino": "Munich, Alemanha"
   },
   "TVF33SN": {
-    "origem": "Agadir, MA",
+    "origem": "Agadir, Marrocos",
     "destino": "Paris, França"
   },
   "EZY53YB": {
@@ -5540,7 +5540,7 @@
     "destino": "Tenerife, Espanha"
   },
   "TAP31DB": {
-    "origem": "Berlin, DE",
+    "origem": "Berlin, Alemanha",
     "destino": "Lisboa, Portugal"
   },
   "TOM4BW": {
@@ -5560,7 +5560,7 @@
     "destino": "Eindhoven, Países Baixos"
   },
   "TUI2HY": {
-    "origem": "Hannover, DE",
+    "origem": "Hannover, Alemanha",
     "destino": "Forteventura, Espanha"
   },
   "JAF8AE": {
@@ -5596,7 +5596,7 @@
     "destino": "Porto, Portugal"
   },
   "TUI39B": {
-    "origem": "Hannover, DE",
+    "origem": "Hannover, Alemanha",
     "destino": "Lanzarote, Espanha"
   },
   "EXS2Q": {
@@ -5612,7 +5612,7 @@
     "destino": "Forteventura, Espanha"
   },
   "RAM716X": {
-    "origem": "Casablanca, MA",
+    "origem": "Casablanca, Marrocos",
     "destino": "Nantes, França"
   },
   "TRA14F": {
@@ -5632,7 +5632,7 @@
     "destino": "Faro, Portugal"
   },
   "RYR4JV": {
-    "origem": "Weeze, DE",
+    "origem": "Weeze, Alemanha",
     "destino": "Faro, Portugal"
   },
   "IBB80HR": {
@@ -5668,12 +5668,12 @@
     "destino": "Lisboa, Portugal"
   },
   "EWG6VJ": {
-    "origem": "Hamburg, DE",
+    "origem": "Hamburg, Alemanha",
     "destino": "Lisboa, Portugal"
   },
   "MBU6KR": {
     "origem": "Grã-Canária, Espanha",
-    "destino": "Hamburg, DE"
+    "destino": "Hamburg, Alemanha"
   },
   "RYR1882": {
     "origem": "Porto, Portugal",
@@ -5725,11 +5725,11 @@
   },
   "CFG9MK": {
     "origem": "Forteventura, Espanha",
-    "destino": "Frankfurt-am-Main, DE"
+    "destino": "Frankfurt-am-Main, Alemanha"
   },
   "TVF3200": {
     "origem": "Nantes, França",
-    "destino": "Casablanca, MA"
+    "destino": "Casablanca, Marrocos"
   },
   "EJU83AZ": {
     "origem": "Lisboa, Portugal",
@@ -5757,11 +5757,11 @@
   },
   "MBU2CS": {
     "origem": "Faro, Portugal",
-    "destino": "Leipzig, DE"
+    "destino": "Leipzig, Alemanha"
   },
   "RUK6U": {
     "origem": "Londres, Reino Unido",
-    "destino": "Ouarzazate, MA"
+    "destino": "Ouarzazate, Marrocos"
   },
   "RYR63HF": {
     "origem": "Dublin, IE",
@@ -5804,7 +5804,7 @@
     "destino": "Forteventura, Espanha"
   },
   "EWG1RU": {
-    "origem": "Cologne, DE",
+    "origem": "Cologne, Alemanha",
     "destino": "Faro, Portugal"
   },
   "TOM30W": {
@@ -5812,7 +5812,7 @@
     "destino": "Forteventura, Espanha"
   },
   "VLG3249": {
-    "origem": "Sta Cruz de la Palma, La Palma Island, Espanha",
+    "origem": "La Palma, Espanha",
     "destino": "Barcelona, Espanha"
   },
   "RYR4762": {
@@ -5821,7 +5821,7 @@
   },
   "EZY86HG": {
     "origem": "Manchester, Reino Unido",
-    "destino": "Agadir, MA"
+    "destino": "Agadir, Marrocos"
   },
   "VLG2HL": {
     "origem": "Porto, Portugal",
@@ -5840,8 +5840,8 @@
     "destino": "Tenerife, Espanha"
   },
   "CFG8CT": {
-    "origem": "Sta Cruz de la Palma, La Palma Island, Espanha",
-    "destino": "Frankfurt-am-Main, DE"
+    "origem": "La Palma, Espanha",
+    "destino": "Frankfurt-am-Main, Alemanha"
   },
   "EXS97KT": {
     "origem": "Manchester, Reino Unido",
@@ -5873,7 +5873,7 @@
   },
   "EXS61DD": {
     "origem": "Birmingham, Reino Unido",
-    "destino": "Agadir, MA"
+    "destino": "Agadir, Marrocos"
   },
   "ANE85LX": {
     "origem": "Madrid, Espanha",
@@ -5888,12 +5888,12 @@
     "destino": "Lanzarote, Espanha"
   },
   "CFG525": {
-    "origem": "Agadir, MA",
-    "destino": "Frankfurt-am-Main, DE"
+    "origem": "Agadir, Marrocos",
+    "destino": "Frankfurt-am-Main, Alemanha"
   },
   "RYR6BY": {
     "origem": "Faro, Portugal",
-    "destino": "Weeze, DE"
+    "destino": "Weeze, Alemanha"
   },
   "RYR404M": {
     "origem": "Birmingham, Reino Unido",
@@ -5925,7 +5925,7 @@
   },
   "EZY2949": {
     "origem": "Bristol, Reino Unido",
-    "destino": "Agadir, MA"
+    "destino": "Agadir, Marrocos"
   },
   "TOM2LJ": {
     "origem": "Birmingham, Reino Unido",
@@ -5945,7 +5945,7 @@
   },
   "EJU31XM": {
     "origem": "Tenerife, Espanha",
-    "destino": "Berlin, DE"
+    "destino": "Berlin, Alemanha"
   },
   "LCO3613": {
     "origem": "Bruxelas, Bélgica",
@@ -5953,7 +5953,7 @@
   },
   "RYR23MM": {
     "origem": "Dublin, IE",
-    "destino": "Marrakech, MA"
+    "destino": "Marrakech, Marrocos"
   },
   "NSZ21FC": {
     "origem": "Faro, Portugal",
@@ -5965,10 +5965,10 @@
   },
   "EXS15J": {
     "origem": "Glasgow, Reino Unido",
-    "destino": "Agadir, MA"
+    "destino": "Agadir, Marrocos"
   },
   "TAP9248": {
-    "origem": "Munich, DE",
+    "origem": "Munich, Alemanha",
     "destino": "Lisboa, Portugal"
   },
   "SWR92V": {
@@ -5985,7 +5985,7 @@
   },
   "MBU2VF": {
     "origem": "Grã-Canária, Espanha",
-    "destino": "Leipzig, DE"
+    "destino": "Leipzig, Alemanha"
   },
   "EXS49A": {
     "origem": "Londres, Reino Unido",
@@ -5993,7 +5993,7 @@
   },
   "RUK861": {
     "origem": "Edinburgh, Reino Unido",
-    "destino": "Agadir, MA"
+    "destino": "Agadir, Marrocos"
   },
   "EXS34R": {
     "origem": "Manchester, Reino Unido",
@@ -6005,7 +6005,7 @@
   },
   "CFG2AW": {
     "origem": "Grã-Canária, Espanha",
-    "destino": "Düsseldorf, DE"
+    "destino": "Düsseldorf, Alemanha"
   },
   "RYR9518": {
     "origem": "Málaga, Espanha",
@@ -6013,7 +6013,7 @@
   },
   "CFG9WC": {
     "origem": "Tenerife, Espanha",
-    "destino": "Hamburg, DE"
+    "destino": "Hamburg, Alemanha"
   },
   "RYR14RK": {
     "origem": "Edinburgh, Reino Unido",
@@ -6021,7 +6021,7 @@
   },
   "EWG7603": {
     "origem": "Lisboa, Portugal",
-    "destino": "Hamburg, DE"
+    "destino": "Hamburg, Alemanha"
   },
   "EZY38KM": {
     "origem": "Birmingham, Reino Unido",
@@ -6033,11 +6033,11 @@
   },
   "EZY31RL": {
     "origem": "Edinburgh, Reino Unido",
-    "destino": "Agadir, MA"
+    "destino": "Agadir, Marrocos"
   },
   "CFG8HL": {
     "origem": "Grã-Canária, Espanha",
-    "destino": "Frankfurt-am-Main, DE"
+    "destino": "Frankfurt-am-Main, Alemanha"
   },
   "RYR57UJ": {
     "origem": "Beauvais/Tillé, França",
@@ -6052,7 +6052,7 @@
     "destino": "Lisboa, Portugal"
   },
   "RYR47EY": {
-    "origem": "Cologne, DE",
+    "origem": "Cologne, Alemanha",
     "destino": "Lisboa, Portugal"
   },
   "EXS9CX": {
@@ -6061,10 +6061,10 @@
   },
   "EZY91UV": {
     "origem": "Bristol, Reino Unido",
-    "destino": "Marrakech, MA"
+    "destino": "Marrakech, Marrocos"
   },
   "RYR31AV": {
-    "origem": "Berlin, DE",
+    "origem": "Berlin, Alemanha",
     "destino": "Tenerife, Espanha"
   },
   "RYR9009": {
@@ -6076,7 +6076,7 @@
     "destino": "Copenhagen, DK"
   },
   "RUK45XJ": {
-    "origem": "Essaouira, MA",
+    "origem": "Essaouira, Marrocos",
     "destino": "Londres, Reino Unido"
   },
   "VLG6DL": {
@@ -6089,7 +6089,7 @@
   },
   "TUI7H": {
     "origem": "Grã-Canária, Espanha",
-    "destino": "Munich, DE"
+    "destino": "Munich, Alemanha"
   },
   "KAL921": {
     "origem": "Seoul, KR",
@@ -6116,7 +6116,7 @@
     "destino": "Lisboa, Portugal"
   },
   "JAF4TM": {
-    "origem": "Casablanca, MA",
+    "origem": "Casablanca, Marrocos",
     "destino": "Bruxelas, Bélgica"
   },
   "TAP871": {
@@ -6144,7 +6144,7 @@
     "destino": "Lanzarote, Espanha"
   },
   "CFG9PH": {
-    "origem": "Stuttgart, DE",
+    "origem": "Stuttgart, Alemanha",
     "destino": "Grã-Canária, Espanha"
   },
   "TFL3805": {
@@ -6164,7 +6164,7 @@
     "destino": "Pisa, IT"
   },
   "TVF31JV": {
-    "origem": "Casablanca, MA",
+    "origem": "Casablanca, Marrocos",
     "destino": "Nantes, França"
   },
   "RYR21KP": {
@@ -6172,7 +6172,7 @@
     "destino": "Faro, Portugal"
   },
   "TRA5746": {
-    "origem": "Casablanca, MA",
+    "origem": "Casablanca, Marrocos",
     "destino": "Amesterdão, Países Baixos"
   },
   "TRA64Q": {
@@ -6180,7 +6180,7 @@
     "destino": "Amesterdão, Países Baixos"
   },
   "TRA8R": {
-    "origem": "Marrakech, MA",
+    "origem": "Marrakech, Marrocos",
     "destino": "Amesterdão, Países Baixos"
   },
   "EJU6723": {
@@ -6204,12 +6204,12 @@
     "destino": "Amesterdão, Países Baixos"
   },
   "RUK8529": {
-    "origem": "Ouarzazate, MA",
+    "origem": "Ouarzazate, Marrocos",
     "destino": "Londres, Reino Unido"
   },
   "TUI6DT": {
     "origem": "Lanzarote, Espanha",
-    "destino": "Hannover, DE"
+    "destino": "Hannover, Alemanha"
   },
   "ANE52TN": {
     "origem": "Lisboa, Portugal",
@@ -6225,7 +6225,7 @@
   },
   "RAM807": {
     "origem": "Londres, Reino Unido",
-    "destino": "Casablanca, MA"
+    "destino": "Casablanca, Marrocos"
   },
   "EJU67EC": {
     "origem": "Tenerife, Espanha",
@@ -6241,7 +6241,7 @@
   },
   "JAF79J": {
     "origem": "Paris, França",
-    "destino": "Marrakech, MA"
+    "destino": "Marrakech, Marrocos"
   },
   "RYR18EB": {
     "origem": "Sevilla, Espanha",
@@ -6269,7 +6269,7 @@
   },
   "RYR4UR": {
     "origem": "Lisboa, Portugal",
-    "destino": "Cologne, DE"
+    "destino": "Cologne, Alemanha"
   },
   "EJU84LF": {
     "origem": "Londres, Reino Unido",
@@ -6280,20 +6280,20 @@
     "destino": "Reykjavík, IS"
   },
   "NSZ3407": {
-    "origem": "Marrakech, MA",
+    "origem": "Marrakech, Marrocos",
     "destino": "Copenhagen, DK"
   },
   "RYR375Y": {
-    "origem": "Marrakech, MA",
+    "origem": "Marrakech, Marrocos",
     "destino": "Dublin, IE"
   },
   "TUI6YX": {
     "origem": "Tenerife, Espanha",
-    "destino": "Frankfurt-am-Main, DE"
+    "destino": "Frankfurt-am-Main, Alemanha"
   },
   "CFG1MW": {
     "origem": "Tenerife, Espanha",
-    "destino": "Frankfurt-am-Main, DE"
+    "destino": "Frankfurt-am-Main, Alemanha"
   },
   "ETH740": {
     "origem": "Addis Ababa, ET",
@@ -6328,11 +6328,11 @@
     "destino": "Tenerife, Espanha"
   },
   "CFG5AD": {
-    "origem": "Munich, DE",
+    "origem": "Munich, Alemanha",
     "destino": "Funchal, Portugal"
   },
   "JAF7HM": {
-    "origem": "Marrakech, MA",
+    "origem": "Marrakech, Marrocos",
     "destino": "Lille/Lesquin, França"
   },
   "EXS77M": {
@@ -6425,14 +6425,14 @@
   },
   "TRA9263": {
     "origem": "Bruxelas, Bélgica",
-    "destino": "Marrakech, MA"
+    "destino": "Marrakech, Marrocos"
   },
   "EZY82GK": {
     "origem": "Londres, Reino Unido",
     "destino": "Funchal, Portugal"
   },
   "EJU38ZX": {
-    "origem": "Berlin, DE",
+    "origem": "Berlin, Alemanha",
     "destino": "Funchal, Portugal"
   },
   "JAF2GX": {
@@ -6441,11 +6441,11 @@
   },
   "RUK54RD": {
     "origem": "Edinburgh, Reino Unido",
-    "destino": "Marrakech, MA"
+    "destino": "Marrakech, Marrocos"
   },
   "CFG3PX": {
     "origem": "Palma De Mallorca, Espanha",
-    "destino": "Stuttgart, DE"
+    "destino": "Stuttgart, Alemanha"
   },
   "TOM27D": {
     "origem": "Funchal, Portugal",
@@ -6453,14 +6453,14 @@
   },
   "EXS8DB": {
     "origem": "Leeds, Reino Unido",
-    "destino": "Agadir, MA"
+    "destino": "Agadir, Marrocos"
   },
   "TOM3MK": {
     "origem": "Manchester, Reino Unido",
     "destino": "Lanzarote, Espanha"
   },
   "RYR24JX": {
-    "origem": "Agadir, MA",
+    "origem": "Agadir, Marrocos",
     "destino": "Beauvais/Tillé, França"
   },
   "WFL2094": {
@@ -6505,7 +6505,7 @@
   },
   "EZY95VR": {
     "origem": "Edinburgh, Reino Unido",
-    "destino": "Marrakech, MA"
+    "destino": "Marrakech, Marrocos"
   },
   "SAS4708": {
     "origem": "Faro, Portugal",
@@ -6520,7 +6520,7 @@
     "destino": "Manchester, Reino Unido"
   },
   "TVF3045": {
-    "origem": "Essaouira, MA",
+    "origem": "Essaouira, Marrocos",
     "destino": "Paris, França"
   },
   "EIN82T": {
@@ -6553,7 +6553,7 @@
   },
   "RYR473": {
     "origem": "Lanzarote, Espanha",
-    "destino": "Cologne, DE"
+    "destino": "Cologne, Alemanha"
   },
   "ANE77EM": {
     "origem": "Madrid, Espanha",
@@ -6589,18 +6589,18 @@
   },
   "CFG5ET": {
     "origem": "Funchal, Portugal",
-    "destino": "Munich, DE"
+    "destino": "Munich, Alemanha"
   },
   "IBB60SP": {
     "origem": "Madrid, Espanha",
     "destino": "Grã-Canária, Espanha"
   },
   "TRA26B": {
-    "origem": "Marrakech, MA",
+    "origem": "Marrakech, Marrocos",
     "destino": "Bruxelas, Bélgica"
   },
   "RAM994": {
-    "origem": "Casablanca, MA",
+    "origem": "Casablanca, Marrocos",
     "destino": "Porto, Portugal"
   },
   "SWR2LX": {
@@ -6660,7 +6660,7 @@
     "destino": "Aberdeen, Reino Unido"
   },
   "RUK7FR": {
-    "origem": "Marrakech, MA",
+    "origem": "Marrakech, Marrocos",
     "destino": "Edinburgh, Reino Unido"
   },
   "RYR1190": {
@@ -6704,7 +6704,7 @@
     "destino": "Dublin, IE"
   },
   "RYR59XK": {
-    "origem": "Cologne, DE",
+    "origem": "Cologne, Alemanha",
     "destino": "Porto, Portugal"
   },
   "TVS77E": {
@@ -6732,7 +6732,7 @@
     "destino": "Barcelona, Espanha"
   },
   "RAM802": {
-    "origem": "Casablanca, MA",
+    "origem": "Casablanca, Marrocos",
     "destino": "Londres, Reino Unido"
   },
   "EZS12HL": {
@@ -6756,7 +6756,7 @@
     "destino": "Madrid, Espanha"
   },
   "EZY76HD": {
-    "origem": "Marrakech, MA",
+    "origem": "Marrakech, Marrocos",
     "destino": "Edinburgh, Reino Unido"
   },
   "EVE813": {
@@ -6764,7 +6764,7 @@
     "destino": "Cancún, MX"
   },
   "EXS2SW": {
-    "origem": "Agadir, MA",
+    "origem": "Agadir, Marrocos",
     "destino": "Leeds, Reino Unido"
   },
   "JAF5EX": {
@@ -6773,7 +6773,7 @@
   },
   "RYR4ET": {
     "origem": "Porto, Portugal",
-    "destino": "Marrakech, MA"
+    "destino": "Marrakech, Marrocos"
   },
   "EJU76WG": {
     "origem": "Lisboa, Portugal",
@@ -6792,7 +6792,7 @@
     "destino": "Grã-Canária, Espanha"
   },
   "MBU5SM": {
-    "origem": "Leipzig, DE",
+    "origem": "Leipzig, Alemanha",
     "destino": "Funchal, Portugal"
   },
   "PUE231": {
@@ -6801,7 +6801,7 @@
   },
   "RAM995": {
     "origem": "Porto, Portugal",
-    "destino": "Casablanca, MA"
+    "destino": "Casablanca, Marrocos"
   },
   "EJU78EM": {
     "origem": "Nantes, França",
@@ -6812,7 +6812,7 @@
     "destino": "Rodez/Marcillac, França"
   },
   "CFG4MF": {
-    "origem": "Frankfurt-am-Main, DE",
+    "origem": "Frankfurt-am-Main, Alemanha",
     "destino": "Funchal, Portugal"
   },
   "AEA42TF": {
@@ -6836,7 +6836,7 @@
     "destino": "Firenze, IT"
   },
   "EWG9MK": {
-    "origem": "Cologne, DE",
+    "origem": "Cologne, Alemanha",
     "destino": "Grã-Canária, Espanha"
   },
   "EJU35FG": {
@@ -6848,7 +6848,7 @@
     "destino": "Geneva, CH"
   },
   "EWG7A": {
-    "origem": "Cologne, DE",
+    "origem": "Cologne, Alemanha",
     "destino": "Tenerife, Espanha"
   },
   "ANE91TE": {
@@ -6856,7 +6856,7 @@
     "destino": "Lisboa, Portugal"
   },
   "CFG7CF": {
-    "origem": "Düsseldorf, DE",
+    "origem": "Düsseldorf, Alemanha",
     "destino": "Funchal, Portugal"
   },
   "RYR2SM": {
@@ -6872,12 +6872,12 @@
     "destino": "Santiago, CL"
   },
   "DLH32X": {
-    "origem": "Frankfurt-am-Main, DE",
+    "origem": "Frankfurt-am-Main, Alemanha",
     "destino": "Porto, Portugal"
   },
   "EZY5739": {
     "origem": "Southend, Reino Unido",
-    "destino": "Marrakech, MA"
+    "destino": "Marrakech, Marrocos"
   },
   "EXS4VA": {
     "origem": "Bristol, Reino Unido",
@@ -6885,7 +6885,7 @@
   },
   "DLH15E": {
     "origem": "Faro, Portugal",
-    "destino": "Munich, DE"
+    "destino": "Munich, Alemanha"
   },
   "IBB36": {
     "origem": "Grã-Canária, Espanha",
@@ -6917,7 +6917,7 @@
   },
   "EWG7KC": {
     "origem": "Palma De Mallorca, Espanha",
-    "destino": "Hamburg, DE"
+    "destino": "Hamburg, Alemanha"
   },
   "WMT591": {
     "origem": "Cluj-Napoca, RO",
@@ -6965,10 +6965,10 @@
   },
   "EXS39MQ": {
     "origem": "Londres, Reino Unido",
-    "destino": "Agadir, MA"
+    "destino": "Agadir, Marrocos"
   },
   "JAF4TY": {
-    "origem": "Agadir, MA",
+    "origem": "Agadir, Marrocos",
     "destino": "Lille/Lesquin, França"
   },
   "EXS9LA": {
@@ -6984,7 +6984,7 @@
     "destino": "Porto, Portugal"
   },
   "MBU3GF": {
-    "origem": "Nürnberg, DE",
+    "origem": "Nürnberg, Alemanha",
     "destino": "Funchal, Portugal"
   },
   "AEA119": {
@@ -6996,8 +6996,8 @@
     "destino": "Lanzarote, Espanha"
   },
   "EWG19K": {
-    "origem": "Hamburg, DE",
-    "destino": "Hamburg, DE"
+    "origem": "Hamburg, Alemanha",
+    "destino": "Hamburg, Alemanha"
   },
   "EXS66R": {
     "origem": "Nottingham, Reino Unido",
@@ -7013,7 +7013,7 @@
   },
   "EZY49VC": {
     "origem": "Londres, Reino Unido",
-    "destino": "Marrakech, MA"
+    "destino": "Marrakech, Marrocos"
   },
   "EXS54G": {
     "origem": "Birmingham, Reino Unido",
@@ -7025,14 +7025,14 @@
   },
   "EXS92MJ": {
     "origem": "Manchester, Reino Unido",
-    "destino": "Agadir, MA"
+    "destino": "Agadir, Marrocos"
   },
   "EWG59H": {
     "origem": "Faro, Portugal",
-    "destino": "Cologne, DE"
+    "destino": "Cologne, Alemanha"
   },
   "RYR5464": {
-    "origem": "Marrakech, MA",
+    "origem": "Marrakech, Marrocos",
     "destino": "Porto, Portugal"
   },
   "TOM782": {
@@ -7052,7 +7052,7 @@
     "destino": "Faro, Portugal"
   },
   "EWG79M": {
-    "origem": "Düsseldorf, DE",
+    "origem": "Düsseldorf, Alemanha",
     "destino": "Porto, Portugal"
   },
   "EXS92YH": {
@@ -7065,7 +7065,7 @@
   },
   "TOM74B": {
     "origem": "Manchester, Reino Unido",
-    "destino": "Sta Cruz de la Palma, La Palma Island, Espanha"
+    "destino": "La Palma, Espanha"
   },
   "NSZ3618": {
     "origem": "Copenhagen, DK",
@@ -7080,8 +7080,8 @@
     "destino": "Grã-Canária, Espanha"
   },
   "TUI23D": {
-    "origem": "Stuttgart, DE",
-    "destino": "Stuttgart, DE"
+    "origem": "Stuttgart, Alemanha",
+    "destino": "Stuttgart, Alemanha"
   },
   "AUA4060": {
     "origem": "Funchal, Portugal",
@@ -7117,7 +7117,7 @@
   },
   "RUK10YY": {
     "origem": "Londres, Reino Unido",
-    "destino": "Marrakech, MA"
+    "destino": "Marrakech, Marrocos"
   },
   "VLG70WL": {
     "origem": "Barcelona, Espanha",
@@ -7132,7 +7132,7 @@
     "destino": "Lanzarote, Espanha"
   },
   "RYR9499": {
-    "origem": "Agadir, MA",
+    "origem": "Agadir, Marrocos",
     "destino": "Strasbourg, França"
   },
   "EJU85AN": {
@@ -7149,11 +7149,11 @@
   },
   "CFG5WM": {
     "origem": "Tenerife, Espanha",
-    "destino": "Frankfurt-am-Main, DE"
+    "destino": "Frankfurt-am-Main, Alemanha"
   },
   "CFG7AM": {
     "origem": "Forteventura, Espanha",
-    "destino": "Frankfurt-am-Main, DE"
+    "destino": "Frankfurt-am-Main, Alemanha"
   },
   "TOM8KX": {
     "origem": "Birmingham, Reino Unido",
@@ -7165,11 +7165,11 @@
   },
   "OCN7N": {
     "origem": "Tenerife, Espanha",
-    "destino": "Munich, DE"
+    "destino": "Munich, Alemanha"
   },
   "TUI6DL": {
     "origem": "Grã-Canária, Espanha",
-    "destino": "Frankfurt-am-Main, DE"
+    "destino": "Frankfurt-am-Main, Alemanha"
   },
   "WMT7DF": {
     "origem": "Tenerife, Espanha",
@@ -7177,7 +7177,7 @@
   },
   "RUK26RD": {
     "origem": "Manchester, Reino Unido",
-    "destino": "Agadir, MA"
+    "destino": "Agadir, Marrocos"
   },
   "TOM6BH": {
     "origem": "Newcastle, Reino Unido",
@@ -7189,7 +7189,7 @@
   },
   "EXS19W": {
     "origem": "Bristol, Reino Unido",
-    "destino": "Agadir, MA"
+    "destino": "Agadir, Marrocos"
   },
   "EXS37KY": {
     "origem": "Londres, Reino Unido",
@@ -7205,7 +7205,7 @@
   },
   "CFG5LC": {
     "origem": "Tenerife, Espanha",
-    "destino": "Düsseldorf, DE"
+    "destino": "Düsseldorf, Alemanha"
   },
   "TOM1FH": {
     "origem": "Londres, Reino Unido",
@@ -7217,22 +7217,22 @@
   },
   "SDR34AM": {
     "origem": "Forteventura, Espanha",
-    "destino": "Berlin, DE"
+    "destino": "Berlin, Alemanha"
   },
   "CFG4PH": {
     "origem": "Funchal, Portugal",
-    "destino": "Frankfurt-am-Main, DE"
+    "destino": "Frankfurt-am-Main, Alemanha"
   },
   "CFG9AT": {
-    "origem": "Düsseldorf, DE",
+    "origem": "Düsseldorf, Alemanha",
     "destino": "Forteventura, Espanha"
   },
   "CFG5TW": {
     "origem": "Grã-Canária, Espanha",
-    "destino": "Frankfurt-am-Main, DE"
+    "destino": "Frankfurt-am-Main, Alemanha"
   },
   "EZY63LZ": {
-    "origem": "Marrakech, MA",
+    "origem": "Marrakech, Marrocos",
     "destino": "Southend, Reino Unido"
   },
   "TAP1361": {
@@ -7257,14 +7257,14 @@
   },
   "OCN301": {
     "origem": "Forteventura, Espanha",
-    "destino": "Frankfurt-am-Main, DE"
+    "destino": "Frankfurt-am-Main, Alemanha"
   },
   "AFR1163": {
     "origem": "Tenerife, Espanha",
     "destino": "Paris, França"
   },
   "RYR42KL": {
-    "origem": "Agadir, MA",
+    "origem": "Agadir, Marrocos",
     "destino": "Dublin, IE"
   },
   "AEA9117": {
@@ -7273,7 +7273,7 @@
   },
   "TUI197": {
     "origem": "Tenerife, Espanha",
-    "destino": "Munich, DE"
+    "destino": "Munich, Alemanha"
   },
   "VLG42TA": {
     "origem": "Grã-Canária, Espanha",
@@ -7297,7 +7297,7 @@
   },
   "EWG9559": {
     "origem": "Tenerife, Espanha",
-    "destino": "Düsseldorf, DE"
+    "destino": "Düsseldorf, Alemanha"
   },
   "TRA5362": {
     "origem": "Faro, Portugal",
@@ -7309,7 +7309,7 @@
   },
   "CFG7DP": {
     "origem": "Funchal, Portugal",
-    "destino": "Düsseldorf, DE"
+    "destino": "Düsseldorf, Alemanha"
   },
   "TVF55JZ": {
     "origem": "Lisboa, Portugal",
@@ -7321,7 +7321,7 @@
   },
   "TUI1YW": {
     "origem": "Tenerife, Espanha",
-    "destino": "Stuttgart, DE"
+    "destino": "Stuttgart, Alemanha"
   },
   "IBB8AQ": {
     "origem": "Madrid, Espanha",
@@ -7349,7 +7349,7 @@
   },
   "CFG6EH": {
     "origem": "Grã-Canária, Espanha",
-    "destino": "Düsseldorf, DE"
+    "destino": "Düsseldorf, Alemanha"
   },
   "NSZ278Y": {
     "origem": "Lisboa, Portugal",
@@ -7373,7 +7373,7 @@
   },
   "TOM732": {
     "origem": "Manchester, Reino Unido",
-    "destino": "Agadir, MA"
+    "destino": "Agadir, Marrocos"
   },
   "EJU7214": {
     "origem": "Lisboa, Portugal",
@@ -7381,7 +7381,7 @@
   },
   "RAM819I": {
     "origem": "Manchester, Reino Unido",
-    "destino": "Casablanca, MA"
+    "destino": "Casablanca, Marrocos"
   },
   "VLG362W": {
     "origem": "Barcelona, Espanha",
@@ -7389,10 +7389,10 @@
   },
   "EWG6B": {
     "origem": "Tenerife, Espanha",
-    "destino": "Cologne, DE"
+    "destino": "Cologne, Alemanha"
   },
   "EXS1476": {
-    "origem": "Agadir, MA",
+    "origem": "Agadir, Marrocos",
     "destino": "Londres, Reino Unido"
   },
   "EXS44C": {
@@ -7425,14 +7425,14 @@
   },
   "TFL2FK": {
     "origem": "Faro, Portugal",
-    "destino": "Amsterdam, NL"
+    "destino": "Amesterdão, Países Baixos"
   },
   "EXS1762": {
-    "origem": "Agadir, MA",
+    "origem": "Agadir, Marrocos",
     "destino": "Manchester, Reino Unido"
   },
   "IBS1536": {
-    "origem": "Sta Cruz de la Palma, La Palma Island, Espanha",
+    "origem": "La Palma, Espanha",
     "destino": "Madrid, Espanha"
   },
   "TAP484H": {
@@ -7445,15 +7445,15 @@
   },
   "TRA1P": {
     "origem": "Faro, Portugal",
-    "destino": "Amsterdam, NL"
+    "destino": "Amesterdão, Países Baixos"
   },
   "TFL3DG": {
     "origem": "Tenerife, Espanha",
-    "destino": "Amsterdam, NL"
+    "destino": "Amesterdão, Países Baixos"
   },
   "EWG3KN": {
     "origem": "Forteventura, Espanha",
-    "destino": "Cologne, DE"
+    "destino": "Cologne, Alemanha"
   },
   "TAP1096": {
     "origem": "Lisboa, Portugal",
@@ -7465,7 +7465,7 @@
   },
   "TRA83Q": {
     "origem": "Forteventura, Espanha",
-    "destino": "Amsterdam, NL"
+    "destino": "Amesterdão, Países Baixos"
   },
   "AEE4RO": {
     "origem": "Athens, GR",
@@ -7480,12 +7480,12 @@
     "destino": "Tenerife, Espanha"
   },
   "KLM701": {
-    "origem": "Amsterdam, NL",
+    "origem": "Amesterdão, Países Baixos",
     "destino": "Santiago, CL"
   },
   "TRA5960": {
     "origem": "Lisboa, Portugal",
-    "destino": "Amsterdam, NL"
+    "destino": "Amesterdão, Países Baixos"
   },
   "EXS9CM": {
     "origem": "Grã-Canária, Espanha",
@@ -7500,7 +7500,7 @@
     "destino": "Nottingham, Reino Unido"
   },
   "EXS6L": {
-    "origem": "Agadir, MA",
+    "origem": "Agadir, Marrocos",
     "destino": "Bristol, Reino Unido"
   },
   "RYR1768": {
@@ -7568,12 +7568,12 @@
     "destino": "Madrid, Espanha"
   },
   "EWG7JH": {
-    "origem": "Cologne, DE",
+    "origem": "Cologne, Alemanha",
     "destino": "Funchal, Portugal"
   },
   "DLH61H": {
     "origem": "Porto, Portugal",
-    "destino": "Munich, DE"
+    "destino": "Munich, Alemanha"
   },
   "VLG2WX": {
     "origem": "Santiago de Compostela, Espanha",
@@ -7596,11 +7596,11 @@
     "destino": "Lisboa, Portugal"
   },
   "JAF2HG": {
-    "origem": "Casablanca, MA",
-    "destino": "Rotterdam, NL"
+    "origem": "Casablanca, Marrocos",
+    "destino": "Rotterdam, Países Baixos"
   },
   "CFG3KE": {
-    "origem": "Düsseldorf, DE",
+    "origem": "Düsseldorf, Alemanha",
     "destino": "Samos Island, GR"
   },
   "TAP495Y": {
@@ -7608,11 +7608,11 @@
     "destino": "Lisboa, Portugal"
   },
   "TRA536L": {
-    "origem": "Amsterdam, NL",
+    "origem": "Amesterdão, Países Baixos",
     "destino": "Faro, Portugal"
   },
   "RYR85DQ": {
-    "origem": "Cologne, DE",
+    "origem": "Cologne, Alemanha",
     "destino": "Lanzarote, Espanha"
   },
   "TAP405": {
@@ -7644,7 +7644,7 @@
     "destino": "Dublin, IE"
   },
   "TOM681": {
-    "origem": "Agadir, MA",
+    "origem": "Agadir, Marrocos",
     "destino": "Londres, Reino Unido"
   },
   "TOM33A": {
@@ -7705,7 +7705,7 @@
   },
   "RYR8616": {
     "origem": "Porto, Portugal",
-    "destino": "Tangier, MA"
+    "destino": "Tangier, Marrocos"
   },
   "VOE60YR": {
     "origem": "Ranón, Espanha",
@@ -7721,7 +7721,7 @@
   },
   "RYR3643": {
     "origem": "Beauvais/Tillé, França",
-    "destino": "Essaouira, MA"
+    "destino": "Essaouira, Marrocos"
   },
   "TVF16NR": {
     "origem": "Paris, França",
@@ -7732,11 +7732,11 @@
     "destino": "Lajes, Portugal"
   },
   "RYR308L": {
-    "origem": "Weeze, DE",
+    "origem": "Weeze, Alemanha",
     "destino": "Tenerife, Espanha"
   },
   "RYR96XM": {
-    "origem": "Nürnberg, DE",
+    "origem": "Nürnberg, Alemanha",
     "destino": "Tenerife, Espanha"
   },
   "AAL740": {
@@ -7756,7 +7756,7 @@
     "destino": "Rome, IT"
   },
   "RYR2MP": {
-    "origem": "Cologne, DE",
+    "origem": "Cologne, Alemanha",
     "destino": "Grã-Canária, Espanha"
   },
   "SWR93": {
@@ -7764,11 +7764,11 @@
     "destino": "Zürich, CH"
   },
   "TFL1641": {
-    "origem": "Amsterdam, NL",
+    "origem": "Amesterdão, Países Baixos",
     "destino": "Grã-Canária, Espanha"
   },
   "TRA39T": {
-    "origem": "Amsterdam, NL",
+    "origem": "Amesterdão, Países Baixos",
     "destino": "Porto, Portugal"
   },
   "EZY34GB": {
@@ -7837,10 +7837,10 @@
   },
   "EXS44U": {
     "origem": "Birmingham, Reino Unido",
-    "destino": "Marrakech, MA"
+    "destino": "Marrakech, Marrocos"
   },
   "RYR8QJ": {
-    "origem": "Tangier, MA",
+    "origem": "Tangier, Marrocos",
     "destino": "Porto, Portugal"
   },
   "FLI7126": {
@@ -7861,10 +7861,10 @@
   },
   "RYR98XX": {
     "origem": "Faro, Portugal",
-    "destino": "Cologne, DE"
+    "destino": "Cologne, Alemanha"
   },
   "EZS587H": {
-    "origem": "Marrakech, MA",
+    "origem": "Marrakech, Marrocos",
     "destino": "Saint-Louis, França"
   },
   "EFW69H": {
@@ -7904,12 +7904,12 @@
     "destino": "New York, US"
   },
   "TFL34X": {
-    "origem": "Rotterdam, NL",
+    "origem": "Rotterdam, Países Baixos",
     "destino": "Tenerife, Espanha"
   },
   "EXS31DR": {
     "origem": "Londres, Reino Unido",
-    "destino": "Marrakech, MA"
+    "destino": "Marrakech, Marrocos"
   },
   "RZO228": {
     "origem": "Boston, US",
@@ -7948,11 +7948,11 @@
     "destino": "Belfast, Reino Unido"
   },
   "TVF3211": {
-    "origem": "Marrakech, MA",
+    "origem": "Marrakech, Marrocos",
     "destino": "Nantes, França"
   },
   "EJU19WZ": {
-    "origem": "Marrakech, MA",
+    "origem": "Marrakech, Marrocos",
     "destino": "Nantes, França"
   },
   "AAL126": {
@@ -7976,11 +7976,11 @@
     "destino": "Faro, Portugal"
   },
   "EZY75HQ": {
-    "origem": "Marrakech, MA",
+    "origem": "Marrakech, Marrocos",
     "destino": "Manchester, Reino Unido"
   },
   "TVF32WP": {
-    "origem": "Agadir, MA",
+    "origem": "Agadir, Marrocos",
     "destino": "Nantes, França"
   },
   "EJU83MN": {
@@ -8013,10 +8013,10 @@
   },
   "RYR2DR": {
     "origem": "Grã-Canária, Espanha",
-    "destino": "Cologne, DE"
+    "destino": "Cologne, Alemanha"
   },
   "EXS9ZV": {
-    "origem": "Marrakech, MA",
+    "origem": "Marrakech, Marrocos",
     "destino": "Birmingham, Reino Unido"
   },
   "IBE05GZ": {
@@ -8025,10 +8025,10 @@
   },
   "FHM1542": {
     "origem": "Forteventura, Espanha",
-    "destino": "Leipzig, DE"
+    "destino": "Leipzig, Alemanha"
   },
   "CFG1CD": {
-    "origem": "Düsseldorf, DE",
+    "origem": "Düsseldorf, Alemanha",
     "destino": "Tenerife, Espanha"
   },
   "BAW510": {
@@ -8041,11 +8041,11 @@
   },
   "TFL83V": {
     "origem": "Grã-Canária, Espanha",
-    "destino": "Amsterdam, NL"
+    "destino": "Amesterdão, Países Baixos"
   },
   "TFL1642": {
     "origem": "Grã-Canária, Espanha",
-    "destino": "Amsterdam, NL"
+    "destino": "Amesterdão, Países Baixos"
   },
   "RYR28BU": {
     "origem": "Faro, Portugal",
@@ -8065,18 +8065,18 @@
   },
   "VJH556": {
     "origem": "Birmingham, Reino Unido",
-    "destino": "Amsterdam, NL"
+    "destino": "Amesterdão, Países Baixos"
   },
   "TAP11EG": {
     "origem": "Manchester, Reino Unido",
     "destino": "Lisboa, Portugal"
   },
   "CFG2LV": {
-    "origem": "Frankfurt-am-Main, DE",
+    "origem": "Frankfurt-am-Main, Alemanha",
     "destino": "Tenerife, Espanha"
   },
   "MBU3PK": {
-    "origem": "Hamburg, DE",
+    "origem": "Hamburg, Alemanha",
     "destino": "Lanzarote, Espanha"
   },
   "EJU37PF": {
@@ -8084,7 +8084,7 @@
     "destino": "Southend, Reino Unido"
   },
   "CFG6DW": {
-    "origem": "Hamburg, DE",
+    "origem": "Hamburg, Alemanha",
     "destino": "Tenerife, Espanha"
   },
   "EZY2472": {
@@ -8096,7 +8096,7 @@
     "destino": "Tenerife, Espanha"
   },
   "FHM6507": {
-    "origem": "Paderborn, DE",
+    "origem": "Paderborn, Alemanha",
     "destino": "Forteventura, Espanha"
   },
   "JTD532": {
@@ -8112,12 +8112,12 @@
     "destino": "Nottingham, Reino Unido"
   },
   "TRA621F": {
-    "origem": "Eindhoven, NL",
+    "origem": "Eindhoven, Países Baixos",
     "destino": "Tenerife, Espanha"
   },
   "EJU58GH": {
     "origem": "Grã-Canária, Espanha",
-    "destino": "Berlin, DE"
+    "destino": "Berlin, Alemanha"
   },
   "LCO1515": {
     "origem": "Bruxelas, Bélgica",
@@ -8128,7 +8128,7 @@
     "destino": "Copenhagen, DK"
   },
   "EXS66KE": {
-    "origem": "Marrakech, MA",
+    "origem": "Marrakech, Marrocos",
     "destino": "Londres, Reino Unido"
   },
   "VLG69RJ": {
@@ -8184,7 +8184,7 @@
     "destino": "Porto, Portugal"
   },
   "RYR2658": {
-    "origem": "Cologne, DE",
+    "origem": "Cologne, Alemanha",
     "destino": "Faro, Portugal"
   },
   "VKG1105": {
@@ -8196,7 +8196,7 @@
     "destino": "Santander, Espanha"
   },
   "JAF9NA": {
-    "origem": "Marrakech, MA",
+    "origem": "Marrakech, Marrocos",
     "destino": "Paris, França"
   },
   "PVG3562": {
@@ -8212,8 +8212,8 @@
     "destino": "Paris, França"
   },
   "RYR79YR": {
-    "origem": "Agadir, MA",
-    "destino": "Weeze, DE"
+    "origem": "Agadir, Marrocos",
+    "destino": "Weeze, Alemanha"
   },
   "RYR5PX": {
     "origem": "Faro, Portugal",
@@ -8224,7 +8224,7 @@
     "destino": "Forteventura, Espanha"
   },
   "TRA7M": {
-    "origem": "Amsterdam, NL",
+    "origem": "Amesterdão, Países Baixos",
     "destino": "Málaga, Espanha"
   },
   "RYR9ZN": {
@@ -8237,7 +8237,7 @@
   },
   "OCN6U": {
     "origem": "Funchal, Portugal",
-    "destino": "Frankfurt-am-Main, DE"
+    "destino": "Frankfurt-am-Main, Alemanha"
   },
   "BAW595": {
     "origem": "Faro, Portugal",
@@ -8261,10 +8261,10 @@
   },
   "GEC8263": {
     "origem": "Curitiba, BR",
-    "destino": "Frankfurt-am-Main, DE"
+    "destino": "Frankfurt-am-Main, Alemanha"
   },
   "RAM996": {
-    "origem": "Casablanca, MA",
+    "origem": "Casablanca, Marrocos",
     "destino": "Porto, Portugal"
   },
   "MMO1240": {
@@ -8273,7 +8273,7 @@
   },
   "TOM516": {
     "origem": "Londres, Reino Unido",
-    "destino": "Marrakech, MA"
+    "destino": "Marrakech, Marrocos"
   },
   "LGL785": {
     "origem": "Luxembourg, LU",
@@ -8284,7 +8284,7 @@
     "destino": "Vienna, AT"
   },
   "EWG8692": {
-    "origem": "Berlin, DE",
+    "origem": "Berlin, Alemanha",
     "destino": "Faro, Portugal"
   },
   "TVF87LA": {
@@ -8317,7 +8317,7 @@
   },
   "TFL2KA": {
     "origem": "Grã-Canária, Espanha",
-    "destino": "Amsterdam, NL"
+    "destino": "Amesterdão, Países Baixos"
   },
   "EJU83WU": {
     "origem": "Barcelona, Espanha",
@@ -8325,15 +8325,15 @@
   },
   "MBU6JB": {
     "origem": "Lanzarote, Espanha",
-    "destino": "Hamburg, DE"
+    "destino": "Hamburg, Alemanha"
   },
   "CFG4CD": {
     "origem": "Tenerife, Espanha",
-    "destino": "Düsseldorf, DE"
+    "destino": "Düsseldorf, Alemanha"
   },
   "CFG3XT": {
     "origem": "Manchester, Reino Unido",
-    "destino": "Stuttgart, DE"
+    "destino": "Stuttgart, Alemanha"
   },
   "EIN886": {
     "origem": "Cork, IE",
@@ -8341,14 +8341,14 @@
   },
   "CFG9ME": {
     "origem": "Forteventura, Espanha",
-    "destino": "Frankfurt-am-Main, DE"
+    "destino": "Frankfurt-am-Main, Alemanha"
   },
   "JAF8LM": {
     "origem": "Funchal, Portugal",
     "destino": "Bruxelas, Bélgica"
   },
   "JAF7FB": {
-    "origem": "Tangier, MA",
+    "origem": "Tangier, Marrocos",
     "destino": "Bruxelas, Bélgica"
   },
   "IBB5405": {
@@ -8373,7 +8373,7 @@
   },
   "CFG2MW": {
     "origem": "Tenerife, Espanha",
-    "destino": "Frankfurt-am-Main, DE"
+    "destino": "Frankfurt-am-Main, Alemanha"
   },
   "VLG12UP": {
     "origem": "Bilbao, Espanha",
@@ -8381,7 +8381,7 @@
   },
   "TRA2E": {
     "origem": "Ibiza, Espanha",
-    "destino": "Eindhoven, NL"
+    "destino": "Eindhoven, Países Baixos"
   },
   "EZY69MW": {
     "origem": "Belfast, Reino Unido",
@@ -8417,7 +8417,7 @@
   },
   "TRA216C": {
     "origem": "Tenerife, Espanha",
-    "destino": "Eindhoven, NL"
+    "destino": "Eindhoven, Países Baixos"
   },
   "EZY2869": {
     "origem": "Bristol, Reino Unido",
@@ -8425,7 +8425,7 @@
   },
   "CFG9TC": {
     "origem": "Lanzarote, Espanha",
-    "destino": "Düsseldorf, DE"
+    "destino": "Düsseldorf, Alemanha"
   },
   "SEU451": {
     "origem": "Chişinău, MD",
@@ -8433,7 +8433,7 @@
   },
   "CFG6WL": {
     "origem": "Tenerife, Espanha",
-    "destino": "Hamburg, DE"
+    "destino": "Hamburg, Alemanha"
   },
   "VOE3850": {
     "origem": "Culleredo, Espanha",
@@ -8441,11 +8441,11 @@
   },
   "EWG92W": {
     "origem": "Faro, Portugal",
-    "destino": "Berlin, DE"
+    "destino": "Berlin, Alemanha"
   },
   "RAM997": {
     "origem": "Porto, Portugal",
-    "destino": "Casablanca, MA"
+    "destino": "Casablanca, Marrocos"
   },
   "ANE31WP": {
     "origem": "Madrid, Espanha",
@@ -8476,12 +8476,12 @@
     "destino": "Antwerp, Bélgica"
   },
   "TRA6005": {
-    "origem": "Amsterdam, NL",
+    "origem": "Amesterdão, Países Baixos",
     "destino": "Porto, Portugal"
   },
   "TRA88K": {
     "origem": "Funchal, Portugal",
-    "destino": "Amsterdam, NL"
+    "destino": "Amesterdão, Países Baixos"
   },
   "TOM8JX": {
     "origem": "Manchester, Reino Unido",
@@ -8497,7 +8497,7 @@
   },
   "TOM668": {
     "origem": "Manchester, Reino Unido",
-    "destino": "Marrakech, MA"
+    "destino": "Marrakech, Marrocos"
   },
   "EXS3808": {
     "origem": "Lanzarote, Espanha",
@@ -8529,15 +8529,15 @@
   },
   "TVF86LY": {
     "origem": "Paris, França",
-    "destino": "Agadir, MA"
+    "destino": "Agadir, Marrocos"
   },
   "THY6936": {
     "origem": "New York, US",
     "destino": "Istanbul, TR"
   },
   "TRA142": {
-    "origem": "Sta Cruz de la Palma, La Palma Island, Espanha",
-    "destino": "Amsterdam, NL"
+    "origem": "La Palma, Espanha",
+    "destino": "Amesterdão, Países Baixos"
   },
   "RYR55EZ": {
     "origem": "Birmingham, Reino Unido",
@@ -8561,7 +8561,7 @@
   },
   "TRA6182": {
     "origem": "Tenerife, Espanha",
-    "destino": "Amsterdam, NL"
+    "destino": "Amesterdão, Países Baixos"
   },
   "EIN498": {
     "origem": "Dublin, IE",
@@ -8573,7 +8573,7 @@
   },
   "JAF11D": {
     "origem": "Paris, França",
-    "destino": "Casablanca, MA"
+    "destino": "Casablanca, Marrocos"
   },
   "SEU452": {
     "origem": "Lisboa, Portugal",
@@ -8609,15 +8609,15 @@
   },
   "TRA45W": {
     "origem": "Faro, Portugal",
-    "destino": "Amsterdam, NL"
+    "destino": "Amesterdão, Países Baixos"
   },
   "TOM26A": {
     "origem": "Tenerife, Espanha",
     "destino": "Exeter, Reino Unido"
   },
   "RYR8PC": {
-    "origem": "Weeze, DE",
-    "destino": "Agadir, MA"
+    "origem": "Weeze, Alemanha",
+    "destino": "Agadir, Marrocos"
   },
   "EXS68Z": {
     "origem": "Lanzarote, Espanha",
@@ -8625,7 +8625,7 @@
   },
   "TRA23A": {
     "origem": "Grã-Canária, Espanha",
-    "destino": "Amsterdam, NL"
+    "destino": "Amesterdão, Países Baixos"
   },
   "EJU62CN": {
     "origem": "Saint-Louis, França",
@@ -8653,7 +8653,7 @@
   },
   "RAM751": {
     "origem": "Paris, França",
-    "destino": "Casablanca, MA"
+    "destino": "Casablanca, Marrocos"
   },
   "RYR3636": {
     "origem": "Beauvais/Tillé, França",
@@ -8680,7 +8680,7 @@
     "destino": "Madrid, Espanha"
   },
   "DLH03U": {
-    "origem": "Munich, DE",
+    "origem": "Munich, Alemanha",
     "destino": "Porto, Portugal"
   },
   "EIN499": {
@@ -8716,7 +8716,7 @@
     "destino": "Londres, Reino Unido"
   },
   "DLH506": {
-    "origem": "Frankfurt-am-Main, DE",
+    "origem": "Frankfurt-am-Main, Alemanha",
     "destino": "São Paulo, BR"
   },
   "VOE2LY": {
@@ -8732,11 +8732,11 @@
     "destino": "Newcastle, Reino Unido"
   },
   "DLH1330": {
-    "origem": "Frankfurt-am-Main, DE",
-    "destino": "Casablanca, MA"
+    "origem": "Frankfurt-am-Main, Alemanha",
+    "destino": "Casablanca, Marrocos"
   },
   "TOM457": {
-    "origem": "Marrakech, MA",
+    "origem": "Marrakech, Marrocos",
     "destino": "Birmingham, Reino Unido"
   },
   "EZY59VW": {
@@ -8752,7 +8752,7 @@
     "destino": "São Paulo, BR"
   },
   "DLH500": {
-    "origem": "Frankfurt-am-Main, DE",
+    "origem": "Frankfurt-am-Main, Alemanha",
     "destino": "Rio De Janeiro, BR"
   },
   "EZY2009": {
@@ -8764,8 +8764,8 @@
     "destino": "Londres, Reino Unido"
   },
   "RYR2UN": {
-    "origem": "Berlin, DE",
-    "destino": "Marrakech, MA"
+    "origem": "Berlin, Alemanha",
+    "destino": "Marrakech, Marrocos"
   },
   "TOM705": {
     "origem": "Espargos, CV",
@@ -8777,7 +8777,7 @@
   },
   "CND550": {
     "origem": "Grã-Canária, Espanha",
-    "destino": "Amsterdam, NL"
+    "destino": "Amesterdão, Países Baixos"
   },
   "EDW25G": {
     "origem": "Ponta Delgada, Portugal",
@@ -8797,7 +8797,7 @@
   },
   "KLM702": {
     "origem": "Santiago, CL",
-    "destino": "Amsterdam, NL"
+    "destino": "Amesterdão, Países Baixos"
   },
   "RYR44TX": {
     "origem": "Madrid, Espanha",
@@ -8809,7 +8809,7 @@
   },
   "DLH77P": {
     "origem": "Porto, Portugal",
-    "destino": "Frankfurt-am-Main, DE"
+    "destino": "Frankfurt-am-Main, Alemanha"
   },
   "EJU45TB": {
     "origem": "Porto, Portugal",
@@ -8833,14 +8833,14 @@
   },
   "EJU4683": {
     "origem": "Paris, França",
-    "destino": "Agadir, MA"
+    "destino": "Agadir, Marrocos"
   },
   "UAL350": {
     "origem": "Newark, US",
     "destino": "Málaga, Espanha"
   },
   "EWG6AY": {
-    "origem": "Berlin, DE",
+    "origem": "Berlin, Alemanha",
     "destino": "Porto, Portugal"
   },
   "EZY37EM": {
@@ -8852,7 +8852,7 @@
     "destino": "Málaga, Espanha"
   },
   "CFG8FY": {
-    "origem": "Leipzig, DE",
+    "origem": "Leipzig, Alemanha",
     "destino": "Faro, Portugal"
   },
   "RYR3252": {
@@ -8864,15 +8864,15 @@
     "destino": "Faro, Portugal"
   },
   "EWG7NT": {
-    "origem": "Düsseldorf, DE",
+    "origem": "Düsseldorf, Alemanha",
     "destino": "Forteventura, Espanha"
   },
   "CFG6ZT": {
-    "origem": "Düsseldorf, DE",
+    "origem": "Düsseldorf, Alemanha",
     "destino": "Faro, Portugal"
   },
   "TRA183R": {
-    "origem": "Amsterdam, NL",
+    "origem": "Amesterdão, Países Baixos",
     "destino": "Tenerife, Espanha"
   },
   "RYR545W": {
@@ -8880,7 +8880,7 @@
     "destino": "Beauvais/Tillé, França"
   },
   "TFL3HD": {
-    "origem": "Amsterdam, NL",
+    "origem": "Amesterdão, Países Baixos",
     "destino": "Grã-Canária, Espanha"
   },
   "LGL3769": {
@@ -8892,11 +8892,11 @@
     "destino": "Porto, Portugal"
   },
   "TRA5951": {
-    "origem": "Amsterdam, NL",
+    "origem": "Amesterdão, Países Baixos",
     "destino": "Lisboa, Portugal"
   },
   "MAC265": {
-    "origem": "Casablanca, MA",
+    "origem": "Casablanca, Marrocos",
     "destino": "Saint-Louis, França"
   },
   "RYR7YP": {
@@ -8904,7 +8904,7 @@
     "destino": "Lisboa, Portugal"
   },
   "TRA26M": {
-    "origem": "Amsterdam, NL",
+    "origem": "Amesterdão, Países Baixos",
     "destino": "Funchal, Portugal"
   },
   "AFR1896": {
@@ -8924,8 +8924,8 @@
     "destino": "Málaga, Espanha"
   },
   "TRA44U": {
-    "origem": "Eindhoven, NL",
-    "destino": "Marrakech, MA"
+    "origem": "Eindhoven, Países Baixos",
+    "destino": "Marrakech, Marrocos"
   },
   "EZY15WE": {
     "origem": "Manchester, Reino Unido",
@@ -8941,7 +8941,7 @@
   },
   "EWG4Z": {
     "origem": "Porto, Portugal",
-    "destino": "Berlin, DE"
+    "destino": "Berlin, Alemanha"
   },
   "EZY24HZ": {
     "origem": "Bristol, Reino Unido",
@@ -8949,7 +8949,7 @@
   },
   "TVF33FD": {
     "origem": "Paris, França",
-    "destino": "Agadir, MA"
+    "destino": "Agadir, Marrocos"
   },
   "JTD563": {
     "origem": "Billund, DK",
@@ -8961,7 +8961,7 @@
   },
   "RYR54MH": {
     "origem": "Faro, Portugal",
-    "destino": "Berlin, DE"
+    "destino": "Berlin, Alemanha"
   },
   "EXS68MJ": {
     "origem": "Edinburgh, Reino Unido",
@@ -8981,11 +8981,11 @@
   },
   "RUK87CW": {
     "origem": "Londres, Reino Unido",
-    "destino": "Essaouira, MA"
+    "destino": "Essaouira, Marrocos"
   },
   "CFG8YL": {
     "origem": "Heraklion, GR",
-    "destino": "Leipzig, DE"
+    "destino": "Leipzig, Alemanha"
   },
   "EXS43CE": {
     "origem": "Glasgow, Reino Unido",
@@ -9001,14 +9001,14 @@
   },
   "TRA5952": {
     "origem": "Lisboa, Portugal",
-    "destino": "Amsterdam, NL"
+    "destino": "Amesterdão, Países Baixos"
   },
   "TFL6CN": {
-    "origem": "Eindhoven, NL",
+    "origem": "Eindhoven, Países Baixos",
     "destino": "Grã-Canária, Espanha"
   },
   "TFL9DL": {
-    "origem": "Rotterdam, NL",
+    "origem": "Rotterdam, Países Baixos",
     "destino": "Grã-Canária, Espanha"
   },
   "NOZ1824": {
@@ -9033,11 +9033,11 @@
   },
   "KLM792": {
     "origem": "São Paulo, BR",
-    "destino": "Amsterdam, NL"
+    "destino": "Amesterdão, Países Baixos"
   },
   "KLM706": {
     "origem": "Rio De Janeiro, BR",
-    "destino": "Amsterdam, NL"
+    "destino": "Amesterdão, Países Baixos"
   },
   "TOM610": {
     "origem": "Londres, Reino Unido",
@@ -9096,7 +9096,7 @@
     "destino": "Glasgow, Reino Unido"
   },
   "MBU4ZR": {
-    "origem": "Hamburg, DE",
+    "origem": "Hamburg, Alemanha",
     "destino": "Forteventura, Espanha"
   },
   "TAP23PN": {
@@ -9120,7 +9120,7 @@
     "destino": "Tenerife, Espanha"
   },
   "DLH73C": {
-    "origem": "Frankfurt-am-Main, DE",
+    "origem": "Frankfurt-am-Main, Alemanha",
     "destino": "Faro, Portugal"
   },
   "RYR2XW": {
@@ -9141,7 +9141,7 @@
   },
   "TRA6184": {
     "origem": "Tenerife, Espanha",
-    "destino": "Amsterdam, NL"
+    "destino": "Amesterdão, Países Baixos"
   },
   "RYR3253": {
     "origem": "Trapani, IT",
@@ -9149,14 +9149,14 @@
   },
   "TAP532": {
     "origem": "Lisboa, Portugal",
-    "destino": "Berlin, DE"
+    "destino": "Berlin, Alemanha"
   },
   "TVF7843": {
     "origem": "Funchal, Portugal",
     "destino": "Lyon, França"
   },
   "CFG7AK": {
-    "origem": "Düsseldorf, DE",
+    "origem": "Düsseldorf, Alemanha",
     "destino": "Tenerife, Espanha"
   },
   "LGL3799": {
@@ -9176,7 +9176,7 @@
     "destino": "Zürich, CH"
   },
   "EJU68LC": {
-    "origem": "Berlin, DE",
+    "origem": "Berlin, Alemanha",
     "destino": "Tenerife, Espanha"
   },
   "RZO123": {
@@ -9192,7 +9192,7 @@
     "destino": "Porto, Portugal"
   },
   "CFG9EX": {
-    "origem": "Hannover, DE",
+    "origem": "Hannover, Alemanha",
     "destino": "Olbia, IT"
   },
   "EJU74BC": {
@@ -9200,7 +9200,7 @@
     "destino": "Nantes, França"
   },
   "CFG9WY": {
-    "origem": "Frankfurt-am-Main, DE",
+    "origem": "Frankfurt-am-Main, Alemanha",
     "destino": "Grã-Canária, Espanha"
   },
   "JBU2260": {
@@ -9208,7 +9208,7 @@
     "destino": "Boston, US"
   },
   "CFG4TX": {
-    "origem": "Frankfurt-am-Main, DE",
+    "origem": "Frankfurt-am-Main, Alemanha",
     "destino": "Tenerife, Espanha"
   },
   "ANE35AQ": {
@@ -9216,11 +9216,11 @@
     "destino": "Madrid, Espanha"
   },
   "CFG8WH": {
-    "origem": "Frankfurt-am-Main, DE",
+    "origem": "Frankfurt-am-Main, Alemanha",
     "destino": "Forteventura, Espanha"
   },
   "EJU63QU": {
-    "origem": "Amsterdam, NL",
+    "origem": "Amesterdão, Países Baixos",
     "destino": "Forteventura, Espanha"
   },
   "TAM8075": {
@@ -9240,7 +9240,7 @@
     "destino": "Tenerife, Espanha"
   },
   "OCN42F": {
-    "origem": "Frankfurt-am-Main, DE",
+    "origem": "Frankfurt-am-Main, Alemanha",
     "destino": "Tenerife, Espanha"
   },
   "TAP9014": {
@@ -9252,7 +9252,7 @@
     "destino": "Bristol, Reino Unido"
   },
   "CXI51RE": {
-    "origem": "Maastricht, NL",
+    "origem": "Maastricht, Países Baixos",
     "destino": "Heraklion, GR"
   },
   "NSZ5714": {
@@ -9264,23 +9264,23 @@
     "destino": "La Romana, DO"
   },
   "CFG5AL": {
-    "origem": "Munich, DE",
+    "origem": "Munich, Alemanha",
     "destino": "Tenerife, Espanha"
   },
   "TUI7PH": {
-    "origem": "Frankfurt-am-Main, DE",
+    "origem": "Frankfurt-am-Main, Alemanha",
     "destino": "Tenerife, Espanha"
   },
   "TUI6PB": {
-    "origem": "Frankfurt-am-Main, DE",
+    "origem": "Frankfurt-am-Main, Alemanha",
     "destino": "Grã-Canária, Espanha"
   },
   "TUI7LX": {
-    "origem": "Stuttgart, DE",
-    "destino": "Stuttgart, DE"
+    "origem": "Stuttgart, Alemanha",
+    "destino": "Stuttgart, Alemanha"
   },
   "MBU7PL": {
-    "origem": "Leipzig, DE",
+    "origem": "Leipzig, Alemanha",
     "destino": "Forteventura, Espanha"
   },
   "CCA865": {
@@ -9288,7 +9288,7 @@
     "destino": "Havana, CU"
   },
   "TRA41N": {
-    "origem": "Rotterdam, NL",
+    "origem": "Rotterdam, Países Baixos",
     "destino": "Grã-Canária, Espanha"
   },
   "LGL13T": {
@@ -9296,11 +9296,11 @@
     "destino": "Tenerife, Espanha"
   },
   "CFG5TV": {
-    "origem": "Düsseldorf, DE",
+    "origem": "Düsseldorf, Alemanha",
     "destino": "Grã-Canária, Espanha"
   },
   "MBU3WL": {
-    "origem": "Leipzig, DE",
+    "origem": "Leipzig, Alemanha",
     "destino": "Grã-Canária, Espanha"
   },
   "NOZ1702": {
@@ -9309,6 +9309,6 @@
   },
   "VOE50XM": {
     "origem": "Nantes, França",
-    "destino": "Marrakech, MA"
+    "destino": "Marrakech, Marrocos"
   }
 }
