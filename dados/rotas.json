@@ -8770,5 +8770,13 @@
   "TOM705": {
     "origem": "Espargos, CV",
     "destino": "Birmingham, GB"
+  },
+  "TOM86Y": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
+  },
+  "CND550": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Amsterdam, NL"
   }
 }
