@@ -8798,5 +8798,41 @@
   "KLM702": {
     "origem": "Santiago, CL",
     "destino": "Amsterdam, NL"
+  },
+  "RYR44TX": {
+    "origem": "Madrid, ES",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TSC276": {
+    "origem": "Montréal, CA",
+    "destino": "Cayo Largo del Sur, CU"
+  },
+  "DLH77P": {
+    "origem": "Porto, PT",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "EJU45TB": {
+    "origem": "Porto, PT",
+    "destino": "Saint-Louis, FR"
+  },
+  "EJU32HW": {
+    "origem": "Porto, PT",
+    "destino": "Geneva, CH"
+  },
+  "VOE4HJ": {
+    "origem": "Brest/Guipavas, FR",
+    "destino": "Rome, IT"
+  },
+  "MMD6099": {
+    "origem": "Milan, IT",
+    "destino": "St. George, AG"
+  },
+  "ACA824": {
+    "origem": "Toronto, CA",
+    "destino": "Madrid, ES"
+  },
+  "EJU4683": {
+    "origem": "Paris, FR",
+    "destino": "Agadir, MA"
   }
 }
