@@ -9210,5 +9210,105 @@
   "CFG4TX": {
     "origem": "Frankfurt-am-Main, DE",
     "destino": "Tenerife Island, ES"
+  },
+  "ANE35AQ": {
+    "origem": "Porto, PT",
+    "destino": "Madrid, ES"
+  },
+  "CFG8WH": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EJU63QU": {
+    "origem": "Amsterdam, NL",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "TAM8075": {
+    "origem": "Madrid, ES",
+    "destino": "São Paulo, BR"
+  },
+  "EZY61LX": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Southend, GB"
+  },
+  "FWI57Q": {
+    "origem": "Paris, FR",
+    "destino": "Cayenne / Rochambeau, GF"
+  },
+  "TVS1BC": {
+    "origem": "Prague, CZ",
+    "destino": "Tenerife Island, ES"
+  },
+  "OCN42F": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "TAP9014": {
+    "origem": "Porto, PT",
+    "destino": "Espargos, CV"
+  },
+  "EJU93RU": {
+    "origem": "Lisbon, PT",
+    "destino": "Bristol, GB"
+  },
+  "CXI51RE": {
+    "origem": "Maastricht, NL",
+    "destino": "Heraklion, GR"
+  },
+  "NSZ5714": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Copenhagen, DK"
+  },
+  "NOS630": {
+    "origem": "Milan, IT",
+    "destino": "La Romana, DO"
+  },
+  "CFG5AL": {
+    "origem": "Munich, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "TUI7PH": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "TUI6PB": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TUI7LX": {
+    "origem": "Stuttgart, DE",
+    "destino": "Stuttgart, DE"
+  },
+  "MBU7PL": {
+    "origem": "Leipzig, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "CCA865": {
+    "origem": "Beijing, CN",
+    "destino": "Havana, CU"
+  },
+  "TRA41N": {
+    "origem": "Rotterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "LGL13T": {
+    "origem": "Luxembourg, LU",
+    "destino": "Tenerife Island, ES"
+  },
+  "CFG5TV": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "MBU3WL": {
+    "origem": "Leipzig, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "NOZ1702": {
+    "origem": "Oslo, NO",
+    "destino": "Tenerife Island, ES"
+  },
+  "VOE50XM": {
+    "origem": "Nantes, FR",
+    "destino": "Marrakech, MA"
   }
 }
