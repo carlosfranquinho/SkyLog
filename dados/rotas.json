@@ -8778,5 +8778,17 @@
   "CND550": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Amsterdam, NL"
+  },
+  "EDW25G": {
+    "origem": "Ponta Delgada, PT",
+    "destino": "Zürich, CH"
+  },
+  "VOE2739": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Nantes, FR"
+  },
+  "AAL748": {
+    "origem": "Charlotte, US",
+    "destino": "Madrid, ES"
   }
 }
