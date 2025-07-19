@@ -9694,5 +9694,41 @@
   "EIN89G": {
     "origem": "Faro, PT",
     "destino": "Cork, IE"
+  },
+  "EXS3YT": {
+    "origem": "Funchal, PT",
+    "destino": "Newcastle, GB"
+  },
+  "N737GG": {
+    "origem": "Lisbon, PT",
+    "destino": "Málaga, ES"
+  },
+  "RYR5763": {
+    "origem": "Hahn, DE",
+    "destino": "Faro, PT"
+  },
+  "TAP9022": {
+    "origem": "Lisbon, PT",
+    "destino": "Olbia, IT"
+  },
+  "ASL27F": {
+    "origem": "Belgrad, RS",
+    "destino": "Lisbon, PT"
+  },
+  "RYR6672": {
+    "origem": "Milan, IT",
+    "destino": "Funchal, PT"
+  },
+  "EJU18PM": {
+    "origem": "Bristol, GB",
+    "destino": "Lisbon, PT"
+  },
+  "EXS42RF": {
+    "origem": "Kerkyra Island, GR",
+    "destino": "Manchester, GB"
+  },
+  "EWG607": {
+    "origem": "Porto, PT",
+    "destino": "Cologne, DE"
   }
 }
