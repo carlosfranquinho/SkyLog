@@ -10034,5 +10034,17 @@
   "EWG2BR": {
     "origem": "Düsseldorf, DE",
     "destino": "Tenerife Island, ES"
+  },
+  "AFR14CH": {
+    "origem": "Casablanca, MA",
+    "destino": "Paris, FR"
+  },
+  "EWG6NB": {
+    "origem": "Hamburg, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "RYR307Z": {
+    "origem": "Santiago de Compostela, ES",
+    "destino": "Sevilla, ES"
   }
 }
