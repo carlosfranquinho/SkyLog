@@ -10170,5 +10170,81 @@
   "IBS15ZY": {
     "origem": "Lanzarote Island, ES",
     "destino": "Madrid, ES"
+  },
+  "JAF56H": {
+    "origem": "Paris, FR",
+    "destino": "Agadir, MA"
+  },
+  "WFL2093": {
+    "origem": "Madrid, ES",
+    "destino": "Cali, CO"
+  },
+  "CFG4EM": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "TVS2056": {
+    "origem": "Prague, CZ",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "RZO113": {
+    "origem": "Lisbon, PT",
+    "destino": "Vila do Porto, PT"
+  },
+  "TOM68M": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Nottingham, GB"
+  },
+  "AFR926": {
+    "origem": "Paris, FR",
+    "destino": "Libreville, GA"
+  },
+  "EXS52N": {
+    "origem": "Manchester, GB",
+    "destino": "Paphos, CY"
+  },
+  "JME750A": {
+    "origem": "Teterboro, US",
+    "destino": "Chicago, US"
+  },
+  "EXS98PU": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "London, GB"
+  },
+  "TVF7657": {
+    "origem": "Lisbon, PT",
+    "destino": "Paris, FR"
+  },
+  "TOM5EA": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Glasgow, GB"
+  },
+  "RYR39BN": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Hahn, DE"
+  },
+  "EWG6LR": {
+    "origem": "Nürnberg, DE",
+    "destino": "Hamburg, DE"
+  },
+  "EXS98RH": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Nottingham, GB"
+  },
+  "EWG5381": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Cologne, DE"
+  },
+  "EIN58P": {
+    "origem": "Málaga, ES",
+    "destino": "Dublin, IE"
+  },
+  "CFG9CV": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "EXS66TW": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
   }
 }
