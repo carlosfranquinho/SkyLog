@@ -10046,5 +10046,13 @@
   "RYR307Z": {
     "origem": "Santiago de Compostela, ES",
     "destino": "Sevilla, ES"
+  },
+  "EXS1MF": {
+    "origem": "Newcastle, GB",
+    "destino": "Málaga, ES"
+  },
+  "TVF4738": {
+    "origem": "Paris, FR",
+    "destino": "Tenerife Island, ES"
   }
 }
