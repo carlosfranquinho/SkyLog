@@ -9858,5 +9858,13 @@
   "DLH501": {
     "origem": "Rio De Janeiro, BR",
     "destino": "Frankfurt-am-Main, DE"
+  },
+  "AFR465": {
+    "origem": "Salvador, BR",
+    "destino": "Paris, FR"
+  },
+  "TAP1937": {
+    "origem": "Porto, PT",
+    "destino": "Lisbon, PT"
   }
 }
