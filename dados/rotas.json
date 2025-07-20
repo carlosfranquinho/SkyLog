@@ -9890,5 +9890,65 @@
   "EZS89FD": {
     "origem": "Geneva, CH",
     "destino": "Porto, PT"
+  },
+  "TUI1DH": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Faro, PT"
+  },
+  "EJU4587": {
+    "origem": "Paris, FR",
+    "destino": "Tenerife Island, ES"
+  },
+  "TSC252": {
+    "origem": "Montréal, CA",
+    "destino": "Málaga, ES"
+  },
+  "LGL41R": {
+    "origem": "Luxembourg, LU",
+    "destino": "Lanzarote Island, ES"
+  },
+  "RYR61BV": {
+    "origem": "Porto, PT",
+    "destino": "Memmingen, DE"
+  },
+  "TRA18A": {
+    "origem": "Amsterdam, NL",
+    "destino": "Tenerife Island, ES"
+  },
+  "ANE8271": {
+    "origem": "Porto, PT",
+    "destino": "Menorca Island, ES"
+  },
+  "EJU14AT": {
+    "origem": "Porto, PT",
+    "destino": "Vila Baleira, PT"
+  },
+  "TVF46ZQ": {
+    "origem": "Marrakech, MA",
+    "destino": "Paris, FR"
+  },
+  "JAF2045": {
+    "origem": "Brussels, BE",
+    "destino": "Brussels, BE"
+  },
+  "TFL3CL": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "BEL2RH": {
+    "origem": "Brussels, BE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "RYR22MP": {
+    "origem": "Baden-Baden, DE",
+    "destino": "Porto, PT"
+  },
+  "TOM1JE": {
+    "origem": "Cardiff, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "TUI102": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Düsseldorf, DE"
   }
 }
