@@ -10566,5 +10566,105 @@
   "TUI255": {
     "origem": "Lanzarote Island, ES",
     "destino": "Stuttgart, DE"
+  },
+  "TVF76ZQ": {
+    "origem": "Paris, FR",
+    "destino": "Marrakech, MA"
+  },
+  "CFG4MC": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Stuttgart, DE"
+  },
+  "TOM8VK": {
+    "origem": "London, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "IBB54SM": {
+    "origem": "Hondarribia, ES",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EZS14LC": {
+    "origem": "Porto, PT",
+    "destino": "Geneva, CH"
+  },
+  "TUI8YC": {
+    "origem": "Funchal, PT",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "EXS89JB": {
+    "origem": "Manchester, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "VLG74YM": {
+    "origem": "Bilbao, ES",
+    "destino": "Porto, PT"
+  },
+  "RUK299D": {
+    "origem": "Faro, PT",
+    "destino": "Belfast, GB"
+  },
+  "CFG1PW": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "RYR2306": {
+    "origem": "Charleston, IE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "RYR22CQ": {
+    "origem": "Santiago de Compostela, ES",
+    "destino": "Lanzarote Island, ES"
+  },
+  "LGL3754": {
+    "origem": "Lisbon, PT",
+    "destino": "Luxembourg, LU"
+  },
+  "TOM2VN": {
+    "origem": "Exeter, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "ICE578": {
+    "origem": "Reykjavík, IS",
+    "destino": "Lisbon, PT"
+  },
+  "EZY32NY": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Edinburgh, GB"
+  },
+  "ANE8276": {
+    "origem": "Málaga, ES",
+    "destino": "Melilla Island, ES"
+  },
+  "TOM5NK": {
+    "origem": "Faro, PT",
+    "destino": "Manchester, GB"
+  },
+  "CFG1ML": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Hamburg, DE"
+  },
+  "EZY52DA": {
+    "origem": "Liverpool, GB",
+    "destino": "Málaga, ES"
+  },
+  "RAM355": {
+    "origem": "Brussels, BE",
+    "destino": "Casablanca, MA"
+  },
+  "EXS16JU": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "London, GB"
+  },
+  "RYR69KD": {
+    "origem": "Porto, PT",
+    "destino": "Bergamo, IT"
+  },
+  "EJU1876": {
+    "origem": "Porto, PT",
+    "destino": "Bordeaux, FR"
+  },
+  "TUI2YL": {
+    "origem": "Funchal, PT",
+    "destino": "Hannover, DE"
   }
 }
