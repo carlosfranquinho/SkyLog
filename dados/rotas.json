@@ -10734,5 +10734,45 @@
   "ETH519": {
     "origem": "Atlanta, US",
     "destino": "Addis Ababa, ET"
+  },
+  "DAH2703": {
+    "origem": "Montréal, CA",
+    "destino": "Algiers, DZ"
+  },
+  "EXS5NG": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Glasgow, GB"
+  },
+  "EXS52MD": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Birmingham, GB"
+  },
+  "EZY2950": {
+    "origem": "Agadir, MA",
+    "destino": "Bristol, GB"
+  },
+  "RYR9131": {
+    "origem": "Faro, PT",
+    "destino": "Manchester, GB"
+  },
+  "TVF63RL": {
+    "origem": "Paris, FR",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "LCO3617": {
+    "origem": "Brussels, BE",
+    "destino": "Buenos Aires, AR"
+  },
+  "RYR40UG": {
+    "origem": "Cologne, DE",
+    "destino": "Marrakech, MA"
+  },
+  "RYR979P": {
+    "origem": "Nürnberg, DE",
+    "destino": "Faro, PT"
+  },
+  "EXS17SE": {
+    "origem": "Faro, PT",
+    "destino": "Leeds, GB"
   }
 }
