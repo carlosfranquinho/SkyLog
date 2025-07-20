@@ -10666,5 +10666,25 @@
   "TUI2YL": {
     "origem": "Funchal, PT",
     "destino": "Hannover, DE"
+  },
+  "EXS3TD": {
+    "origem": "Agadir, MA",
+    "destino": "Birmingham, GB"
+  },
+  "EZY96ER": {
+    "origem": "Faro, PT",
+    "destino": "London, GB"
+  },
+  "RYR214T": {
+    "origem": "Dublin, IE",
+    "destino": "Sevilla, ES"
+  },
+  "TFL66J": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "RYR91AZ": {
+    "origem": "Manchester, GB",
+    "destino": "Faro, PT"
   }
 }
