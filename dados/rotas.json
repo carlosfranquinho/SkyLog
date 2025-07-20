@@ -10522,5 +10522,49 @@
   "MBU8KZ": {
     "origem": "Tenerife Island, ES",
     "destino": "Nürnberg, DE"
+  },
+  "EJU7541": {
+    "origem": "Faro, PT",
+    "destino": "Paris, FR"
+  },
+  "EWG5523": {
+    "origem": "Sta Cruz de la Palma, La Palma Island, ES",
+    "destino": "Düsseldorf, DE"
+  },
+  "CFG7ZD": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Hamburg, DE"
+  },
+  "TAP1711": {
+    "origem": "Porto, PT",
+    "destino": "Funchal, PT"
+  },
+  "EZY86HP": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "RAM851W": {
+    "origem": "Amsterdam, NL",
+    "destino": "Casablanca, MA"
+  },
+  "TAP225V": {
+    "origem": "Lisbon, PT",
+    "destino": "Miami, US"
+  },
+  "TRA5242": {
+    "origem": "Lisbon, PT",
+    "destino": "Rotterdam, NL"
+  },
+  "RUK5AP": {
+    "origem": "Faro, PT",
+    "destino": "London, GB"
+  },
+  "TUI7TJ": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "TUI255": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Stuttgart, DE"
   }
 }
