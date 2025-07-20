@@ -10318,5 +10318,45 @@
   "JAF7VH": {
     "origem": "Brussels, BE",
     "destino": "Agadir, MA"
+  },
+  "VOE7PM": {
+    "origem": "Sevilla, ES",
+    "destino": "Ranón, ES"
+  },
+  "OCN79V": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "RYR4596": {
+    "origem": "Porto, PT",
+    "destino": "Barcelona, ES"
+  },
+  "EJU85BV": {
+    "origem": "Porto, PT",
+    "destino": "Lyon, FR"
+  },
+  "TVF22QJ": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Paris, FR"
+  },
+  "IBS1524": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "EZS34AF": {
+    "origem": "Porto, PT",
+    "destino": "Geneva, CH"
+  },
+  "EZY68ZX": {
+    "origem": "Edinburgh, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "AFR954": {
+    "origem": "Paris, FR",
+    "destino": "Luanda, AO"
+  },
+  "EXS64QW": {
+    "origem": "London, GB",
+    "destino": "Fuerteventura Island, ES"
   }
 }
