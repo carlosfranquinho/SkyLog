@@ -9866,5 +9866,29 @@
   "TAP1937": {
     "origem": "Porto, PT",
     "destino": "Lisbon, PT"
+  },
+  "TAP1941": {
+    "origem": "Porto, PT",
+    "destino": "Lisbon, PT"
+  },
+  "EJU47WP": {
+    "origem": "Bordeaux, FR",
+    "destino": "Tenerife Island, ES"
+  },
+  "VOE5XN": {
+    "origem": "Ranón, ES",
+    "destino": "Lanzarote Island, ES"
+  },
+  "RYR2U": {
+    "origem": "Faro, PT",
+    "destino": "Luxembourg, LU"
+  },
+  "VOE74NF": {
+    "origem": "Nantes, FR",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EZS89FD": {
+    "origem": "Geneva, CH",
+    "destino": "Porto, PT"
   }
 }
