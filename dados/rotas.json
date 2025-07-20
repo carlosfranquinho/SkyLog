@@ -9950,5 +9950,89 @@
   "TUI102": {
     "origem": "Düsseldorf, DE",
     "destino": "Düsseldorf, DE"
+  },
+  "EZY78QV": {
+    "origem": "Belfast, GB",
+    "destino": "Málaga, ES"
+  },
+  "TRA13K": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EJU37DZ": {
+    "origem": "Saint-Louis, FR",
+    "destino": "Tenerife Island, ES"
+  },
+  "TUI1A": {
+    "origem": "Hannover, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EZS27VL": {
+    "origem": "Porto, PT",
+    "destino": "Geneva, CH"
+  },
+  "EWG3HM": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TOM2DW": {
+    "origem": "Nottingham, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "TOM4MY": {
+    "origem": "Birmingham, GB",
+    "destino": "Faro, PT"
+  },
+  "TOM1774": {
+    "origem": "Glasgow, GB",
+    "destino": "Málaga, ES"
+  },
+  "RYR41VK": {
+    "origem": "Hahn, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "TVF98FN": {
+    "origem": "Paris, FR",
+    "destino": "Essaouira, MA"
+  },
+  "TOM44T": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "TOM40D": {
+    "origem": "Glasgow, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "RYR5KP": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "RYR741E": {
+    "origem": "Brussels, BE",
+    "destino": "Porto, PT"
+  },
+  "EWG3MG": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "RYR93RD": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Brussels, BE"
+  },
+  "TOM1CB": {
+    "origem": "Rovaniemi, FI",
+    "destino": "Birmingham, GB"
+  },
+  "TOM25D": {
+    "origem": "Manchester, GB",
+    "destino": "Ibiza, ES"
+  },
+  "NSZ3616": {
+    "origem": "Copenhagen, DK",
+    "destino": "Lisbon, PT"
+  },
+  "EWG2BR": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Tenerife Island, ES"
   }
 }
