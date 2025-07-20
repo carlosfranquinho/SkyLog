@@ -9826,5 +9826,17 @@
   "EXS21Y": {
     "origem": "Faro, PT",
     "destino": "Nottingham, GB"
+  },
+  "TAP1938": {
+    "origem": "Lisbon, PT",
+    "destino": "Porto, PT"
+  },
+  "EJU16PF": {
+    "origem": "Southampton, GB",
+    "destino": "Faro, PT"
+  },
+  "AEE5RT": {
+    "origem": "Porto, PT",
+    "destino": "Athens, GR"
   }
 }
