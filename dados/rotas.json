@@ -10902,5 +10902,21 @@
   "VJH758": {
     "origem": "Vienna, AT",
     "destino": "Budapest, HU"
+  },
+  "TAP920": {
+    "origem": "Porto, PT",
+    "destino": "Zürich, CH"
+  },
+  "TAP231P": {
+    "origem": "Lisbon, PT",
+    "destino": "Washington, US"
+  },
+  "EJU7383": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Porto, PT"
+  },
+  "JAF6TH": {
+    "origem": "Lille/Lesquin, FR",
+    "destino": "Marrakech, MA"
   }
 }
