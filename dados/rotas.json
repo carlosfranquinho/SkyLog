@@ -10966,5 +10966,49 @@
   "CFG6LA": {
     "origem": "Frankfurt-am-Main, DE",
     "destino": "Tenerife Island, ES"
+  },
+  "TAP243U": {
+    "origem": "Lisbon, PT",
+    "destino": "Chicago, US"
+  },
+  "TOM5PN": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Birmingham, GB"
+  },
+  "CFG2TY": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EJU65PD": {
+    "origem": "Porto, PT",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "RYR413Q": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Dublin, IE"
+  },
+  "IBB629M": {
+    "origem": "Santander, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "LGL711": {
+    "origem": "Luxembourg, LU",
+    "destino": "Tenerife Island, ES"
+  },
+  "TAP1329": {
+    "origem": "London, GB",
+    "destino": "Porto, PT"
+  },
+  "AFR471": {
+    "origem": "Buenos Aires, AR",
+    "destino": "Paris, FR"
+  },
+  "SDR38YM": {
+    "origem": "Bremen, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "NSZ4KR": {
+    "origem": "Stockholm, SE",
+    "destino": "Gran Canaria Island, ES"
   }
 }
