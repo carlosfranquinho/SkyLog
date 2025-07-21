@@ -10774,5 +10774,29 @@
   "EXS17SE": {
     "origem": "Faro, PT",
     "destino": "Leeds, GB"
+  },
+  "EZY3428": {
+    "origem": "Faro, PT",
+    "destino": "Liverpool, GB"
+  },
+  "EXS64VJ": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "London, GB"
+  },
+  "EJU34YZ": {
+    "origem": "Porto, PT",
+    "destino": "Milan, IT"
+  },
+  "EXS6J": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Nottingham, GB"
+  },
+  "TOM4KN": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "London, GB"
+  },
+  "EXS89LX": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Manchester, GB"
   }
 }
