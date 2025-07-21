@@ -10850,5 +10850,33 @@
   "EJU86EL": {
     "origem": "Amsterdam, NL",
     "destino": "Marrakech, MA"
+  },
+  "TOM710": {
+    "origem": "London, GB",
+    "destino": "Rabil, CV"
+  },
+  "EJU58DY": {
+    "origem": "Porto, PT",
+    "destino": "Lyon, FR"
+  },
+  "EJU93TQ": {
+    "origem": "Lisbon, PT",
+    "destino": "Paris, FR"
+  },
+  "TFL5132": {
+    "origem": "Dublin, IE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "TOM6JB": {
+    "origem": "Birmingham, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "BCS212P": {
+    "origem": "Lisbon, PT",
+    "destino": "Porto, PT"
+  },
+  "RYR85HJ": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Dublin, IE"
   }
 }
