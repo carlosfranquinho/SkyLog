@@ -11214,5 +11214,21 @@
   "CFG2MV": {
     "origem": "Funchal, PT",
     "destino": "Düsseldorf, DE"
+  },
+  "EJU62PW": {
+    "origem": "Porto, PT",
+    "destino": "Nice, FR"
+  },
+  "LCO1511": {
+    "origem": "Brussels, BE",
+    "destino": "Espargos, CV"
+  },
+  "LGL6FR": {
+    "origem": "Faro, PT",
+    "destino": "Luxembourg, LU"
+  },
+  "MBU6EP": {
+    "origem": "Funchal, PT",
+    "destino": "Nürnberg, DE"
   }
 }
