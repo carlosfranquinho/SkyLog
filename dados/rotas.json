@@ -11254,5 +11254,17 @@
   "TAP687": {
     "origem": "Luxembourg, LU",
     "destino": "Porto, Portugal"
+  },
+  "TAR318": {
+    "origem": "Tunis, TN",
+    "destino": "Lisbon, PT"
+  },
+  "TRA17N": {
+    "origem": "Amsterdam, NL",
+    "destino": "Lisbon, PT"
+  },
+  "RYR7935": {
+    "origem": "Nürnberg, DE",
+    "destino": "Porto, PT"
   }
 }
