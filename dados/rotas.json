@@ -10890,5 +10890,17 @@
   "ARG1135": {
     "origem": "Madrid, ES",
     "destino": "Buenos Aires, AR"
+  },
+  "UAL261": {
+    "origem": "Madrid, ES",
+    "destino": "Washington, US"
+  },
+  "VKG1588": {
+    "origem": "Oslo, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "VJH758": {
+    "origem": "Vienna, AT",
+    "destino": "Budapest, HU"
   }
 }
