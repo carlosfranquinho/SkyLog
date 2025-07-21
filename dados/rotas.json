@@ -10878,5 +10878,17 @@
   "RYR85HJ": {
     "origem": "Lanzarote Island, ES",
     "destino": "Dublin, IE"
+  },
+  "EWG58N": {
+    "origem": "Porto, PT",
+    "destino": "Stuttgart, DE"
+  },
+  "TOM32W": {
+    "origem": "Faro, PT",
+    "destino": "Nottingham, GB"
+  },
+  "ARG1135": {
+    "origem": "Madrid, ES",
+    "destino": "Buenos Aires, AR"
   }
 }
