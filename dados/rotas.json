@@ -11066,5 +11066,57 @@
   "EIN585": {
     "origem": "Málaga, ES",
     "destino": "Dublin, IE"
+  },
+  "VKG1589": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Oslo, NO"
+  },
+  "ANE8113": {
+    "origem": "Ibiza, ES",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "RYR22UZ": {
+    "origem": "Stockholm, SE",
+    "destino": "Marrakech, MA"
+  },
+  "EZY98VG": {
+    "origem": "Birmingham, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR4VN": {
+    "origem": "Warsaw, PL",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR197K": {
+    "origem": "Nottingham, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "TRA5745": {
+    "origem": "Amsterdam, NL",
+    "destino": "Casablanca, MA"
+  },
+  "IBB6XE": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "TOM91M": {
+    "origem": "Birmingham, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TOM6108": {
+    "origem": "Bournemouth, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EZY68RV": {
+    "origem": "Bristol, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR4TM": {
+    "origem": "Bristol, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "VLG4QY": {
+    "origem": "Valencia, ES",
+    "destino": "Tenerife Island, ES"
   }
 }
