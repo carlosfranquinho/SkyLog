@@ -10838,5 +10838,17 @@
   "WMT17WE": {
     "origem": "Rome, IT",
     "destino": "Tenerife Island, ES"
+  },
+  "AFR459": {
+    "origem": "São Paulo, BR",
+    "destino": "Paris, FR"
+  },
+  "TRA9021": {
+    "origem": "Brussels, BE",
+    "destino": "Faro, PT"
+  },
+  "EJU86EL": {
+    "origem": "Amsterdam, NL",
+    "destino": "Marrakech, MA"
   }
 }
