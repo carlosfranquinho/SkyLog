@@ -11030,5 +11030,41 @@
   "EJU71VU": {
     "origem": "Bordeaux, FR",
     "destino": "Porto, PT"
+  },
+  "TOM8HT": {
+    "origem": "London, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "PVG3134": {
+    "origem": "Rabil, CV",
+    "destino": "Porto, PT"
+  },
+  "TOM1AW": {
+    "origem": "Nottingham, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EZY98DR": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "TRA8W": {
+    "origem": "Amsterdam, NL",
+    "destino": "Marrakech, MA"
+  },
+  "RYS7025": {
+    "origem": "Poznań, PL",
+    "destino": "Rodes Island, GR"
+  },
+  "RYR4QQ": {
+    "origem": "Newcastle, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EXS44S": {
+    "origem": "Bournemouth, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EIN585": {
+    "origem": "Málaga, ES",
+    "destino": "Dublin, IE"
   }
 }
