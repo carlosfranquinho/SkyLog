@@ -11010,5 +11010,25 @@
   "NSZ4KR": {
     "origem": "Stockholm, SE",
     "destino": "Gran Canaria Island, ES"
+  },
+  "LGL743": {
+    "origem": "Luxembourg, LU",
+    "destino": "Lanzarote Island, ES"
+  },
+  "CFG1LZ": {
+    "origem": "Stuttgart, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "TOM5LV": {
+    "origem": "Cardiff, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR4992": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "London, GB"
+  },
+  "EJU71VU": {
+    "origem": "Bordeaux, FR",
+    "destino": "Porto, PT"
   }
 }
