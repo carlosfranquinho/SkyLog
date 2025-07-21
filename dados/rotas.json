@@ -10810,5 +10810,33 @@
   "BCS4VK": {
     "origem": "Leipzig, DE",
     "destino": "Lisbon, PT"
+  },
+  "ANE8116": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Ibiza, ES"
+  },
+  "EJU32VC": {
+    "origem": "Paris, FR",
+    "destino": "Lisbon, PT"
+  },
+  "TRA39L": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TUI7106": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "RYR5561": {
+    "origem": "Weeze, DE",
+    "destino": "Essaouira, MA"
+  },
+  "TOM50Y": {
+    "origem": "Nottingham, GB",
+    "destino": "Faro, PT"
+  },
+  "WMT17WE": {
+    "origem": "Rome, IT",
+    "destino": "Tenerife Island, ES"
   }
 }
