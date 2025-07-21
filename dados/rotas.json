@@ -11266,5 +11266,21 @@
   "RYR7935": {
     "origem": "Nürnberg, DE",
     "destino": "Porto, PT"
+  },
+  "PVG3131": {
+    "origem": "Porto, PT",
+    "destino": "Diass, SN"
+  },
+  "RYR2622": {
+    "origem": "Ponta Delgada, PT",
+    "destino": "Lisbon, PT"
+  },
+  "RAM767": {
+    "origem": "Paris, FR",
+    "destino": "Casablanca, MA"
+  },
+  "EXS29KR": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
   }
 }
