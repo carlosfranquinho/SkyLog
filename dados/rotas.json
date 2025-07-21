@@ -11230,5 +11230,29 @@
   "MBU6EP": {
     "origem": "Funchal, PT",
     "destino": "Nürnberg, DE"
+  },
+  "TOM5ED": {
+    "origem": "Zakynthos Island, GR",
+    "destino": "Nottingham, GB"
+  },
+  "TRA21F": {
+    "origem": "Sevilla, ES",
+    "destino": "Brussels, BE"
+  },
+  "VOE2407": {
+    "origem": "Faro, PT",
+    "destino": "Lille/Lesquin, FR"
+  },
+  "TOM76G": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Nottingham, GB"
+  },
+  "EWG1KB": {
+    "origem": "Cologne, DE",
+    "destino": "Porto, PT"
+  },
+  "TAP687": {
+    "origem": "Luxembourg, LU",
+    "destino": "Porto, PT"
   }
 }
