@@ -11522,5 +11522,37 @@
   "TOM259": {
     "origem": "Rabil, CV",
     "destino": "London, GB"
+  },
+  "TVS2146": {
+    "origem": "Brno, CZ",
+    "destino": "Funchal, PT"
+  },
+  "RYR8808": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Brussels, BE"
+  },
+  "CFG5DH": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "AEA9172": {
+    "origem": "Madrid, ES",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR8JE": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Edinburgh, GB"
+  },
+  "EJU95ZT": {
+    "origem": "Funchal, PT",
+    "destino": "Nantes, FR"
+  },
+  "EWG5761": {
+    "origem": "Faro, PT",
+    "destino": "Prague, CZ"
+  },
+  "EFW8MN": {
+    "origem": "London, GB",
+    "destino": "Porto, PT"
   }
 }
