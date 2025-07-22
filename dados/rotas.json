@@ -11290,5 +11290,9 @@
   "ENT7004": {
     "origem": "Espargos, CV",
     "destino": "Warsaw, PL"
+  },
+  "IBE170": {
+    "origem": "Montevideo, UY",
+    "destino": "Madrid, ES"
   }
 }
