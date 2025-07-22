@@ -11494,5 +11494,13 @@
   "PVG3236": {
     "origem": "Ivalo Airport",
     "destino": "Barcelona International Airport"
+  },
+  "WMT9CK": {
+    "origem": "Vienna, AT",
+    "destino": "Funchal, PT"
+  },
+  "ROJ023": {
+    "origem": "Leeds, GB",
+    "destino": "Manchester, GB"
   }
 }
