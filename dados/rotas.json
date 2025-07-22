@@ -11394,5 +11394,29 @@
   "SAS1943": {
     "origem": "Stockholm, SE",
     "destino": "Gran Canaria Island, ES"
+  },
+  "WPT3153": {
+    "origem": "Lisbon, PT",
+    "destino": "Punta Cana, DO"
+  },
+  "FJO68N": {
+    "origem": "Milan, IT",
+    "destino": "Luqa, MT"
+  },
+  "ACA825": {
+    "origem": "Madrid, ES",
+    "destino": "Toronto, CA"
+  },
+  "IBB88ZD": {
+    "origem": "Zaragoza, ES",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "QTR2W": {
+    "origem": "Doha, QA",
+    "destino": "Atlanta, US"
+  },
+  "BIX28F": {
+    "origem": "Stockholm, SE",
+    "destino": "Fuerteventura Island, ES"
   }
 }
