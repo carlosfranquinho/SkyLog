@@ -11366,5 +11366,17 @@
   "PVG3235": {
     "origem": "Barcelona International Airport",
     "destino": "Ivalo Airport"
+  },
+  "DLH81X": {
+    "origem": "Munich, DE",
+    "destino": "Porto, PT"
+  },
+  "ANE8121": {
+    "origem": "Ibiza, ES",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "AFR930": {
+    "origem": "Paris, FR",
+    "destino": "Luanda, AO"
   }
 }
