@@ -11486,5 +11486,13 @@
   "BIX43B": {
     "origem": "Tenerife Island, ES",
     "destino": "Billund, DK"
+  },
+  "ANE8123": {
+    "origem": "Ibiza, ES",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "PVG3236": {
+    "origem": "Ivalo Airport",
+    "destino": "Barcelona International Airport"
   }
 }
