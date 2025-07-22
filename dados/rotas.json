@@ -11446,5 +11446,41 @@
   "CFG5CE": {
     "origem": "Frankfurt-am-Main, DE",
     "destino": "Gran Canaria Island, ES"
+  },
+  "RUK61QA": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "London, GB"
+  },
+  "SDR32CW": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Berlin, DE"
+  },
+  "CFG4AV": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "CFG9EF": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "DLH53V": {
+    "origem": "Munich, DE",
+    "destino": "Faro, PT"
+  },
+  "TFL73B": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Eindhoven, NL"
+  },
+  "CFG2CW": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "FPO746": {
+    "origem": "Bodrum, TR",
+    "destino": "Paris, FR"
+  },
+  "MBU3SD": {
+    "origem": "Nürnberg, DE",
+    "destino": "Fuerteventura Island, ES"
   }
 }
