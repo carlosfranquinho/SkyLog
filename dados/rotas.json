@@ -11554,5 +11554,29 @@
   "EFW8MN": {
     "origem": "London, GB",
     "destino": "Porto, PT"
+  },
+  "FPY21": {
+    "origem": "Reykjavík, IS",
+    "destino": "Porto, PT"
+  },
+  "HYS7201": {
+    "origem": "Bucharest, RO",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR4FN": {
+    "origem": "Warsaw, PL",
+    "destino": "Porto, PT"
+  },
+  "RYR42PN": {
+    "origem": "Memmingen, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "TOM536": {
+    "origem": "Birmingham, GB",
+    "destino": "Cancún, MX"
+  },
+  "TAP921": {
+    "origem": "Zürich, CH",
+    "destino": "Porto, PT"
   }
 }
