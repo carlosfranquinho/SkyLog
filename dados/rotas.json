@@ -11354,5 +11354,17 @@
   "IBS1590": {
     "origem": "Tenerife Island, ES",
     "destino": "Madrid, ES"
+  },
+  "LGL371": {
+    "origem": "Luxembourg, LU",
+    "destino": "Espargos, CV"
+  },
+  "SDR32BQ": {
+    "origem": "Berlin, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "PVG3235": {
+    "origem": "Barcelona International Airport",
+    "destino": "Ivalo Airport"
   }
 }
