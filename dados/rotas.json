@@ -11598,5 +11598,33 @@
   "RYR97EN": {
     "origem": "London, GB",
     "destino": "Porto, PT"
+  },
+  "EJU74AV": {
+    "origem": "Saint-Louis, FR",
+    "destino": "Faro, PT"
+  },
+  "EJU46KE": {
+    "origem": "Lyon, FR",
+    "destino": "Faro, PT"
+  },
+  "JAF35H": {
+    "origem": "Lille/Lesquin, FR",
+    "destino": "Casablanca, MA"
+  },
+  "RYR5UE": {
+    "origem": "Faro, PT",
+    "destino": "London, GB"
+  },
+  "EZY57XH": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "London, GB"
+  },
+  "EJU76RL": {
+    "origem": "Funchal, PT",
+    "destino": "Porto, PT"
+  },
+  "TAP1865": {
+    "origem": "Lisbon, PT",
+    "destino": "Ponta Delgada, PT"
   }
 }
