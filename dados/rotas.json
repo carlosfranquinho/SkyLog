@@ -11338,5 +11338,21 @@
   "AEA016A": {
     "origem": "La Mesa, HN",
     "destino": "Madrid, ES"
+  },
+  "RYR3LR": {
+    "origem": "Berlin, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TAP1859": {
+    "origem": "Lisbon, PT",
+    "destino": "Ponta Delgada, PT"
+  },
+  "TSC681": {
+    "origem": "Lisbon, PT",
+    "destino": "Montréal, CA"
+  },
+  "IBS1590": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Madrid, ES"
   }
 }
