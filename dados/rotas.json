@@ -11378,5 +11378,21 @@
   "AFR930": {
     "origem": "Paris, FR",
     "destino": "Luanda, AO"
+  },
+  "TVF4661": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Paris, FR"
+  },
+  "DLH44T": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Porto, PT"
+  },
+  "UAL351": {
+    "origem": "Málaga, ES",
+    "destino": "Newark, US"
+  },
+  "SAS1943": {
+    "origem": "Stockholm, SE",
+    "destino": "Gran Canaria Island, ES"
   }
 }
