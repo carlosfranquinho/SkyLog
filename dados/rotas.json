@@ -11502,5 +11502,25 @@
   "ROJ023": {
     "origem": "Leeds, GB",
     "destino": "Manchester, GB"
+  },
+  "EWG5760": {
+    "origem": "Prague, CZ",
+    "destino": "Faro, PT"
+  },
+  "CFG2EC": {
+    "origem": "Leipzig, DE",
+    "destino": "Heraklion, GR"
+  },
+  "UAE5M": {
+    "origem": "Dubai, AE",
+    "destino": "Lisbon, PT"
+  },
+  "EJU45YR": {
+    "origem": "Funchal, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "TOM259": {
+    "origem": "Rabil, CV",
+    "destino": "London, GB"
   }
 }
