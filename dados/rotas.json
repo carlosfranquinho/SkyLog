@@ -11578,5 +11578,25 @@
   "TAP921": {
     "origem": "Zürich, CH",
     "destino": "Porto, PT"
+  },
+  "TOM7KX": {
+    "origem": "Birmingham, GB",
+    "destino": "Espargos, CV"
+  },
+  "HAT4211": {
+    "origem": "Lampedusa, IT",
+    "destino": "Milan, IT"
+  },
+  "TFL4635": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "VLG6965": {
+    "origem": "Porto, PT",
+    "destino": "Ibiza, ES"
+  },
+  "RYR97EN": {
+    "origem": "London, GB",
+    "destino": "Porto, PT"
   }
 }
