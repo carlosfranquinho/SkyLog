@@ -11418,5 +11418,33 @@
   "BIX28F": {
     "origem": "Stockholm, SE",
     "destino": "Fuerteventura Island, ES"
+  },
+  "CFG5MT": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "TRA14X": {
+    "origem": "Amsterdam, NL",
+    "destino": "Rodes Island, GR"
+  },
+  "VLG643X": {
+    "origem": "Paris, FR",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR2FT": {
+    "origem": "Porto, PT",
+    "destino": "Valencia, ES"
+  },
+  "RYR42SJ": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Birmingham, GB"
+  },
+  "CUB471": {
+    "origem": "Madrid, ES",
+    "destino": "Havana, CU"
+  },
+  "CFG5CE": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Gran Canaria Island, ES"
   }
 }
