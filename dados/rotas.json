@@ -11626,5 +11626,17 @@
   "TAP1865": {
     "origem": "Lisbon, PT",
     "destino": "Ponta Delgada, PT"
+  },
+  "RYR5UL": {
+    "origem": "Zakynthos Island, GR",
+    "destino": "Bergamo, IT"
+  },
+  "CLX6822": {
+    "origem": "Luxembourg, LU",
+    "destino": "Curitiba, BR"
+  },
+  "TAP31TY": {
+    "origem": "London, GB",
+    "destino": "Porto, PT"
   }
 }
