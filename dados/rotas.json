@@ -11302,5 +11302,17 @@
   "SZN403": {
     "origem": "Diass, SN",
     "destino": "Paris, FR"
+  },
+  "CLX6821": {
+    "origem": "Campinas, BR",
+    "destino": "Luxembourg, LU"
+  },
+  "QTR90G": {
+    "origem": "Doha, QA",
+    "destino": "Miami, US"
+  },
+  "AEA9156": {
+    "origem": "Madrid, ES",
+    "destino": "Gran Canaria Island, ES"
   }
 }
