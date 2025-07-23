@@ -11730,5 +11730,21 @@
   "VLG4SB": {
     "origem": "Paris, FR",
     "destino": "Barcelona, ES"
+  },
+  "TVF39UF": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
+  },
+  "KLM45J": {
+    "origem": "Amsterdam, NL",
+    "destino": "Porto, PT"
+  },
+  "TAM8076": {
+    "origem": "São Paulo, BR",
+    "destino": "Madrid, ES"
+  },
+  "VKG1216": {
+    "origem": "Billund, DK",
+    "destino": "Gran Canaria Island, ES"
   }
 }
