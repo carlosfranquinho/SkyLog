@@ -11934,5 +11934,33 @@
   "LGL661": {
     "origem": "Luxembourg, LU",
     "destino": "Málaga, ES"
+  },
+  "TVF81EA": {
+    "origem": "Funchal, PT",
+    "destino": "Paris, FR"
+  },
+  "TFL1672": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "AFR706": {
+    "origem": "Paris, FR",
+    "destino": "Abidjan, CI"
+  },
+  "CFG5DA": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Stuttgart, DE"
+  },
+  "RAM833B": {
+    "origem": "Brussels, BE",
+    "destino": "Casablanca, MA"
+  },
+  "MBU9PN": {
+    "origem": "Nürnberg, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "AFR1496": {
+    "origem": "Paris, FR",
+    "destino": "Casablanca, MA"
   }
 }
