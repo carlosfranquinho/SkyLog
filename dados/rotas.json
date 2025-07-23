@@ -11878,5 +11878,25 @@
   "RAM353Y": {
     "origem": "Brussels, BE",
     "destino": "Casablanca, MA"
+  },
+  "AFR702": {
+    "origem": "Paris, FR",
+    "destino": "Abidjan, CI"
+  },
+  "TVF7677": {
+    "origem": "Faro, PT",
+    "destino": "Paris, FR"
+  },
+  "IBE9131": {
+    "origem": "Madrid, ES",
+    "destino": "Guayaquil, EC"
+  },
+  "VKG1217": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Billund, DK"
+  },
+  "VKG1195": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Copenhagen, DK"
   }
 }
