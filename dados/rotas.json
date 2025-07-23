@@ -11666,5 +11666,37 @@
   "AFR415": {
     "origem": "Fortaleza, BR",
     "destino": "Paris, FR"
+  },
+  "UAL238": {
+    "origem": "Newark, US",
+    "destino": "Porto, PT"
+  },
+  "RYR8016": {
+    "origem": "Weeze, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "BCS938": {
+    "origem": "Paris, FR",
+    "destino": "Casablanca, MA"
+  },
+  "VLG6QR": {
+    "origem": "Paris, FR",
+    "destino": "Lanzarote Island, ES"
+  },
+  "TSC174": {
+    "origem": "Montréal, CA",
+    "destino": "Porto, PT"
+  },
+  "EWG3KC": {
+    "origem": "Stuttgart, DE",
+    "destino": "Porto, PT"
+  },
+  "EZY95HN": {
+    "origem": "Liverpool, GB",
+    "destino": "Málaga, ES"
+  },
+  "EDW228B": {
+    "origem": "Zürich, CH",
+    "destino": "Lanzarote Island, ES"
   }
 }
