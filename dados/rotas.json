@@ -11658,5 +11658,13 @@
   "VLG3137": {
     "origem": "Santiago de Compostela, ES",
     "destino": "Lanzarote Island, ES"
+  },
+  "FWI51R": {
+    "origem": "Cayenne / Rochambeau, GF",
+    "destino": "Paris, FR"
+  },
+  "AFR415": {
+    "origem": "Fortaleza, BR",
+    "destino": "Paris, FR"
   }
 }
