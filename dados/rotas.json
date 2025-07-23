@@ -11710,5 +11710,25 @@
   "RAM641B": {
     "origem": "Paris, FR",
     "destino": "Marrakech, MA"
+  },
+  "RYR4KE": {
+    "origem": "London, GB",
+    "destino": "Porto, PT"
+  },
+  "TFL2XN": {
+    "origem": "Rotterdam, NL",
+    "destino": "Rotterdam, NL"
+  },
+  "TVF96RZ": {
+    "origem": "Lyon, FR",
+    "destino": "Marrakech, MA"
+  },
+  "NSZ4279": {
+    "origem": "Stockholm, SE",
+    "destino": "Porto, PT"
+  },
+  "VLG4SB": {
+    "origem": "Paris, FR",
+    "destino": "Barcelona, ES"
   }
 }
