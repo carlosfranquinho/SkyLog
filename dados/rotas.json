@@ -11774,5 +11774,25 @@
   "MBU3SN": {
     "origem": "Hamburg, DE",
     "destino": "Gran Canaria Island, ES"
+  },
+  "CFG9AM": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "TRA3P": {
+    "origem": "Funchal, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "RYR21BH": {
+    "origem": "Eindhoven, NL",
+    "destino": "Marrakech, MA"
+  },
+  "TFL4KB": {
+    "origem": "Funchal, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "EZY49WT": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "London, GB"
   }
 }
