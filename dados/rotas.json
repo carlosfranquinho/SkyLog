@@ -11962,5 +11962,45 @@
   "AFR1496": {
     "origem": "Paris, FR",
     "destino": "Casablanca, MA"
+  },
+  "ELY5464": {
+    "origem": "Porto, PT",
+    "destino": "Tel Aviv, IL"
+  },
+  "TOM725": {
+    "origem": "Rabil, CV",
+    "destino": "Nottingham, GB"
+  },
+  "RAM789H": {
+    "origem": "Paris, FR",
+    "destino": "Casablanca, MA"
+  },
+  "RAM771T": {
+    "origem": "Paris, FR",
+    "destino": "Casablanca, MA"
+  },
+  "TRA101A": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "LGL714": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Luxembourg, LU"
+  },
+  "TVF7841": {
+    "origem": "Funchal, PT",
+    "destino": "Monastir, TN"
+  },
+  "RAM799": {
+    "origem": "Bordeaux, FR",
+    "destino": "Casablanca, MA"
+  },
+  "EZY79GK": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
+  },
+  "EZY93VV": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Liverpool, GB"
   }
 }
