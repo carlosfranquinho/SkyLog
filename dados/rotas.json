@@ -12050,5 +12050,25 @@
   "KLM41U": {
     "origem": "Amsterdam, NL",
     "destino": "Porto, PT"
+  },
+  "RYR2EL": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "London, GB"
+  },
+  "EJU69XM": {
+    "origem": "Paris, FR",
+    "destino": "Porto, PT"
+  },
+  "RYR200M": {
+    "origem": "Brussels, BE",
+    "destino": "Marrakech, MA"
+  },
+  "EXS5FR": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Newcastle, GB"
+  },
+  "EZY41QD": {
+    "origem": "Marrakech, MA",
+    "destino": "Bristol, GB"
   }
 }
