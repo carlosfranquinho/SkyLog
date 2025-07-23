@@ -11834,5 +11834,37 @@
   "AFR881": {
     "origem": "N'Djamena, TD",
     "destino": "Paris, FR"
+  },
+  "AFR75TG": {
+    "origem": "Paris, FR",
+    "destino": "Casablanca, MA"
+  },
+  "CFG5CF": {
+    "origem": "Heraklion, GR",
+    "destino": "Düsseldorf, DE"
+  },
+  "RAM749G": {
+    "origem": "Paris, FR",
+    "destino": "Marrakech, MA"
+  },
+  "CFG8FP": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TOM5347": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "London, GB"
+  },
+  "EZY23LQ": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
+  },
+  "EZY59XL": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "London, GB"
+  },
+  "VKG1187": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Copenhagen, DK"
   }
 }
