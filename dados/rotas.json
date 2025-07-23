@@ -11914,5 +11914,25 @@
   "TOM609": {
     "origem": "Dalaman, TR",
     "destino": "Manchester, GB"
+  },
+  "NOZ8PE": {
+    "origem": "Trondheim, NO",
+    "destino": "Málaga, ES"
+  },
+  "FIN7PW": {
+    "origem": "Funchal, PT",
+    "destino": "Helsinki, FI"
+  },
+  "RYR7EX": {
+    "origem": "Beauvais/Tillé, FR",
+    "destino": "Porto, PT"
+  },
+  "RAM765B": {
+    "origem": "Paris, FR",
+    "destino": "Casablanca, MA"
+  },
+  "LGL661": {
+    "origem": "Luxembourg, LU",
+    "destino": "Málaga, ES"
   }
 }
