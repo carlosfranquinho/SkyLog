@@ -11638,5 +11638,17 @@
   "TAP31TY": {
     "origem": "London, GB",
     "destino": "Porto, PT"
+  },
+  "EXS76XB": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
+  },
+  "TOM7LA": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Birmingham, GB"
+  },
+  "EXS79VB": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Birmingham, GB"
   }
 }
