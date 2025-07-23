@@ -11746,5 +11746,33 @@
   "VKG1216": {
     "origem": "Billund, DK",
     "destino": "Gran Canaria Island, ES"
+  },
+  "GEC8306": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Casablanca, MA"
+  },
+  "LJC9": {
+    "origem": "Bournemouth, GB",
+    "destino": "Birmingham, GB"
+  },
+  "TVF62QT": {
+    "origem": "Paris, FR",
+    "destino": "Marrakech, MA"
+  },
+  "LGL72PM": {
+    "origem": "Funchal, PT",
+    "destino": "Luxembourg, LU"
+  },
+  "TVF3002": {
+    "origem": "Paris, FR",
+    "destino": "Agadir, MA"
+  },
+  "RZO276": {
+    "origem": "New York, US",
+    "destino": "Porto, PT"
+  },
+  "MBU3SN": {
+    "origem": "Hamburg, DE",
+    "destino": "Gran Canaria Island, ES"
   }
 }
