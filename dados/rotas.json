@@ -11866,5 +11866,17 @@
   "VKG1187": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Copenhagen, DK"
+  },
+  "EFW53C": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
+  },
+  "TRA15H": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RAM353Y": {
+    "origem": "Brussels, BE",
+    "destino": "Casablanca, MA"
   }
 }
