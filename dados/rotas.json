@@ -11898,5 +11898,21 @@
   "VKG1195": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Copenhagen, DK"
+  },
+  "VKG1567": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Oslo, NO"
+  },
+  "BCS6761": {
+    "origem": "Madrid, ES",
+    "destino": "Porto, PT"
+  },
+  "TRA17C": {
+    "origem": "Amsterdam, NL",
+    "destino": "Marrakech, MA"
+  },
+  "TOM609": {
+    "origem": "Dalaman, TR",
+    "destino": "Manchester, GB"
   }
 }
