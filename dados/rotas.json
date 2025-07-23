@@ -11698,5 +11698,17 @@
   "EDW228B": {
     "origem": "Zürich, CH",
     "destino": "Lanzarote Island, ES"
+  },
+  "RAM845X": {
+    "origem": "Brussels, BE",
+    "destino": "Casablanca, MA"
+  },
+  "IBE7270": {
+    "origem": "Rio De Janeiro, BR",
+    "destino": "Madrid, ES"
+  },
+  "RAM641B": {
+    "origem": "Paris, FR",
+    "destino": "Marrakech, MA"
   }
 }
