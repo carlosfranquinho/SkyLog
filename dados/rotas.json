@@ -12406,5 +12406,17 @@
   "RYR433N": {
     "origem": "Marseille, FR",
     "destino": "Porto, PT"
+  },
+  "JAF86J": {
+    "origem": "Metz / Nancy, FR",
+    "destino": "Casablanca, MA"
+  },
+  "VLG79EM": {
+    "origem": "Porto, PT",
+    "destino": "Barcelona, ES"
+  },
+  "DLH24M": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Porto, PT"
   }
 }
