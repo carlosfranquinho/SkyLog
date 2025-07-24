@@ -12258,5 +12258,53 @@
   "EXS152B": {
     "origem": "Tenerife Island, ES",
     "destino": "London, GB"
+  },
+  "JAF50T": {
+    "origem": "Ostend, BE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "OCN31E": {
+    "origem": "Munich, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "TUI7JW": {
+    "origem": "Munich, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "RAM637": {
+    "origem": "Brussels, BE",
+    "destino": "Marrakech, MA"
+  },
+  "VOE2798": {
+    "origem": "Rodez/Marcillac, FR",
+    "destino": "Porto, PT"
+  },
+  "CFG6DL": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TUI1YB": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Agadir, MA"
+  },
+  "SDR34AB": {
+    "origem": "Berlin, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "RAM761R": {
+    "origem": "Paris, FR",
+    "destino": "Casablanca, MA"
+  },
+  "CFG5KA": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EZS56ZF": {
+    "origem": "Saint-Louis, FR",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "RYR86ZV": {
+    "origem": "Treviso, IT",
+    "destino": "Tenerife Island, ES"
   }
 }
