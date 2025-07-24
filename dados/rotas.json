@@ -12154,5 +12154,25 @@
   "EZY71KB": {
     "origem": "Manchester, GB",
     "destino": "Porto, PT"
+  },
+  "RAM221": {
+    "origem": "Moscow, RU",
+    "destino": "Casablanca, MA"
+  },
+  "TOM5TH": {
+    "origem": "Faro, PT",
+    "destino": "Birmingham, GB"
+  },
+  "RAM7751": {
+    "origem": "Paris, FR",
+    "destino": "Casablanca, MA"
+  },
+  "AAL9602": {
+    "origem": "Dublin, IE",
+    "destino": "Chicago, US"
+  },
+  "RYR656": {
+    "origem": "Málaga, ES",
+    "destino": "Glasgow, GB"
   }
 }
