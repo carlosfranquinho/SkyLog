@@ -12082,5 +12082,17 @@
   "RZO564": {
     "origem": "Ponta Delgada, PT",
     "destino": "Frankfurt-am-Main, DE"
+  },
+  "TAY2PO": {
+    "origem": "Paris, FR",
+    "destino": "Porto, PT"
+  },
+  "PVG3340": {
+    "origem": "Espargos, CV",
+    "destino": "Porto, PT"
+  },
+  "EJU16DU": {
+    "origem": "Málaga, ES",
+    "destino": "Manchester, GB"
   }
 }
