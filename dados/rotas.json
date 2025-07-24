@@ -12094,5 +12094,25 @@
   "EJU16DU": {
     "origem": "Málaga, ES",
     "destino": "Manchester, GB"
+  },
+  "TVF86FB": {
+    "origem": "Paris, FR",
+    "destino": "Marrakech, MA"
+  },
+  "VOE8NR": {
+    "origem": "Strasbourg, FR",
+    "destino": "Faro, PT"
+  },
+  "LGL733": {
+    "origem": "Luxembourg, LU",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "RYR78KG": {
+    "origem": "Dublin, IE",
+    "destino": "Málaga, ES"
+  },
+  "VLG50BT": {
+    "origem": "Paris, FR",
+    "destino": "Fuerteventura Island, ES"
   }
 }
