@@ -12174,5 +12174,25 @@
   "RYR656": {
     "origem": "Málaga, ES",
     "destino": "Glasgow, GB"
+  },
+  "SWR9CK": {
+    "origem": "Zürich, CH",
+    "destino": "Porto, PT"
+  },
+  "RYR1WE": {
+    "origem": "Nîmes/Garons, FR",
+    "destino": "Porto, PT"
+  },
+  "IBS1545": {
+    "origem": "Madrid, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "AFR722": {
+    "origem": "Paris, FR",
+    "destino": "Paris, FR"
+  },
+  "RYR655E": {
+    "origem": "Málaga, ES",
+    "destino": "Dublin, IE"
   }
 }
