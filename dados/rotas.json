@@ -12114,5 +12114,33 @@
   "VLG50BT": {
     "origem": "Paris, FR",
     "destino": "Fuerteventura Island, ES"
+  },
+  "TOM4BN": {
+    "origem": "Glasgow, GB",
+    "destino": "Málaga, ES"
+  },
+  "RYR6764": {
+    "origem": "Bournemouth, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EWG7602": {
+    "origem": "Hamburg, DE",
+    "destino": "Lisbon, PT"
+  },
+  "EWG48J": {
+    "origem": "Hamburg, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EZS1295": {
+    "origem": "Geneva, CH",
+    "destino": "Southend, GB"
+  },
+  "RYS5101": {
+    "origem": "Katowice, PL",
+    "destino": "Dalaman, TR"
+  },
+  "RAM703": {
+    "origem": "Paris, FR",
+    "destino": "Casablanca, MA"
   }
 }
