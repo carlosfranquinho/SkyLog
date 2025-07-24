@@ -12318,5 +12318,21 @@
   "BEL1JY": {
     "origem": "Casablanca, MA",
     "destino": "Agadir, MA"
+  },
+  "TVF37WM": {
+    "origem": "Paris, FR",
+    "destino": "Paris, FR"
+  },
+  "AFR1196": {
+    "origem": "Paris, FR",
+    "destino": "Casablanca, MA"
+  },
+  "TOM4BT": {
+    "origem": "London, GB",
+    "destino": "Sta Cruz de la Palma, La Palma Island, ES"
+  },
+  "VLG8510": {
+    "origem": "Bilbao, ES",
+    "destino": "Marrakech, MA"
   }
 }
