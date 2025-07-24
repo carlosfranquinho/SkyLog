@@ -12386,5 +12386,17 @@
   "TOM680": {
     "origem": "London, GB",
     "destino": "Agadir, MA"
+  },
+  "VOE5VT": {
+    "origem": "Lyon, FR",
+    "destino": "Faro, PT"
+  },
+  "TRA14G": {
+    "origem": "Amsterdam, NL",
+    "destino": "Casablanca, MA"
+  },
+  "IBS16ZV": {
+    "origem": "Madrid, ES",
+    "destino": "Gran Canaria Island, ES"
   }
 }
