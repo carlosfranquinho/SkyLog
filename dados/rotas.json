@@ -12070,5 +12070,13 @@
   "EZY41QD": {
     "origem": "Marrakech, MA",
     "destino": "Bristol, GB"
+  },
+  "TAP486": {
+    "origem": "Lisbon, PT",
+    "destino": "Nice, FR"
+  },
+  "IBE2605": {
+    "origem": "Barcelona, ES",
+    "destino": "Santiago, CL"
   }
 }
