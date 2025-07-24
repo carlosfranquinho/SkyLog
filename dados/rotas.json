@@ -12306,5 +12306,17 @@
   "RYR86ZV": {
     "origem": "Treviso, IT",
     "destino": "Tenerife Island, ES"
+  },
+  "EDW200E": {
+    "origem": "Zürich, CH",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TUI4HG": {
+    "origem": "Munich, DE",
+    "destino": "Munich, DE"
+  },
+  "BEL1JY": {
+    "origem": "Casablanca, MA",
+    "destino": "Agadir, MA"
   }
 }
