@@ -12342,5 +12342,25 @@
   "DLH506D": {
     "origem": "Frankfurt-am-Main, DE",
     "destino": "São Paulo, BR"
+  },
+  "EXS18LB": {
+    "origem": "Newcastle, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EXS9HN": {
+    "origem": "Leeds, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "AFR860": {
+    "origem": "Paris, FR",
+    "destino": "Lomé, TG"
+  },
+  "AFR592": {
+    "origem": "Paris, FR",
+    "destino": "Conakry, GN"
+  },
+  "EXS7LX": {
+    "origem": "Leeds, GB",
+    "destino": "Gran Canaria Island, ES"
   }
 }
