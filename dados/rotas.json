@@ -12226,5 +12226,37 @@
   "TOM2EW": {
     "origem": "Lanzarote Island, ES",
     "destino": "London, GB"
+  },
+  "VLG66JR": {
+    "origem": "Santiago de Compostela, ES",
+    "destino": "Sevilla, ES"
+  },
+  "CFG7LE": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "CFG5VL": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "TOM4TC": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "London, GB"
+  },
+  "JAF8PN": {
+    "origem": "Lille/Lesquin, FR",
+    "destino": "Agadir, MA"
+  },
+  "TOM9VB": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Cardiff, GB"
+  },
+  "VLG8483": {
+    "origem": "Faro, PT",
+    "destino": "Barcelona, ES"
+  },
+  "EXS152B": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
   }
 }
