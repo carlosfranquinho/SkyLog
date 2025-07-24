@@ -12362,5 +12362,29 @@
   "EXS7LX": {
     "origem": "Leeds, GB",
     "destino": "Gran Canaria Island, ES"
+  },
+  "VLG45EM": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Barcelona, ES"
+  },
+  "EXS25U": {
+    "origem": "Liverpool, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "VLG8YB": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Barcelona, ES"
+  },
+  "QTR12A": {
+    "origem": "Doha, QA",
+    "destino": "Lisbon, PT"
+  },
+  "CFG9CP": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Düsseldorf, DE"
+  },
+  "TOM680": {
+    "origem": "London, GB",
+    "destino": "Agadir, MA"
   }
 }
