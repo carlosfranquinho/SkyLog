@@ -12398,5 +12398,13 @@
   "IBS16ZV": {
     "origem": "Madrid, ES",
     "destino": "Gran Canaria Island, ES"
+  },
+  "VLG13LA": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Barcelona, ES"
+  },
+  "RYR433N": {
+    "origem": "Marseille, FR",
+    "destino": "Porto, PT"
   }
 }
