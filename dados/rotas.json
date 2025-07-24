@@ -12334,5 +12334,13 @@
   "VLG8510": {
     "origem": "Bilbao, ES",
     "destino": "Marrakech, MA"
+  },
+  "AFR804": {
+    "origem": "Paris, FR",
+    "destino": "Cotonou, BJ"
+  },
+  "DLH506D": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "São Paulo, BR"
   }
 }
