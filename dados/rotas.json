@@ -12418,5 +12418,13 @@
   "DLH24M": {
     "origem": "Frankfurt-am-Main, DE",
     "destino": "Porto, PT"
+  },
+  "RAM751P": {
+    "origem": "Paris, FR",
+    "destino": "Casablanca, MA"
+  },
+  "DLH510": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Buenos Aires, AR"
   }
 }
