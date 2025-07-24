@@ -12194,5 +12194,37 @@
   "RYR655E": {
     "origem": "Málaga, ES",
     "destino": "Dublin, IE"
+  },
+  "EJU4759": {
+    "origem": "Nantes, FR",
+    "destino": "Porto, PT"
+  },
+  "AFR890": {
+    "origem": "Paris, FR",
+    "destino": "Cayenne / Rochambeau, GF"
+  },
+  "BEL3NM": {
+    "origem": "Brussels, BE",
+    "destino": "Brussels, BE"
+  },
+  "TOM1PK": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Exeter, GB"
+  },
+  "OBS863": {
+    "origem": "Lisbon, PT",
+    "destino": "Cancún, MX"
+  },
+  "JAF3VA": {
+    "origem": "Rotterdam, NL",
+    "destino": "Casablanca, MA"
+  },
+  "CFG5HK": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "TOM2EW": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "London, GB"
   }
 }
