@@ -12466,5 +12466,29 @@
   "UAE2J": {
     "origem": "Dubai, AE",
     "destino": "Orlando, US"
+  },
+  "EXS14CV": {
+    "origem": "Birmingham, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EJU14ZC": {
+    "origem": "Berlin, DE",
+    "destino": "Porto, PT"
+  },
+  "TOM8XC": {
+    "origem": "Nottingham, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EXS25J": {
+    "origem": "Leeds, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EXS33RY": {
+    "origem": "Manchester, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EZY46NA": {
+    "origem": "Glasgow, GB",
+    "destino": "Porto, PT"
   }
 }
