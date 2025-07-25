@@ -12630,5 +12630,33 @@
   "RZO229": {
     "origem": "Milan, IT",
     "destino": "Boston, US"
+  },
+  "WZZ103": {
+    "origem": "Budapest, HU",
+    "destino": "Warsaw, PL"
+  },
+  "VJH531": {
+    "origem": "Sofia, BG",
+    "destino": "Geneva, CH"
+  },
+  "EIN77C": {
+    "origem": "Dublin, IE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "TOM2CL": {
+    "origem": "Cardiff, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "TOM7DJ": {
+    "origem": "Kerkyra Island, GR",
+    "destino": "Bournemouth, GB"
+  },
+  "VLG4CF": {
+    "origem": "Porto, PT",
+    "destino": "Bilbao, ES"
+  },
+  "RYR4346": {
+    "origem": "Liverpool, GB",
+    "destino": "Tenerife Island, ES"
   }
 }
