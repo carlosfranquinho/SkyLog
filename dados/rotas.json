@@ -12570,5 +12570,33 @@
   "NOS522": {
     "origem": "Verona, IT",
     "destino": "La Romana, DO"
+  },
+  "TAM8073": {
+    "origem": "Milan, IT",
+    "destino": "São Paulo, BR"
+  },
+  "CFG7KF": {
+    "origem": "Stuttgart, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "QTR16H": {
+    "origem": "Doha, QA",
+    "destino": "Lisbon, PT"
+  },
+  "ITY682": {
+    "origem": "Rome, IT",
+    "destino": "Buenos Aires, AR"
+  },
+  "EZY8513": {
+    "origem": "London, GB",
+    "destino": "Lisbon, PT"
+  },
+  "TRA15P": {
+    "origem": "Amsterdam, NL",
+    "destino": "Sta Cruz de la Palma, La Palma Island, ES"
+  },
+  "WZZ5WA": {
+    "origem": "Budapest, HU",
+    "destino": "Funchal, PT"
   }
 }
