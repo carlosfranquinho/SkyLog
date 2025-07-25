@@ -12538,5 +12538,37 @@
   "WZZ1186": {
     "origem": "Katowice, PL",
     "destino": "Tenerife Island, ES"
+  },
+  "TCV604": {
+    "origem": "Espargos, CV",
+    "destino": "Porto, PT"
+  },
+  "TAM8115": {
+    "origem": "Barcelona, ES",
+    "destino": "São Paulo, BR"
+  },
+  "WMT15LQ": {
+    "origem": "Bucharest, RO",
+    "destino": "Tenerife Island, ES"
+  },
+  "CFG9PA": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "JAF7BA": {
+    "origem": "Brussels, BE",
+    "destino": "Funchal, PT"
+  },
+  "RYR898T": {
+    "origem": "Porto, PT",
+    "destino": "Tours/Val de Loire (Loire Valley), FR"
+  },
+  "MBU9AG": {
+    "origem": "Leipzig, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "NOS522": {
+    "origem": "Verona, IT",
+    "destino": "La Romana, DO"
   }
 }
