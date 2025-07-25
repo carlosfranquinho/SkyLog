@@ -12598,5 +12598,37 @@
   "WZZ5WA": {
     "origem": "Budapest, HU",
     "destino": "Funchal, PT"
+  },
+  "TRA6181": {
+    "origem": "Amsterdam, NL",
+    "destino": "Tenerife Island, ES"
+  },
+  "EXS5MY": {
+    "origem": "Paphos, CY",
+    "destino": "Liverpool, GB"
+  },
+  "EFW06B": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "TOM704": {
+    "origem": "Birmingham, GB",
+    "destino": "Espargos, CV"
+  },
+  "THY903": {
+    "origem": "Istanbul, TR",
+    "destino": "Tocumen, PA"
+  },
+  "TOM2BK": {
+    "origem": "London, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TOM5YT": {
+    "origem": "Manchester, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RZO229": {
+    "origem": "Milan, IT",
+    "destino": "Boston, US"
   }
 }
