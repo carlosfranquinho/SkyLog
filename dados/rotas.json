@@ -12502,5 +12502,13 @@
   "RYR7982": {
     "origem": "Glasgow, GB",
     "destino": "Málaga, ES"
+  },
+  "SAZ71": {
+    "origem": "Ljubljana, SI",
+    "destino": "Belgrad, RS"
+  },
+  "RYR8185": {
+    "origem": "Málaga, ES",
+    "destino": "Dublin, IE"
   }
 }
