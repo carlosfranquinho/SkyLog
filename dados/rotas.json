@@ -12682,5 +12682,37 @@
   "EXS24Q": {
     "origem": "London, GB",
     "destino": "Gran Canaria Island, ES"
+  },
+  "RYR1344": {
+    "origem": "Shannon, IE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "CND549": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "CXI23JW": {
+    "origem": "Prague, CZ",
+    "destino": "Funchal, PT"
+  },
+  "WZZ8NK": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Katowice, PL"
+  },
+  "WMT746": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Bucharest, RO"
+  },
+  "EXS1RE": {
+    "origem": "Leeds, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "TRA5C": {
+    "origem": "Casablanca, MA",
+    "destino": "Amsterdam, NL"
+  },
+  "CFG7PE": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Stuttgart, DE"
   }
 }
