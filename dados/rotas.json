@@ -12738,5 +12738,21 @@
   "RYR8NU": {
     "origem": "Porto, PT",
     "destino": "Madrid, ES"
+  },
+  "CRV1": {
+    "origem": "Dubrovnik, HR",
+    "destino": "Newark, US"
+  },
+  "TOM5XV": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Newcastle, GB"
+  },
+  "TAP9018": {
+    "origem": "Lisbon, PT",
+    "destino": "Porto, PT"
+  },
+  "EJU89MB": {
+    "origem": "Nantes, FR",
+    "destino": "Marrakech, MA"
   }
 }
