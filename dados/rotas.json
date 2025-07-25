@@ -12426,5 +12426,25 @@
   "DLH510": {
     "origem": "Frankfurt-am-Main, DE",
     "destino": "Buenos Aires, AR"
+  },
+  "EJU1871": {
+    "origem": "Bordeaux, FR",
+    "destino": "Faro, PT"
+  },
+  "QTR16C": {
+    "origem": "Doha, QA",
+    "destino": "Dallas-Fort Worth, US"
+  },
+  "RYR91PX": {
+    "origem": "Porto, PT",
+    "destino": "Treviso, IT"
+  },
+  "RYR3770": {
+    "origem": "Vienna, AT",
+    "destino": "Málaga, ES"
+  },
+  "UAE213": {
+    "origem": "Dubai, AE",
+    "destino": "Bogota, CO"
   }
 }
