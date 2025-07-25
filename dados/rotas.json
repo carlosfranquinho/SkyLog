@@ -12518,5 +12518,25 @@
   "PSSTP": {
     "origem": "Teterboro, US",
     "destino": "Roma, IT"
+  },
+  "RYR8947": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Bournemouth, GB"
+  },
+  "QTR62G": {
+    "origem": "Doha, QA",
+    "destino": "Miami, US"
+  },
+  "RYR704X": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "London, GB"
+  },
+  "CFG1DK": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "WZZ1186": {
+    "origem": "Katowice, PL",
+    "destino": "Tenerife Island, ES"
   }
 }
