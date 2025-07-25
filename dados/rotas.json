@@ -12446,5 +12446,25 @@
   "UAE213": {
     "origem": "Dubai, AE",
     "destino": "Bogota, CO"
+  },
+  "EJU9041": {
+    "origem": "London, GB",
+    "destino": "Milan, IT"
+  },
+  "CFG8KH": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "RYR37LU": {
+    "origem": "Porto, PT",
+    "destino": "Madrid, ES"
+  },
+  "RYR72JY": {
+    "origem": "Dublin, IE",
+    "destino": "Málaga, ES"
+  },
+  "UAE2J": {
+    "origem": "Dubai, AE",
+    "destino": "Orlando, US"
   }
 }
