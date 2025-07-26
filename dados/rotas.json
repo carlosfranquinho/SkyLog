@@ -12838,5 +12838,17 @@
   "TAM8070": {
     "origem": "São Paulo, BR",
     "destino": "Frankfurt-am-Main, DE"
+  },
+  "RYR706G": {
+    "origem": "Memmingen, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TFL6KX": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "CCM11CR": {
+    "origem": "Porto, PT",
+    "destino": "Ajaccio, FR"
   }
 }
