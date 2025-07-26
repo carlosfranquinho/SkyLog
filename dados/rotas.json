@@ -12754,5 +12754,13 @@
   "EJU89MB": {
     "origem": "Nantes, FR",
     "destino": "Marrakech, MA"
+  },
+  "TAP2734": {
+    "origem": "Lisbon, PT",
+    "destino": "Paris, FR"
+  },
+  "RAM702": {
+    "origem": "Casablanca, MA",
+    "destino": "Paris, FR"
   }
 }
