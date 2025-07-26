@@ -12850,5 +12850,17 @@
   "CCM11CR": {
     "origem": "Porto, PT",
     "destino": "Ajaccio, FR"
+  },
+  "EJU43VB": {
+    "origem": "Palermo, IT",
+    "destino": "Porto, PT"
+  },
+  "DAWBF": {
+    "origem": "Vienna, AT",
+    "destino": "Olbia, IT"
+  },
+  "IBS16LR": {
+    "origem": "Madrid, ES",
+    "destino": "Gran Canaria Island, ES"
   }
 }
