@@ -50,7 +50,7 @@
       "bandeira": "🇨🇭",
       "local": "PORTALEGRE",
       "origem": "Zürich, Suiça",
-      "destino": "São Paulo, BR",
+      "destino": "São Paulo, Brasil",
       "alt": "31000",
       "vel": "512.5",
       "dist": 131.8,
@@ -105,8 +105,8 @@
       "pais": "Espanha",
       "bandeira": "🇪🇸",
       "local": "VALONGO",
-      "origem": "Porto, PT",
-      "destino": "Barcelona, ES",
+      "origem": "Porto, Portugal",
+      "destino": "Barcelona, Espanha",
       "alt": "5500",
       "vel": "282.4",
       "dist": 163.0,
@@ -134,7 +134,7 @@
       "bandeira": "🇩🇪",
       "local": "Valência (Espanha)",
       "origem": "Frankfurt-am-Main, Alemanha",
-      "destino": "São Paulo, BR",
+      "destino": "São Paulo, Brasil",
       "alt": "31000",
       "vel": "525.2",
       "dist": 161.7,
@@ -259,8 +259,8 @@
       "pais": "Irlanda",
       "bandeira": "🇮🇪",
       "local": "GONDOMAR",
-      "origem": "Porto, PT",
-      "destino": "Madrid, ES",
+      "origem": "Porto, Portugal",
+      "destino": "Madrid, Espanha",
       "alt": "6600",
       "vel": "281.2",
       "dist": 157.5,
@@ -987,8 +987,8 @@
       "pais": "Áustria",
       "bandeira": "🇦🇹",
       "local": null,
-      "origem": "Rabat, MA",
-      "destino": "Nantes, FR",
+      "origem": "Rabat, Marrocos",
+      "destino": "Nantes, França",
       "alt": "38000",
       "vel": "406.7",
       "dist": "",
@@ -1001,7 +1001,7 @@
       "pais": "Polónia",
       "bandeira": "🇵🇱",
       "local": "CORUCHE",
-      "origem": "Gran Canaria Island, ES",
+      "origem": "Grã-Canária, Espanha",
       "destino": "Kraków, PL",
       "alt": "36000",
       "vel": "425.9",
@@ -1323,8 +1323,8 @@
       "pais": "Países Baixos",
       "bandeira": "🇳🇱",
       "local": "PORTEL",
-      "origem": "Casablanca, MA",
-      "destino": "Amsterdam, NL",
+      "origem": "Casablanca, Marrocos",
+      "destino": "Amesterdão, NL",
       "alt": "40000",
       "vel": "410.1",
       "dist": 203.1,
@@ -1464,7 +1464,7 @@
       "bandeira": "🇦🇪",
       "local": "SOUSEL",
       "origem": "Dubai, AE",
-      "destino": "Lisbon, PT",
+      "destino": "Lisboa, Portugal",
       "alt": "19500",
       "vel": "396.2",
       "dist": 128.2,
@@ -1603,8 +1603,8 @@
       "pais": "Países Baixos",
       "bandeira": "🇳🇱",
       "local": "TONDELA",
-      "origem": "Amsterdam, NL",
-      "destino": "Gran Canaria Island, ES",
+      "origem": "Amesterdão, NL",
+      "destino": "Grã-Canária, Espanha",
       "alt": "37000",
       "vel": "481.6",
       "dist": 108.1,
@@ -1855,8 +1855,8 @@
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
       "local": "MEALHADA",
-      "origem": "London, GB",
-      "destino": "Gran Canaria Island, ES",
+      "origem": "Londres, Reino Unido",
+      "destino": "Grã-Canária, Espanha",
       "alt": "37000",
       "vel": "475.4",
       "dist": 81.9,
@@ -1883,8 +1883,8 @@
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
       "local": "Valência (Espanha)",
-      "origem": "Birmingham, GB",
-      "destino": "Gran Canaria Island, ES",
+      "origem": "Birmingham, Reino Unido",
+      "destino": "Grã-Canária, Espanha",
       "alt": "37000",
       "vel": "490.9",
       "dist": 143.1,
@@ -1939,8 +1939,8 @@
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
       "local": "TONDELA",
-      "origem": "London, GB",
-      "destino": "Tenerife Island, ES",
+      "origem": "Londres, Reino Unido",
+      "destino": "Tenerife, Espanha",
       "alt": "42975",
       "vel": "507.7",
       "dist": 108.2,
@@ -1995,8 +1995,8 @@
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
       "local": "Valência (Espanha)",
-      "origem": "Manchester, GB",
-      "destino": "Gran Canaria Island, ES",
+      "origem": "Manchester, Reino Unido",
+      "destino": "Grã-Canária, Espanha",
       "alt": "37000",
       "vel": "496.0",
       "dist": 143.0,
@@ -2093,8 +2093,8 @@
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
       "local": "MORTÁGUA",
-      "origem": "Newcastle, GB",
-      "destino": "Tenerife Island, ES",
+      "origem": "Newcastle, Reino Unido",
+      "destino": "Tenerife, Espanha",
       "alt": "37000",
       "vel": "483.0",
       "dist": 103.2,
@@ -2219,8 +2219,8 @@
       "pais": "Irlanda",
       "bandeira": "🇮🇪",
       "local": "ÁGUEDA",
-      "origem": "Liverpool, GB",
-      "destino": "Tenerife Island, ES",
+      "origem": "Liverpool, Reino Unido",
+      "destino": "Tenerife, Espanha",
       "alt": "37000",
       "vel": "475.8",
       "dist": 107.9,
@@ -2388,7 +2388,7 @@
       "bandeira": "🇬🇧",
       "local": "MORTÁGUA",
       "origem": "Kerkyra Island, GR",
-      "destino": "Bournemouth, GB",
+      "destino": "Bournemouth, Reino Unido",
       "alt": "35000",
       "vel": "493.3",
       "dist": 103.5,
@@ -2639,8 +2639,8 @@
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
       "local": "TONDELA",
-      "origem": "Cardiff, GB",
-      "destino": "Tenerife Island, ES",
+      "origem": "Cardiff, Reino Unido",
+      "destino": "Tenerife, Espanha",
       "alt": "37000",
       "vel": "484.2",
       "dist": 108.2,
@@ -2696,7 +2696,7 @@
       "bandeira": "🇮🇪",
       "local": "LOURINHÃ",
       "origem": "Dublin, IE",
-      "destino": "Lanzarote Island, ES",
+      "destino": "Lanzarote Island, Espanha",
       "alt": "37000",
       "vel": "501.3",
       "dist": 62.4,
@@ -2835,8 +2835,8 @@
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
       "local": "MORTÁGUA",
-      "origem": "Manchester, GB",
-      "destino": "Gran Canaria Island, ES",
+      "origem": "Manchester, Reino Unido",
+      "destino": "Grã-Canária, Espanha",
       "alt": "37000",
       "vel": "474.1",
       "dist": 100.1,
@@ -3045,8 +3045,8 @@
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
       "local": "VOUZELA",
-      "origem": "London, GB",
-      "destino": "Gran Canaria Island, ES",
+      "origem": "Londres, Reino Unido",
+      "destino": "Grã-Canária, Espanha",
       "alt": "37000",
       "vel": "478.2",
       "dist": 121.0,
@@ -3129,7 +3129,7 @@
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
       "local": "TONDELA",
-      "origem": "Birmingham, GB",
+      "origem": "Birmingham, Reino Unido",
       "destino": "Espargos, CV",
       "alt": "40975",
       "vel": "518.3",
@@ -3157,8 +3157,8 @@
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
       "local": "MORTÁGUA",
-      "origem": "London, GB",
-      "destino": "Tenerife Island, ES",
+      "origem": "Londres, Reino Unido",
+      "destino": "Tenerife, Espanha",
       "alt": "34950",
       "vel": "486.6",
       "dist": 90.8,
@@ -3200,7 +3200,7 @@
       "bandeira": "🇬🇧",
       "local": "MORTÁGUA",
       "origem": "Paphos, CY",
-      "destino": "Liverpool, GB",
+      "destino": "Liverpool, Reino Unido",
       "alt": "35000",
       "vel": "496.4",
       "dist": 98.7,
@@ -3227,8 +3227,8 @@
       "pais": "Países Baixos",
       "bandeira": "🇳🇱",
       "local": "GÓIS",
-      "origem": "Amsterdam, NL",
-      "destino": "Tenerife Island, ES",
+      "origem": "Amesterdão, NL",
+      "destino": "Tenerife, Espanha",
       "alt": "35000",
       "vel": "495.3",
       "dist": 83.9,
@@ -3368,7 +3368,7 @@
       "bandeira": "🇲🇹",
       "local": "CASTELO DE VIDE",
       "origem": "Budapest, HU",
-      "destino": "Funchal, PT",
+      "destino": "Funchal, Portugal",
       "alt": "34950",
       "vel": "468.7",
       "dist": 129.1,
@@ -3423,8 +3423,8 @@
       "pais": "Países Baixos",
       "bandeira": "🇳🇱",
       "local": "MANGUALDE",
-      "origem": "Amsterdam, NL",
-      "destino": "Sta Cruz de la Palma, La Palma Island, ES",
+      "origem": "Amesterdão, NL",
+      "destino": "Sta Cruz de la Palma, La Palma Island, Espanha",
       "alt": "36975",
       "vel": "490.4",
       "dist": 144.7,
@@ -3493,8 +3493,8 @@
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
       "local": "TONDELA",
-      "origem": "London, GB",
-      "destino": "Lisbon, PT",
+      "origem": "Londres, Reino Unido",
+      "destino": "Lisboa, Portugal",
       "alt": "38475",
       "vel": "492.3",
       "dist": 117.3,
@@ -3592,7 +3592,7 @@
       "bandeira": "",
       "local": "Valência (Espanha)",
       "origem": "Doha, QA",
-      "destino": "Lisbon, PT",
+      "destino": "Lisboa, Portugal",
       "alt": "30225",
       "vel": "471.4",
       "dist": 171.9,
@@ -3718,7 +3718,7 @@
       "bandeira": "🇧🇷",
       "local": "ARRAIOLOS",
       "origem": "Milan, IT",
-      "destino": "São Paulo, BR",
+      "destino": "São Paulo, Brasil",
       "alt": "31000",
       "vel": "516.5",
       "dist": 143.7,
@@ -3732,7 +3732,7 @@
       "bandeira": "🇧🇬",
       "local": "MAÇÃO",
       "origem": "Stuttgart, DE",
-      "destino": "Tenerife Island, ES",
+      "destino": "Tenerife, Espanha",
       "alt": "35000",
       "vel": "495.4",
       "dist": 85.4,
@@ -4012,7 +4012,7 @@
       "bandeira": "🇪🇪",
       "local": "PORTALEGRE",
       "origem": "Leipzig, DE",
-      "destino": "Tenerife Island, ES",
+      "destino": "Tenerife, Espanha",
       "alt": "37000",
       "vel": "480.9",
       "dist": 142.4,
@@ -4124,7 +4124,7 @@
       "bandeira": "🇧🇪",
       "local": "TONDELA",
       "origem": "Brussels, BE",
-      "destino": "Funchal, PT",
+      "destino": "Funchal, Portugal",
       "alt": "37000",
       "vel": "476.1",
       "dist": 113.5,
@@ -4166,7 +4166,7 @@
       "bandeira": "🇭🇷 ",
       "local": "Valência (Espanha)",
       "origem": "Düsseldorf, DE",
-      "destino": "Lanzarote Island, ES",
+      "destino": "Lanzarote Island, Espanha",
       "alt": "35025",
       "vel": "489.4",
       "dist": 164.7,
@@ -4222,7 +4222,7 @@
       "bandeira": "🇩🇪",
       "local": "ARRONCHES",
       "origem": "Munich, DE",
-      "destino": "Faro, PT",
+      "destino": "Faro, Portugal",
       "alt": "39000",
       "vel": "495.4",
       "dist": 160.0,
@@ -4250,7 +4250,7 @@
       "bandeira": "🇭🇺",
       "local": "OLEIROS",
       "origem": "Bucharest, RO",
-      "destino": "Tenerife Island, ES",
+      "destino": "Tenerife, Espanha",
       "alt": "35000",
       "vel": "496.2",
       "dist": 95.4,
@@ -4277,8 +4277,8 @@
       "pais": "Chile",
       "bandeira": "🇨🇱",
       "local": "Valência (Espanha)",
-      "origem": "Barcelona, ES",
-      "destino": "São Paulo, BR",
+      "origem": "Barcelona, Espanha",
+      "destino": "São Paulo, Brasil",
       "alt": "35000",
       "vel": "499.1",
       "dist": 168.8,
@@ -4376,7 +4376,7 @@
       "bandeira": "",
       "local": "LEIRIA",
       "origem": "Espargos, CV",
-      "destino": "Porto, PT",
+      "destino": "Porto, Portugal",
       "alt": "27900",
       "vel": "418.0",
       "dist": 18.8,
@@ -4502,7 +4502,7 @@
       "bandeira": "🇲🇹",
       "local": "PORTALEGRE",
       "origem": "Katowice, PL",
-      "destino": "Tenerife Island, ES",
+      "destino": "Tenerife, Espanha",
       "alt": "35000",
       "vel": "478.0",
       "dist": 136.4,
@@ -4613,8 +4613,8 @@
       "pais": "Irlanda",
       "bandeira": "🇮🇪",
       "local": "PORTALEGRE",
-      "origem": "Gran Canaria Island, ES",
-      "destino": "London, GB",
+      "origem": "Grã-Canária, Espanha",
+      "destino": "Londres, Reino Unido",
       "alt": "36000",
       "vel": "423.3",
       "dist": 139.0,
@@ -4642,7 +4642,7 @@
       "bandeira": "🇩🇪",
       "local": "ALTER DO CHÃO",
       "origem": "Düsseldorf, DE",
-      "destino": "Palma De Mallorca, ES",
+      "destino": "Palma De Mallorca, Espanha",
       "alt": "35000",
       "vel": "493.1",
       "dist": 109.8,
@@ -5706,7 +5706,7 @@
       "bandeira": "🇦🇹",
       "local": "Valência (Espanha)",
       "origem": "Geneva, CH",
-      "destino": "Faro, PT",
+      "destino": "Faro, Portugal",
       "alt": "37000",
       "vel": "465.4",
       "dist": 176.2,
@@ -5734,7 +5734,7 @@
       "bandeira": "🇪🇪",
       "local": "MORTÁGUA",
       "origem": "Hamburg, DE",
-      "destino": "Gran Canaria Island, ES",
+      "destino": "Grã-Canária, Espanha",
       "alt": "37000",
       "vel": "495.7",
       "dist": 91.5,
@@ -5832,7 +5832,7 @@
       "bandeira": "🇨🇭",
       "local": "ESPINHO",
       "origem": "Zürich, CH",
-      "destino": "Porto, PT",
+      "destino": "Porto, Portugal",
       "alt": "4900",
       "vel": "216.6",
       "dist": 142.2,
@@ -6811,8 +6811,8 @@
       "pais": "Irlanda",
       "bandeira": "🇮🇪",
       "local": "MORTÁGUA",
-      "origem": "Glasgow, GB",
-      "destino": "Málaga, ES",
+      "origem": "Glasgow, Reino Unido",
+      "destino": "Málaga, Espanha",
       "alt": "37000",
       "vel": "503.4",
       "dist": 100.9,
@@ -6923,8 +6923,8 @@
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
       "local": "ESPINHO",
-      "origem": "Manchester, GB",
-      "destino": "Porto, PT",
+      "origem": "Manchester, Reino Unido",
+      "destino": "Porto, Portugal",
       "alt": "4525",
       "vel": "194.2",
       "dist": 139.7,
@@ -7049,8 +7049,8 @@
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
       "local": "ESPINHO",
-      "origem": "Bristol, GB",
-      "destino": "Tenerife Island, ES",
+      "origem": "Bristol, Reino Unido",
+      "destino": "Tenerife, Espanha",
       "alt": "37000",
       "vel": "489.1",
       "dist": 137.7,
@@ -7148,7 +7148,7 @@
       "bandeira": "🇩🇰",
       "local": "NISA",
       "origem": "Billund, DK",
-      "destino": "Lanzarote Island, ES",
+      "destino": "Lanzarote Island, Espanha",
       "alt": "37000",
       "vel": "491.9",
       "dist": 109.3,
@@ -7273,8 +7273,8 @@
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
       "local": "ESPINHO",
-      "origem": "Glasgow, GB",
-      "destino": "Porto, PT",
+      "origem": "Glasgow, Reino Unido",
+      "destino": "Porto, Portugal",
       "alt": "3925",
       "vel": "213.1",
       "dist": 142.2,
@@ -7287,8 +7287,8 @@
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
       "local": "GÓIS",
-      "origem": "Manchester, GB",
-      "destino": "Tenerife Island, ES",
+      "origem": "Manchester, Reino Unido",
+      "destino": "Tenerife, Espanha",
       "alt": "35000",
       "vel": "492.4",
       "dist": 81.5,
@@ -7777,8 +7777,8 @@
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
       "local": "GÓIS",
-      "origem": "Leeds, GB",
-      "destino": "Tenerife Island, ES",
+      "origem": "Leeds, Reino Unido",
+      "destino": "Tenerife, Espanha",
       "alt": "35000",
       "vel": "491.4",
       "dist": 81.0,
@@ -7833,7 +7833,7 @@
       "pais": "França",
       "bandeira": "🇫🇷",
       "local": "REGUENGOS DE MONSARAZ",
-      "origem": "Casablanca, MA",
+      "origem": "Casablanca, Marrocos",
       "destino": "Paris, França",
       "alt": "36000",
       "vel": "406.1",
@@ -7861,7 +7861,7 @@
       "pais": "França",
       "bandeira": "🇫🇷",
       "local": "ÉVORA",
-      "origem": "São Paulo, BR",
+      "origem": "São Paulo, Brasil",
       "destino": "Paris, França",
       "alt": "40000",
       "vel": "441.4",
@@ -7889,8 +7889,8 @@
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
       "local": "ARGANIL",
-      "origem": "Nottingham, GB",
-      "destino": "Tenerife Island, ES",
+      "origem": "Nottingham, Reino Unido",
+      "destino": "Tenerife, Espanha",
       "alt": "37000",
       "vel": "506.5",
       "dist": 89.3,
@@ -8030,7 +8030,7 @@
       "bandeira": "🇦🇹",
       "local": "ESPINHO",
       "origem": "Berlin, DE",
-      "destino": "Porto, PT",
+      "destino": "Porto, Portugal",
       "alt": "4650",
       "vel": "215.1",
       "dist": 135.3,
@@ -8099,8 +8099,8 @@
       "pais": "Reino Unido",
       "bandeira": "🇬🇧",
       "local": "ARGANIL",
-      "origem": "Birmingham, GB",
-      "destino": "Tenerife Island, ES",
+      "origem": "Birmingham, Reino Unido",
+      "destino": "Tenerife, Espanha",
       "alt": "37000",
       "vel": "489.5",
       "dist": 88.7,
@@ -8114,7 +8114,7 @@
       "bandeira": "🇩🇪",
       "local": "OVAR",
       "origem": "Stuttgart, DE",
-      "destino": "Porto, PT",
+      "destino": "Porto, Portugal",
       "alt": "5500",
       "vel": "198.3",
       "dist": 131.5,
@@ -8604,7 +8604,7 @@
       "bandeira": "🇮🇪",
       "local": "MORTÁGUA",
       "origem": "Dublin, IE",
-      "destino": "Málaga, ES",
+      "destino": "Málaga, Espanha",
       "alt": "37000",
       "vel": "502.6",
       "dist": 102.7,
@@ -8687,8 +8687,8 @@
       "pais": "Irlanda",
       "bandeira": "🇮🇪",
       "local": "VILA NOVA DE FAMALICÃO",
-      "origem": "Porto, PT",
-      "destino": "Madrid, ES",
+      "origem": "Porto, Portugal",
+      "destino": "Madrid, Espanha",
       "alt": "8175",
       "vel": "317.0",
       "dist": 185.0,
@@ -8800,7 +8800,7 @@
       "bandeira": "🇩🇪",
       "local": "PINHEL",
       "origem": "Frankfurt-am-Main, DE",
-      "destino": "Lanzarote Island, ES",
+      "destino": "Lanzarote Island, Espanha",
       "alt": "36975",
       "vel": "496.8",
       "dist": 179.7,
@@ -8897,7 +8897,7 @@
       "pais": "Áustria",
       "bandeira": "🇦🇹",
       "local": "ALPIARÇA",
-      "origem": "London, GB",
+      "origem": "Londres, Reino Unido",
       "destino": "Milan, IT",
       "alt": "22425",
       "vel": "360.8",
@@ -8939,8 +8939,8 @@
       "pais": "Áustria",
       "bandeira": "🇦🇹",
       "local": "Valência (Espanha)",
-      "origem": "Nantes, FR",
-      "destino": "Marrakech, MA",
+      "origem": "Nantes, França",
+      "destino": "Marrakech, Marrocos",
       "alt": "37000",
       "vel": "487.9",
       "dist": 150.2,
@@ -9066,7 +9066,7 @@
       "bandeira": "🇩🇪",
       "local": "Valência (Espanha)",
       "origem": "Stuttgart, DE",
-      "destino": "Faro, PT",
+      "destino": "Faro, Portugal",
       "alt": "35000",
       "vel": "511.0",
       "dist": 173.0,
@@ -9191,8 +9191,8 @@
       "pais": "França",
       "bandeira": "🇫🇷",
       "local": "SABUGAL",
-      "origem": "Paris, FR",
-      "destino": "Marrakech, MA",
+      "origem": "Paris, França",
+      "destino": "Marrakech, Marrocos",
       "alt": "37000",
       "vel": "505.6",
       "dist": 187.7,
@@ -9640,7 +9640,7 @@
       "bandeira": "🇮🇪",
       "local": "MURTOSA",
       "origem": "Vienna, AT",
-      "destino": "Málaga, ES",
+      "destino": "Málaga, Espanha",
       "alt": "23575",
       "vel": "453.1",
       "dist": 113.7,
@@ -9695,7 +9695,7 @@
       "pais": "Irlanda",
       "bandeira": "🇮🇪",
       "local": "VILA NOVA DE FAMALICÃO",
-      "origem": "Porto, PT",
+      "origem": "Porto, Portugal",
       "destino": "Treviso, IT",
       "alt": "8475",
       "vel": "310.6",
@@ -9961,8 +9961,8 @@
       "pais": "França",
       "bandeira": "🇫🇷",
       "local": "ESPINHO",
-      "origem": "Paris, FR",
-      "destino": "Porto, PT",
+      "origem": "Paris, França",
+      "destino": "Porto, Portugal",
       "alt": "4725",
       "vel": "204.8",
       "dist": 141.5,
@@ -9989,8 +9989,8 @@
       "pais": "Áustria",
       "bandeira": "🇦🇹",
       "local": "Valência (Espanha)",
-      "origem": "Bordeaux, FR",
-      "destino": "Faro, PT",
+      "origem": "Bordeaux, França",
+      "destino": "Faro, Portugal",
       "alt": "33000",
       "vel": "467.2",
       "dist": 161.4,
@@ -10087,8 +10087,8 @@
       "pais": "Portugal",
       "bandeira": "🇵🇹",
       "local": "Cáceres (Espanha)",
-      "origem": "Lisbon, PT",
-      "destino": "Porto, PT",
+      "origem": "Lisboa, Portugal",
+      "destino": "Porto, Portugal",
       "alt": "35000",
       "vel": "464.7",
       "dist": 193.2,
@@ -10424,7 +10424,7 @@
       "bandeira": "🇫🇷",
       "local": "OLIVEIRA DO HOSPITAL",
       "origem": "Paris, França",
-      "destino": "São Paulo, BR",
+      "destino": "São Paulo, Brasil",
       "alt": "31000",
       "vel": "554.1",
       "dist": 115.1,
@@ -10522,7 +10522,7 @@
       "bandeira": "🇨🇭",
       "local": "ARRONCHES",
       "origem": "Zürich, Suiça",
-      "destino": "São Paulo, BR",
+      "destino": "São Paulo, Brasil",
       "alt": "31000",
       "vel": "556.8",
       "dist": 160.0,
@@ -10850,11 +10850,11 @@
   "top_origens": [
     {
       "origem": "Londres, Reino Unido",
-      "total": 67
+      "total": 73
     },
     {
       "origem": "Lisboa, Portugal",
-      "total": 60
+      "total": 61
     },
     {
       "origem": "Madrid, Espanha",
@@ -10862,11 +10862,11 @@
     },
     {
       "origem": "Paris, França",
-      "total": 27
+      "total": 29
     },
     {
       "origem": "Manchester, Reino Unido",
-      "total": 18
+      "total": 22
     },
     {
       "origem": "Faro, Portugal",
@@ -10877,12 +10877,16 @@
       "total": 16
     },
     {
+      "origem": "Barcelona, Espanha",
+      "total": 14
+    },
+    {
       "origem": "Amesterdão, Países Baixos",
       "total": 14
     },
     {
-      "origem": "Barcelona, Espanha",
-      "total": 13
+      "origem": "Porto, Portugal",
+      "total": 12
     },
     {
       "origem": "Zürich, Suiça",
@@ -10893,32 +10897,24 @@
       "total": 10
     },
     {
+      "origem": "Birmingham, Reino Unido",
+      "total": 10
+    },
+    {
       "origem": "Dublin, Irlanda",
       "total": 9
     },
     {
-      "origem": "Porto, Portugal",
+      "origem": "Grã-Canária, Espanha",
+      "total": 9
+    },
+    {
+      "origem": "Bristol, Reino Unido",
       "total": 8
     },
     {
       "origem": "Bilbao, Espanha",
       "total": 7
-    },
-    {
-      "origem": "Bristol, Reino Unido",
-      "total": 7
-    },
-    {
-      "origem": "Grã-Canária, Espanha",
-      "total": 7
-    },
-    {
-      "origem": "Birmingham, Reino Unido",
-      "total": 7
-    },
-    {
-      "origem": "London, GB",
-      "total": 6
     },
     {
       "origem": "Geneva, Suiça",
@@ -10927,47 +10923,47 @@
     {
       "origem": "Düsseldorf, Alemanha",
       "total": 5
+    },
+    {
+      "origem": "Cologne, Alemanha",
+      "total": 5
     }
   ],
   "top_destinos": [
     {
       "destino": "Lisboa, Portugal",
-      "total": 131
+      "total": 134
     },
     {
       "destino": "Faro, Portugal",
-      "total": 71
+      "total": 75
     },
     {
       "destino": "Tenerife, Espanha",
-      "total": 40
+      "total": 55
     },
     {
       "destino": "Porto, Portugal",
-      "total": 28
+      "total": 36
+    },
+    {
+      "destino": "Grã-Canária, Espanha",
+      "total": 26
     },
     {
       "destino": "Lanzarote, Espanha",
       "total": 26
     },
     {
-      "destino": "Grã-Canária, Espanha",
+      "destino": "Madrid, Espanha",
       "total": 19
     },
     {
-      "destino": "Madrid, Espanha",
-      "total": 17
-    },
-    {
       "destino": "Marrakech, Marrocos",
-      "total": 16
+      "total": 18
     },
     {
       "destino": "Forteventura, Espanha",
-      "total": 15
-    },
-    {
-      "destino": "Tenerife Island, ES",
       "total": 15
     },
     {
@@ -10975,31 +10971,27 @@
       "total": 13
     },
     {
-      "destino": "Porto, PT",
-      "total": 8
+      "destino": "São Paulo, Brasil",
+      "total": 9
     },
     {
       "destino": "Londres, Reino Unido",
-      "total": 7
+      "total": 8
     },
     {
-      "destino": "Gran Canaria Island, ES",
-      "total": 7
-    },
-    {
-      "destino": "São Paulo, BR",
-      "total": 6
+      "destino": "Málaga, Espanha",
+      "total": 8
     },
     {
       "destino": "Frankfurt-am-Main, Alemanha",
       "total": 5
     },
     {
-      "destino": "Málaga, Espanha",
+      "destino": "Amesterdão, Países Baixos",
       "total": 5
     },
     {
-      "destino": "Amesterdão, Países Baixos",
+      "destino": "Funchal, Portugal",
       "total": 5
     },
     {
@@ -11008,6 +11000,14 @@
     },
     {
       "destino": "Milan, Itália",
+      "total": 4
+    },
+    {
+      "destino": "Casablanca, Marrocos",
+      "total": 4
+    },
+    {
+      "destino": "Lanzarote Island, Espanha",
       "total": 4
     }
   ],
