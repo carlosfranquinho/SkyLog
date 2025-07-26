@@ -12778,5 +12778,17 @@
   "NOS523": {
     "origem": "La Romana, DO",
     "destino": "Verona, IT"
+  },
+  "EIN6PW": {
+    "origem": "Cork, IE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EXS11F": {
+    "origem": "Manchester, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EXS4UW": {
+    "origem": "Leeds, GB",
+    "destino": "Tenerife Island, ES"
   }
 }
