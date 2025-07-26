@@ -12822,5 +12822,21 @@
   "CCM10PT": {
     "origem": "Ajaccio, França",
     "destino": "Porto, Portugal"
+  },
+  "CFG2AC": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Funchal, PT"
+  },
+  "CFE41L": {
+    "origem": "Faro, PT",
+    "destino": "Saint Helier, JE"
+  },
+  "THY904": {
+    "origem": "Tocumen, PA",
+    "destino": "Istanbul, TR"
+  },
+  "TAM8070": {
+    "origem": "São Paulo, BR",
+    "destino": "Frankfurt-am-Main, DE"
   }
 }
