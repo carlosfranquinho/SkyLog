@@ -12770,5 +12770,13 @@
   "ANE001": {
     "origem": "Valencia, ES",
     "destino": "Madrid, ES"
+  },
+  "DLH511": {
+    "origem": "Buenos Aires, AR",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "NOS523": {
+    "origem": "La Romana, DO",
+    "destino": "Verona, IT"
   }
 }
