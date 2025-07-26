@@ -12794,5 +12794,17 @@
   "EIN776": {
     "origem": "Dublin, IE",
     "destino": "Lanzarote Island, ES"
+  },
+  "IBE0559": {
+    "origem": "Madrid, ES",
+    "destino": "Funchal, PT"
+  },
+  "RYR48YP": {
+    "origem": "Brive-la-Gaillarde, FR",
+    "destino": "Porto, PT"
+  },
+  "RYR1472": {
+    "origem": "Madrid, ES",
+    "destino": "Faro, PT"
   }
 }
