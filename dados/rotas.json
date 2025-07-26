@@ -12862,5 +12862,21 @@
   "IBS16LR": {
     "origem": "Madrid, ES",
     "destino": "Gran Canaria Island, ES"
+  },
+  "LGL731": {
+    "origem": "Luxembourg, LU",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "TVF84GQ": {
+    "origem": "Paris, FR",
+    "destino": "Porto, PT"
+  },
+  "BTI74L": {
+    "origem": "Riga, LV",
+    "destino": "Porto, PT"
+  },
+  "MBU2AT": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Nürnberg, DE"
   }
 }
