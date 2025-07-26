@@ -12806,5 +12806,21 @@
   "RYR1472": {
     "origem": "Madrid, ES",
     "destino": "Faro, PT"
+  },
+  "EJU81ZP": {
+    "origem": "Funchal, PT",
+    "destino": "Porto, PT"
+  },
+  "RYR30LM": {
+    "origem": "Marseille, FR",
+    "destino": "Porto, PT"
+  },
+  "ANE1355": {
+    "origem": "Madrid, ES",
+    "destino": "Casablanca, MA"
+  },
+  "CCM10PT": {
+    "origem": "Ajaccio, FR",
+    "destino": "Porto, PT"
   }
 }
