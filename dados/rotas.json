@@ -12878,5 +12878,21 @@
   "MBU2AT": {
     "origem": "Fuerteventura Island, ES",
     "destino": "Nürnberg, DE"
+  },
+  "RYR1178": {
+    "origem": "Bournemouth, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EZY39RF": {
+    "origem": "Marrakech, MA",
+    "destino": "Liverpool, GB"
+  },
+  "TAP201": {
+    "origem": "Lisbon, PT",
+    "destino": "Newark, US"
+  },
+  "RYR2963": {
+    "origem": "Bergamo, IT",
+    "destino": "Porto, PT"
   }
 }
