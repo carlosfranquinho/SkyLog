@@ -12910,5 +12910,41 @@
   "VOE7GN": {
     "origem": "Faro, PT",
     "destino": "Nantes, FR"
+  },
+  "RYR803K": {
+    "origem": "Faro, PT",
+    "destino": "Exeter, GB"
+  },
+  "RYR31FQ": {
+    "origem": "Faro, PT",
+    "destino": "Baden-Baden, DE"
+  },
+  "EXS1371": {
+    "origem": "Birmingham, GB",
+    "destino": "Porto, PT"
+  },
+  "TOM15G": {
+    "origem": "Norwich, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "TVF81VD": {
+    "origem": "Paris, FR",
+    "destino": "Funchal, PT"
+  },
+  "AFR17ZQ": {
+    "origem": "Paris, FR",
+    "destino": "Porto, PT"
+  },
+  "IBS1527": {
+    "origem": "Madrid, ES",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "TAP753": {
+    "origem": "Copenhagen, DK",
+    "destino": "Lisbon, PT"
+  },
+  "TAP862": {
+    "origem": "Lisbon, PT",
+    "destino": "Venezia, IT"
   }
 }
