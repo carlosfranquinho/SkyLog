@@ -12970,5 +12970,21 @@
   "EXS2W": {
     "origem": "Leeds, GB",
     "destino": "Gran Canaria Island, ES"
+  },
+  "AUA446": {
+    "origem": "Porto, PT",
+    "destino": "Vienna, AT"
+  },
+  "TVF87LG": {
+    "origem": "Porto, PT",
+    "destino": "Lyon, FR"
+  },
+  "TOM8FJ": {
+    "origem": "Manchester, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EZY18CR": {
+    "origem": "Marrakech, MA",
+    "destino": "Edinburgh, GB"
   }
 }
