@@ -12894,5 +12894,13 @@
   "RYR2963": {
     "origem": "Bergamo, IT",
     "destino": "Porto, PT"
+  },
+  "BEL2RG": {
+    "origem": "Brussels, BE",
+    "destino": "Diass, SN"
+  },
+  "NJE824G": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Nürnberg, DE"
   }
 }
