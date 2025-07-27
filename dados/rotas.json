@@ -12902,5 +12902,13 @@
   "NJE824G": {
     "origem": "Frankfurt-am-Main, DE",
     "destino": "Nürnberg, DE"
+  },
+  "TUI4CW": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "VOE7GN": {
+    "origem": "Faro, PT",
+    "destino": "Nantes, FR"
   }
 }
