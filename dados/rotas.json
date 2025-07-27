@@ -12950,5 +12950,21 @@
   "TOM85D": {
     "origem": "Newcastle, GB",
     "destino": "Lanzarote Island, ES"
+  },
+  "LGL31LP": {
+    "origem": "Luxembourg, LU",
+    "destino": "Porto, PT"
+  },
+  "TAP281": {
+    "origem": "Lisbon, PT",
+    "destino": "Maputo, MZ"
+  },
+  "CFG3ZY": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "EXS5EY": {
+    "origem": "Dalaman, TR",
+    "destino": "Manchester, GB"
   }
 }
