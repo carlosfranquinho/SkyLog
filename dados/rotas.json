@@ -12986,5 +12986,17 @@
   "EZY18CR": {
     "origem": "Marrakech, MA",
     "destino": "Edinburgh, GB"
+  },
+  "TAP863": {
+    "origem": "Venezia, IT",
+    "destino": "Lisbon, PT"
+  },
+  "FPY72M": {
+    "origem": "Málaga, ES",
+    "destino": "Reykjavík, IS"
+  },
+  "TRA32A": {
+    "origem": "Marrakech, MA",
+    "destino": "Amsterdam, NL"
   }
 }
