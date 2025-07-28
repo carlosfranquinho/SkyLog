@@ -13030,5 +13030,17 @@
   "MSR987": {
     "origem": "Cairo, EG",
     "destino": "Newark, US"
+  },
+  "RYR80": {
+    "origem": "Berlin, DE",
+    "destino": "Dublin, IE"
+  },
+  "TOM63A": {
+    "origem": "Bristol, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TAP6LX": {
+    "origem": "Lisbon, PT",
+    "destino": "Luxembourg, LU"
   }
 }
