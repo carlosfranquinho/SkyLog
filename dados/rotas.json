@@ -13082,5 +13082,9 @@
   "ARG1132": {
     "origem": "Buenos Aires, AR",
     "destino": "Madrid, ES"
+  },
+  "IBE05ED": {
+    "origem": "Madrid, ES",
+    "destino": "Funchal, PT"
   }
 }
