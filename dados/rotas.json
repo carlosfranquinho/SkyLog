@@ -13014,5 +13014,21 @@
   "EJU42EK": {
     "origem": "Porto, PT",
     "destino": "London, GB"
+  },
+  "SVA021": {
+    "origem": "King Abdulaziz International Airport",
+    "destino": "John F Kennedy International Airport"
+  },
+  "ANE8213": {
+    "origem": "Almería, ES",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "EJU94HU": {
+    "origem": "Porto, PT",
+    "destino": "Funchal, PT"
+  },
+  "MSR987": {
+    "origem": "Cairo, EG",
+    "destino": "Newark, US"
   }
 }
