@@ -13046,5 +13046,13 @@
   "TOM216": {
     "origem": "Manchester, GB",
     "destino": "Rabil, CV"
+  },
+  "TAP1011": {
+    "origem": "Madrid, ES",
+    "destino": "Lisbon, PT"
+  },
+  "WMT3410": {
+    "origem": "Lisbon, PT",
+    "destino": "Cluj-Napoca, RO"
   }
 }
