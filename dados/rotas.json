@@ -13058,5 +13058,13 @@
   "TOM304": {
     "origem": "London, GB",
     "destino": "Espargos, CV"
+  },
+  "EXS14UG": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
+  },
+  "TAP834": {
+    "origem": "Lisbon, PT",
+    "destino": "Rome, IT"
   }
 }
