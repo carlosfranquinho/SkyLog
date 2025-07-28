@@ -13066,5 +13066,21 @@
   "TAP834": {
     "origem": "Lisbon, PT",
     "destino": "Rome, IT"
+  },
+  "TSC385": {
+    "origem": "Madrid, ES",
+    "destino": "Montréal, CA"
+  },
+  "TAP171": {
+    "origem": "Lisbon, PT",
+    "destino": "Caracas, VE"
+  },
+  "RYR27YG": {
+    "origem": "Dole/Tavaux, FR",
+    "destino": "Porto, PT"
+  },
+  "ARG1132": {
+    "origem": "Buenos Aires, AR",
+    "destino": "Madrid, ES"
   }
 }
