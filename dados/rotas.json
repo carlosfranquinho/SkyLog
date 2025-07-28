@@ -13002,5 +13002,13 @@
   "EJU74TQ": {
     "origem": "Zürich, CH",
     "destino": "Porto, PT"
+  },
+  "BEL2CK": {
+    "origem": "Conakry, GN",
+    "destino": "Brussels, BE"
+  },
+  "BEL21W": {
+    "origem": "Brussels, BE",
+    "destino": "Brussels, BE"
   }
 }
