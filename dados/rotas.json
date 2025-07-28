@@ -13094,5 +13094,9 @@
   "SAS2848": {
     "origem": "Faro, PT",
     "destino": "Stockholm, SE"
+  },
+  "SKV222": {
+    "origem": "Nice, FR",
+    "destino": "Brussels, BE"
   }
 }
