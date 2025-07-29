@@ -13298,5 +13298,21 @@
   "EXS17TU": {
     "origem": "Lanzarote Island, ES",
     "destino": "Liverpool, GB"
+  },
+  "BOV779": {
+    "origem": "Madrid, ES",
+    "destino": "Cochabamba, BO"
+  },
+  "RZO173": {
+    "origem": "Porto, PT",
+    "destino": "Ponta Delgada, PT"
+  },
+  "NOS9031": {
+    "origem": "Tel Aviv, IL",
+    "destino": "Lisbon, PT"
+  },
+  "RYR2GX": {
+    "origem": "Porto, PT",
+    "destino": "London, GB"
   }
 }
