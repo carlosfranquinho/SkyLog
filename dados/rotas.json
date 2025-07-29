@@ -13198,5 +13198,17 @@
   "VJH721": {
     "origem": "Nice, FR",
     "destino": "Marseille, FR"
+  },
+  "RYR79KQ": {
+    "origem": "Toulouse, FR",
+    "destino": "Porto, PT"
+  },
+  "TAP939": {
+    "origem": "Geneva, CH",
+    "destino": "Porto, PT"
+  },
+  "RYR2ME": {
+    "origem": "Porto, PT",
+    "destino": "Palma De Mallorca, ES"
   }
 }
