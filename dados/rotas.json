@@ -13266,5 +13266,37 @@
   "EFW4FW": {
     "origem": "Porto, PT",
     "destino": "London, GB"
+  },
+  "EZY51CA": {
+    "origem": "Porto, PT",
+    "destino": "Manchester, GB"
+  },
+  "TRA49C": {
+    "origem": "Amsterdam, NL",
+    "destino": "Casablanca, MA"
+  },
+  "IBB96WE": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "TAP11HE": {
+    "origem": "Lisbon, PT",
+    "destino": "Málaga, ES"
+  },
+  "EZY41YX": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "FPY21P": {
+    "origem": "Porto, PT",
+    "destino": "Reykjavík, IS"
+  },
+  "TAP827": {
+    "origem": "Milan, IT",
+    "destino": "Lisbon, PT"
+  },
+  "EXS17TU": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Liverpool, GB"
   }
 }
