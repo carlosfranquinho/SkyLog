@@ -13186,5 +13186,17 @@
   "RZO125": {
     "origem": "Lisbon, PT",
     "destino": "Ponta Delgada, PT"
+  },
+  "EZY28KL": {
+    "origem": "Manchester, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR93MF": {
+    "origem": "Edinburgh, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "VJH721": {
+    "origem": "Nice, FR",
+    "destino": "Marseille, FR"
   }
 }
