@@ -13138,5 +13138,25 @@
   "ANE8111": {
     "origem": "Ibiza, ES",
     "destino": "Palma De Mallorca, ES"
+  },
+  "TAP16AL": {
+    "origem": "Lisbon, PT",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RZO372": {
+    "origem": "Toronto, CA",
+    "destino": "Porto, PT"
+  },
+  "RYR5HB": {
+    "origem": "Lisbon, PT",
+    "destino": "Ponta Delgada, PT"
+  },
+  "THY900": {
+    "origem": "Istanbul, TR",
+    "destino": "Istanbul, TR"
+  },
+  "IBB89KZ": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Madrid, ES"
   }
 }
