@@ -13314,5 +13314,37 @@
   "RYR2GX": {
     "origem": "Porto, PT",
     "destino": "London, GB"
+  },
+  "EXS62FG": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "CCA607": {
+    "origem": "Beijing, CN",
+    "destino": "Milan, IT"
+  },
+  "TAP9017": {
+    "origem": "Lisbon, PT",
+    "destino": "Enfidha, ES"
+  },
+  "EZY56WB": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
+  },
+  "AFR805": {
+    "origem": "Cotonou, BJ",
+    "destino": "Paris, FR"
+  },
+  "RYR9426": {
+    "origem": "Porto, PT",
+    "destino": "Castellón de la Plana, ES"
+  },
+  "ANE1047": {
+    "origem": "Madrid, ES",
+    "destino": "Santiago de Compostela, ES"
+  },
+  "CFG9PE": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Faro, PT"
   }
 }
