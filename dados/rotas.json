@@ -13102,5 +13102,9 @@
   "WMT3409": {
     "origem": "Cluj-Napoca, RO",
     "destino": "Lisbon, PT"
+  },
+  "TAP087": {
+    "origem": "Humberto Delgado Airport (Lisbon Portela Airport)",
+    "destino": "Guarulhos - Governador André Franco Montoro International Airport"
   }
 }
