@@ -13210,5 +13210,25 @@
   "RYR2ME": {
     "origem": "Porto, PT",
     "destino": "Palma De Mallorca, ES"
+  },
+  "RYR953V": {
+    "origem": "Cork, IE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TOM6ED": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "ANE8120": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Ibiza, ES"
+  },
+  "RYR1VR": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "CFG9KL": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Frankfurt-am-Main, DE"
   }
 }
