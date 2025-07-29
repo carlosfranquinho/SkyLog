@@ -13158,5 +13158,29 @@
   "IBB89KZ": {
     "origem": "Tenerife Island, ES",
     "destino": "Madrid, ES"
+  },
+  "RYR1PL": {
+    "origem": "Nantes, FR",
+    "destino": "Fes, MA"
+  },
+  "EJU52FM": {
+    "origem": "Porto, PT",
+    "destino": "Lyon, FR"
+  },
+  "EJU37KB": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Nantes, FR"
+  },
+  "UAL943": {
+    "origem": "Lisbon, PT",
+    "destino": "Washington, US"
+  },
+  "SWR20D": {
+    "origem": "Porto, PT",
+    "destino": "Zürich, CH"
+  },
+  "RYR9RW": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Berlin, DE"
   }
 }
