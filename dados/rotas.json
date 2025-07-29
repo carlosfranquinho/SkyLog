@@ -13230,5 +13230,29 @@
   "CFG9KL": {
     "origem": "Fuerteventura Island, ES",
     "destino": "Frankfurt-am-Main, DE"
+  },
+  "RYR502B": {
+    "origem": "Memmingen, DE",
+    "destino": "Faro, PT"
+  },
+  "RYR4423": {
+    "origem": "Wrocław, PL",
+    "destino": "Porto, PT"
+  },
+  "EJU47TN": {
+    "origem": "Porto, PT",
+    "destino": "Funchal, PT"
+  },
+  "EZY64CL": {
+    "origem": "Glasgow, GB",
+    "destino": "Málaga, ES"
+  },
+  "EZS62FX": {
+    "origem": "Porto, PT",
+    "destino": "Saint-Louis, FR"
+  },
+  "VLG665A": {
+    "origem": "Ibiza, ES",
+    "destino": "Porto, PT"
   }
 }
