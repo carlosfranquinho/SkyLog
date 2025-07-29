@@ -13110,5 +13110,29 @@
   "AFR830": {
     "origem": "Paris, FR",
     "destino": "Pointe Noire, CG"
+  },
+  "EXS65BT": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "SWR9ZA": {
+    "origem": "Porto, PT",
+    "destino": "Zürich, CH"
+  },
+  "NSZ2EM": {
+    "origem": "Copenhagen, DK",
+    "destino": "Porto, PT"
+  },
+  "TAP1328": {
+    "origem": "Porto, PT",
+    "destino": "London, GB"
+  },
+  "VKG1984": {
+    "origem": "Copenhagen, DK",
+    "destino": "Tenerife Island, ES"
+  },
+  "TOM3DX": {
+    "origem": "Nottingham, GB",
+    "destino": "Tenerife Island, ES"
   }
 }
