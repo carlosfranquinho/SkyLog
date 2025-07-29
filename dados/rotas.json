@@ -13106,5 +13106,9 @@
   "TAP087": {
     "origem": "Humberto Delgado Airport (Lisbon Portela Airport)",
     "destino": "Guarulhos - Governador André Franco Montoro International Airport"
+  },
+  "AFR830": {
+    "origem": "Paris, FR",
+    "destino": "Pointe Noire, CG"
   }
 }
