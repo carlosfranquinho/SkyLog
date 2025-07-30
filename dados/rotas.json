@@ -13550,5 +13550,29 @@
   "EAU057B": {
     "origem": "Ibiza, ES",
     "destino": "London, GB"
+  },
+  "TAP253R": {
+    "origem": "Lisbon, PT",
+    "destino": "Montréal, CA"
+  },
+  "RYR5UX": {
+    "origem": "Edinburgh, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "ANE57DV": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Vigo, ES"
+  },
+  "EJU16KP": {
+    "origem": "Porto, PT",
+    "destino": "Lyon, FR"
+  },
+  "SWR2075": {
+    "origem": "Porto, PT",
+    "destino": "Geneva, CH"
+  },
+  "RYR7052": {
+    "origem": "Porto, PT",
+    "destino": "Bergamo, IT"
   }
 }
