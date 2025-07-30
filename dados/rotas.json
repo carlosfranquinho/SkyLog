@@ -13522,5 +13522,21 @@
   "TEU5": {
     "origem": "Athens, GR",
     "destino": "Luqa, MT"
+  },
+  "TAP240": {
+    "origem": "Lajes, PT",
+    "destino": "Lisbon, PT"
+  },
+  "EJU72CH": {
+    "origem": "Porto, PT",
+    "destino": "Saint-Louis, FR"
+  },
+  "RYR59UU": {
+    "origem": "Liverpool, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR29JF": {
+    "origem": "Porto, PT",
+    "destino": "Toulouse, FR"
   }
 }
