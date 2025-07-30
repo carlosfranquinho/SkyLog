@@ -13410,5 +13410,25 @@
   "TAP237M": {
     "origem": "Lisbon, PT",
     "destino": "San Francisco, US"
+  },
+  "VKG1194": {
+    "origem": "Copenhagen, DK",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR4AK": {
+    "origem": "London, GB",
+    "destino": "Porto, PT"
+  },
+  "EJU42CT": {
+    "origem": "Geneva, CH",
+    "destino": "Porto, PT"
+  },
+  "RYR958H": {
+    "origem": "Porto, PT",
+    "destino": "Dublin, IE"
+  },
+  "EJM110": {
+    "origem": "Philadelphia, US",
+    "destino": "Georgetown, KY"
   }
 }
