@@ -13538,5 +13538,17 @@
   "RYR29JF": {
     "origem": "Porto, PT",
     "destino": "Toulouse, FR"
+  },
+  "EJU89CE": {
+    "origem": "Lyon, FR",
+    "destino": "Porto, PT"
+  },
+  "TAP261": {
+    "origem": "Lisbon, PT",
+    "destino": "Toronto, CA"
+  },
+  "EAU057B": {
+    "origem": "Ibiza, ES",
+    "destino": "London, GB"
   }
 }
