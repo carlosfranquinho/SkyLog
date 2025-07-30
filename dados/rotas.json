@@ -13582,5 +13582,21 @@
   "RYR299Z": {
     "origem": "London, GB",
     "destino": "Funchal, PT"
+  },
+  "RYR5ML": {
+    "origem": "Rome, IT",
+    "destino": "Porto, PT"
+  },
+  "IBB6014": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "RYR3FB": {
+    "origem": "Ponta Delgada, PT",
+    "destino": "Porto, PT"
+  },
+  "EIN7VT": {
+    "origem": "Faro, PT",
+    "destino": "Dublin, IE"
   }
 }
