@@ -13366,5 +13366,25 @@
   "ANE53CH": {
     "origem": "Vigo, ES",
     "destino": "Madrid, ES"
+  },
+  "LOT1425": {
+    "origem": "Warsaw, PL",
+    "destino": "Lisbon, PT"
+  },
+  "TSC175": {
+    "origem": "Porto, PT",
+    "destino": "Montréal, CA"
+  },
+  "RYR2LF": {
+    "origem": "La Rochelle/Île de Ré, FR",
+    "destino": "Porto, PT"
+  },
+  "BIX72P": {
+    "origem": "Stavanger, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "DLH1185": {
+    "origem": "Zürich, CH",
+    "destino": "Frankfurt-am-Main, DE"
   }
 }
