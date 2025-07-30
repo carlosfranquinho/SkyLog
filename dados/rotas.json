@@ -13598,5 +13598,33 @@
   "EIN7VT": {
     "origem": "Faro, PT",
     "destino": "Dublin, IE"
+  },
+  "EXS12AB": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Belfast, GB"
+  },
+  "TAP1712": {
+    "origem": "Funchal, PT",
+    "destino": "Porto, PT"
+  },
+  "RYR96SB": {
+    "origem": "Marrakech, MA",
+    "destino": "Beauvais/Tillé, FR"
+  },
+  "TAP1709": {
+    "origem": "Porto, PT",
+    "destino": "Funchal, PT"
+  },
+  "TUI1XL": {
+    "origem": "Stuttgart, DE",
+    "destino": "Faro, PT"
+  },
+  "RYR8833": {
+    "origem": "London, GB",
+    "destino": "Alicante, ES"
+  },
+  "RYR91PC": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Santiago de Compostela, ES"
   }
 }
