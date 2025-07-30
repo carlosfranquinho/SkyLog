@@ -13574,5 +13574,13 @@
   "RYR7052": {
     "origem": "Porto, PT",
     "destino": "Bergamo, IT"
+  },
+  "RZO127": {
+    "origem": "Lisbon, PT",
+    "destino": "Ponta Delgada, PT"
+  },
+  "RYR299Z": {
+    "origem": "London, GB",
+    "destino": "Funchal, PT"
   }
 }
