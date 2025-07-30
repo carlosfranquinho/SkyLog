@@ -13474,5 +13474,29 @@
   "RYR7871": {
     "origem": "Vienna, AT",
     "destino": "Porto, PT"
+  },
+  "RYR71SF": {
+    "origem": "Kraków, PL",
+    "destino": "Tenerife Island, ES"
+  },
+  "TVF7614": {
+    "origem": "Paris, FR",
+    "destino": "Porto, PT"
+  },
+  "TAP115A": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Lisbon, PT"
+  },
+  "RYR17DG": {
+    "origem": "Pisa, IT",
+    "destino": "Porto, PT"
+  },
+  "BIX73S": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Stavanger, NO"
+  },
+  "GSM605": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Madrid, ES"
   }
 }
