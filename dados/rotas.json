@@ -13498,5 +13498,21 @@
   "GSM605": {
     "origem": "Frankfurt-am-Main, DE",
     "destino": "Madrid, ES"
+  },
+  "EDW283": {
+    "origem": "Prishtina, KS",
+    "destino": "Zürich, CH"
+  },
+  "AEA45QM": {
+    "origem": "Vigo, ES",
+    "destino": "Madrid, ES"
+  },
+  "RZO153": {
+    "origem": "Lisbon, PT",
+    "destino": "Horta, PT"
+  },
+  "EZY26TF": {
+    "origem": "London, GB",
+    "destino": "Funchal, PT"
   }
 }
