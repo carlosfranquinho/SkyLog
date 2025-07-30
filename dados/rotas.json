@@ -13350,5 +13350,13 @@
   "NOS9030": {
     "origem": "Lisbon, PT",
     "destino": "Tel Aviv, IL"
+  },
+  "TAP452": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
+  },
+  "RZO121": {
+    "origem": "Lisbon, PT",
+    "destino": "Ponta Delgada, PT"
   }
 }
