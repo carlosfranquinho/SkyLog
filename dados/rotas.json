@@ -13446,5 +13446,33 @@
   "AFR443A": {
     "origem": "Rio Galeão – Tom Jobim International Airport",
     "destino": "Charles de Gaulle International Airport"
+  },
+  "TOM1CD": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
+  },
+  "EZY56XT": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Belfast, GB"
+  },
+  "VLG1JJ": {
+    "origem": "Porto, PT",
+    "destino": "Barcelona, ES"
+  },
+  "RYR774V": {
+    "origem": "Málaga, ES",
+    "destino": "Cork, IE"
+  },
+  "EJU18EF": {
+    "origem": "Prague, CZ",
+    "destino": "Porto, PT"
+  },
+  "EJU48YR": {
+    "origem": "Faro, PT",
+    "destino": "Saint-Louis, FR"
+  },
+  "RYR7871": {
+    "origem": "Vienna, AT",
+    "destino": "Porto, PT"
   }
 }
