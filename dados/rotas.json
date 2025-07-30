@@ -13386,5 +13386,29 @@
   "DLH1185": {
     "origem": "Zürich, CH",
     "destino": "Frankfurt-am-Main, DE"
+  },
+  "EZS73NL": {
+    "origem": "Porto, PT",
+    "destino": "Geneva, CH"
+  },
+  "WZZ90KR": {
+    "origem": "Porto, PT",
+    "destino": "Warsaw, PL"
+  },
+  "EDW282": {
+    "origem": "Zürich, CH",
+    "destino": "Prishtina, KS"
+  },
+  "BOV772": {
+    "origem": "Santa Cruz, BO",
+    "destino": "Madrid, ES"
+  },
+  "AZU8800": {
+    "origem": "Campinas, BR",
+    "destino": "Porto, PT"
+  },
+  "TAP237M": {
+    "origem": "Lisbon, PT",
+    "destino": "San Francisco, US"
   }
 }
