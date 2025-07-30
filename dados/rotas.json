@@ -13346,5 +13346,9 @@
   "CFG9PE": {
     "origem": "Frankfurt-am-Main, DE",
     "destino": "Faro, PT"
+  },
+  "NOS9030": {
+    "origem": "Lisbon, PT",
+    "destino": "Tel Aviv, IL"
   }
 }
