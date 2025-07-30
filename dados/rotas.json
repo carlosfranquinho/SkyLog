@@ -13430,5 +13430,17 @@
   "EJM110": {
     "origem": "Philadelphia, US",
     "destino": "Georgetown, KY"
+  },
+  "TVF56FP": {
+    "origem": "Paris, FR",
+    "destino": "Porto, PT"
+  },
+  "RYR9826": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Cork, IE"
+  },
+  "RYR7677": {
+    "origem": "Porto, PT",
+    "destino": "Maastricht, NL"
   }
 }
