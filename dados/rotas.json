@@ -13358,5 +13358,13 @@
   "RZO121": {
     "origem": "Lisbon, PT",
     "destino": "Ponta Delgada, PT"
+  },
+  "EZS14ZM": {
+    "origem": "Saint-Louis, FR",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "ANE53CH": {
+    "origem": "Vigo, ES",
+    "destino": "Madrid, ES"
   }
 }
