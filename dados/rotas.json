@@ -13626,5 +13626,25 @@
   "RYR91PC": {
     "origem": "Tenerife Island, ES",
     "destino": "Santiago de Compostela, ES"
+  },
+  "EXS78PB": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "EXS25DB": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Edinburgh, GB"
+  },
+  "EXS5JM": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Edinburgh, GB"
+  },
+  "TOM2TW": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Newcastle, GB"
+  },
+  "EZY82LU": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Edinburgh, GB"
   }
 }
