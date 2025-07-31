@@ -13662,5 +13662,17 @@
   "EJU1873": {
     "origem": "Bordeaux, FR",
     "destino": "Porto, PT"
+  },
+  "RYR893G": {
+    "origem": "Marrakech, MA",
+    "destino": "Beauvais/Tillé, FR"
+  },
+  "TOM2DH": {
+    "origem": "Exeter, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EJU61GF": {
+    "origem": "Porto, PT",
+    "destino": "Bordeaux, FR"
   }
 }
