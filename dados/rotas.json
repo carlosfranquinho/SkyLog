@@ -13706,5 +13706,17 @@
   "TAP2702": {
     "origem": "Lisbon, PT",
     "destino": "Paris, FR"
+  },
+  "AZU8000": {
+    "origem": "Recife, BR",
+    "destino": "Madrid, ES"
+  },
+  "TAP1685": {
+    "origem": "Lisbon, PT",
+    "destino": "Funchal, PT"
+  },
+  "EJU68KL": {
+    "origem": "Paris, FR",
+    "destino": "Marrakech, MA"
   }
 }
