@@ -13742,5 +13742,13 @@
   "IBS1521": {
     "origem": "Madrid, ES",
     "destino": "Fuerteventura Island, ES"
+  },
+  "VLG8526": {
+    "origem": "Paris, FR",
+    "destino": "Agadir, MA"
+  },
+  "PVG3561": {
+    "origem": "Porto, PT",
+    "destino": "Rabil, CV"
   }
 }
