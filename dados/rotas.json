@@ -13718,5 +13718,29 @@
   "EJU68KL": {
     "origem": "Paris, FR",
     "destino": "Marrakech, MA"
+  },
+  "RYR9HY": {
+    "origem": "Porto, PT",
+    "destino": "Carcassonne/Salvaza, FR"
+  },
+  "QTR703": {
+    "origem": "Doha, QA",
+    "destino": "New York, US"
+  },
+  "VLG2472": {
+    "origem": "Barcelona, ES",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EJU96AV": {
+    "origem": "Porto, PT",
+    "destino": "Luxembourg, LU"
+  },
+  "RYR53AV": {
+    "origem": "Brussels, BE",
+    "destino": "Marrakech, MA"
+  },
+  "IBS1521": {
+    "origem": "Madrid, ES",
+    "destino": "Fuerteventura Island, ES"
   }
 }
