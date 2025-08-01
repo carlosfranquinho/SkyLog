@@ -13750,5 +13750,9 @@
   "PVG3561": {
     "origem": "Porto, PT",
     "destino": "Rabil, CV"
+  },
+  "TUI95K": {
+    "origem": "Munich, DE",
+    "destino": "Munich, DE"
   }
 }
