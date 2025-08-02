@@ -13818,5 +13818,13 @@
   "TRA9036": {
     "origem": "Málaga, ES",
     "destino": "Brussels, BE"
+  },
+  "TRA3514": {
+    "origem": "Faro, PT",
+    "destino": "Lisbon, PT"
+  },
+  "IBS1616": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Madrid, ES"
   }
 }
