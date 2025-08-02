@@ -13826,5 +13826,25 @@
   "IBS1616": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Madrid, ES"
+  },
+  "CFG5KW": {
+    "origem": "Funchal, PT",
+    "destino": "Düsseldorf, DE"
+  },
+  "ETH741": {
+    "origem": "Porto, PT",
+    "destino": "Addis Ababa, ET"
+  },
+  "CFE4517": {
+    "origem": "Saint Peter Port, GG",
+    "destino": "Faro, PT"
+  },
+  "IBS1589": {
+    "origem": "Madrid, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR39SA": {
+    "origem": "Madrid, ES",
+    "destino": "Agadir, MA"
   }
 }
