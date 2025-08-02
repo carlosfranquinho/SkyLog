@@ -13846,5 +13846,21 @@
   "RYR39SA": {
     "origem": "Madrid, ES",
     "destino": "Agadir, MA"
+  },
+  "RYR12WL": {
+    "origem": "Verona, IT",
+    "destino": "Porto, PT"
+  },
+  "LBT6131": {
+    "origem": "Porto, PT",
+    "destino": "Djerba, TN"
+  },
+  "RYR7YN": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Santiago de Compostela, ES"
+  },
+  "NSZ5715": {
+    "origem": "Copenhagen, DK",
+    "destino": "Gran Canaria Island, ES"
   }
 }
