@@ -13802,5 +13802,21 @@
   "TVS1171": {
     "origem": "Funchal, PT",
     "destino": "Prague, CZ"
+  },
+  "AUA445": {
+    "origem": "Vienna, AT",
+    "destino": "Porto, PT"
+  },
+  "BEL1081": {
+    "origem": "Brussels, BE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RZO174": {
+    "origem": "Ponta Delgada, PT",
+    "destino": "Porto, PT"
+  },
+  "TRA9036": {
+    "origem": "Málaga, ES",
+    "destino": "Brussels, BE"
   }
 }
