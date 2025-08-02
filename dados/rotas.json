@@ -13774,5 +13774,13 @@
   "TRA3632": {
     "origem": "Funchal, PT",
     "destino": "Amsterdam, NL"
+  },
+  "RYR8GY": {
+    "origem": "Santiago de Compostela, ES",
+    "destino": "Alicante, ES"
+  },
+  "TAP836": {
+    "origem": "Lisbon, PT",
+    "destino": "Rome, IT"
   }
 }
