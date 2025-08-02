@@ -13782,5 +13782,25 @@
   "TAP836": {
     "origem": "Lisbon, PT",
     "destino": "Rome, IT"
+  },
+  "TOM762": {
+    "origem": "Bristol, GB",
+    "destino": "Espargos, CV"
+  },
+  "DLH62Y": {
+    "origem": "Porto, PT",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "BEL2RQ": {
+    "origem": "Porto, PT",
+    "destino": "Brussels, BE"
+  },
+  "EZS1467": {
+    "origem": "Geneva, CH",
+    "destino": "Faro, PT"
+  },
+  "TVS1171": {
+    "origem": "Funchal, PT",
+    "destino": "Prague, CZ"
   }
 }
