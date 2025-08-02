@@ -13762,5 +13762,17 @@
   "TVF71KR": {
     "origem": "Funchal, PT",
     "destino": "Paris, FR"
+  },
+  "AFR453B": {
+    "origem": "Pau/Pyrénées (Uzein), FR",
+    "destino": "Paris, FR"
+  },
+  "TAP084": {
+    "origem": "Faro, PT",
+    "destino": "Lisbon, PT"
+  },
+  "TRA3632": {
+    "origem": "Funchal, PT",
+    "destino": "Amsterdam, NL"
   }
 }
