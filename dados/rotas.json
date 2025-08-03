@@ -13950,5 +13950,13 @@
   "RYR5498": {
     "origem": "Porto, PT",
     "destino": "Gran Canaria Island, ES"
+  },
+  "UAL51": {
+    "origem": "Newark, US",
+    "destino": "Madrid, ES"
+  },
+  "EDW212R": {
+    "origem": "Zürich, CH",
+    "destino": "Fuerteventura Island, ES"
   }
 }
