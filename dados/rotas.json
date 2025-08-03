@@ -13906,5 +13906,17 @@
   "BEL2XJ": {
     "origem": "Diass, SN",
     "destino": "Brussels, BE"
+  },
+  "SWR2077": {
+    "origem": "Porto, PT",
+    "destino": "Geneva, CH"
+  },
+  "SWR2069": {
+    "origem": "Porto, PT",
+    "destino": "Zürich, CH"
+  },
+  "THY183": {
+    "origem": "Istanbul, TR",
+    "destino": "Istanbul, TR"
   }
 }
