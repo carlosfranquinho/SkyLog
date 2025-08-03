@@ -13922,5 +13922,33 @@
   "TAP202A": {
     "origem": "Newark, US",
     "destino": "Lisbon, PT"
+  },
+  "TAP9004": {
+    "origem": "Djerba, TN",
+    "destino": "Lisbon, PT"
+  },
+  "RYR89WR": {
+    "origem": "Porto, PT",
+    "destino": "Roma, IT"
+  },
+  "RZO177": {
+    "origem": "Porto, PT",
+    "destino": "Ponta Delgada, PT"
+  },
+  "ETH518": {
+    "origem": "Addis Ababa, ET",
+    "destino": "Atlanta, US"
+  },
+  "RYR6066": {
+    "origem": "Lisbon, PT",
+    "destino": "Lajes, PT"
+  },
+  "RYR879E": {
+    "origem": "Lisbon, PT",
+    "destino": "Funchal, PT"
+  },
+  "RYR5498": {
+    "origem": "Porto, PT",
+    "destino": "Gran Canaria Island, ES"
   }
 }
