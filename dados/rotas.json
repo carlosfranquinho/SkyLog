@@ -13974,5 +13974,33 @@
   "TUI3VM": {
     "origem": "Faro, PT",
     "destino": "Frankfurt-am-Main, DE"
+  },
+  "TOM1VL": {
+    "origem": "Nottingham, GB",
+    "destino": "Faro, PT"
+  },
+  "RYR8JP": {
+    "origem": "Stockholm, SE",
+    "destino": "Porto, PT"
+  },
+  "EXS3DN": {
+    "origem": "Manchester, GB",
+    "destino": "Porto, PT"
+  },
+  "TVF20BF": {
+    "origem": "Paris, FR",
+    "destino": "Porto, PT"
+  },
+  "AFR29NA": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
+  },
+  "CFG138": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Agadir, MA"
+  },
+  "TAP1735": {
+    "origem": "Lisbon, PT",
+    "destino": "Vila Baleira, PT"
   }
 }
