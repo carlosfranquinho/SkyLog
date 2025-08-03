@@ -14066,5 +14066,21 @@
   "TRA075": {
     "origem": "Amsterdam, NL",
     "destino": "Lisbon, PT"
+  },
+  "WMT4NH": {
+    "origem": "Vienna, AT",
+    "destino": "Tenerife Island, ES"
+  },
+  "QTR6F": {
+    "origem": "Doha, QA",
+    "destino": "New York, US"
+  },
+  "AAL67": {
+    "origem": "Barcelona, ES",
+    "destino": "New York, US"
+  },
+  "AAL721": {
+    "origem": "Rome, IT",
+    "destino": "Charlotte, US"
   }
 }
