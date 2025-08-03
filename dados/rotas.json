@@ -14082,5 +14082,17 @@
   "AAL721": {
     "origem": "Rome, IT",
     "destino": "Charlotte, US"
+  },
+  "AAL743": {
+    "origem": "Barcelona, ES",
+    "destino": "Philadelphia, US"
+  },
+  "CFG3AH": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "LGL73GC": {
+    "origem": "Luxembourg, LU",
+    "destino": "Gran Canaria Island, ES"
   }
 }
