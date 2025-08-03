@@ -14122,5 +14122,13 @@
   "RYR15TY": {
     "origem": "Vienna, AT",
     "destino": "Faro, PT"
+  },
+  "RYR3CH": {
+    "origem": "Baden-Baden, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR52CG": {
+    "origem": "La Rochelle/Île de Ré, FR",
+    "destino": "Marrakech, MA"
   }
 }
