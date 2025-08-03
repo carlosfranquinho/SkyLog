@@ -14042,5 +14042,25 @@
   "ANE32SM": {
     "origem": "Madrid, ES",
     "destino": "Faro, PT"
+  },
+  "VOE3551": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Ranón, ES"
+  },
+  "UAL237": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Newark, US"
+  },
+  "UAL991": {
+    "origem": "Barcelona, ES",
+    "destino": "Washington, US"
+  },
+  "VLG7CH": {
+    "origem": "Barcelona, ES",
+    "destino": "Faro, PT"
+  },
+  "TOM1775": {
+    "origem": "Málaga, ES",
+    "destino": "Newcastle, GB"
   }
 }
