@@ -14094,5 +14094,21 @@
   "LGL73GC": {
     "origem": "Luxembourg, LU",
     "destino": "Gran Canaria Island, ES"
+  },
+  "TUI7YM": {
+    "origem": "Munich, DE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "TUI254": {
+    "origem": "Stuttgart, DE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "VLG3282": {
+    "origem": "Málaga, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "TRA75K": {
+    "origem": "Amsterdam, NL",
+    "destino": "Funchal, PT"
   }
 }
