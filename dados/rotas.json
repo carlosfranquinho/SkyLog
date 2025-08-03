@@ -13958,5 +13958,21 @@
   "EDW212R": {
     "origem": "Zürich, CH",
     "destino": "Fuerteventura Island, ES"
+  },
+  "EXS47RT": {
+    "origem": "Bournemouth, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR89UY": {
+    "origem": "Copenhagen, DK",
+    "destino": "Porto, PT"
+  },
+  "TOM740": {
+    "origem": "Birmingham, GB",
+    "destino": "Rabil, CV"
+  },
+  "TUI3VM": {
+    "origem": "Faro, PT",
+    "destino": "Frankfurt-am-Main, DE"
   }
 }
