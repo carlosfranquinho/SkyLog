@@ -14002,5 +14002,45 @@
   "TAP1735": {
     "origem": "Lisbon, PT",
     "destino": "Vila Baleira, PT"
+  },
+  "AVA027A": {
+    "origem": "Madrid, ES",
+    "destino": "Bogota, CO"
+  },
+  "EZY53CV": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "CFE7028": {
+    "origem": "Faro, PT",
+    "destino": "London, GB"
+  },
+  "TRA5504": {
+    "origem": "Faro, PT",
+    "destino": "Rotterdam, NL"
+  },
+  "TOM10N": {
+    "origem": "Faro, PT",
+    "destino": "Birmingham, GB"
+  },
+  "EDW38": {
+    "origem": "Zürich, CH",
+    "destino": "Varadero, CU"
+  },
+  "RYR79AB": {
+    "origem": "Tours/Val de Loire (Loire Valley), FR",
+    "destino": "Porto, PT"
+  },
+  "TOM6ND": {
+    "origem": "Faro, PT",
+    "destino": "London, GB"
+  },
+  "TVF90KM": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
+  },
+  "ANE32SM": {
+    "origem": "Madrid, ES",
+    "destino": "Faro, PT"
   }
 }
