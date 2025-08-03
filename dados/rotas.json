@@ -13894,5 +13894,17 @@
   "TOM43G": {
     "origem": "Fuerteventura Island, ES",
     "destino": "London, GB"
+  },
+  "RZO176": {
+    "origem": "Ponta Delgada, PT",
+    "destino": "Porto, PT"
+  },
+  "TOM763": {
+    "origem": "Bridgetown, BB",
+    "destino": "Birmingham, GB"
+  },
+  "BEL2XJ": {
+    "origem": "Diass, SN",
+    "destino": "Brussels, BE"
   }
 }
