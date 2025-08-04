@@ -14270,5 +14270,25 @@
   "RYR706": {
     "origem": "Valencia, ES",
     "destino": "Santiago de Compostela, ES"
+  },
+  "QTR36B": {
+    "origem": "Doha, QA",
+    "destino": "New York, US"
+  },
+  "IBE05ML": {
+    "origem": "Funchal, PT",
+    "destino": "Madrid, ES"
+  },
+  "TAY3PO": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
+  },
+  "RYR60JC": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Birmingham, GB"
+  },
+  "RYR90LE": {
+    "origem": "Eindhoven, NL",
+    "destino": "Porto, PT"
   }
 }
