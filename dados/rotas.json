@@ -14174,5 +14174,33 @@
   "CFG7TF": {
     "origem": "Düsseldorf, DE",
     "destino": "Funchal, PT"
+  },
+  "MLJGI": {
+    "origem": "Dublin, IE",
+    "destino": "Faro, PT"
+  },
+  "TAP2877": {
+    "origem": "Luxembourg, LU",
+    "destino": "Lisbon, PT"
+  },
+  "RYR26KB": {
+    "origem": "Brussels, BE",
+    "destino": "Essaouira, MA"
+  },
+  "ACA71": {
+    "origem": "Algiers, DZ",
+    "destino": "Montréal, CA"
+  },
+  "UAL127": {
+    "origem": "Rome, IT",
+    "destino": "Washington, US"
+  },
+  "THY77J": {
+    "origem": "Istanbul, TR",
+    "destino": "Miami, US"
+  },
+  "TAM8150": {
+    "origem": "Fortaleza, BR",
+    "destino": "Lisbon, PT"
   }
 }
