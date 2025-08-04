@@ -14158,5 +14158,21 @@
   "EZY87KF": {
     "origem": "Porto, PT",
     "destino": "London, GB"
+  },
+  "UAL386": {
+    "origem": "Dubrovnik, HR",
+    "destino": "Newark, US"
+  },
+  "UAL965": {
+    "origem": "Napoli, IT",
+    "destino": "Newark, US"
+  },
+  "UAL509": {
+    "origem": "Rome, IT",
+    "destino": "Newark, US"
+  },
+  "CFG7TF": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Funchal, PT"
   }
 }
