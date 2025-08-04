@@ -14226,5 +14226,33 @@
   "TAP1455": {
     "origem": "Marrakech, MA",
     "destino": "Lisbon, PT"
+  },
+  "UAE34E": {
+    "origem": "Dubai, AE",
+    "destino": "Newark, US"
+  },
+  "RYR6911": {
+    "origem": "Edinburgh, GB",
+    "destino": "Munich, DE"
+  },
+  "TAP825": {
+    "origem": "Milan, IT",
+    "destino": "Lisbon, PT"
+  },
+  "RYR88AP": {
+    "origem": "Bologna, IT",
+    "destino": "Porto, PT"
+  },
+  "ELY011": {
+    "origem": "Boston, US",
+    "destino": "New York, US"
+  },
+  "CFG7VD": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "TUI1MH": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Munich, DE"
   }
 }
