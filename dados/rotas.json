@@ -14146,5 +14146,13 @@
   "ETH500": {
     "origem": "Addis Ababa, ET",
     "destino": "Washington, US"
+  },
+  "HCR10": {
+    "origem": "Nice, FR",
+    "destino": "Berlin, DE"
+  },
+  "TAP2672": {
+    "origem": "Lisbon, PT",
+    "destino": "Dublin, IE"
   }
 }
