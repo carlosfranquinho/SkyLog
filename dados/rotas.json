@@ -14214,5 +14214,17 @@
   "LBT6736": {
     "origem": "Enfidha, ES",
     "destino": "Porto, PT"
+  },
+  "RYR90TB": {
+    "origem": "Porto, PT",
+    "destino": "Torino, IT"
+  },
+  "RYR62VK": {
+    "origem": "Lille/Lesquin, FR",
+    "destino": "Porto, PT"
+  },
+  "TAP1455": {
+    "origem": "Marrakech, MA",
+    "destino": "Lisbon, PT"
   }
 }
