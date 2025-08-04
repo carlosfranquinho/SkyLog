@@ -14290,5 +14290,33 @@
   "RYR90LE": {
     "origem": "Eindhoven, NL",
     "destino": "Porto, PT"
+  },
+  "TOM6109": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Bournemouth, GB"
+  },
+  "RYR91PV": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Dublin, IE"
+  },
+  "WZZ6JA": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Katowice, PL"
+  },
+  "ANE8115": {
+    "origem": "Ibiza, ES",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "EZY57UA": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Birmingham, GB"
+  },
+  "TOM55M": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "London, GB"
+  },
+  "EZY24CT": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Bristol, GB"
   }
 }
