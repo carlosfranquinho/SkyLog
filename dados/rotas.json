@@ -14254,5 +14254,21 @@
   "TUI1MH": {
     "origem": "Fuerteventura Island, ES",
     "destino": "Munich, DE"
+  },
+  "NBT40H": {
+    "origem": "Rome, IT",
+    "destino": "New York, US"
+  },
+  "TAP56UG": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
+  },
+  "RZO9124": {
+    "origem": "Lisbon, PT",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "RYR706": {
+    "origem": "Valencia, ES",
+    "destino": "Santiago de Compostela, ES"
   }
 }
