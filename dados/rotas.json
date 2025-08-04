@@ -14138,5 +14138,13 @@
   "RZO9123": {
     "origem": "Palma De Mallorca, ES",
     "destino": "Lisbon, PT"
+  },
+  "ETH508": {
+    "origem": "Addis Ababa, ET",
+    "destino": "Newark, US"
+  },
+  "ETH500": {
+    "origem": "Addis Ababa, ET",
+    "destino": "Washington, US"
   }
 }
