@@ -14202,5 +14202,17 @@
   "TAM8150": {
     "origem": "Fortaleza, BR",
     "destino": "Lisbon, PT"
+  },
+  "TOM800": {
+    "origem": "Newcastle, GB",
+    "destino": "Espargos, CV"
+  },
+  "AAL333": {
+    "origem": "Athens, GR",
+    "destino": "New York, US"
+  },
+  "LBT6736": {
+    "origem": "Enfidha, ES",
+    "destino": "Porto, PT"
   }
 }
