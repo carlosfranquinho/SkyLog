@@ -14562,5 +14562,29 @@
   "RAM664Y": {
     "origem": "Agadir, MA",
     "destino": "Paris, FR"
+  },
+  "ANE8125": {
+    "origem": "Ibiza, ES",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "TFL4633": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR3TZ": {
+    "origem": "Ibiza, ES",
+    "destino": "Santiago de Compostela, ES"
+  },
+  "TAP1330": {
+    "origem": "Porto, PT",
+    "destino": "London, GB"
+  },
+  "LGL81LP": {
+    "origem": "Luxembourg, LU",
+    "destino": "Porto, PT"
+  },
+  "TAP1862": {
+    "origem": "Ponta Delgada, PT",
+    "destino": "Lisbon, PT"
   }
 }
