@@ -14614,5 +14614,17 @@
   "EXS12N": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Bristol, GB"
+  },
+  "EXS66Q": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Bournemouth, GB"
+  },
+  "RYR4534": {
+    "origem": "Porto, PT",
+    "destino": "Warsaw, PL"
+  },
+  "IBS1550": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Madrid, ES"
   }
 }
