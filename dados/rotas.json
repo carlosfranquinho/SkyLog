@@ -14342,5 +14342,25 @@
   "IBS901P": {
     "origem": "Madrid, ES",
     "destino": "Berlin, DE"
+  },
+  "TAP2264": {
+    "origem": "Boston, US",
+    "destino": "Porto, PT"
+  },
+  "ETH552": {
+    "origem": "Addis Ababa, ET",
+    "destino": "Toronto, CA"
+  },
+  "ARG1134": {
+    "origem": "Buenos Aires, AR",
+    "destino": "Madrid, ES"
+  },
+  "UAL163": {
+    "origem": "Dubai, AE",
+    "destino": "Newark, US"
+  },
+  "VLG31YX": {
+    "origem": "Santiago de Compostela, ES",
+    "destino": "Gran Canaria Island, ES"
   }
 }
