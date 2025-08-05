@@ -14586,5 +14586,17 @@
   "TAP1862": {
     "origem": "Ponta Delgada, PT",
     "destino": "Lisbon, PT"
+  },
+  "EJU6736": {
+    "origem": "Vila Baleira, PT",
+    "destino": "Lisbon, PT"
+  },
+  "RYR4NA": {
+    "origem": "Málaga, ES",
+    "destino": "Lisbon, PT"
+  },
+  "ANE72JG": {
+    "origem": "Valencia, ES",
+    "destino": "Vigo, ES"
   }
 }
