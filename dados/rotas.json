@@ -14366,5 +14366,13 @@
   "DAL272": {
     "origem": "New York, US",
     "destino": "Lisbon, PT"
+  },
+  "ACA928": {
+    "origem": "Montréal, CA",
+    "destino": "Porto, PT"
+  },
+  "ANE2305": {
+    "origem": "Vigo, ES",
+    "destino": "Santander, ES"
   }
 }
