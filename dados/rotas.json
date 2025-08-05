@@ -14418,5 +14418,33 @@
   "AAL41": {
     "origem": "Barcelona, ES",
     "destino": "Chicago, US"
+  },
+  "TAP204A": {
+    "origem": "Newark, US",
+    "destino": "Lisbon, PT"
+  },
+  "AAL239": {
+    "origem": "Rome, IT",
+    "destino": "Dallas-Fort Worth, US"
+  },
+  "TAP238": {
+    "origem": "San Francisco, US",
+    "destino": "Lisbon, PT"
+  },
+  "EXS55EC": {
+    "origem": "Girona, ES",
+    "destino": "Newcastle, GB"
+  },
+  "JTD353": {
+    "origem": "Copenhagen, DK",
+    "destino": "Dalaman, TR"
+  },
+  "UAL749": {
+    "origem": "Geneva, CH",
+    "destino": "Washington, US"
+  },
+  "EJU85UD": {
+    "origem": "Nice, FR",
+    "destino": "Porto, PT"
   }
 }
