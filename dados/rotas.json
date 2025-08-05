@@ -14398,5 +14398,25 @@
   "TRA98P": {
     "origem": "Porto, PT",
     "destino": "Amsterdam, NL"
+  },
+  "TAP216L": {
+    "origem": "Boston, US",
+    "destino": "Lisbon, PT"
+  },
+  "TAP234Y": {
+    "origem": "Washington, US",
+    "destino": "Lisbon, PT"
+  },
+  "TAP262M": {
+    "origem": "Toronto, CA",
+    "destino": "Lisbon, PT"
+  },
+  "EJU98RX": {
+    "origem": "Funchal, PT",
+    "destino": "Lisbon, PT"
+  },
+  "AAL41": {
+    "origem": "Barcelona, ES",
+    "destino": "Chicago, US"
   }
 }
