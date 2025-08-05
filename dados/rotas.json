@@ -14598,5 +14598,21 @@
   "ANE72JG": {
     "origem": "Valencia, ES",
     "destino": "Vigo, ES"
+  },
+  "AEA17KC": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "BCS7EM": {
+    "origem": "Porto, PT",
+    "destino": "Brussels, BE"
+  },
+  "BCS3YK": {
+    "origem": "Porto, PT",
+    "destino": "Leipzig, DE"
+  },
+  "EXS12N": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Bristol, GB"
   }
 }
