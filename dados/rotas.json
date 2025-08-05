@@ -14374,5 +14374,29 @@
   "ANE2305": {
     "origem": "Vigo, ES",
     "destino": "Santander, ES"
+  },
+  "NBT50K": {
+    "origem": "Athens, GR",
+    "destino": "New York, US"
+  },
+  "NOZ1750": {
+    "origem": "Bergen, NO",
+    "destino": "Málaga, ES"
+  },
+  "TAP1866": {
+    "origem": "Ponta Delgada, PT",
+    "destino": "Lisbon, PT"
+  },
+  "CXI98PX": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "TAP210": {
+    "origem": "New York, US",
+    "destino": "Lisbon, PT"
+  },
+  "TRA98P": {
+    "origem": "Porto, PT",
+    "destino": "Amsterdam, NL"
   }
 }
