@@ -14498,5 +14498,29 @@
   "RYR340L": {
     "origem": "Bergamo, IT",
     "destino": "Porto, PT"
+  },
+  "RYR9299": {
+    "origem": "Porto, PT",
+    "destino": "Milan, IT"
+  },
+  "TAP88TM": {
+    "origem": "Funchal, PT",
+    "destino": "Lisbon, PT"
+  },
+  "SWR72": {
+    "origem": "Zürich, CH",
+    "destino": "Washington, US"
+  },
+  "SWR64E": {
+    "origem": "Zürich, CH",
+    "destino": "Miami, US"
+  },
+  "EDW34N": {
+    "origem": "Zürich, CH",
+    "destino": "Punta Cana, DO"
+  },
+  "VJH715": {
+    "origem": "Rodes Island, GR",
+    "destino": "Leeds, GB"
   }
 }
