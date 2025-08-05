@@ -14458,5 +14458,45 @@
   "DLH03T": {
     "origem": "Porto, PT",
     "destino": "Frankfurt-am-Main, DE"
+  },
+  "ELY007": {
+    "origem": "Ben Gurion International Airport",
+    "destino": "John F Kennedy International Airport"
+  },
+  "TAP454": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
+  },
+  "BEL8HR": {
+    "origem": "Porto, PT",
+    "destino": "Brussels, BE"
+  },
+  "AAL781": {
+    "origem": "Napoli, IT",
+    "destino": "Philadelphia, US"
+  },
+  "EXS9AG": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Birmingham, GB"
+  },
+  "QTR33U": {
+    "origem": "Doha, QA",
+    "destino": "Boston, US"
+  },
+  "RZO122": {
+    "origem": "Ponta Delgada, PT",
+    "destino": "Lisbon, PT"
+  },
+  "AAL747": {
+    "origem": "Nice, FR",
+    "destino": "Philadelphia, US"
+  },
+  "ENT73YG": {
+    "origem": "Poznań, PL",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "RYR340L": {
+    "origem": "Bergamo, IT",
+    "destino": "Porto, PT"
   }
 }
