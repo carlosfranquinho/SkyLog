@@ -14538,5 +14538,17 @@
   "LSM25B": {
     "origem": "Málaga, ES",
     "destino": "Berlin, DE"
+  },
+  "VLG5UL": {
+    "origem": "Paris, FR",
+    "destino": "Marrakech, MA"
+  },
+  "EIN7AC": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Dublin, IE"
+  },
+  "RYR680W": {
+    "origem": "Sevilla, ES",
+    "destino": "Lisbon, PT"
   }
 }
