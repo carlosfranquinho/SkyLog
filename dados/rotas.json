@@ -14522,5 +14522,21 @@
   "VJH715": {
     "origem": "Rodes Island, GR",
     "destino": "Leeds, GB"
+  },
+  "RYR3GT": {
+    "origem": "Edinburgh, GB",
+    "destino": "Porto, PT"
+  },
+  "CLX6222": {
+    "origem": "Campinas, BR",
+    "destino": "Luxembourg, LU"
+  },
+  "RYR63NC": {
+    "origem": "Porto, PT",
+    "destino": "Cagliari, IT"
+  },
+  "LSM25B": {
+    "origem": "Málaga, ES",
+    "destino": "Berlin, DE"
   }
 }
