@@ -14446,5 +14446,17 @@
   "EJU85UD": {
     "origem": "Nice, FR",
     "destino": "Porto, PT"
+  },
+  "ACA823": {
+    "origem": "Barcelona, ES",
+    "destino": "Montréal, CA"
+  },
+  "EJU48XD": {
+    "origem": "Porto, PT",
+    "destino": "Funchal, PT"
+  },
+  "DLH03T": {
+    "origem": "Porto, PT",
+    "destino": "Frankfurt-am-Main, DE"
   }
 }
