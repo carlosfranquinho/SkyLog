@@ -14550,5 +14550,17 @@
   "RYR680W": {
     "origem": "Sevilla, ES",
     "destino": "Lisbon, PT"
+  },
+  "TAP1824": {
+    "origem": "Lajes, PT",
+    "destino": "Lisbon, PT"
+  },
+  "ANE2173": {
+    "origem": "Funchal, PT",
+    "destino": "Valencia, ES"
+  },
+  "RAM664Y": {
+    "origem": "Agadir, MA",
+    "destino": "Paris, FR"
   }
 }
