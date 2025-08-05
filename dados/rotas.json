@@ -14330,5 +14330,13 @@
   "TOM6NX": {
     "origem": "Tenerife Island, ES",
     "destino": "Glasgow, GB"
+  },
+  "UAL91": {
+    "origem": "Tel Aviv, IL",
+    "destino": "Newark, US"
+  },
+  "AIZ991": {
+    "origem": "Tel Aviv, IL",
+    "destino": "New York, US"
   }
 }
