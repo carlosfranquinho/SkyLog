@@ -14950,5 +14950,9 @@
   "NOZ1CE": {
     "origem": "Porto, PT",
     "destino": "Oslo, NO"
+  },
+  "IBE26TT": {
+    "origem": "Barcelona, ES",
+    "destino": "Boston, US"
   }
 }
