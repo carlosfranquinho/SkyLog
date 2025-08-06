@@ -14654,5 +14654,13 @@
   "TAP258": {
     "origem": "Toronto, CA",
     "destino": "Lisbon, PT"
+  },
+  "TAP96AW": {
+    "origem": "Funchal, PT",
+    "destino": "Lisbon, PT"
+  },
+  "TAP218": {
+    "origem": "Boston, US",
+    "destino": "Lisbon, PT"
   }
 }
