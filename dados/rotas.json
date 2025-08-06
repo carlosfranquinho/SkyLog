@@ -14930,5 +14930,21 @@
   "TRA10B": {
     "origem": "Faro, PT",
     "destino": "Brussels, BE"
+  },
+  "TAP1906": {
+    "origem": "Faro, PT",
+    "destino": "Lisbon, PT"
+  },
+  "EXS044A": {
+    "origem": "Birmingham, GB",
+    "destino": "Newcastle, GB"
+  },
+  "RYR77KW": {
+    "origem": "Porto, PT",
+    "destino": "Marseille, FR"
+  },
+  "LGL74GC": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Luxembourg, LU"
   }
 }
