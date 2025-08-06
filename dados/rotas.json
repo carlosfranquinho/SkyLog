@@ -14726,5 +14726,25 @@
   "RYR7XP": {
     "origem": "Porto, PT",
     "destino": "Beauvais/Tillé, FR"
+  },
+  "AEA7311": {
+    "origem": "Vigo, ES",
+    "destino": "Madrid, ES"
+  },
+  "RYR9QH": {
+    "origem": "Shannon, IE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR57BW": {
+    "origem": "Porto, PT",
+    "destino": "Pisa, IT"
+  },
+  "RYR6MZ": {
+    "origem": "Glasgow, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "LGL3770": {
+    "origem": "Porto, PT",
+    "destino": "Luxembourg, LU"
   }
 }
