@@ -14630,5 +14630,17 @@
   "TOM5HB": {
     "origem": "Fuerteventura Island, ES",
     "destino": "London, GB"
+  },
+  "TAP1531": {
+    "origem": "Lisbon, PT",
+    "destino": "São Tomé, ST"
+  },
+  "EXS8NF": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "TOM1YN": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Manchester, GB"
   }
 }
