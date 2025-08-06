@@ -14842,5 +14842,33 @@
   "DAL67": {
     "origem": "Rome, IT",
     "destino": "Atlanta, US"
+  },
+  "EJU45LZ": {
+    "origem": "Napoli, IT",
+    "destino": "Porto, PT"
+  },
+  "RZO277": {
+    "origem": "Porto, PT",
+    "destino": "New York, US"
+  },
+  "VLG60TW": {
+    "origem": "Barcelona, ES",
+    "destino": "Porto, PT"
+  },
+  "TAP1736": {
+    "origem": "Vila Baleira, PT",
+    "destino": "Lisbon, PT"
+  },
+  "NOS783": {
+    "origem": "Santorini Island, GR",
+    "destino": "Milan, IT"
+  },
+  "TVF84KD": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
+  },
+  "RYR51SD": {
+    "origem": "Porto, PT",
+    "destino": "Brussels, BE"
   }
 }
