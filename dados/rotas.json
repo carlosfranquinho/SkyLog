@@ -14958,5 +14958,29 @@
   "ETH3516": {
     "origem": "Zaragoza, ES",
     "destino": "Bogota, CO"
+  },
+  "GEC8264": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Campinas, BR"
+  },
+  "EZY29GN": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Liverpool, GB"
+  },
+  "UAE9919": {
+    "origem": "Jebel Ali, AE",
+    "destino": "Zaragoza, ES"
+  },
+  "TAP97LS": {
+    "origem": "Lisbon, PT",
+    "destino": "Funchal, PT"
+  },
+  "MBU3JE": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Nürnberg, DE"
+  },
+  "TOM235": {
+    "origem": "Marrakech, MA",
+    "destino": "Birmingham, GB"
   }
 }
