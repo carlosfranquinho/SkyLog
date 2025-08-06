@@ -14910,5 +14910,13 @@
   "EJU6740": {
     "origem": "Marrakech, MA",
     "destino": "Lisbon, PT"
+  },
+  "UAL967": {
+    "origem": "Napoli, IT",
+    "destino": "Newark, US"
+  },
+  "THY6922": {
+    "origem": "Lisbon, PT",
+    "destino": "Istanbul, TR"
   }
 }
