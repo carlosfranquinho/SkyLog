@@ -14690,5 +14690,41 @@
   "RYR91WF": {
     "origem": "Porto, PT",
     "destino": "Eindhoven, NL"
+  },
+  "TVF95AC": {
+    "origem": "Bordeaux, FR",
+    "destino": "Agadir, MA"
+  },
+  "RYR5256": {
+    "origem": "Porto, PT",
+    "destino": "Brive-la-Gaillarde, FR"
+  },
+  "UAL120": {
+    "origem": "Newark, US",
+    "destino": "Barcelona, ES"
+  },
+  "RYR88UR": {
+    "origem": "Porto, PT",
+    "destino": "Luxembourg, LU"
+  },
+  "TAP98CX": {
+    "origem": "Funchal, PT",
+    "destino": "Lisbon, PT"
+  },
+  "TVF19RQ": {
+    "origem": "Paris, FR",
+    "destino": "Marrakech, MA"
+  },
+  "VLG7EY": {
+    "origem": "Barcelona, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR44AJ": {
+    "origem": "Porto, PT",
+    "destino": "Manchester, GB"
+  },
+  "RYR7XP": {
+    "origem": "Porto, PT",
+    "destino": "Beauvais/Tillé, FR"
   }
 }
