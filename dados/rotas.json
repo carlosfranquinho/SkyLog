@@ -14774,5 +14774,33 @@
   "RYR14SQ": {
     "origem": "Birmingham, GB",
     "destino": "Gran Canaria Island, ES"
+  },
+  "RYR95SZ": {
+    "origem": "Porto, PT",
+    "destino": "London, GB"
+  },
+  "UAL942": {
+    "origem": "Washington, US",
+    "destino": "Lisbon, PT"
+  },
+  "ACA810": {
+    "origem": "Toronto, CA",
+    "destino": "Lisbon, PT"
+  },
+  "TAP1826": {
+    "origem": "Lajes, PT",
+    "destino": "Lisbon, PT"
+  },
+  "DAL124": {
+    "origem": "Boston, US",
+    "destino": "Lisbon, PT"
+  },
+  "RYR7BK": {
+    "origem": "Porto, PT",
+    "destino": "Shannon, IE"
+  },
+  "NSZ4280": {
+    "origem": "Porto, PT",
+    "destino": "Stockholm, SE"
   }
 }
