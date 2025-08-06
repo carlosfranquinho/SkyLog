@@ -14822,5 +14822,25 @@
   "TAP028": {
     "origem": "Salvador, BR",
     "destino": "Lisbon, PT"
+  },
+  "ACA813": {
+    "origem": "Lisbon, PT",
+    "destino": "Montréal, CA"
+  },
+  "MNSTR": {
+    "origem": "Vienna, AT",
+    "destino": "Olbia, IT"
+  },
+  "RYR73MU": {
+    "origem": "Clermont-Ferrand/Auvergne, FR",
+    "destino": "Porto, PT"
+  },
+  "UAL145": {
+    "origem": "Porto, PT",
+    "destino": "Newark, US"
+  },
+  "DAL67": {
+    "origem": "Rome, IT",
+    "destino": "Atlanta, US"
   }
 }
