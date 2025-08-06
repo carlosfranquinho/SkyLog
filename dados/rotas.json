@@ -14662,5 +14662,33 @@
   "TAP218": {
     "origem": "Boston, US",
     "destino": "Lisbon, PT"
+  },
+  "UAL260": {
+    "origem": "Washington, US",
+    "destino": "Madrid, ES"
+  },
+  "TAP1544": {
+    "origem": "Praia, CV",
+    "destino": "Lisbon, PT"
+  },
+  "TVF14DY": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
+  },
+  "TAP104": {
+    "origem": "Belo Horizonte, BR",
+    "destino": "Lisbon, PT"
+  },
+  "RYR242A": {
+    "origem": "Porto, PT",
+    "destino": "Brussels, BE"
+  },
+  "RYR8WD": {
+    "origem": "Porto, PT",
+    "destino": "La Rochelle/Île de Ré, FR"
+  },
+  "RYR91WF": {
+    "origem": "Porto, PT",
+    "destino": "Eindhoven, NL"
   }
 }
