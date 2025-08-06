@@ -14870,5 +14870,29 @@
   "RYR51SD": {
     "origem": "Porto, PT",
     "destino": "Brussels, BE"
+  },
+  "RZO140": {
+    "origem": "Pico Island, PT",
+    "destino": "Lisbon, PT"
+  },
+  "MBU1JX": {
+    "origem": "Nürnberg, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "SWT131": {
+    "origem": "Funchal, PT",
+    "destino": "Lisbon, PT"
+  },
+  "AFR848": {
+    "origem": "Paris, FR",
+    "destino": "Fort-de-France, MQ"
+  },
+  "VOE56JN": {
+    "origem": "Málaga, ES",
+    "destino": "Ranón, ES"
+  },
+  "IBE32": {
+    "origem": "Chicago, US",
+    "destino": "Madrid, ES"
   }
 }
