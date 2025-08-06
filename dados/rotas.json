@@ -14802,5 +14802,25 @@
   "NSZ4280": {
     "origem": "Porto, PT",
     "destino": "Stockholm, SE"
+  },
+  "DAL215": {
+    "origem": "Rome, IT",
+    "destino": "Atlanta, US"
+  },
+  "IBS1851": {
+    "origem": "Madrid, ES",
+    "destino": "Marrakech, MA"
+  },
+  "TAP4LA": {
+    "origem": "Los Angeles, US",
+    "destino": "Lisbon, PT"
+  },
+  "AEA41UB": {
+    "origem": "Vigo, ES",
+    "destino": "Madrid, ES"
+  },
+  "TAP028": {
+    "origem": "Salvador, BR",
+    "destino": "Lisbon, PT"
   }
 }
