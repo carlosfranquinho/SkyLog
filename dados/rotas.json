@@ -14646,5 +14646,13 @@
   "TOM563": {
     "origem": "Espargos, CV",
     "destino": "Bristol, GB"
+  },
+  "VPCVJ": {
+    "origem": "Nice, FR",
+    "destino": "Saint-Louis, FR"
+  },
+  "TAP258": {
+    "origem": "Toronto, CA",
+    "destino": "Lisbon, PT"
   }
 }
