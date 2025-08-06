@@ -14894,5 +14894,21 @@
   "IBE32": {
     "origem": "Chicago, US",
     "destino": "Madrid, ES"
+  },
+  "NSZ3692": {
+    "origem": "Copenhagen, DK",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "IBS15AR": {
+    "origem": "Madrid, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR2GE": {
+    "origem": "Alicante, ES",
+    "destino": "Santiago de Compostela, ES"
+  },
+  "EJU6740": {
+    "origem": "Marrakech, MA",
+    "destino": "Lisbon, PT"
   }
 }
