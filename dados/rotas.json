@@ -14918,5 +14918,17 @@
   "THY6922": {
     "origem": "Lisbon, PT",
     "destino": "Istanbul, TR"
+  },
+  "AAN261": {
+    "origem": "Birmingham, GB",
+    "destino": "Kefallinia Island, GR"
+  },
+  "TAP211": {
+    "origem": "Porto, PT",
+    "destino": "Newark, US"
+  },
+  "TRA10B": {
+    "origem": "Faro, PT",
+    "destino": "Brussels, BE"
   }
 }
