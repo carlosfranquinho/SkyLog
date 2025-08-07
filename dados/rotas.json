@@ -15194,5 +15194,41 @@
   "EJU18ZH": {
     "origem": "Nantes, FR",
     "destino": "Porto, PT"
+  },
+  "TVS78G": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Prague, CZ"
+  },
+  "TOM7CN": {
+    "origem": "Manchester, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "NJE937L": {
+    "origem": "Stockholm, SE",
+    "destino": "Porto, PT"
+  },
+  "EXS3NB": {
+    "origem": "Glasgow, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "RYR24YH": {
+    "origem": "Porto, PT",
+    "destino": "Leeds, GB"
+  },
+  "EXS71HC": {
+    "origem": "Edinburgh, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "RYR911M": {
+    "origem": "Kraków, PL",
+    "destino": "Porto, PT"
+  },
+  "WPT2151": {
+    "origem": "Lisbon, PT",
+    "destino": "Cancún, MX"
+  },
+  "BCS6773": {
+    "origem": "Porto, PT",
+    "destino": "London, GB"
   }
 }
