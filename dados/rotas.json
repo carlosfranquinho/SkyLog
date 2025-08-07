@@ -15254,5 +15254,25 @@
   "QTR8159": {
     "origem": "Doha, QA",
     "destino": "Liège, BE"
+  },
+  "TOM6EY": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Bristol, GB"
+  },
+  "EZY62QN": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "London, GB"
+  },
+  "TOM29K": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Bristol, GB"
+  },
+  "PVG348P": {
+    "origem": "Almería, ES",
+    "destino": "Porto, PT"
+  },
+  "TVS4147": {
+    "origem": "Espargos, CV",
+    "destino": "Prague, CZ"
   }
 }
