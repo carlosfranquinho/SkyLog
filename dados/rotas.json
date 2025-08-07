@@ -15066,5 +15066,25 @@
   "AZU8751": {
     "origem": "Lisbon, PT",
     "destino": "Campinas, BR"
+  },
+  "EFW5SL": {
+    "origem": "Porto, PT",
+    "destino": "London, GB"
+  },
+  "RYR469V": {
+    "origem": "Bergamo, IT",
+    "destino": "Faro, PT"
+  },
+  "TRA6458": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "RUK12WM": {
+    "origem": "Porto, PT",
+    "destino": "Manchester, GB"
+  },
+  "EZY9911": {
+    "origem": "Liverpool John Lennon Airport",
+    "destino": "Amsterdam Airport Schiphol"
   }
 }
