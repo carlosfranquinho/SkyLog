@@ -15246,5 +15246,9 @@
   "TOM2PB": {
     "origem": "Glasgow, GB",
     "destino": "Lanzarote Island, ES"
+  },
+  "KLM81A": {
+    "origem": "Porto, PT",
+    "destino": "Amsterdam, NL"
   }
 }
