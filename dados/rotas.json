@@ -15030,5 +15030,25 @@
   "EZY98UT": {
     "origem": "Liverpool, GB",
     "destino": "Tenerife Island, ES"
+  },
+  "EZY58LA": {
+    "origem": "Southend, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EXS011P": {
+    "origem": "Manchester, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EJU57GV": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
+  },
+  "TVF44BT": {
+    "origem": "Porto, PT",
+    "destino": "Nantes, FR"
+  },
+  "TAP155A": {
+    "origem": "Lisbon, PT",
+    "destino": "São Pedro, CV"
   }
 }
