@@ -15146,5 +15146,13 @@
   "RAM818I": {
     "origem": "Casablanca, MA",
     "destino": "Manchester, GB"
+  },
+  "TFL4606": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "RYR6SH": {
+    "origem": "Porto, PT",
+    "destino": "Ponta Delgada, PT"
   }
 }
