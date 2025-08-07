@@ -15122,5 +15122,29 @@
   "AUA4059": {
     "origem": "Vienna, AT",
     "destino": "Funchal, PT"
+  },
+  "TCV606": {
+    "origem": "Praia, CV",
+    "destino": "Lisbon, PT"
+  },
+  "CND436": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "TSC765": {
+    "origem": "Porto, PT",
+    "destino": "Toronto, CA"
+  },
+  "EJU69VH": {
+    "origem": "Porto, PT",
+    "destino": "Nantes, FR"
+  },
+  "VLG4CN": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
+  },
+  "RAM818I": {
+    "origem": "Casablanca, MA",
+    "destino": "Manchester, GB"
   }
 }
