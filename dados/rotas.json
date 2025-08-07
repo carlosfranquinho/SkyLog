@@ -15006,5 +15006,21 @@
   "KLM56W": {
     "origem": "Porto, PT",
     "destino": "Amsterdam, NL"
+  },
+  "RYR35GQ": {
+    "origem": "Porto, PT",
+    "destino": "Beauvais/Tillé, FR"
+  },
+  "RYR1873": {
+    "origem": "Porto, PT",
+    "destino": "Nîmes/Garons, FR"
+  },
+  "SWT130": {
+    "origem": "Lisbon, PT",
+    "destino": "Funchal, PT"
+  },
+  "TVF22KP": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
   }
 }
