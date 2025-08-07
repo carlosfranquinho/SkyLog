@@ -15086,5 +15086,41 @@
   "EZY9911": {
     "origem": "Liverpool John Lennon Airport",
     "destino": "Amsterdam Airport Schiphol"
+  },
+  "ASL16E": {
+    "origem": "Porto, PT",
+    "destino": "Belgrad, RS"
+  },
+  "RYR1LK": {
+    "origem": "Berlin, DE",
+    "destino": "Porto, PT"
+  },
+  "RYR416": {
+    "origem": "Dublin, IE",
+    "destino": "Alicante, ES"
+  },
+  "EZY51YM": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Bristol, GB"
+  },
+  "TAP1860": {
+    "origem": "Ponta Delgada, PT",
+    "destino": "Lisbon, PT"
+  },
+  "EFW3XB": {
+    "origem": "Málaga, ES",
+    "destino": "London, GB"
+  },
+  "RYS5102": {
+    "origem": "Rodes Island, GR",
+    "destino": "Warsaw, PL"
+  },
+  "VOE4MJ": {
+    "origem": "Jerez de la Forntera, ES",
+    "destino": "Ranón, ES"
+  },
+  "AUA4059": {
+    "origem": "Vienna, AT",
+    "destino": "Funchal, PT"
   }
 }
