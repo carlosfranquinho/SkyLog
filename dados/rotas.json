@@ -15154,5 +15154,21 @@
   "RYR6SH": {
     "origem": "Porto, PT",
     "destino": "Ponta Delgada, PT"
+  },
+  "TOM1HW": {
+    "origem": "Rodes Island, GR",
+    "destino": "Doncaster, GB"
+  },
+  "LGL3786": {
+    "origem": "Porto, PT",
+    "destino": "Luxembourg, LU"
+  },
+  "TOM416": {
+    "origem": "Manchester, GB",
+    "destino": "Espargos, CV"
+  },
+  "IBS16PM": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Madrid, ES"
   }
 }
