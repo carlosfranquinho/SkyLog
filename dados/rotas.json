@@ -15050,5 +15050,9 @@
   "TAP155A": {
     "origem": "Lisbon, PT",
     "destino": "São Pedro, CV"
+  },
+  "NSZ3613": {
+    "origem": "Porto, PT",
+    "destino": "Copenhagen, DK"
   }
 }
