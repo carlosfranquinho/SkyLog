@@ -15170,5 +15170,29 @@
   "IBS16PM": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Madrid, ES"
+  },
+  "EJU73UK": {
+    "origem": "Porto, PT",
+    "destino": "Milan, IT"
+  },
+  "AFR97QP": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
+  },
+  "EXS98K": {
+    "origem": "Belfast, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EXS81RO": {
+    "origem": "Liverpool, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "TOM37G": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EJU18ZH": {
+    "origem": "Nantes, FR",
+    "destino": "Porto, PT"
   }
 }
