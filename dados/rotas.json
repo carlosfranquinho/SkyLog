@@ -15230,5 +15230,17 @@
   "BCS6773": {
     "origem": "Porto, PT",
     "destino": "London, GB"
+  },
+  "VJT495": {
+    "origem": "Geneva, CH",
+    "destino": "Firenze, IT"
+  },
+  "EXS20W": {
+    "origem": "Liverpool, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR9NF": {
+    "origem": "Porto, PT",
+    "destino": "Kraków, PL"
   }
 }
