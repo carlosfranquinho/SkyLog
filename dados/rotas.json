@@ -15054,5 +15054,17 @@
   "NSZ3613": {
     "origem": "Porto, PT",
     "destino": "Copenhagen, DK"
+  },
+  "ASL14D": {
+    "origem": "Belgrad, RS",
+    "destino": "Porto, PT"
+  },
+  "RYR36AT": {
+    "origem": "Porto, PT",
+    "destino": "Tenerife Island, ES"
+  },
+  "AZU8751": {
+    "origem": "Lisbon, PT",
+    "destino": "Campinas, BR"
   }
 }
