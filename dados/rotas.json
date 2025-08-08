@@ -15418,5 +15418,41 @@
   "TVF27VC": {
     "origem": "Porto, PT",
     "destino": "Paris, FR"
+  },
+  "EFW5JA": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "London, GB"
+  },
+  "TCV612": {
+    "origem": "São Pedro, CV",
+    "destino": "Lisbon, PT"
+  },
+  "RZO150": {
+    "origem": "Horta, PT",
+    "destino": "Lisbon, PT"
+  },
+  "RZO171": {
+    "origem": "Porto, PT",
+    "destino": "Porto, PT"
+  },
+  "VOE92HF": {
+    "origem": "Nantes, FR",
+    "destino": "Porto, PT"
+  },
+  "RZO182": {
+    "origem": "Lajes, PT",
+    "destino": "Porto, PT"
+  },
+  "WPT2152": {
+    "origem": "Cancún, MX",
+    "destino": "Lisbon, PT"
+  },
+  "EJU62RH": {
+    "origem": "Porto, PT",
+    "destino": "Geneva, CH"
+  },
+  "RYR38BB": {
+    "origem": "Porto, PT",
+    "destino": "Budapest, HU"
   }
 }
