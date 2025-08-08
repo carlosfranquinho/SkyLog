@@ -15486,5 +15486,25 @@
   "RZO183": {
     "origem": "Porto, PT",
     "destino": "Lajes, PT"
+  },
+  "EZY12BK": {
+    "origem": "Belfast, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "RYR3WK": {
+    "origem": "Porto, PT",
+    "destino": "Dole/Tavaux, FR"
+  },
+  "RYR12NQ": {
+    "origem": "Porto, PT",
+    "destino": "Lille/Lesquin, FR"
+  },
+  "RYR89": {
+    "origem": "Funchal, PT",
+    "destino": "Lisbon, PT"
+  },
+  "KLM1576": {
+    "origem": "Porto, PT",
+    "destino": "Amsterdam, NL"
   }
 }
