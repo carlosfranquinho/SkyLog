@@ -15390,5 +15390,33 @@
   "TAR202": {
     "origem": "Tunis, TN",
     "destino": "Montréal, CA"
+  },
+  "DLH9851": {
+    "origem": "Luqa, MT",
+    "destino": "Munich, DE"
+  },
+  "RYR452G": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Nottingham, GB"
+  },
+  "QTR61R": {
+    "origem": "Doha, QA",
+    "destino": "Washington, US"
+  },
+  "TVF7618": {
+    "origem": "Paris, FR",
+    "destino": "Porto, PT"
+  },
+  "TAP118": {
+    "origem": "Porto Alegre, BR",
+    "destino": "Lisbon, PT"
+  },
+  "N1KX": {
+    "origem": "Porto, PT",
+    "destino": "Faro, PT"
+  },
+  "TVF27VC": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
   }
 }
