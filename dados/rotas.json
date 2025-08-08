@@ -15334,5 +15334,37 @@
   "EJU74DG": {
     "origem": "Agadir, MA",
     "destino": "Lyon, FR"
+  },
+  "ROJ001": {
+    "origem": "Abu Dhabi, AE",
+    "destino": "Jeddah, SA"
+  },
+  "EDW36W": {
+    "origem": "Zürich, CH",
+    "destino": "San Jose, CR"
+  },
+  "AAL95": {
+    "origem": "Madrid, ES",
+    "destino": "New York, US"
+  },
+  "EZY3176": {
+    "origem": "Porto, PT",
+    "destino": "Glasgow, GB"
+  },
+  "RYR8JY": {
+    "origem": "Porto, PT",
+    "destino": "Birmingham, GB"
+  },
+  "VLG3PN": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Santiago de Compostela, ES"
+  },
+  "VLG3SD": {
+    "origem": "Agadir, MA",
+    "destino": "Paris, FR"
+  },
+  "FJO67M": {
+    "origem": "Edinburgh, GB",
+    "destino": "Dublin, IE"
   }
 }
