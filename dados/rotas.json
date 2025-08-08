@@ -15454,5 +15454,37 @@
   "RYR38BB": {
     "origem": "Porto, PT",
     "destino": "Budapest, HU"
+  },
+  "TVF7851": {
+    "origem": "Porto, PT",
+    "destino": "Brest/Guipavas, FR"
+  },
+  "TVF3008": {
+    "origem": "Paris, FR",
+    "destino": "Agadir, MA"
+  },
+  "RYR2NU": {
+    "origem": "Porto, PT",
+    "destino": "Bologna, IT"
+  },
+  "NUM801": {
+    "origem": "London, GB",
+    "destino": "Zürich, CH"
+  },
+  "VOE5FJ": {
+    "origem": "Porto, PT",
+    "destino": "Nantes, FR"
+  },
+  "RYR7GY": {
+    "origem": "Porto, PT",
+    "destino": "Cologne, DE"
+  },
+  "TAP686": {
+    "origem": "Porto, PT",
+    "destino": "Luxembourg, LU"
+  },
+  "RZO183": {
+    "origem": "Porto, PT",
+    "destino": "Lajes, PT"
   }
 }
