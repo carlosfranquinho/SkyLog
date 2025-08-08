@@ -15294,5 +15294,13 @@
   "RYR10YM": {
     "origem": "Porto, PT",
     "destino": "Brussels, BE"
+  },
+  "RYR92FP": {
+    "origem": "Porto, PT",
+    "destino": "London, GB"
+  },
+  "RYR258X": {
+    "origem": "Nottingham, GB",
+    "destino": "Gran Canaria Island, ES"
   }
 }
