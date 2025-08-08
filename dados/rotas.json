@@ -15306,5 +15306,21 @@
   "TOM8AN": {
     "origem": "Birmingham, GB",
     "destino": "Dalaman, TR"
+  },
+  "TAP244": {
+    "origem": "Chicago, US",
+    "destino": "Lisbon, PT"
+  },
+  "SAS2774": {
+    "origem": "Porto, PT",
+    "destino": "Copenhagen, DK"
+  },
+  "RYR2895": {
+    "origem": "Dublin, IE",
+    "destino": "Rabat, MA"
+  },
+  "VLG3MR": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Santiago de Compostela, ES"
   }
 }
