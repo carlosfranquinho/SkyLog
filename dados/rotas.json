@@ -15286,5 +15286,13 @@
   "CFG1405": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Frankfurt-am-Main, DE"
+  },
+  "VOE8RP": {
+    "origem": "Ranón, ES",
+    "destino": "Valladolises y Lo Jurado, Murcia, ES"
+  },
+  "RYR10YM": {
+    "origem": "Porto, PT",
+    "destino": "Brussels, BE"
   }
 }
