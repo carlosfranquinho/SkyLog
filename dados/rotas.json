@@ -15506,5 +15506,13 @@
   "KLM1576": {
     "origem": "Porto, PT",
     "destino": "Amsterdam, NL"
+  },
+  "TVF12EP": {
+    "origem": "Brest/Guipavas, FR",
+    "destino": "Porto, PT"
+  },
+  "TAP1542": {
+    "origem": "Praia, CV",
+    "destino": "Lisbon, PT"
   }
 }
