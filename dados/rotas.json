@@ -15518,5 +15518,13 @@
   "IBS1621": {
     "origem": "Madrid, ES",
     "destino": "Gran Canaria Island, ES"
+  },
+  "CFG7VH": {
+    "origem": "Olbia, IT",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "BCS850": {
+    "origem": "Brussels, BE",
+    "destino": "Leipzig, DE"
   }
 }
