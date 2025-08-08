@@ -15322,5 +15322,17 @@
   "VLG3MR": {
     "origem": "Tenerife Island, ES",
     "destino": "Santiago de Compostela, ES"
+  },
+  "TRA73W": {
+    "origem": "Porto, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "EJU31MY": {
+    "origem": "Porto, PT",
+    "destino": "Berlin, DE"
+  },
+  "EJU74DG": {
+    "origem": "Agadir, MA",
+    "destino": "Lyon, FR"
   }
 }
