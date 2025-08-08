@@ -15366,5 +15366,29 @@
   "FJO67M": {
     "origem": "Edinburgh, GB",
     "destino": "Dublin, IE"
+  },
+  "RYR75XR": {
+    "origem": "Porto, PT",
+    "destino": "Weeze, DE"
+  },
+  "KLM52Q": {
+    "origem": "Porto, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "RYR106M": {
+    "origem": "Treviso, IT",
+    "destino": "Porto, PT"
+  },
+  "RYR1XW": {
+    "origem": "Rabat, MA",
+    "destino": "Dublin, IE"
+  },
+  "RYR1KU": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Bristol, GB"
+  },
+  "TAR202": {
+    "origem": "Tunis, TN",
+    "destino": "Montréal, CA"
   }
 }
