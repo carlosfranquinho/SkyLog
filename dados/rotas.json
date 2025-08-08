@@ -15526,5 +15526,13 @@
   "BCS850": {
     "origem": "Brussels, BE",
     "destino": "Leipzig, DE"
+  },
+  "ANE8254": {
+    "origem": "Almería, ES",
+    "destino": "Melilla Island, ES"
+  },
+  "EJU71TZ": {
+    "origem": "Porto, PT",
+    "destino": "Nantes, FR"
   }
 }
