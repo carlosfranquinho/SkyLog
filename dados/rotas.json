@@ -15514,5 +15514,9 @@
   "TAP1542": {
     "origem": "Praia, CV",
     "destino": "Lisbon, PT"
+  },
+  "IBS1621": {
+    "origem": "Madrid, ES",
+    "destino": "Gran Canaria Island, ES"
   }
 }
