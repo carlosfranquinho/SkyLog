@@ -15690,5 +15690,37 @@
   "TOM3HC": {
     "origem": "Manchester, GB",
     "destino": "Tenerife Island, ES"
+  },
+  "TAP227": {
+    "origem": "Porto, PT",
+    "destino": "Boston, US"
+  },
+  "EJU13DC": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
+  },
+  "ANE8264": {
+    "origem": "Málaga, ES",
+    "destino": "Melilla Island, ES"
+  },
+  "VLG89JE": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Paris, FR"
+  },
+  "TOM44X": {
+    "origem": "Newcastle, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "LGL998": {
+    "origem": "Agadir, MA",
+    "destino": "Luxembourg, LU"
+  },
+  "RYR41PY": {
+    "origem": "Porto, PT",
+    "destino": "Hahn, DE"
+  },
+  "EWG40F": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Hamburg, DE"
   }
 }
