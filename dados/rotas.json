@@ -15610,5 +15610,33 @@
   "RYR4EK": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Baden-Baden, DE"
+  },
+  "RYR9202": {
+    "origem": "Liverpool, GB",
+    "destino": "Porto, PT"
+  },
+  "EZY65HL": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Bristol, GB"
+  },
+  "EWG7CK": {
+    "origem": "Hamburg, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR314": {
+    "origem": "Berlin, DE",
+    "destino": "Bucharest, RO"
+  },
+  "RZO271": {
+    "origem": "Porto, PT",
+    "destino": "Boston, US"
+  },
+  "RYR62AG": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Leeds, GB"
+  },
+  "HAT5061": {
+    "origem": "Olbia, IT",
+    "destino": "Porto, PT"
   }
 }
