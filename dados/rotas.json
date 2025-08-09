@@ -15578,5 +15578,13 @@
   "EFW09C": {
     "origem": "London, GB",
     "destino": "Tenerife Island, ES"
+  },
+  "TAP9251": {
+    "origem": "Lisbon, PT",
+    "destino": "Porto, PT"
+  },
+  "ACA70": {
+    "origem": "Montréal, CA",
+    "destino": "Algiers, DZ"
   }
 }
