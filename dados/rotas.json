@@ -15666,5 +15666,13 @@
   "TRA60P": {
     "origem": "Amsterdam, NL",
     "destino": "Porto, PT"
+  },
+  "LGL3800": {
+    "origem": "Porto, PT",
+    "destino": "Luxembourg, LU"
+  },
+  "VLG9HN": {
+    "origem": "Vigo, ES",
+    "destino": "Barcelona, ES"
   }
 }
