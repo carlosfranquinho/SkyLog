@@ -15602,5 +15602,13 @@
   "RUK1KJ": {
     "origem": "Porto, PT",
     "destino": "London, GB"
+  },
+  "NOS650": {
+    "origem": "Milan, IT",
+    "destino": "Marsa Alam, EG"
+  },
+  "RYR4EK": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Baden-Baden, DE"
   }
 }
