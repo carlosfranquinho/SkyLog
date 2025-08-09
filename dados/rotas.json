@@ -15570,5 +15570,13 @@
   "RYR1MX": {
     "origem": "Tenerife Island, ES",
     "destino": "Manchester, GB"
+  },
+  "DAL194": {
+    "origem": "Atlanta, US",
+    "destino": "Barcelona, ES"
+  },
+  "EFW09C": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
   }
 }
