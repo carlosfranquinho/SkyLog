@@ -15638,5 +15638,33 @@
   "HAT5061": {
     "origem": "Olbia, IT",
     "destino": "Porto, PT"
+  },
+  "RZO505": {
+    "origem": "Bilbao, ES",
+    "destino": "Ponta Delgada, PT"
+  },
+  "EZY62DZ": {
+    "origem": "London, GB",
+    "destino": "Funchal, PT"
+  },
+  "EZY8526": {
+    "origem": "Porto, PT",
+    "destino": "London, GB"
+  },
+  "RYR8TL": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "CFG9AP": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "RUK9314": {
+    "origem": "Porto, PT",
+    "destino": "Belfast, GB"
+  },
+  "TRA60P": {
+    "origem": "Amsterdam, NL",
+    "destino": "Porto, PT"
   }
 }
