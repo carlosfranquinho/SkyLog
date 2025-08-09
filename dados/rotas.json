@@ -15554,5 +15554,21 @@
   "PVG3564": {
     "origem": "Espargos, CV",
     "destino": "Porto, PT"
+  },
+  "AAL36": {
+    "origem": "Dallas-Fort Worth, US",
+    "destino": "Madrid, ES"
+  },
+  "BCS8032": {
+    "origem": "Barcelona, ES",
+    "destino": "Lisbon, PT"
+  },
+  "RYR11AU": {
+    "origem": "Porto, PT",
+    "destino": "Liverpool, GB"
+  },
+  "RYR1MX": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Manchester, GB"
   }
 }
