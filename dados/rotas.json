@@ -15674,5 +15674,17 @@
   "VLG9HN": {
     "origem": "Vigo, ES",
     "destino": "Barcelona, ES"
+  },
+  "TOM2MA": {
+    "origem": "Cardiff, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TRA65N": {
+    "origem": "Porto, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "BTI4PM": {
+    "origem": "Porto, PT",
+    "destino": "Riga, LV"
   }
 }
