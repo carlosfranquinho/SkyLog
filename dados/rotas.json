@@ -15546,5 +15546,9 @@
   "TAP2285": {
     "origem": "London, GB",
     "destino": "Lisbon, PT"
+  },
+  "N102WG": {
+    "origem": "Washington, US",
+    "destino": "Fort Lauderdale, US"
   }
 }
