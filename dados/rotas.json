@@ -15726,5 +15726,21 @@
   "SWR5TV": {
     "origem": "Porto, PT",
     "destino": "Zürich, CH"
+  },
+  "VLG963B": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Barcelona, ES"
+  },
+  "RYR884C": {
+    "origem": "Porto, PT",
+    "destino": "Beauvais/Tillé, FR"
+  },
+  "RYR52XY": {
+    "origem": "Beauvais/Tillé, FR",
+    "destino": "Porto, PT"
+  },
+  "TOM79E": {
+    "origem": "Nottingham, GB",
+    "destino": "Tenerife Island, ES"
   }
 }
