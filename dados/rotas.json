@@ -15722,5 +15722,9 @@
   "EWG40F": {
     "origem": "Fuerteventura Island, ES",
     "destino": "Hamburg, DE"
+  },
+  "SWR5TV": {
+    "origem": "Porto, PT",
+    "destino": "Zürich, CH"
   }
 }
