@@ -15542,5 +15542,9 @@
   "EXS047A": {
     "origem": "Heraklion, GR",
     "destino": "Manchester, GB"
+  },
+  "TAP2285": {
+    "origem": "London, GB",
+    "destino": "Lisbon, PT"
   }
 }
