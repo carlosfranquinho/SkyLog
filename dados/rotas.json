@@ -15742,5 +15742,21 @@
   "TOM79E": {
     "origem": "Nottingham, GB",
     "destino": "Tenerife Island, ES"
+  },
+  "LBT6148": {
+    "origem": "Djerba, TN",
+    "destino": "Lisbon, PT"
+  },
+  "ANE71UE": {
+    "origem": "Vigo, ES",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "TOM54D": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Birmingham, GB"
+  },
+  "ANE95DZ": {
+    "origem": "Vigo, ES",
+    "destino": "Madrid, ES"
   }
 }
