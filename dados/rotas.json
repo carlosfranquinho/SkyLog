@@ -15586,5 +15586,21 @@
   "ACA70": {
     "origem": "Montréal, CA",
     "destino": "Algiers, DZ"
+  },
+  "IBS15WK": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "IBS16CY": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "AAL9601": {
+    "origem": "Rome, IT",
+    "destino": "Philadelphia, US"
+  },
+  "RUK1KJ": {
+    "origem": "Porto, PT",
+    "destino": "London, GB"
   }
 }
