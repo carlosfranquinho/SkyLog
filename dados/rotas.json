@@ -15790,5 +15790,21 @@
   "TOM7NG": {
     "origem": "London, GB",
     "destino": "Tenerife Island, ES"
+  },
+  "IBE2630": {
+    "origem": "Miami, US",
+    "destino": "Barcelona, ES"
+  },
+  "RYR308W": {
+    "origem": "Porto, PT",
+    "destino": "Stockholm, SE"
+  },
+  "VLG3YM": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Bilbao, ES"
+  },
+  "EXS9W": {
+    "origem": "Porto, PT",
+    "destino": "Manchester, GB"
   }
 }
