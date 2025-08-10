@@ -15914,5 +15914,21 @@
   "TVF53KK": {
     "origem": "Funchal, PT",
     "destino": "Paris, FR"
+  },
+  "ANE8176": {
+    "origem": "Porto, PT",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "VLG81DD": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Bilbao, ES"
+  },
+  "RYR13NH": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Leeds, GB"
+  },
+  "TOM4CY": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Norwich, GB"
   }
 }
