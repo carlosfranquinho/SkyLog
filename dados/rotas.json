@@ -15886,5 +15886,29 @@
   "EXS3SA": {
     "origem": "Glasgow, GB",
     "destino": "Lanzarote Island, ES"
+  },
+  "CFG9ZM": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "TOM4JA": {
+    "origem": "Birmingham, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "TOM8JL": {
+    "origem": "Birmingham, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "ANE8175": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Porto, PT"
+  },
+  "RYR2AQ": {
+    "origem": "Weeze, DE",
+    "destino": "Porto, PT"
+  },
+  "RYR963U": {
+    "origem": "Barcelona, ES",
+    "destino": "Porto, PT"
   }
 }
