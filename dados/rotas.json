@@ -15766,5 +15766,9 @@
   "AAL94": {
     "origem": "New York, US",
     "destino": "Madrid, ES"
+  },
+  "TAP286": {
+    "origem": "Luanda, AO",
+    "destino": "Lisbon, PT"
   }
 }
