@@ -15850,5 +15850,13 @@
   "TAP016": {
     "origem": "Praia, CV",
     "destino": "Lisbon, PT"
+  },
+  "TVF99CC": {
+    "origem": "Marseille, FR",
+    "destino": "Funchal, PT"
+  },
+  "EXS62DL": {
+    "origem": "Porto, PT",
+    "destino": "Birmingham, GB"
   }
 }
