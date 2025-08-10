@@ -15834,5 +15834,9 @@
   "TAP143P": {
     "origem": "Casablanca, MA",
     "destino": "Lisbon, PT"
+  },
+  "IBS1606": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Madrid, ES"
   }
 }
