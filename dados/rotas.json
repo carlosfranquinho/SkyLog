@@ -15858,5 +15858,33 @@
   "EXS62DL": {
     "origem": "Porto, PT",
     "destino": "Birmingham, GB"
+  },
+  "RYR71ZR": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Baden-Baden, DE"
+  },
+  "TOM586": {
+    "origem": "Manchester, GB",
+    "destino": "Espargos, CV"
+  },
+  "EXS23CD": {
+    "origem": "Belfast, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EXS1JV": {
+    "origem": "Belfast, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "IBS1572": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "TVS2057": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Prague, CZ"
+  },
+  "EXS3SA": {
+    "origem": "Glasgow, GB",
+    "destino": "Lanzarote Island, ES"
   }
 }
