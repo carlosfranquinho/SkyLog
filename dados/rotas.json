@@ -15826,5 +15826,13 @@
   "TOM5YJ": {
     "origem": "Lanzarote Island, ES",
     "destino": "Cardiff, GB"
+  },
+  "TAP145W": {
+    "origem": "Marrakech, MA",
+    "destino": "Lisbon, PT"
+  },
+  "TAP143P": {
+    "origem": "Casablanca, MA",
+    "destino": "Lisbon, PT"
   }
 }
