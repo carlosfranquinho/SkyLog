@@ -15930,5 +15930,17 @@
   "TOM4CY": {
     "origem": "Tenerife Island, ES",
     "destino": "Norwich, GB"
+  },
+  "SVA020": {
+    "origem": "John F Kennedy International Airport",
+    "destino": "King Abdulaziz International Airport"
+  },
+  "RYR5GX": {
+    "origem": "Bari, IT",
+    "destino": "Porto, PT"
+  },
+  "RZO179": {
+    "origem": "Porto, PT",
+    "destino": "Ponta Delgada, PT"
   }
 }
