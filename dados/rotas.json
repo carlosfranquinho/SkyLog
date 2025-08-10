@@ -15838,5 +15838,17 @@
   "IBS1606": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Madrid, ES"
+  },
+  "TAP17RA": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Lisbon, PT"
+  },
+  "EJU59TK": {
+    "origem": "Funchal, PT",
+    "destino": "Lisbon, PT"
+  },
+  "TAP016": {
+    "origem": "Praia, CV",
+    "destino": "Lisbon, PT"
   }
 }
