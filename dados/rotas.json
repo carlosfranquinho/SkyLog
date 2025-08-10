@@ -15806,5 +15806,17 @@
   "EXS9W": {
     "origem": "Porto, PT",
     "destino": "Manchester, GB"
+  },
+  "RYR55": {
+    "origem": "Brussels, BE",
+    "destino": "Budapest, HU"
+  },
+  "VKG4406": {
+    "origem": "Bergen, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "ANGOLA2": {
+    "origem": "Nice, FR",
+    "destino": "Lisbon, PT"
   }
 }
