@@ -15958,5 +15958,13 @@
   "ACA2198": {
     "origem": "Fort McMurray, CA",
     "destino": "Toronto, CA"
+  },
+  "PVG3133": {
+    "origem": "Porto, PT",
+    "destino": "Rabil, CV"
+  },
+  "ANE8112": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Ibiza, ES"
   }
 }
