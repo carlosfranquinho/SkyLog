@@ -16034,5 +16034,17 @@
   "RYR7LR": {
     "origem": "Porto, PT",
     "destino": "Beauvais/Tillé, FR"
+  },
+  "TAP90EH": {
+    "origem": "Funchal, PT",
+    "destino": "Lisbon, PT"
+  },
+  "RYR66JB": {
+    "origem": "Manchester, GB",
+    "destino": "Porto, PT"
+  },
+  "RYR5NQ": {
+    "origem": "Málaga, ES",
+    "destino": "Glasgow, GB"
   }
 }
