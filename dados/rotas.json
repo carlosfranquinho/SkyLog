@@ -15970,5 +15970,13 @@
   "UAL966": {
     "origem": "Newark, US",
     "destino": "Napoli, IT"
+  },
+  "TVF2691": {
+    "origem": "Madeira Airport",
+    "destino": "Paris-Orly Airport"
+  },
+  "RYR7046": {
+    "origem": "Dublin, IE",
+    "destino": "Málaga, ES"
   }
 }
