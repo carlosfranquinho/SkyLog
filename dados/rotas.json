@@ -15994,5 +15994,17 @@
   "RYR1ZZ": {
     "origem": "Cork, IE",
     "destino": "Málaga, ES"
+  },
+  "EZS1451": {
+    "origem": "Lisbon, PT",
+    "destino": "Porto, PT"
+  },
+  "AFR1428": {
+    "origem": "Paris, FR",
+    "destino": "Porto, PT"
+  },
+  "TRA082": {
+    "origem": "Lisbon, PT",
+    "destino": "Amsterdam, NL"
   }
 }
