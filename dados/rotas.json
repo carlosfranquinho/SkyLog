@@ -15950,5 +15950,13 @@
   "AFR863": {
     "origem": "Lomé, TG",
     "destino": "Paris, FR"
+  },
+  "RYR2ET": {
+    "origem": "Málaga, ES",
+    "destino": "Cork, IE"
+  },
+  "ACA2198": {
+    "origem": "Fort McMurray, CA",
+    "destino": "Toronto, CA"
   }
 }
