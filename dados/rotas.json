@@ -16066,5 +16066,13 @@
   "AFR41CE": {
     "origem": "Casablanca, MA",
     "destino": "Paris, FR"
+  },
+  "TAP282": {
+    "origem": "Maputo, MZ",
+    "destino": "Lisbon, PT"
+  },
+  "KLM1568": {
+    "origem": "Porto, PT",
+    "destino": "Amsterdam, NL"
   }
 }
