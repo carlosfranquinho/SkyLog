@@ -16074,5 +16074,17 @@
   "KLM1568": {
     "origem": "Porto, PT",
     "destino": "Amsterdam, NL"
+  },
+  "EJU76PQ": {
+    "origem": "Geneva, CH",
+    "destino": "Porto, PT"
+  },
+  "BCS8213": {
+    "origem": "Porto, PT",
+    "destino": "Brussels, BE"
+  },
+  "TOM217": {
+    "origem": "Rabil, CV",
+    "destino": "Manchester, GB"
   }
 }
