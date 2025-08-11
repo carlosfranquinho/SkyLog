@@ -16006,5 +16006,13 @@
   "TRA082": {
     "origem": "Lisbon, PT",
     "destino": "Amsterdam, NL"
+  },
+  "TSC764": {
+    "origem": "Toronto, CA",
+    "destino": "Porto, PT"
+  },
+  "RYR28WZ": {
+    "origem": "Málaga, ES",
+    "destino": "Dublin, IE"
   }
 }
