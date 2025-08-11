@@ -16102,5 +16102,13 @@
   "EJU4578": {
     "origem": "Prishtina, KS",
     "destino": "Berlin, DE"
+  },
+  "TOM8LN": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Belfast, GB"
+  },
+  "EXS179Q": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
   }
 }
