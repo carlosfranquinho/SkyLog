@@ -16018,5 +16018,17 @@
   "TAM8084": {
     "origem": "São Paulo, BR",
     "destino": "London, GB"
+  },
+  "FIN36M": {
+    "origem": "Helsinki, FI",
+    "destino": "Funchal, PT"
+  },
+  "RYR949": {
+    "origem": "Baden-Baden, DE",
+    "destino": "Porto, PT"
+  },
+  "EJU38FA": {
+    "origem": "Geneva, CH",
+    "destino": "Santiago de Compostela, ES"
   }
 }
