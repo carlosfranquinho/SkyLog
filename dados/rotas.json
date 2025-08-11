@@ -16046,5 +16046,25 @@
   "RYR5NQ": {
     "origem": "Málaga, ES",
     "destino": "Glasgow, GB"
+  },
+  "RYR1FE": {
+    "origem": "Porto, PT",
+    "destino": "Nürnberg, DE"
+  },
+  "NJE302R": {
+    "origem": "Sofia, BG",
+    "destino": "Salerno, IT"
+  },
+  "IBB66RZ": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Zaragoza, ES"
+  },
+  "VLG19JA": {
+    "origem": "Barcelona, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "AFR41CE": {
+    "origem": "Casablanca, MA",
+    "destino": "Paris, FR"
   }
 }
