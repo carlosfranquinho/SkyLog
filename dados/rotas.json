@@ -15978,5 +15978,21 @@
   "RYR7046": {
     "origem": "Dublin, IE",
     "destino": "Málaga, ES"
+  },
+  "ACA2199": {
+    "origem": "Amman, JO",
+    "destino": "Toronto, CA"
+  },
+  "RYR8517": {
+    "origem": "Brussels, BE",
+    "destino": "Ponta Delgada, PT"
+  },
+  "EJU54HE": {
+    "origem": "Paris, FR",
+    "destino": "Lisbon, PT"
+  },
+  "RYR1ZZ": {
+    "origem": "Cork, IE",
+    "destino": "Málaga, ES"
   }
 }
