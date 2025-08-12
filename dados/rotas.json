@@ -16162,5 +16162,13 @@
   "AMQ7A": {
     "origem": "London, GB",
     "destino": "Poznań, PL"
+  },
+  "AFR471A": {
+    "origem": "Buenos Aires, AR",
+    "destino": "Paris, FR"
+  },
+  "JAF89X": {
+    "origem": "Casablanca, MA",
+    "destino": "Lille/Lesquin, FR"
   }
 }
