@@ -16126,5 +16126,9 @@
   "GEC8265": {
     "origem": "Buenos Aires, AR",
     "destino": "Frankfurt-am-Main, DE"
+  },
+  "IBE26BT": {
+    "origem": "Boston, US",
+    "destino": "Barcelona, ES"
   }
 }
