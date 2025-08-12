@@ -16150,5 +16150,13 @@
   "UAL885": {
     "origem": "Rome, IT",
     "destino": "Washington, US"
+  },
+  "RAM930G": {
+    "origem": "Casablanca, MA",
+    "destino": "Geneva, CH"
+  },
+  "AFR416": {
+    "origem": "Paris, FR",
+    "destino": "Fortaleza, BR"
   }
 }
