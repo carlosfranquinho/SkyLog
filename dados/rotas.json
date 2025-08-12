@@ -16114,5 +16114,9 @@
   "SYG200": {
     "origem": "London, GB",
     "destino": "Freetown, SL"
+  },
+  "MSR981": {
+    "origem": "Cairo, EG",
+    "destino": "Washington, US"
   }
 }
