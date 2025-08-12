@@ -16170,5 +16170,9 @@
   "JAF89X": {
     "origem": "Casablanca, MA",
     "destino": "Lille/Lesquin, FR"
+  },
+  "BEL1611": {
+    "origem": "Brussels, BE",
+    "destino": "Porto, PT"
   }
 }
