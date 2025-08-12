@@ -16174,5 +16174,17 @@
   "BEL1611": {
     "origem": "Brussels, BE",
     "destino": "Porto, PT"
+  },
+  "VLG4EQ": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Valencia, ES"
+  },
+  "BCS939": {
+    "origem": "Casablanca, MA",
+    "destino": "Paris, FR"
+  },
+  "EFW9750": {
+    "origem": "London, GB",
+    "destino": "London, GB"
   }
 }
