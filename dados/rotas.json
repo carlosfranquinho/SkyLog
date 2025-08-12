@@ -16130,5 +16130,21 @@
   "IBE26BT": {
     "origem": "Boston, US",
     "destino": "Barcelona, ES"
+  },
+  "RYR77JE": {
+    "origem": "Porto, PT",
+    "destino": "Wrocław, PL"
+  },
+  "RYR3939": {
+    "origem": "Marseille, FR",
+    "destino": "Kutaisi, GE"
+  },
+  "UAE256": {
+    "origem": "Mexico City, MX",
+    "destino": "Dubai, AE"
+  },
+  "RYR9595": {
+    "origem": "Rodes Island, GR",
+    "destino": "Liverpool, GB"
   }
 }
