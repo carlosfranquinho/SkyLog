@@ -16266,5 +16266,13 @@
   "ANE8236": {
     "origem": "Menorca Island, ES",
     "destino": "Alicante, ES"
+  },
+  "CFG9TA": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Stuttgart, DE"
+  },
+  "ANE8130": {
+    "origem": "Porto, PT",
+    "destino": "Palma De Mallorca, ES"
   }
 }
