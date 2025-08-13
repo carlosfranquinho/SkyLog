@@ -16198,5 +16198,17 @@
   "EIN76H": {
     "origem": "Tenerife Island, ES",
     "destino": "Dublin, IE"
+  },
+  "TOM2EC": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Bristol, GB"
+  },
+  "IBS15RK": {
+    "origem": "Madrid, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "IBS1631": {
+    "origem": "Madrid, ES",
+    "destino": "Gran Canaria Island, ES"
   }
 }
