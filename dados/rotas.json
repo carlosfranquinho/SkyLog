@@ -16274,5 +16274,17 @@
   "ANE8130": {
     "origem": "Porto, PT",
     "destino": "Palma De Mallorca, ES"
+  },
+  "ETH501": {
+    "origem": "Washington, US",
+    "destino": "Addis Ababa, ET"
+  },
+  "RYR28SD": {
+    "origem": "Strasbourg, FR",
+    "destino": "Porto, PT"
+  },
+  "ANE8235": {
+    "origem": "Nice, FR",
+    "destino": "Ibiza, ES"
   }
 }
