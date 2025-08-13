@@ -16226,5 +16226,17 @@
   "PVG3339": {
     "origem": "Porto, PT",
     "destino": "Espargos, CV"
+  },
+  "AEA084A": {
+    "origem": "Salvador, BR",
+    "destino": "Madrid, ES"
+  },
+  "JBD2": {
+    "origem": "Glasgow, GB",
+    "destino": "Budapest, HU"
+  },
+  "SWW1C": {
+    "origem": "Washington, US",
+    "destino": "Geneva, CH"
   }
 }
