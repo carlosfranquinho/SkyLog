@@ -16286,5 +16286,9 @@
   "ANE8235": {
     "origem": "Nice, FR",
     "destino": "Ibiza, ES"
+  },
+  "ANE3239": {
+    "origem": "Porto, PT",
+    "destino": "Palma De Mallorca, ES"
   }
 }
