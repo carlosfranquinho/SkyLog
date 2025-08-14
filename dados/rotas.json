@@ -16294,5 +16294,9 @@
   "MSR986": {
     "origem": "New York, US",
     "destino": "Cairo, EG"
+  },
+  "TAP9252": {
+    "origem": "Lisbon, PT",
+    "destino": "Valencia, ES"
   }
 }
