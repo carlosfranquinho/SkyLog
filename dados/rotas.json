@@ -16306,5 +16306,21 @@
   "EJU67TR": {
     "origem": "Faro, PT",
     "destino": "Geneva, CH"
+  },
+  "TVF11CV": {
+    "origem": "Agadir, MA",
+    "destino": "Paris, FR"
+  },
+  "IBE0032": {
+    "origem": "Vienna, AT",
+    "destino": "Madrid, ES"
+  },
+  "RYR6ER": {
+    "origem": "Santiago de Compostela, ES",
+    "destino": "Madrid, ES"
+  },
+  "TSC680": {
+    "origem": "Montréal, CA",
+    "destino": "Lisbon, PT"
   }
 }
