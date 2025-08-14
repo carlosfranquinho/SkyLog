@@ -16326,5 +16326,17 @@
   "RYR903C": {
     "origem": "Santiago de Compostela, ES",
     "destino": "Alicante, ES"
+  },
+  "LGL34FV": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Luxembourg, LU"
+  },
+  "VLG69GB": {
+    "origem": "Barcelona, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "EJU62WD": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Bordeaux, FR"
   }
 }
