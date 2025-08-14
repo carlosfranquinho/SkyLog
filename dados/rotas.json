@@ -16366,5 +16366,17 @@
   "TUI243": {
     "origem": "Agadir, MA",
     "destino": "Düsseldorf, DE"
+  },
+  "CFG9KX": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Stuttgart, DE"
+  },
+  "EDW23BD": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Zürich, CH"
+  },
+  "EDW201T": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Zürich, CH"
   }
 }
