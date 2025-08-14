@@ -16350,5 +16350,21 @@
   "BEL1612": {
     "origem": "Porto, PT",
     "destino": "Brussels, BE"
+  },
+  "TUI1XJ": {
+    "origem": "Agadir, MA",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "TAP5RP": {
+    "origem": "Paris, FR",
+    "destino": "Porto, PT"
+  },
+  "EXS89H": {
+    "origem": "Bournemouth, GB",
+    "destino": "Funchal, PT"
+  },
+  "TUI243": {
+    "origem": "Agadir, MA",
+    "destino": "Düsseldorf, DE"
   }
 }
