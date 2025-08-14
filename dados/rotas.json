@@ -16386,5 +16386,13 @@
   "SVA022": {
     "origem": "John F Kennedy International Airport",
     "destino": "King Khaled International Airport"
+  },
+  "RYR2981": {
+    "origem": "Shannon, IE",
+    "destino": "Porto, PT"
+  },
+  "IBS15NU": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Madrid, ES"
   }
 }
