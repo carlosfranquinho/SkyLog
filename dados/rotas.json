@@ -16438,5 +16438,25 @@
   "TVF96UY": {
     "origem": "Paris, FR",
     "destino": "Porto, PT"
+  },
+  "RZO120": {
+    "origem": "Ponta Delgada, PT",
+    "destino": "Lisbon, PT"
+  },
+  "SYG202P": {
+    "origem": "London, GB",
+    "destino": "Marrakech, MA"
+  },
+  "CFG8LT": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "RYR54WW": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Weeze, DE"
+  },
+  "RYR86HQ": {
+    "origem": "Sevilla, ES",
+    "destino": "Manchester, GB"
   }
 }
