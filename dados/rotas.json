@@ -16406,5 +16406,13 @@
   "EJU14VK": {
     "origem": "Faro, PT",
     "destino": "Geneva, CH"
+  },
+  "RYR69MM": {
+    "origem": "Funchal, PT",
+    "destino": "Lisbon, PT"
+  },
+  "AZU8900": {
+    "origem": "Campinas, BR",
+    "destino": "Lisbon, PT"
   }
 }
