@@ -16414,5 +16414,17 @@
   "AZU8900": {
     "origem": "Campinas, BR",
     "destino": "Lisbon, PT"
+  },
+  "IBS15MZ": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "EXS4JM": {
+    "origem": "Newcastle, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "QTR778": {
+    "origem": "Miami, US",
+    "destino": "Doha, QA"
   }
 }
