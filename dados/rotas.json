@@ -16466,5 +16466,13 @@
   "RYR50GV": {
     "origem": "Tenerife Island, ES",
     "destino": "Madrid, ES"
+  },
+  "TAP288": {
+    "origem": "Luanda, AO",
+    "destino": "Lisbon, PT"
+  },
+  "TOM40K": {
+    "origem": "Exeter, GB",
+    "destino": "Tenerife Island, ES"
   }
 }
