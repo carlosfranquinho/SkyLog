@@ -16478,5 +16478,13 @@
   "TVS27N": {
     "origem": "Lanzarote Island, ES",
     "destino": "Prague, CZ"
+  },
+  "TVF45CP": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
+  },
+  "EJU2209": {
+    "origem": "Manchester, GB",
+    "destino": "Lisbon, PT"
   }
 }
