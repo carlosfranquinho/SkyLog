@@ -16486,5 +16486,13 @@
   "EJU2209": {
     "origem": "Manchester, GB",
     "destino": "Lisbon, PT"
+  },
+  "VLG42HH": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Barcelona, ES"
+  },
+  "AEA7319": {
+    "origem": "Vigo, ES",
+    "destino": "Madrid, ES"
   }
 }
