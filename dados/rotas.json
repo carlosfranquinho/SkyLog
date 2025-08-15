@@ -16458,5 +16458,13 @@
   "RYR86HQ": {
     "origem": "Sevilla, ES",
     "destino": "Manchester, GB"
+  },
+  "GHNEY": {
+    "origem": "Edinburgh, GB",
+    "destino": "London, GB"
+  },
+  "RYR50GV": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Madrid, ES"
   }
 }
