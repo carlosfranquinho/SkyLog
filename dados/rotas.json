@@ -16394,5 +16394,13 @@
   "IBS15NU": {
     "origem": "Tenerife Island, ES",
     "destino": "Madrid, ES"
+  },
+  "AFR703": {
+    "origem": "Abidjan, CI",
+    "destino": "Paris, FR"
+  },
+  "RAM844X": {
+    "origem": "Casablanca, MA",
+    "destino": "Brussels, BE"
   }
 }
