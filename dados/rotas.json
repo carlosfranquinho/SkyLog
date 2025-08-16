@@ -16546,5 +16546,17 @@
   "RYR1133": {
     "origem": "Shannon, IE",
     "destino": "Nottingham, GB"
+  },
+  "RYR6943": {
+    "origem": "Vigo, ES",
+    "destino": "London, GB"
+  },
+  "EXS3676": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Bournemouth, GB"
+  },
+  "TRA76": {
+    "origem": "Groningen, NL",
+    "destino": "Amsterdam, NL"
   }
 }
