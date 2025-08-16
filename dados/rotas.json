@@ -16534,5 +16534,9 @@
   "EVE828": {
     "origem": "Santiago, CU",
     "destino": "Madrid, ES"
+  },
+  "IBE157": {
+    "origem": "Madrid, ES",
+    "destino": "Bogota, CO"
   }
 }
