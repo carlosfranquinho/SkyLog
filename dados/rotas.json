@@ -16618,5 +16618,9 @@
   "ETH553": {
     "origem": "Toronto, CA",
     "destino": "Addis Ababa, ET"
+  },
+  "ETH575": {
+    "origem": "Chicago, US",
+    "destino": "Addis Ababa, ET"
   }
 }
