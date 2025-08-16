@@ -16522,5 +16522,17 @@
   "EXS3675": {
     "origem": "Bournemouth, GB",
     "destino": "Tenerife Island, ES"
+  },
+  "CFG5ZT": {
+    "origem": "Faro, PT",
+    "destino": "Düsseldorf, DE"
+  },
+  "RUK519": {
+    "origem": "London, GB",
+    "destino": "Porto, PT"
+  },
+  "EVE828": {
+    "origem": "Santiago, CU",
+    "destino": "Madrid, ES"
   }
 }
