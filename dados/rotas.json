@@ -16606,5 +16606,17 @@
   "BEL9HA": {
     "origem": "Funchal, PT",
     "destino": "Brussels, BE"
+  },
+  "TOM80H": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "TOM8CD": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Cardiff, GB"
+  },
+  "ETH553": {
+    "origem": "Toronto, CA",
+    "destino": "Addis Ababa, ET"
   }
 }
