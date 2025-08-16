@@ -16562,5 +16562,25 @@
   "TOM24N": {
     "origem": "London, GB",
     "destino": "Gran Canaria Island, ES"
+  },
+  "VLG56PB": {
+    "origem": "Málaga, ES",
+    "destino": "London, GB"
+  },
+  "EIN78L": {
+    "origem": "Dublin, IE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "SAS7472": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Oslo, NO"
+  },
+  "UPS76": {
+    "origem": "Louisville, US",
+    "destino": "Shenzhen, CN"
+  },
+  "SAS1820": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Stockholm, SE"
   }
 }
