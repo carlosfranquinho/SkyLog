@@ -16582,5 +16582,25 @@
   "SAS1820": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Stockholm, SE"
+  },
+  "EJU1712": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Nice, FR"
+  },
+  "EWG67W": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Hamburg, DE"
+  },
+  "EZY85NG": {
+    "origem": "Liverpool, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "VLG61GU": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Barcelona, ES"
+  },
+  "RYR1EP": {
+    "origem": "Porto, PT",
+    "destino": "Lajes, PT"
   }
 }
