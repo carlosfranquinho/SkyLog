@@ -16514,5 +16514,13 @@
   "SVA038": {
     "origem": "Washington Dulles International Airport",
     "destino": "King Khaled International Airport"
+  },
+  "AEA11DF": {
+    "origem": "Culleredo, ES",
+    "destino": "Madrid, ES"
+  },
+  "EXS3675": {
+    "origem": "Bournemouth, GB",
+    "destino": "Tenerife Island, ES"
   }
 }
