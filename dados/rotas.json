@@ -16670,5 +16670,17 @@
   "AEA48TC": {
     "origem": "Madrid, ES",
     "destino": "Culleredo, ES"
+  },
+  "TCV640": {
+    "origem": "Espargos, CV",
+    "destino": "Paris, FR"
+  },
+  "FJO65K": {
+    "origem": "Nice, FR",
+    "destino": "Saint-Louis, FR"
+  },
+  "TFL30A": {
+    "origem": "Amsterdam, NL",
+    "destino": "Tenerife Island, ES"
   }
 }
