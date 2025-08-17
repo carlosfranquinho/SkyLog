@@ -16642,5 +16642,13 @@
   "IBB82QF": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Vigo, ES"
+  },
+  "TRA16M": {
+    "origem": "Málaga, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "TRA4M": {
+    "origem": "Málaga, ES",
+    "destino": "Eindhoven, NL"
   }
 }
