@@ -16622,5 +16622,9 @@
   "ETH575": {
     "origem": "Chicago, US",
     "destino": "Addis Ababa, ET"
+  },
+  "SVA036": {
+    "origem": "Washington, US",
+    "destino": "Cairo, EG"
   }
 }
