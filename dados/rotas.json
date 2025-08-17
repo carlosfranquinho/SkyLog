@@ -16630,5 +16630,17 @@
   "TUI4D": {
     "origem": "Stuttgart, DE",
     "destino": "Stuttgart, DE"
+  },
+  "ELG2R": {
+    "origem": "London, GB",
+    "destino": "London, GB"
+  },
+  "IBB28YR": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Culleredo, ES"
+  },
+  "IBB82QF": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Vigo, ES"
   }
 }
