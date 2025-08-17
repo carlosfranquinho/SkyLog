@@ -16702,5 +16702,13 @@
   "EJU45QE": {
     "origem": "Milan, IT",
     "destino": "Porto, PT"
+  },
+  "TRA0077": {
+    "origem": "Amsterdam, NL",
+    "destino": "Porto, PT"
+  },
+  "RYR756Q": {
+    "origem": "Budapest, HU",
+    "destino": "Porto, PT"
   }
 }
