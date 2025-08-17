@@ -16654,5 +16654,13 @@
   "ELY022": {
     "origem": "Fort Lauderdale, US",
     "destino": "Newark, US"
+  },
+  "FPY7455": {
+    "origem": "Faro, PT",
+    "destino": "Reykjavík, IS"
+  },
+  "TRA88G": {
+    "origem": "Rotterdam, NL",
+    "destino": "Tangier, MA"
   }
 }
