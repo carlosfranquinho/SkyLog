@@ -16682,5 +16682,13 @@
   "TFL30A": {
     "origem": "Amsterdam, NL",
     "destino": "Tenerife Island, ES"
+  },
+  "TUI66D": {
+    "origem": "Faro, PT",
+    "destino": "Stuttgart, DE"
+  },
+  "RYR8XM": {
+    "origem": "Porto, PT",
+    "destino": "Strasbourg, FR"
   }
 }
