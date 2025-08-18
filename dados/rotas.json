@@ -16770,5 +16770,17 @@
   "TOM711": {
     "origem": "Faro, PT",
     "destino": "London, GB"
+  },
+  "EJU75UB": {
+    "origem": "Marrakech, MA",
+    "destino": "Paris, FR"
+  },
+  "LGL712": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Luxembourg, LU"
+  },
+  "EXS12TY": {
+    "origem": "Funchal, PT",
+    "destino": "London, GB"
   }
 }
