@@ -16782,5 +16782,13 @@
   "EXS12TY": {
     "origem": "Funchal, PT",
     "destino": "London, GB"
+  },
+  "TRA6630": {
+    "origem": "Funchal, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "AFR84MQ": {
+    "origem": "Paris, FR",
+    "destino": "Porto, PT"
   }
 }
