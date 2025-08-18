@@ -16738,5 +16738,13 @@
   "TVF64SP": {
     "origem": "Paris, FR",
     "destino": "Marrakech, MA"
+  },
+  "TAP9253": {
+    "origem": "Lisbon, PT",
+    "destino": "Porto, PT"
+  },
+  "TOM62V": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Bristol, GB"
   }
 }
