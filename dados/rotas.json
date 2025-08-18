@@ -16746,5 +16746,13 @@
   "TOM62V": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Bristol, GB"
+  },
+  "TVF7690": {
+    "origem": "Paris-Orly Airport",
+    "destino": "Madeira Airport"
+  },
+  "TOM9MD": {
+    "origem": "Funchal, PT",
+    "destino": "Birmingham, GB"
   }
 }
