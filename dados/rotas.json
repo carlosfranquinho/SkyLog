@@ -16790,5 +16790,21 @@
   "AFR84MQ": {
     "origem": "Paris, FR",
     "destino": "Porto, PT"
+  },
+  "TOM5KV": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Birmingham, GB"
+  },
+  "RYR5BD": {
+    "origem": "Santiago de Compostela, ES",
+    "destino": "Valencia, ES"
+  },
+  "RYR17WV": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Santiago de Compostela, ES"
+  },
+  "TAP9254": {
+    "origem": "Faro, PT",
+    "destino": "Lisbon, PT"
   }
 }
