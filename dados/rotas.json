@@ -16806,5 +16806,13 @@
   "TAP9254": {
     "origem": "Faro, PT",
     "destino": "Lisbon, PT"
+  },
+  "NCR4866": {
+    "origem": "Helsinki, FI",
+    "destino": "Espargos, CV"
+  },
+  "MSR988": {
+    "origem": "Newark, US",
+    "destino": "Cairo, EG"
   }
 }
