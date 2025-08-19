@@ -16842,5 +16842,13 @@
   "TSC384": {
     "origem": "Montréal, CA",
     "destino": "Madrid, ES"
+  },
+  "TRA74U": {
+    "origem": "Málaga, ES",
+    "destino": "Rotterdam, NL"
+  },
+  "ETH3725": {
+    "origem": "Liège, BE",
+    "destino": "Addis Ababa, ET"
   }
 }
