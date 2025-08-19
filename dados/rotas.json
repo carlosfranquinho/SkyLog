@@ -16834,5 +16834,13 @@
   "AZU8754": {
     "origem": "Campinas, BR",
     "destino": "Madrid, ES"
+  },
+  "SAS97N": {
+    "origem": "Faro, PT",
+    "destino": "Stockholm, SE"
+  },
+  "TSC384": {
+    "origem": "Montréal, CA",
+    "destino": "Madrid, ES"
   }
 }
