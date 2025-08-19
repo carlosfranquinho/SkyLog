@@ -16870,5 +16870,17 @@
   "RYR88KU": {
     "origem": "Marrakech, MA",
     "destino": "Brussels, BE"
+  },
+  "TRA6493": {
+    "origem": "Amsterdam, NL",
+    "destino": "Agadir, MA"
+  },
+  "EXS4ND": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "RYR32GC": {
+    "origem": "Marrakech, MA",
+    "destino": "Cologne, DE"
   }
 }
