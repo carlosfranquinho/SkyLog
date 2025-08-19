@@ -16854,5 +16854,17 @@
   "VJT405": {
     "origem": "Nice, FR",
     "destino": "Lisbon, PT"
+  },
+  "OCN1PJ": {
+    "origem": "Munich, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TOM8ED": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Nottingham, GB"
+  },
+  "RAM850W": {
+    "origem": "Casablanca, MA",
+    "destino": "Amsterdam, NL"
   }
 }
