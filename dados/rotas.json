@@ -16850,5 +16850,9 @@
   "ETH3725": {
     "origem": "Liège, BE",
     "destino": "Addis Ababa, ET"
+  },
+  "VJT405": {
+    "origem": "Nice, FR",
+    "destino": "Lisbon, PT"
   }
 }
