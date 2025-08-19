@@ -16914,5 +16914,13 @@
   "LGL32PT": {
     "origem": "Porto, PT",
     "destino": "Luxembourg, LU"
+  },
+  "CXI5UB": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Cologne, DE"
+  },
+  "MAC112X": {
+    "origem": "Brussels, BE",
+    "destino": "Casablanca, MA"
   }
 }
