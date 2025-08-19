@@ -16906,5 +16906,13 @@
   "SWR1LG": {
     "origem": "Faro, PT",
     "destino": "Geneva, CH"
+  },
+  "EJU92XP": {
+    "origem": "Agadir, MA",
+    "destino": "Paris, FR"
+  },
+  "LGL32PT": {
+    "origem": "Porto, PT",
+    "destino": "Luxembourg, LU"
   }
 }
