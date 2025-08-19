@@ -16922,5 +16922,9 @@
   "MAC112X": {
     "origem": "Brussels, BE",
     "destino": "Casablanca, MA"
+  },
+  "MSR996": {
+    "origem": "Toronto, CA",
+    "destino": "Cairo, EG"
   }
 }
