@@ -16826,5 +16826,13 @@
   "IBE0043": {
     "origem": "Funchal, PT",
     "destino": "Vila Baleira, PT"
+  },
+  "TSC1174": {
+    "origem": "Montréal, CA",
+    "destino": "Porto, PT"
+  },
+  "AZU8754": {
+    "origem": "Campinas, BR",
+    "destino": "Madrid, ES"
   }
 }
