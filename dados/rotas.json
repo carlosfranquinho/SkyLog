@@ -16822,5 +16822,9 @@
   "UAL236": {
     "origem": "Newark, US",
     "destino": "Palma De Mallorca, ES"
+  },
+  "IBE0043": {
+    "origem": "Funchal, PT",
+    "destino": "Vila Baleira, PT"
   }
 }
