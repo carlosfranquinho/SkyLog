@@ -16882,5 +16882,21 @@
   "RYR32GC": {
     "origem": "Marrakech, MA",
     "destino": "Cologne, DE"
+  },
+  "EFW22D": {
+    "origem": "London, GB",
+    "destino": "Sevilla, ES"
+  },
+  "RAM1642": {
+    "origem": "Tangier, MA",
+    "destino": "Brussels, BE"
+  },
+  "EWG3CW": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Málaga, ES"
+  },
+  "IBB533Y": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Madrid, ES"
   }
 }
