@@ -16958,5 +16958,13 @@
   "TVF86NP": {
     "origem": "Porto, PT",
     "destino": "Paris, FR"
+  },
+  "IBE0035": {
+    "origem": "Madrid, ES",
+    "destino": "Ponta Delgada, PT"
+  },
+  "ANE2549": {
+    "origem": "Vigo, ES",
+    "destino": "Lanzarote Island, ES"
   }
 }
