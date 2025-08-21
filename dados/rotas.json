@@ -17006,5 +17006,17 @@
   "EIN581": {
     "origem": "Málaga, ES",
     "destino": "Dublin, IE"
+  },
+  "TVF7644": {
+    "origem": "Porto, PT",
+    "destino": "Lisbon, PT"
+  },
+  "RYR8090": {
+    "origem": "Bergamo, IT",
+    "destino": "Pescara, IT"
+  },
+  "EZY14EZ": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Liverpool, GB"
   }
 }
