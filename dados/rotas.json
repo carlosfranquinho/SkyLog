@@ -16970,5 +16970,9 @@
   "ETH509": {
     "origem": "Newark, US",
     "destino": "Addis Ababa, ET"
+  },
+  "TVF730": {
+    "origem": "Paris, FR",
+    "destino": "Paris, FR"
   }
 }
