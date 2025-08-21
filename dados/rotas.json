@@ -16974,5 +16974,13 @@
   "TVF730": {
     "origem": "Paris, FR",
     "destino": "Paris, FR"
+  },
+  "RYR604M": {
+    "origem": "Vienna, AT",
+    "destino": "Tenerife Island, ES"
+  },
+  "TAP2210": {
+    "origem": "Lisbon, PT",
+    "destino": "Barcelona, ES"
   }
 }
