@@ -16986,5 +16986,13 @@
   "VLG962": {
     "origem": "Ibiza, ES",
     "destino": "Alicante, ES"
+  },
+  "AAL9600": {
+    "origem": "Barcelona, ES",
+    "destino": "Miami, US"
+  },
+  "UAE36K": {
+    "origem": "Newark, US",
+    "destino": "Dubai, AE"
   }
 }
