@@ -16994,5 +16994,17 @@
   "UAE36K": {
     "origem": "Newark, US",
     "destino": "Dubai, AE"
+  },
+  "IBE8221": {
+    "origem": "Logroño, ES",
+    "destino": "Madrid, ES"
+  },
+  "TAP2211": {
+    "origem": "Barcelona, ES",
+    "destino": "Lisbon, PT"
+  },
+  "EIN581": {
+    "origem": "Málaga, ES",
+    "destino": "Dublin, IE"
   }
 }
