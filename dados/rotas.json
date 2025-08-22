@@ -17038,5 +17038,13 @@
   "FJO64J": {
     "origem": "Bangor, US",
     "destino": "Teterboro, US"
+  },
+  "IBB80ME": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "TFL4641": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
   }
 }
