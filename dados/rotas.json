@@ -17074,5 +17074,13 @@
   "AAL742": {
     "origem": "Philadelphia, US",
     "destino": "Barcelona, ES"
+  },
+  "AAL192": {
+    "origem": "Dallas-Fort Worth, US",
+    "destino": "Barcelona, ES"
+  },
+  "AAL52": {
+    "origem": "Miami, US",
+    "destino": "Rome, IT"
   }
 }
