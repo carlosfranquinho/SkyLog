@@ -17146,5 +17146,13 @@
   "DLH511D": {
     "origem": "Ministro Pistarini International Airport",
     "destino": "Frankfurt am Main Airport"
+  },
+  "SAS2902": {
+    "origem": "Funchal, PT",
+    "destino": "Stockholm, SE"
+  },
+  "NSZ8PV": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Copenhagen, DK"
   }
 }
