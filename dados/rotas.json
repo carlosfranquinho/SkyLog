@@ -17162,5 +17162,17 @@
   "TOM4TB": {
     "origem": "Tenerife Island, ES",
     "destino": "London, GB"
+  },
+  "EXS17FS": {
+    "origem": "Funchal, PT",
+    "destino": "London, GB"
+  },
+  "AAL66": {
+    "origem": "New York, US",
+    "destino": "Barcelona, ES"
+  },
+  "THY184": {
+    "origem": "Istanbul, TR",
+    "destino": "Istanbul, TR"
   }
 }
