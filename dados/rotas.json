@@ -17094,5 +17094,13 @@
   "MMD1182": {
     "origem": "Copenhagen, DK",
     "destino": "Faro, PT"
+  },
+  "SAS1819": {
+    "origem": "Stockholm, SE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "THY99D": {
+    "origem": "Miami, US",
+    "destino": "Istanbul, TR"
   }
 }
