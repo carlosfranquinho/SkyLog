@@ -17070,5 +17070,9 @@
   "DAL128": {
     "origem": "New York, US",
     "destino": "Barcelona, ES"
+  },
+  "AAL742": {
+    "origem": "Philadelphia, US",
+    "destino": "Barcelona, ES"
   }
 }
