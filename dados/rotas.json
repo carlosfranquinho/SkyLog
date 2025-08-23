@@ -17110,5 +17110,21 @@
   "AFR757": {
     "origem": "Paris, FR",
     "destino": "Calvi/Sainte-Catherine, FR"
+  },
+  "TVF68DU": {
+    "origem": "Paris, FR",
+    "destino": "Marrakech, MA"
+  },
+  "VJH784": {
+    "origem": "Granada, ES",
+    "destino": "Sevilla, ES"
+  },
+  "MMD6277": {
+    "origem": "Faro, PT",
+    "destino": "Bristol, GB"
+  },
+  "RYR2KZ": {
+    "origem": "Málaga, ES",
+    "destino": "Belfast, GB"
   }
 }
