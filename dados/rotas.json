@@ -17154,5 +17154,13 @@
   "NSZ8PV": {
     "origem": "Tenerife Island, ES",
     "destino": "Copenhagen, DK"
+  },
+  "IBS1629": {
+    "origem": "Madrid, ES",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TOM4TB": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
   }
 }
