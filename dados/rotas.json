@@ -17102,5 +17102,13 @@
   "THY99D": {
     "origem": "Miami, US",
     "destino": "Istanbul, TR"
+  },
+  "ANE89GE": {
+    "origem": "Vigo, ES",
+    "destino": "Madrid, ES"
+  },
+  "AFR757": {
+    "origem": "Paris, FR",
+    "destino": "Calvi/Sainte-Catherine, FR"
   }
 }
