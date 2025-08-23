@@ -17082,5 +17082,13 @@
   "AAL52": {
     "origem": "Miami, US",
     "destino": "Rome, IT"
+  },
+  "RYR684": {
+    "origem": "Manchester, GB",
+    "destino": "Beauvais/Tillé, FR"
+  },
+  "DAL168": {
+    "origem": "New York, US",
+    "destino": "Barcelona, ES"
   }
 }
