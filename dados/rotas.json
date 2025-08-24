@@ -17190,5 +17190,25 @@
   "UAE2564": {
     "origem": "Lisbon, PT",
     "destino": "Dubai, AE"
+  },
+  "EXS18DW": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Leeds, GB"
+  },
+  "PGT028": {
+    "origem": "Istanbul, TR",
+    "destino": "Lisbon, PT"
+  },
+  "NOS736": {
+    "origem": "Milan, IT",
+    "destino": "La Romana, DO"
+  },
+  "TOM3DK": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "AAL715": {
+    "origem": "Venezia, IT",
+    "destino": "Philadelphia, US"
   }
 }
