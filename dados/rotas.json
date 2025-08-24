@@ -17178,5 +17178,17 @@
   "AAL780": {
     "origem": "Philadelphia, US",
     "destino": "Napoli, IT"
+  },
+  "IBE2603": {
+    "origem": "Barcelona, ES",
+    "destino": "Buenos Aires, AR"
+  },
+  "EXS8750": {
+    "origem": "Manchester, GB",
+    "destino": "Faro, PT"
+  },
+  "UAE2564": {
+    "origem": "Lisbon, PT",
+    "destino": "Dubai, AE"
   }
 }
