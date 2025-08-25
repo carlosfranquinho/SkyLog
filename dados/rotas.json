@@ -17314,5 +17314,25 @@
   "EXS529": {
     "origem": "Newcastle, GB",
     "destino": "Funchal, PT"
+  },
+  "TAP9256": {
+    "origem": "Lisbon, PT",
+    "destino": "Porto, PT"
+  },
+  "EXS1AT": {
+    "origem": "Newcastle, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EZY38EC": {
+    "origem": "Manchester, GB",
+    "destino": "Funchal, PT"
+  },
+  "TOM92T": {
+    "origem": "Manchester, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR91EX": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Vienna, AT"
   }
 }
