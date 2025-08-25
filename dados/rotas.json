@@ -17270,5 +17270,17 @@
   "FWI40C": {
     "origem": "Paris, FR",
     "destino": "Pointe-à-Pitre Le Raizet, GP"
+  },
+  "WJA67": {
+    "origem": "Barcelona, ES",
+    "destino": "Halifax, CA"
+  },
+  "EXS041A": {
+    "origem": "Birmingham, GB",
+    "destino": "Belfast, GB"
+  },
+  "EXS042A": {
+    "origem": "Athens, GR",
+    "destino": "Manchester, GB"
   }
 }
