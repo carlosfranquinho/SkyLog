@@ -17282,5 +17282,17 @@
   "EXS042A": {
     "origem": "Athens, GR",
     "destino": "Manchester, GB"
+  },
+  "CFG7CX": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "NBT50E": {
+    "origem": "Athens, GR",
+    "destino": "New York, US"
+  },
+  "DLH510D": {
+    "origem": "Frankfurt am Main Airport",
+    "destino": "Ministro Pistarini International Airport"
   }
 }
