@@ -17258,5 +17258,17 @@
   "EZY2471": {
     "origem": "London, GB",
     "destino": "Funchal, PT"
+  },
+  "KLM743": {
+    "origem": "Amsterdam, NL",
+    "destino": "Lima, PE"
+  },
+  "AFR27QU": {
+    "origem": "Casablanca, MA",
+    "destino": "Paris, FR"
+  },
+  "FWI40C": {
+    "origem": "Paris, FR",
+    "destino": "Pointe-à-Pitre Le Raizet, GP"
   }
 }
