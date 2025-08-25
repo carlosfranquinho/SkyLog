@@ -17294,5 +17294,13 @@
   "DLH510D": {
     "origem": "Frankfurt am Main Airport",
     "destino": "Ministro Pistarini International Airport"
+  },
+  "CLX6221": {
+    "origem": "Luxembourg, LU",
+    "destino": "Campinas, BR"
+  },
+  "EXS914D": {
+    "origem": "London, GB",
+    "destino": "Funchal, PT"
   }
 }
