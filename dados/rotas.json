@@ -17338,5 +17338,9 @@
   "TAP9257": {
     "origem": "Porto, PT",
     "destino": "Lisbon, PT"
+  },
+  "QTR8157": {
+    "origem": "Liège, BE",
+    "destino": "São Paulo, BR"
   }
 }
