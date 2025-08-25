@@ -17242,5 +17242,13 @@
   "EXS52U": {
     "origem": "London, GB",
     "destino": "Funchal, PT"
+  },
+  "EXS52EN": {
+    "origem": "Manchester, GB",
+    "destino": "Funchal, PT"
+  },
+  "TOM1BX": {
+    "origem": "Manchester, GB",
+    "destino": "Gran Canaria Island, ES"
   }
 }
