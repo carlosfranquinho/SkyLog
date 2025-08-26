@@ -17354,5 +17354,13 @@
   "ITY608": {
     "origem": "Rome, IT",
     "destino": "New York, US"
+  },
+  "ITY618": {
+    "origem": "Rome, IT",
+    "destino": "Washington, US"
+  },
+  "RYR43ZQ": {
+    "origem": "Manchester, GB",
+    "destino": "Funchal, PT"
   }
 }
