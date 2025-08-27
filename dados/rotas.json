@@ -17390,5 +17390,9 @@
   "EJU3782": {
     "origem": "Venice Marco Polo Airport",
     "destino": "Charles de Gaulle International Airport"
+  },
+  "AFR593": {
+    "origem": "Conakry, GN",
+    "destino": "Paris, FR"
   }
 }
