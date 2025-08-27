@@ -17402,5 +17402,9 @@
   "TAP9258": {
     "origem": "Lisbon, PT",
     "destino": "Paris, FR"
+  },
+  "EZY8527": {
+    "origem": "London, GB",
+    "destino": "Porto, PT"
   }
 }
