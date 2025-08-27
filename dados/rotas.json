@@ -17430,5 +17430,9 @@
   "AEA190": {
     "origem": "Bogota, CO",
     "destino": "Madrid, ES"
+  },
+  "TAP2271": {
+    "origem": "Prague, CZ",
+    "destino": "Lisbon, PT"
   }
 }
