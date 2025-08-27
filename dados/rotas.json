@@ -17406,5 +17406,13 @@
   "EZY8527": {
     "origem": "London, GB",
     "destino": "Porto, PT"
+  },
+  "EZY85PT": {
+    "origem": "Funchal, PT",
+    "destino": "London, GB"
+  },
+  "AAL9604": {
+    "origem": "Barcelona, ES",
+    "destino": "Miami, US"
   }
 }
