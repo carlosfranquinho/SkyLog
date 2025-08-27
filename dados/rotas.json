@@ -17414,5 +17414,9 @@
   "AAL9604": {
     "origem": "Barcelona, ES",
     "destino": "Miami, US"
+  },
+  "RAM832B": {
+    "origem": "Casablanca, MA",
+    "destino": "Brussels, BE"
   }
 }
