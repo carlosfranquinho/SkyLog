@@ -17422,5 +17422,13 @@
   "TAP9259": {
     "origem": "Paris, FR",
     "destino": "Lisbon, PT"
+  },
+  "TVF34SP": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
+  },
+  "AEA190": {
+    "origem": "Bogota, CO",
+    "destino": "Madrid, ES"
   }
 }
