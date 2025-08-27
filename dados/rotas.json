@@ -17434,5 +17434,9 @@
   "TAP2271": {
     "origem": "Prague, CZ",
     "destino": "Lisbon, PT"
+  },
+  "TRA18V": {
+    "origem": "Faro, PT",
+    "destino": "Brussels, BE"
   }
 }
