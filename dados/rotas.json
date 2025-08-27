@@ -17418,5 +17418,9 @@
   "RAM832B": {
     "origem": "Casablanca, MA",
     "destino": "Brussels, BE"
+  },
+  "TAP9259": {
+    "origem": "Paris, FR",
+    "destino": "Lisbon, PT"
   }
 }
