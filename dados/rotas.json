@@ -17450,5 +17450,13 @@
   "EXS99SU": {
     "origem": "Lanzarote Island, ES",
     "destino": "Manchester, GB"
+  },
+  "EXS4NJ": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Newcastle, GB"
+  },
+  "TVF7672": {
+    "origem": "Paris, FR",
+    "destino": "Faro, PT"
   }
 }
