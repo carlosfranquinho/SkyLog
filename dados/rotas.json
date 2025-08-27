@@ -17398,5 +17398,9 @@
   "TAP9749": {
     "origem": "Lisbon, PT",
     "destino": "Paris, FR"
+  },
+  "TAP9258": {
+    "origem": "Lisbon, PT",
+    "destino": "Paris, FR"
   }
 }
