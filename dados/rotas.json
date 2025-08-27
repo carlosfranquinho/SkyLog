@@ -17438,5 +17438,13 @@
   "TRA18V": {
     "origem": "Faro, PT",
     "destino": "Brussels, BE"
+  },
+  "TAP9260": {
+    "origem": "Paris, FR",
+    "destino": "Lisbon, PT"
+  },
+  "TOM93T": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Manchester, GB"
   }
 }
