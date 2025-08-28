@@ -17510,5 +17510,9 @@
   "EIN58K": {
     "origem": "Málaga, ES",
     "destino": "Dublin, IE"
+  },
+  "NOS430": {
+    "origem": "Milan, IT",
+    "destino": "Cancún, MX"
   }
 }
