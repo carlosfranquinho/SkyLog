@@ -17482,5 +17482,25 @@
   "AAL325": {
     "origem": "Athens, GR",
     "destino": "Charlotte, US"
+  },
+  "CRL870": {
+    "origem": "Paris, FR",
+    "destino": "Paris, FR"
+  },
+  "EZS51TU": {
+    "origem": "Saint-Louis, FR",
+    "destino": "Lanzarote Island, ES"
+  },
+  "ANE49QE": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "León, ES"
+  },
+  "TUI252": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Agadir, MA"
+  },
+  "TVS4146": {
+    "origem": "Prague, CZ",
+    "destino": "Espargos, CV"
   }
 }
