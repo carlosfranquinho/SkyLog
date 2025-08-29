@@ -17530,5 +17530,17 @@
   "TRA36L": {
     "origem": "Heraklion, GR",
     "destino": "Rotterdam, NL"
+  },
+  "RYR4PB": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "London, GB"
+  },
+  "BEL3815": {
+    "origem": "Brussels, BE",
+    "destino": "Lisbon, PT"
+  },
+  "BEL3811": {
+    "origem": "Brussels, BE",
+    "destino": "Porto, PT"
   }
 }
