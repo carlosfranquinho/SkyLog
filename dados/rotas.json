@@ -17542,5 +17542,13 @@
   "BEL3811": {
     "origem": "Brussels, BE",
     "destino": "Porto, PT"
+  },
+  "TRA52U": {
+    "origem": "Amsterdam, NL",
+    "destino": "Marrakech, MA"
+  },
+  "TAP9750": {
+    "origem": "Paris, FR",
+    "destino": "Lisbon, PT"
   }
 }
