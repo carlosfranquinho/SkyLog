@@ -17518,5 +17518,17 @@
   "EXS23UE": {
     "origem": "Tenerife Island, ES",
     "destino": "Manchester, GB"
+  },
+  "BEL3801": {
+    "origem": "Brussels, BE",
+    "destino": "Faro, PT"
+  },
+  "EIN58Y": {
+    "origem": "Dublin, IE",
+    "destino": "Málaga, ES"
+  },
+  "TRA36L": {
+    "origem": "Heraklion, GR",
+    "destino": "Rotterdam, NL"
   }
 }
