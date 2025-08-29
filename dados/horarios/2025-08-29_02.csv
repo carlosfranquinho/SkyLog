@@ -1,0 +1,4 @@
+timestamp,hex,flight,alt_baro,gs,track,lat,lon,seen,squawk,category
+2025-08-29T02:00:00.500000,aa9bbf,,37000,,,,,35.9,,
+2025-08-29T02:01:01.300000,aa9bbf,,,,,,,0.9,,
+2025-08-29T02:02:00.700000,aa9bbf,,37000,,,,,2.5,,
