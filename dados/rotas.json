@@ -17554,5 +17554,9 @@
   "TAM9455": {
     "origem": "Montevideo, UY",
     "destino": "São Paulo, BR"
+  },
+  "TAP2704": {
+    "origem": "Lisbon, PT",
+    "destino": "Paris, FR"
   }
 }
