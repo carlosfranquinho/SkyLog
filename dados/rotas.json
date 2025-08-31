@@ -17618,5 +17618,9 @@
   "VOE3GA": {
     "origem": "Faro, PT",
     "destino": "Lyon, FR"
+  },
+  "IBS1542": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Madrid, ES"
   }
 }
