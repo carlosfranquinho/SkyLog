@@ -17622,5 +17622,9 @@
   "IBS1542": {
     "origem": "Tenerife Island, ES",
     "destino": "Madrid, ES"
+  },
+  "ANE1162": {
+    "origem": "Faro, PT",
+    "destino": "Madrid, ES"
   }
 }
