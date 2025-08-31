@@ -17642,5 +17642,13 @@
   "EXS87HG": {
     "origem": "Manchester, GB",
     "destino": "Málaga, ES"
+  },
+  "TRA30R": {
+    "origem": "Faro, PT",
+    "destino": "Rotterdam, NL"
+  },
+  "RYR759A": {
+    "origem": "Weeze, DE",
+    "destino": "Marrakech, MA"
   }
 }
