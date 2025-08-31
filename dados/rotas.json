@@ -17630,5 +17630,13 @@
   "N444WT": {
     "origem": "San Diego, US",
     "destino": "Salt Lake City, US"
+  },
+  "TRA28M": {
+    "origem": "Rotterdam, NL",
+    "destino": "Málaga, ES"
+  },
+  "TRA6117": {
+    "origem": "Amsterdam, NL",
+    "destino": "Málaga, ES"
   }
 }
