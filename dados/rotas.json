@@ -17602,5 +17602,13 @@
   "RYR3PW": {
     "origem": "Funchal, PT",
     "destino": "London, GB"
+  },
+  "UAL164": {
+    "origem": "Newark, US",
+    "destino": "Dubai, AE"
+  },
+  "RYR387": {
+    "origem": "Lisbon, PT",
+    "destino": "Funchal, PT"
   }
 }
