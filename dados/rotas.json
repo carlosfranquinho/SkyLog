@@ -17610,5 +17610,13 @@
   "RYR387": {
     "origem": "Lisbon, PT",
     "destino": "Funchal, PT"
+  },
+  "TRA7A": {
+    "origem": "Rotterdam, NL",
+    "destino": "Faro, PT"
+  },
+  "VOE3GA": {
+    "origem": "Faro, PT",
+    "destino": "Lyon, FR"
   }
 }
