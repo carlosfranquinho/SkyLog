@@ -17654,5 +17654,13 @@
   "VLG91VV": {
     "origem": "Vigo, ES",
     "destino": "Barcelona, ES"
+  },
+  "EXS34PX": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Newcastle, GB"
+  },
+  "TOM70V": {
+    "origem": "Manchester Airport",
+    "destino": "Rovaniemi Airport"
   }
 }
