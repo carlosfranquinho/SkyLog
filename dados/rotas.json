@@ -17674,5 +17674,13 @@
   "UAL982": {
     "origem": "Washington, US",
     "destino": "Athens, GR"
+  },
+  "UAL422": {
+    "origem": "Chicago, US",
+    "destino": "Athens, GR"
+  },
+  "EJU67RU": {
+    "origem": "Faro, PT",
+    "destino": "Bristol, GB"
   }
 }
