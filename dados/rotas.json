@@ -17662,5 +17662,13 @@
   "TOM70V": {
     "origem": "Manchester Airport",
     "destino": "Rovaniemi Airport"
+  },
+  "EXS4LE": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Leeds, GB"
+  },
+  "TOM8BH": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Birmingham, GB"
   }
 }
