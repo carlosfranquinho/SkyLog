@@ -17702,5 +17702,13 @@
   "AMQ148": {
     "origem": "Katowice, PL",
     "destino": "Fuerteventura Island, ES"
+  },
+  "N889LS": {
+    "origem": "Las Vegas, US",
+    "destino": "Anchorage, US"
+  },
+  "EJU78CB": {
+    "origem": "Bristol, GB",
+    "destino": "Faro, PT"
   }
 }
