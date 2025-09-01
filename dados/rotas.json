@@ -17718,5 +17718,17 @@
   "AFR736": {
     "origem": "Paris, FR",
     "destino": "Paris, FR"
+  },
+  "LOT6529": {
+    "origem": "Warsaw, PL",
+    "destino": "Faro, PT"
+  },
+  "BEL23D": {
+    "origem": "Brussels, BE",
+    "destino": "Banjul, GM"
+  },
+  "RAM665Z": {
+    "origem": "Paris, FR",
+    "destino": "Agadir, MA"
   }
 }
