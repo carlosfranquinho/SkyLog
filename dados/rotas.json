@@ -17710,5 +17710,13 @@
   "EJU78CB": {
     "origem": "Bristol, GB",
     "destino": "Faro, PT"
+  },
+  "IBS1609": {
+    "origem": "Madrid, ES",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "AFR736": {
+    "origem": "Paris, FR",
+    "destino": "Paris, FR"
   }
 }
