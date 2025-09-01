@@ -17746,5 +17746,13 @@
   "IBS1532": {
     "origem": "Sta Cruz de la Palma, La Palma Island, ES",
     "destino": "Madrid, ES"
+  },
+  "EJU54KP": {
+    "origem": "Lisbon, PT",
+    "destino": "Bristol, GB"
+  },
+  "TOM62G": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Manchester, GB"
   }
 }
