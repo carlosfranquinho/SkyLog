@@ -17694,5 +17694,13 @@
   "IBS1565": {
     "origem": "Madrid, ES",
     "destino": "Tenerife Island, ES"
+  },
+  "CND129": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "AMQ148": {
+    "origem": "Katowice, PL",
+    "destino": "Fuerteventura Island, ES"
   }
 }
