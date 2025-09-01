@@ -17682,5 +17682,17 @@
   "EJU67RU": {
     "origem": "Faro, PT",
     "destino": "Bristol, GB"
+  },
+  "AFR65YJ": {
+    "origem": "Paris, FR",
+    "destino": "Marrakech, MA"
+  },
+  "TVF27LE": {
+    "origem": "Paris, FR",
+    "destino": "Ouarzazate, MA"
+  },
+  "IBS1565": {
+    "origem": "Madrid, ES",
+    "destino": "Tenerife Island, ES"
   }
 }
