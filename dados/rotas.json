@@ -17798,5 +17798,13 @@
   "EJU46NW": {
     "origem": "Lisbon, PT",
     "destino": "Milan, IT"
+  },
+  "UAL84": {
+    "origem": "Newark, US",
+    "destino": "Tel Aviv, IL"
+  },
+  "UAL124": {
+    "origem": "Newark, US",
+    "destino": "Athens, GR"
   }
 }
