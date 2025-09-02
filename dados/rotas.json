@@ -17814,5 +17814,13 @@
   "EZY17BY": {
     "origem": "London, GB",
     "destino": "Marrakech, MA"
+  },
+  "EZY14YN": {
+    "origem": "Marrakech, MA",
+    "destino": "London, GB"
+  },
+  "TAP1136": {
+    "origem": "Lisbon, PT",
+    "destino": "Málaga, ES"
   }
 }
