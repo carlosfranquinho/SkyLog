@@ -17822,5 +17822,9 @@
   "TAP1136": {
     "origem": "Lisbon, PT",
     "destino": "Málaga, ES"
+  },
+  "TFL1575": {
+    "origem": "Amsterdam, NL",
+    "destino": "Lanzarote Island, ES"
   }
 }
