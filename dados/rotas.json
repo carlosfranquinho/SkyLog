@@ -17834,5 +17834,9 @@
   "EZS13KT": {
     "origem": "Fuerteventura Island, ES",
     "destino": "Saint-Louis, FR"
+  },
+  "TAP9263": {
+    "origem": "Barcelona, ES",
+    "destino": "Lisbon, PT"
   }
 }
