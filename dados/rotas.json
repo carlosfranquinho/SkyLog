@@ -17894,5 +17894,13 @@
   "RYR75BR": {
     "origem": "Shannon, IE",
     "destino": "Málaga, ES"
+  },
+  "ANE10NZ": {
+    "origem": "Madrid, ES",
+    "destino": "Santiago de Compostela, ES"
+  },
+  "RYR8578": {
+    "origem": "Málaga, ES",
+    "destino": "Dublin, IE"
   }
 }
