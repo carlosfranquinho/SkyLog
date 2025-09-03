@@ -17874,5 +17874,13 @@
   "EJU7506": {
     "origem": "Belfast, GB",
     "destino": "Faro, PT"
+  },
+  "EJU32XD": {
+    "origem": "Faro, PT",
+    "destino": "Lyon, FR"
+  },
+  "EJU57TY": {
+    "origem": "Faro, PT",
+    "destino": "Saint-Louis, FR"
   }
 }
