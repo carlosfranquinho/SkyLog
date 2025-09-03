@@ -17850,5 +17850,13 @@
   "EJU7505": {
     "origem": "Faro, PT",
     "destino": "Belfast, GB"
+  },
+  "TAP1102": {
+    "origem": "Lisbon, PT",
+    "destino": "Sevilla, ES"
+  },
+  "VJT981": {
+    "origem": "Teterboro, US",
+    "destino": "Nice, FR"
   }
 }
