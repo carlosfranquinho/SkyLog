@@ -17862,5 +17862,17 @@
   "SWW2X": {
     "origem": "Geneva, CH",
     "destino": "Paris, FR"
+  },
+  "EJU9926": {
+    "origem": "Toulouse-Blagnac Airport",
+    "destino": "Paris-Orly Airport"
+  },
+  "RYR60FB": {
+    "origem": "Málaga, ES",
+    "destino": "London, GB"
+  },
+  "EJU7506": {
+    "origem": "Belfast, GB",
+    "destino": "Faro, PT"
   }
 }
