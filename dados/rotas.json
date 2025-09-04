@@ -17910,5 +17910,9 @@
   "FHY928": {
     "origem": "Oslo, NO",
     "destino": "Istanbul, TR"
+  },
+  "TFL1603": {
+    "origem": "Amsterdam, NL",
+    "destino": "Fuerteventura Island, ES"
   }
 }
