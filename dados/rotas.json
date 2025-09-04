@@ -17918,5 +17918,21 @@
   "EJU83PL": {
     "origem": "Nantes, FR",
     "destino": "Lisbon, PT"
+  },
+  "RYR78LD": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Milan, IT"
+  },
+  "EJU14GR": {
+    "origem": "Lisbon, PT",
+    "destino": "Nantes, FR"
+  },
+  "EJU7649": {
+    "origem": "Lisbon, PT",
+    "destino": "Geneva, CH"
+  },
+  "RYR2012": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Madrid, ES"
   }
 }
