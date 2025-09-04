@@ -17966,5 +17966,17 @@
   "EJU7602": {
     "origem": "Paris, FR",
     "destino": "Lisbon, PT"
+  },
+  "JAF964P": {
+    "origem": "Lisbon, PT",
+    "destino": "Ostend, BE"
+  },
+  "AEA145": {
+    "origem": "Madrid, ES",
+    "destino": "Montevideo, UY"
+  },
+  "AMX022D": {
+    "origem": "Madrid, ES",
+    "destino": "Mexico City, MX"
   }
 }
