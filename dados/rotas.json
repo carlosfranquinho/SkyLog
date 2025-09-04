@@ -17946,5 +17946,9 @@
   "EJU7601": {
     "origem": "Lisbon, PT",
     "destino": "Paris, FR"
+  },
+  "EJU7650": {
+    "origem": "Geneva, CH",
+    "destino": "Lisbon, PT"
   }
 }
