@@ -18022,5 +18022,9 @@
   "CND545": {
     "origem": "Amsterdam, NL",
     "destino": "Gran Canaria Island, ES"
+  },
+  "TFL94Y": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Amsterdam, NL"
   }
 }
