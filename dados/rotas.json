@@ -17978,5 +17978,9 @@
   "AMX022D": {
     "origem": "Madrid, ES",
     "destino": "Mexico City, MX"
+  },
+  "TAP34CC": {
+    "origem": "Lisbon, PT",
+    "destino": "Málaga, ES"
   }
 }
