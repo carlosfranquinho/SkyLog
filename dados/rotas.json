@@ -18114,5 +18114,17 @@
   "NOZ9YF": {
     "origem": "Málaga, ES",
     "destino": "Trondheim, NO"
+  },
+  "RYR184": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Faro, PT"
+  },
+  "VOE3501": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Bilbao, ES"
+  },
+  "TAP1692": {
+    "origem": "Funchal, PT",
+    "destino": "Lisbon, PT"
   }
 }
