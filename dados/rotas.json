@@ -18074,5 +18074,25 @@
   "ICE572": {
     "origem": "Reykjavík, IS",
     "destino": "Souda, GR"
+  },
+  "LOT1426": {
+    "origem": "Lisbon, PT",
+    "destino": "Warsaw, PL"
+  },
+  "CFE467": {
+    "origem": "Faro, PT",
+    "destino": "Saint Peter Port, GG"
+  },
+  "AFR869": {
+    "origem": "Lisbon, PT",
+    "destino": "Paris, FR"
+  },
+  "BTI4NB": {
+    "origem": "Riga, LV",
+    "destino": "Bordeaux, FR"
+  },
+  "EJU65UQ": {
+    "origem": "Berlin, DE",
+    "destino": "Fuerteventura Island, ES"
   }
 }
