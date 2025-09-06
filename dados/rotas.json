@@ -18070,5 +18070,9 @@
   "TAP11SV": {
     "origem": "Sevilla, ES",
     "destino": "Lisbon, PT"
+  },
+  "ICE572": {
+    "origem": "Reykjavík, IS",
+    "destino": "Souda, GR"
   }
 }
