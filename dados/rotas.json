@@ -18042,5 +18042,17 @@
   "EJU1905": {
     "origem": "Bordeaux, FR",
     "destino": "Marrakech, MA"
+  },
+  "EJU4343": {
+    "origem": "Lyon, FR",
+    "destino": "Calvi/Sainte-Catherine, FR"
+  },
+  "EZS79DG": {
+    "origem": "Geneva, CH",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "BCS926": {
+    "origem": "Brussels, BE",
+    "destino": "Diass, SN"
   }
 }
