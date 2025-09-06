@@ -18062,5 +18062,13 @@
   "CXI52SB": {
     "origem": "Düsseldorf, DE",
     "destino": "Fuerteventura Island, ES"
+  },
+  "TAP68JP": {
+    "origem": "Funchal, PT",
+    "destino": "Lisbon, PT"
+  },
+  "TAP11SV": {
+    "origem": "Sevilla, ES",
+    "destino": "Lisbon, PT"
   }
 }
