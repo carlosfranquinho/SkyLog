@@ -18126,5 +18126,21 @@
   "TAP1692": {
     "origem": "Funchal, PT",
     "destino": "Lisbon, PT"
+  },
+  "RYR6CG": {
+    "origem": "Marrakech, MA",
+    "destino": "Lisbon, PT"
+  },
+  "VCV730": {
+    "origem": "Caracas, VE",
+    "destino": "Tehran, IR"
+  },
+  "TAP64M": {
+    "origem": "Ponta Delgada, PT",
+    "destino": "Lisbon, PT"
+  },
+  "EIN889": {
+    "origem": "Málaga, ES",
+    "destino": "Cork, IE"
   }
 }
