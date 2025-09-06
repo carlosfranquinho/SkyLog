@@ -18098,5 +18098,13 @@
   "TAP3479": {
     "origem": "Milan, IT",
     "destino": "Lisbon, PT"
+  },
+  "BTI2TU": {
+    "origem": "Bordeaux, FR",
+    "destino": "Riga, LV"
+  },
+  "TAP9265": {
+    "origem": "Manchester, GB",
+    "destino": "Lisbon, PT"
   }
 }
