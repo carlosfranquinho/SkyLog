@@ -18238,5 +18238,17 @@
   "EIN588": {
     "origem": "Dublin, IE",
     "destino": "Málaga, ES"
+  },
+  "TVF7695": {
+    "origem": "Funchal, PT",
+    "destino": "Paris, FR"
+  },
+  "VLG33KE": {
+    "origem": "London, GB",
+    "destino": "Málaga, ES"
+  },
+  "EJU7620": {
+    "origem": "Nantes, FR",
+    "destino": "Lisbon, PT"
   }
 }
