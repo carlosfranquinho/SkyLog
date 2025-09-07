@@ -18206,5 +18206,9 @@
   "PVG3985": {
     "origem": "Lisbon, PT",
     "destino": "Oslo, NO"
+  },
+  "VLG2PG": {
+    "origem": "Sevilla, ES",
+    "destino": "London, GB"
   }
 }
