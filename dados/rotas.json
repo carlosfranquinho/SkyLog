@@ -18214,5 +18214,21 @@
   "EJU7619": {
     "origem": "Lisbon, PT",
     "destino": "Nantes, FR"
+  },
+  "RUK21YL": {
+    "origem": "London, GB",
+    "destino": "Tangier, MA"
+  },
+  "EJU35WY": {
+    "origem": "Leeds, GB",
+    "destino": "Málaga, ES"
+  },
+  "EZY53LM": {
+    "origem": "Sevilla, ES",
+    "destino": "London, GB"
+  },
+  "RYR63LD": {
+    "origem": "Birmingham, GB",
+    "destino": "Sevilla, ES"
   }
 }
