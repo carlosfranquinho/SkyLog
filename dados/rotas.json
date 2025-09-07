@@ -18158,5 +18158,9 @@
   "EJU7503": {
     "origem": "Faro, PT",
     "destino": "Glasgow, GB"
+  },
+  "AFR705": {
+    "origem": "Abidjan, CI",
+    "destino": "Paris, FR"
   }
 }
