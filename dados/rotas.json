@@ -18150,5 +18150,13 @@
   "VLG321D": {
     "origem": "Madrid, ES",
     "destino": "Tenerife Island, ES"
+  },
+  "TAP1550": {
+    "origem": "Espargos, CV",
+    "destino": "Lisbon, PT"
+  },
+  "EJU7503": {
+    "origem": "Faro, PT",
+    "destino": "Glasgow, GB"
   }
 }
