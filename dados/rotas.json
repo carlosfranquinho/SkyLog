@@ -18142,5 +18142,13 @@
   "EIN889": {
     "origem": "Málaga, ES",
     "destino": "Cork, IE"
+  },
+  "VOE2031": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Lyon, FR"
+  },
+  "VLG321D": {
+    "origem": "Madrid, ES",
+    "destino": "Tenerife Island, ES"
   }
 }
