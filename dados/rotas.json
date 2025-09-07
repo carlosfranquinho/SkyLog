@@ -18186,5 +18186,21 @@
   "RYR6701": {
     "origem": "Edinburgh, GB",
     "destino": "Luqa, MT"
+  },
+  "RAM788H": {
+    "origem": "Casablanca, MA",
+    "destino": "Paris, FR"
+  },
+  "CFG2FA": {
+    "origem": "Munich, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "SAZ52": {
+    "origem": "Nice, FR",
+    "destino": "Venezia, IT"
+  },
+  "VLG64QA": {
+    "origem": "Barcelona, ES",
+    "destino": "Tenerife Island, ES"
   }
 }
