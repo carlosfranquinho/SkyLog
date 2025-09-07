@@ -18174,5 +18174,13 @@
   "TOM2TB": {
     "origem": "Málaga, ES",
     "destino": "Nottingham, GB"
+  },
+  "EJU7504": {
+    "origem": "Glasgow, GB",
+    "destino": "Faro, PT"
+  },
+  "RYR7183": {
+    "origem": "Cork, IE",
+    "destino": "Lisbon, PT"
   }
 }
