@@ -18286,5 +18286,9 @@
   "NOS9147": {
     "origem": "Tel Aviv, IL",
     "destino": "Lisbon, PT"
+  },
+  "NOS9148": {
+    "origem": "Lisbon, PT",
+    "destino": "Tel Aviv, IL"
   }
 }
