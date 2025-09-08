@@ -18254,5 +18254,9 @@
   "VLG1AD": {
     "origem": "London, GB",
     "destino": "Sevilla, ES"
+  },
+  "VLG33SD": {
+    "origem": "Santiago de Compostela, ES",
+    "destino": "Palma De Mallorca, ES"
   }
 }
