@@ -18258,5 +18258,13 @@
   "VLG33SD": {
     "origem": "Santiago de Compostela, ES",
     "destino": "Palma De Mallorca, ES"
+  },
+  "NJE326G": {
+    "origem": "Nice, FR",
+    "destino": "Zürich, CH"
+  },
+  "RYR8008": {
+    "origem": "Aberdeen, GB",
+    "destino": "Málaga, ES"
   }
 }
