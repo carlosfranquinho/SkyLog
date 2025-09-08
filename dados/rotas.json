@@ -18290,5 +18290,13 @@
   "NOS9148": {
     "origem": "Lisbon, PT",
     "destino": "Tel Aviv, IL"
+  },
+  "EXS4A": {
+    "origem": "Alicante, ES",
+    "destino": "Nottingham, GB"
+  },
+  "TOM92D": {
+    "origem": "Málaga, ES",
+    "destino": "Manchester, GB"
   }
 }
