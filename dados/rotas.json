@@ -18274,5 +18274,13 @@
   "RUK57LV": {
     "origem": "Agadir, MA",
     "destino": "Manchester, GB"
+  },
+  "WUK5731": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "CND122": {
+    "origem": "Ibiza, ES",
+    "destino": "Amsterdam, NL"
   }
 }
