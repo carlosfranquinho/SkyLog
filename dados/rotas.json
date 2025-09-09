@@ -18318,5 +18318,17 @@
   "BAW248": {
     "origem": "Buenos Aires, AR",
     "destino": "London, GB"
+  },
+  "EZS65FB": {
+    "origem": "Saint-Louis, FR",
+    "destino": "Agadir, MA"
+  },
+  "EJU92PX": {
+    "origem": "Lyon, FR",
+    "destino": "Agadir, MA"
+  },
+  "EZS18FK": {
+    "origem": "Geneva, CH",
+    "destino": "Agadir, MA"
   }
 }
