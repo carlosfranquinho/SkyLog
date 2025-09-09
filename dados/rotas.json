@@ -18406,5 +18406,9 @@
   "DLH9873": {
     "origem": "Cologne Bonn Airport",
     "destino": "Frankfurt am Main Airport"
+  },
+  "MCELT": {
+    "origem": "Nice, FR",
+    "destino": "Faro, PT"
   }
 }
