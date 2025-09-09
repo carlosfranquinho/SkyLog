@@ -18342,5 +18342,9 @@
   "FLI7052": {
     "origem": "Copenhagen, DK",
     "destino": "Fuerteventura Island, ES"
+  },
+  "TAP9269": {
+    "origem": "Porto, PT",
+    "destino": "Lisbon, PT"
   }
 }
