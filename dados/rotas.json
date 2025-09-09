@@ -18374,5 +18374,9 @@
   "EXS048A": {
     "origem": "Glasgow, GB",
     "destino": "Leeds, GB"
+  },
+  "SWR4LY": {
+    "origem": "Lisbon, PT",
+    "destino": "Zürich, CH"
   }
 }
