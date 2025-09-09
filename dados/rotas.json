@@ -18378,5 +18378,13 @@
   "SWR4LY": {
     "origem": "Lisbon, PT",
     "destino": "Zürich, CH"
+  },
+  "EVE183P": {
+    "origem": "Barcelona, ES",
+    "destino": "Punta Cana, DO"
+  },
+  "DLH9854": {
+    "origem": "Munich Airport",
+    "destino": "Frankfurt am Main Airport"
   }
 }
