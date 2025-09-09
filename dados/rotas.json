@@ -18410,5 +18410,9 @@
   "MCELT": {
     "origem": "Nice, FR",
     "destino": "Faro, PT"
+  },
+  "FWI41D": {
+    "origem": "Pointe-à-Pitre Le Raizet, GP",
+    "destino": "Paris, FR"
   }
 }
