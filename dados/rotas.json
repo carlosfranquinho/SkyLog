@@ -18386,5 +18386,13 @@
   "DLH9854": {
     "origem": "Munich Airport",
     "destino": "Frankfurt am Main Airport"
+  },
+  "RYR56GG": {
+    "origem": "Madrid, ES",
+    "destino": "Marrakech, MA"
+  },
+  "PUE471": {
+    "origem": "Madrid, ES",
+    "destino": "Havana, CU"
   }
 }
