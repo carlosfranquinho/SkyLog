@@ -18398,5 +18398,13 @@
   "RAM811D": {
     "origem": "Frankfurt-am-Main, DE",
     "destino": "Casablanca, MA"
+  },
+  "BTI2GA": {
+    "origem": "Tampere / Pirkkala, FI",
+    "destino": "Málaga, ES"
+  },
+  "DLH9873": {
+    "origem": "Cologne Bonn Airport",
+    "destino": "Frankfurt am Main Airport"
   }
 }
