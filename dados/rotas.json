@@ -18310,5 +18310,13 @@
   "TOM801": {
     "origem": "Espargos, CV",
     "destino": "Newcastle, GB"
+  },
+  "FWI11B": {
+    "origem": "Fort-de-France, MQ",
+    "destino": "Paris, FR"
+  },
+  "BAW248": {
+    "origem": "Buenos Aires, AR",
+    "destino": "London, GB"
   }
 }
