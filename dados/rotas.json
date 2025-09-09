@@ -18346,5 +18346,21 @@
   "TAP9269": {
     "origem": "Porto, PT",
     "destino": "Lisbon, PT"
+  },
+  "VLG45PP": {
+    "origem": "Barcelona, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "FJO51Z": {
+    "origem": "Bournemouth, GB",
+    "destino": "Dublin, IE"
+  },
+  "N178QS": {
+    "origem": "San Francisco, US",
+    "destino": "Honolulu, US"
+  },
+  "BEL2KZ": {
+    "origem": "Monrovia, LR",
+    "destino": "Brussels, BE"
   }
 }
