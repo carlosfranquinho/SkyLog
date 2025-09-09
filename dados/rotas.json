@@ -18366,5 +18366,13 @@
   "TOM44B": {
     "origem": "Tenerife Island, ES",
     "destino": "Newcastle, GB"
+  },
+  "WMT9061": {
+    "origem": "Milan, IT",
+    "destino": "Tenerife Island, ES"
+  },
+  "EXS048A": {
+    "origem": "Glasgow, GB",
+    "destino": "Leeds, GB"
   }
 }
