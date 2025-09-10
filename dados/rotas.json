@@ -18506,5 +18506,13 @@
   "TRA5750": {
     "origem": "Casablanca, MA",
     "destino": "Amsterdam, NL"
+  },
+  "TAP9270": {
+    "origem": "Lisbon, PT",
+    "destino": "Porto, PT"
+  },
+  "LBT6847": {
+    "origem": "Lisbon, PT",
+    "destino": "Djerba, TN"
   }
 }
