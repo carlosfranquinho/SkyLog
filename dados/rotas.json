@@ -18474,5 +18474,13 @@
   "TAP2543": {
     "origem": "Lisbon, PT",
     "destino": "Rio De Janeiro, BR"
+  },
+  "IBB50HY": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Zaragoza, ES"
+  },
+  "IBS1509": {
+    "origem": "Madrid, ES",
+    "destino": "Lanzarote Island, ES"
   }
 }
