@@ -18482,5 +18482,13 @@
   "IBS1509": {
     "origem": "Madrid, ES",
     "destino": "Lanzarote Island, ES"
+  },
+  "EDC122R": {
+    "origem": "Birmingham, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EZY8053": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
   }
 }
