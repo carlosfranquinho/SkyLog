@@ -18414,5 +18414,9 @@
   "FWI41D": {
     "origem": "Pointe-à-Pitre Le Raizet, GP",
     "destino": "Paris, FR"
+  },
+  "TAP3481": {
+    "origem": "Porto, PT",
+    "destino": "Lisbon, PT"
   }
 }
