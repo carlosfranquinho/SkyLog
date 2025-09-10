@@ -18490,5 +18490,17 @@
   "EZY8053": {
     "origem": "London, GB",
     "destino": "Tenerife Island, ES"
+  },
+  "EDW117M": {
+    "origem": "Agadir, MA",
+    "destino": "Zürich, CH"
+  },
+  "CFG8KW": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Munich, DE"
+  },
+  "NOS3812": {
+    "origem": "Espargos, CV",
+    "destino": "Milan, IT"
   }
 }
