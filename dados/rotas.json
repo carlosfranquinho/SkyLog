@@ -18426,5 +18426,25 @@
   "CFG7DV": {
     "origem": "Leipzig, DE",
     "destino": "Kerkyra Island, GR"
+  },
+  "TOM5323": {
+    "origem": "Málaga, ES",
+    "destino": "London, GB"
+  },
+  "VLG81EF": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Bilbao, ES"
+  },
+  "FPO723": {
+    "origem": "Paris, FR",
+    "destino": "Funchal, PT"
+  },
+  "AAL771": {
+    "origem": "Rome, IT",
+    "destino": "Philadelphia, US"
+  },
+  "EDW229F": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Zürich, CH"
   }
 }
