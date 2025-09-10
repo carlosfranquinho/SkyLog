@@ -18458,5 +18458,21 @@
   "ACA821": {
     "origem": "Barcelona, ES",
     "destino": "Toronto, CA"
+  },
+  "ANE3134": {
+    "origem": "Porto, PT",
+    "destino": "Lanzarote Island, ES"
+  },
+  "MBU7ZT": {
+    "origem": "Leipzig, DE",
+    "destino": "Faro, PT"
+  },
+  "RYR3FZ": {
+    "origem": "Faro, PT",
+    "destino": "Nürnberg, DE"
+  },
+  "TAP2543": {
+    "origem": "Lisbon, PT",
+    "destino": "Rio De Janeiro, BR"
   }
 }
