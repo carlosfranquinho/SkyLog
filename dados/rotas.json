@@ -18522,5 +18522,13 @@
   "UAL736": {
     "origem": "Palermo, IT",
     "destino": "Newark, US"
+  },
+  "AFR711": {
+    "origem": "Diass, SN",
+    "destino": "Paris, FR"
+  },
+  "RYR6116": {
+    "origem": "Madrid, ES",
+    "destino": "Essaouira, MA"
   }
 }
