@@ -18538,5 +18538,17 @@
   "AAL235": {
     "origem": "Rome, IT",
     "destino": "New York, US"
+  },
+  "RAM636": {
+    "origem": "Marrakech, MA",
+    "destino": "Brussels, BE"
+  },
+  "N247GT": {
+    "origem": "Saint Helier, JE",
+    "destino": "Southampton, GB"
+  },
+  "TFL4PW": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Amsterdam, NL"
   }
 }
