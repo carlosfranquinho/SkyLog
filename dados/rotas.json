@@ -18530,5 +18530,13 @@
   "RYR6116": {
     "origem": "Madrid, ES",
     "destino": "Essaouira, MA"
+  },
+  "AAL719": {
+    "origem": "Rome, IT",
+    "destino": "Philadelphia, US"
+  },
+  "AAL235": {
+    "origem": "Rome, IT",
+    "destino": "New York, US"
   }
 }
