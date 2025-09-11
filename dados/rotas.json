@@ -18550,5 +18550,13 @@
   "TFL4PW": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Amsterdam, NL"
+  },
+  "TOM4AE": {
+    "origem": "Glasgow, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "AUA956T": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Vienna, AT"
   }
 }
