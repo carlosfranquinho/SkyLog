@@ -18578,5 +18578,13 @@
   "NJE742A": {
     "origem": "Paris, FR",
     "destino": "London, GB"
+  },
+  "EVE456": {
+    "origem": "Lima, PE",
+    "destino": "Madrid, ES"
+  },
+  "TOM71E": {
+    "origem": "Funchal, PT",
+    "destino": "Birmingham, GB"
   }
 }
