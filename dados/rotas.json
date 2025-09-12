@@ -18586,5 +18586,9 @@
   "TOM71E": {
     "origem": "Funchal, PT",
     "destino": "Birmingham, GB"
+  },
+  "TAP109": {
+    "origem": "Lisbon, PT",
+    "destino": "Florianópolis, BR"
   }
 }
