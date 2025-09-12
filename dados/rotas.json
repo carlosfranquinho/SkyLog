@@ -18598,5 +18598,9 @@
   "AAL9781": {
     "origem": "Los Angeles, US",
     "destino": "Dallas-Fort Worth, US"
+  },
+  "TAP9240": {
+    "origem": "Amsterdam, NL",
+    "destino": "Lisbon, PT"
   }
 }
