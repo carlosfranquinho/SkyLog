@@ -18658,5 +18658,25 @@
   "RYR63KJ": {
     "origem": "Fuerteventura Island, ES",
     "destino": "Manchester, GB"
+  },
+  "RYR37DN": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Newcastle, GB"
+  },
+  "MNB1547": {
+    "origem": "Zaragoza, ES",
+    "destino": "New York, US"
+  },
+  "LBT6149": {
+    "origem": "Lisbon, PT",
+    "destino": "Djerba, TN"
+  },
+  "TAP1907": {
+    "origem": "Lisbon, PT",
+    "destino": "Faro, PT"
+  },
+  "RYR8YB": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "London, GB"
   }
 }
