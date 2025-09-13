@@ -18618,5 +18618,29 @@
   "VLG3980": {
     "origem": "Palma De Mallorca, ES",
     "destino": "Santiago de Compostela, ES"
+  },
+  "IBS1546": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "CFG6KE": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Munich, DE"
+  },
+  "TVF37VF": {
+    "origem": "Tangier, MA",
+    "destino": "Paris, FR"
+  },
+  "TUI2148": {
+    "origem": "Hannover, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "SWT960P": {
+    "origem": "Cologne, DE",
+    "destino": "Umeå, SE"
+  },
+  "LCO3616": {
+    "origem": "Brussels, BE",
+    "destino": "Quito, EC"
   }
 }
