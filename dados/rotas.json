@@ -18642,5 +18642,13 @@
   "LCO3616": {
     "origem": "Brussels, BE",
     "destino": "Quito, EC"
+  },
+  "VLG2TY": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Santiago de Compostela, ES"
+  },
+  "VLG9NX": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Paris, FR"
   }
 }
