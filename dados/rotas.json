@@ -18606,5 +18606,13 @@
   "RYR9144": {
     "origem": "Faro, PT",
     "destino": "London, GB"
+  },
+  "DCSEB": {
+    "origem": "Vienna, AT",
+    "destino": "Salzburg, AT"
+  },
+  "DBETI": {
+    "origem": "Boston, US",
+    "destino": "Dallas, US"
   }
 }
