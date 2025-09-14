@@ -18798,5 +18798,17 @@
   "ANE8179": {
     "origem": "Tetouan, MA",
     "destino": "Málaga, ES"
+  },
+  "EJU7604": {
+    "origem": "Lyon, FR",
+    "destino": "Lisbon, PT"
+  },
+  "TOM11X": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Birmingham, GB"
+  },
+  "TAP289": {
+    "origem": "Lisbon, PT",
+    "destino": "Luanda, AO"
   }
 }
