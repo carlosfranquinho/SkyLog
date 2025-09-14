@@ -18694,5 +18694,21 @@
   "TAP1436": {
     "origem": "Lisbon, PT",
     "destino": "Casablanca, MA"
+  },
+  "LAN720": {
+    "origem": "Rio De Janeiro, BR",
+    "destino": "Santiago, CL"
+  },
+  "KLM195": {
+    "origem": "Amsterdam, NL",
+    "destino": "Zandery, SR"
+  },
+  "EJU65RA": {
+    "origem": "Bordeaux, FR",
+    "destino": "Porto, PT"
+  },
+  "N16HA": {
+    "origem": "San Jose, US",
+    "destino": "Bozeman, US"
   }
 }
