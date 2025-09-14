@@ -18770,5 +18770,17 @@
   "EJU7603": {
     "origem": "Lisbon, PT",
     "destino": "Lyon, FR"
+  },
+  "RYR4VQ": {
+    "origem": "Berlin, DE",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "VLG4FY": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Santiago de Compostela, ES"
+  },
+  "VOE3PA": {
+    "origem": "Bilbao, ES",
+    "destino": "Porto, PT"
   }
 }
