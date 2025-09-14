@@ -18766,5 +18766,9 @@
   "EJU52AL": {
     "origem": "Bordeaux, FR",
     "destino": "Porto, PT"
+  },
+  "EJU7603": {
+    "origem": "Lisbon, PT",
+    "destino": "Lyon, FR"
   }
 }
