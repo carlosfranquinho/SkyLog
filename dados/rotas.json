@@ -18730,5 +18730,17 @@
   "TVF91VP": {
     "origem": "Sevilla, ES",
     "destino": "Paris, FR"
+  },
+  "RYR56AA": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Birmingham, GB"
+  },
+  "TVF79ML": {
+    "origem": "Marrakech, MA",
+    "destino": "Paris, FR"
+  },
+  "N318HS": {
+    "origem": "Amsterdam, NL",
+    "destino": "Rotterdam, NL"
   }
 }
