@@ -18710,5 +18710,17 @@
   "N16HA": {
     "origem": "San Jose, US",
     "destino": "Bozeman, US"
+  },
+  "DCS402": {
+    "origem": "London, GB",
+    "destino": "London, GB"
+  },
+  "ACA929": {
+    "origem": "Porto, PT",
+    "destino": "Montréal, CA"
+  },
+  "AFR17GK": {
+    "origem": "Marrakech, MA",
+    "destino": "Paris, FR"
   }
 }
