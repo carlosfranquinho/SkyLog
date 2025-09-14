@@ -18682,5 +18682,17 @@
   "RZO141": {
     "origem": "Lisbon, PT",
     "destino": "Pico Island, PT"
+  },
+  "EXS425": {
+    "origem": "Leeds, GB",
+    "destino": "Funchal, PT"
+  },
+  "PJZ037": {
+    "origem": "Nice, FR",
+    "destino": "Zürich, CH"
+  },
+  "TAP1436": {
+    "origem": "Lisbon, PT",
+    "destino": "Casablanca, MA"
   }
 }
