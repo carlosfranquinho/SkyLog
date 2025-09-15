@@ -18882,5 +18882,25 @@
   "RYR304": {
     "origem": "London, GB",
     "destino": "Salzburg, AT"
+  },
+  "VOE8RY": {
+    "origem": "Lyon, FR",
+    "destino": "Porto, PT"
+  },
+  "EXS218": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Leeds, GB"
+  },
+  "ANE8110": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Ibiza, ES"
+  },
+  "DAL169": {
+    "origem": "Barcelona, ES",
+    "destino": "New York, US"
+  },
+  "DAL113": {
+    "origem": "Rome, IT",
+    "destino": "Boston, US"
   }
 }
