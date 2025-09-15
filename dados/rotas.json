@@ -18906,5 +18906,21 @@
   "EZY54FN": {
     "origem": "Tenerife Island, ES",
     "destino": "Manchester, GB"
+  },
+  "RAM750P": {
+    "origem": "Casablanca, MA",
+    "destino": "Paris, FR"
+  },
+  "VOE2728": {
+    "origem": "Nantes, FR",
+    "destino": "Lisbon, PT"
+  },
+  "TAP233": {
+    "origem": "Lisbon, PT",
+    "destino": "Washington, US"
+  },
+  "EXS5D": {
+    "origem": "Manchester, GB",
+    "destino": "Lanzarote Island, ES"
   }
 }
