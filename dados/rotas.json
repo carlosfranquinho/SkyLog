@@ -18866,5 +18866,21 @@
   "AFR512": {
     "origem": "Paris, FR",
     "destino": "Rio De Janeiro, BR"
+  },
+  "DAL195": {
+    "origem": "Barcelona, ES",
+    "destino": "Atlanta, US"
+  },
+  "DAL183": {
+    "origem": "Rome, IT",
+    "destino": "New York, US"
+  },
+  "VCJ96E": {
+    "origem": "Zürich, CH",
+    "destino": "Riga, LV"
+  },
+  "RYR304": {
+    "origem": "London, GB",
+    "destino": "Salzburg, AT"
   }
 }
