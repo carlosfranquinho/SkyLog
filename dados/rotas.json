@@ -18922,5 +18922,21 @@
   "EXS5D": {
     "origem": "Manchester, GB",
     "destino": "Lanzarote Island, ES"
+  },
+  "IBB9901": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Valladolid, ES"
+  },
+  "N575BG": {
+    "origem": "Teterboro, US",
+    "destino": "Miami, US"
+  },
+  "VOE6QR": {
+    "origem": "Lisbon, PT",
+    "destino": "Nantes, FR"
+  },
+  "AEE6155": {
+    "origem": "Souda, GR",
+    "destino": "Heraklion, GR"
   }
 }
