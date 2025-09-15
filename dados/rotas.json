@@ -18842,5 +18842,21 @@
   "DTA651": {
     "origem": "Lisbon, PT",
     "destino": "Luanda, AO"
+  },
+  "TOM9EG": {
+    "origem": "Birmingham, GB",
+    "destino": "Funchal, PT"
+  },
+  "IBB69FC": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Culleredo, ES"
+  },
+  "DAL245": {
+    "origem": "Catania, IT",
+    "destino": "New York, US"
+  },
+  "TAP103": {
+    "origem": "Lisbon, PT",
+    "destino": "Belo Horizonte, BR"
   }
 }
