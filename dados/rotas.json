@@ -18858,5 +18858,13 @@
   "TAP103": {
     "origem": "Lisbon, PT",
     "destino": "Belo Horizonte, BR"
+  },
+  "EJU75UK": {
+    "origem": "Lisbon, PT",
+    "destino": "Milan, IT"
+  },
+  "AFR512": {
+    "origem": "Paris, FR",
+    "destino": "Rio De Janeiro, BR"
   }
 }
