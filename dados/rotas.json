@@ -18810,5 +18810,9 @@
   "TAP289": {
     "origem": "Lisbon, PT",
     "destino": "Luanda, AO"
+  },
+  "TAP9011": {
+    "origem": "Lisbon, PT",
+    "destino": "Oujda, MA"
   }
 }
