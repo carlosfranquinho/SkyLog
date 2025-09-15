@@ -18818,5 +18818,29 @@
   "VLG2TH": {
     "origem": "Santiago de Compostela, ES",
     "destino": "Tenerife Island, ES"
+  },
+  "RYR9QM": {
+    "origem": "London, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EJU3879": {
+    "origem": "Milan, IT",
+    "destino": "Lisbon, PT"
+  },
+  "DAL129": {
+    "origem": "Barcelona, ES",
+    "destino": "New York, US"
+  },
+  "TOM8194": {
+    "origem": "Stuttgart Airport",
+    "destino": "Don Miguel Hidalgo Y Costilla International Airport"
+  },
+  "DAL271": {
+    "origem": "Barcelona, ES",
+    "destino": "Atlanta, US"
+  },
+  "DTA651": {
+    "origem": "Lisbon, PT",
+    "destino": "Luanda, AO"
   }
 }
