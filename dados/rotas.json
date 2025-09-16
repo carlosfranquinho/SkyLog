@@ -18994,5 +18994,9 @@
   "TAP117": {
     "origem": "Lisbon, PT",
     "destino": "Porto Alegre, BR"
+  },
+  "LPE2495": {
+    "origem": "Madrid, ES",
+    "destino": "Lima, PE"
   }
 }
