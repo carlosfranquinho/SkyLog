@@ -18966,5 +18966,13 @@
   "IBB37TC": {
     "origem": "Tenerife Island, ES",
     "destino": "Vigo, ES"
+  },
+  "ITY602": {
+    "origem": "Rome, IT",
+    "destino": "New York, US"
+  },
+  "N142QS": {
+    "origem": "Amsterdam, NL",
+    "destino": "Barcelona, ES"
   }
 }
