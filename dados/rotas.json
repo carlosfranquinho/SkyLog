@@ -18958,5 +18958,13 @@
   "TOM5AJ": {
     "origem": "Lanzarote Island, ES",
     "destino": "Manchester, GB"
+  },
+  "TAP9242": {
+    "origem": "Lisbon, PT",
+    "destino": "Porto, PT"
+  },
+  "IBB37TC": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Vigo, ES"
   }
 }
