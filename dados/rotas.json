@@ -18998,5 +18998,13 @@
   "LPE2495": {
     "origem": "Madrid, ES",
     "destino": "Lima, PE"
+  },
+  "EIN708": {
+    "origem": "Dublin, IE",
+    "destino": "Marrakech, MA"
+  },
+  "TAP9243": {
+    "origem": "Lisbon, PT",
+    "destino": "Porto, PT"
   }
 }
