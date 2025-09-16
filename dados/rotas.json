@@ -19010,5 +19010,13 @@
   "VJH727": {
     "origem": "Nice, FR",
     "destino": "London, GB"
+  },
+  "EIN709": {
+    "origem": "Marrakech, MA",
+    "destino": "Dublin, IE"
+  },
+  "RJA268": {
+    "origem": "Detroit, US",
+    "destino": "Amman, JO"
   }
 }
