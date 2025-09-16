@@ -18978,5 +18978,13 @@
   "UAL282": {
     "origem": "Faro, PT",
     "destino": "Newark, US"
+  },
+  "RZO371": {
+    "origem": "Porto, PT",
+    "destino": "Toronto, CA"
+  },
+  "TAP1104": {
+    "origem": "Lisbon, PT",
+    "destino": "Sevilla, ES"
   }
 }
