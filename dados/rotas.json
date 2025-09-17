@@ -19082,5 +19082,17 @@
   "EXS15Q": {
     "origem": "Fuerteventura Island, ES",
     "destino": "Bournemouth, GB"
+  },
+  "TOM5EW": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Birmingham, GB"
+  },
+  "AHY4012": {
+    "origem": "Tel Aviv, IL",
+    "destino": "Baku, AZ"
+  },
+  "RAM7622": {
+    "origem": "Dakhla, EH",
+    "destino": "Paris, FR"
   }
 }
