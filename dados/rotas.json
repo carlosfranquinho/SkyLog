@@ -19054,5 +19054,13 @@
   "RAM800F": {
     "origem": "Casablanca, MA",
     "destino": "London, GB"
+  },
+  "TAP1532": {
+    "origem": "São Tomé, ST",
+    "destino": "Lisbon, PT"
+  },
+  "TAP1137": {
+    "origem": "Málaga, ES",
+    "destino": "Lisbon, PT"
   }
 }
