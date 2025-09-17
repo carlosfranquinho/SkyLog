@@ -19034,5 +19034,21 @@
   "VKG1784": {
     "origem": "Stockholm, SE",
     "destino": "Gran Canaria Island, ES"
+  },
+  "VLG2658": {
+    "origem": "Málaga, ES",
+    "destino": "Santiago de Compostela, ES"
+  },
+  "RYR43XZ": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Liverpool, GB"
+  },
+  "N558BD": {
+    "origem": "Tampa, US",
+    "destino": "Albany, US"
+  },
+  "ACA811": {
+    "origem": "Lisbon, PT",
+    "destino": "Toronto, CA"
   }
 }
