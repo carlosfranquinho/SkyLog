@@ -19110,5 +19110,21 @@
   "MBU9304": {
     "origem": "Hannover, DE",
     "destino": "Faro, PT"
+  },
+  "N40NS": {
+    "origem": "Teterboro, US",
+    "destino": "London, GB"
+  },
+  "CAT501": {
+    "origem": "Prague, CZ",
+    "destino": "Funchal, PT"
+  },
+  "RYR9626": {
+    "origem": "Poznań, PL",
+    "destino": "Tel Aviv, IL"
+  },
+  "AAL259": {
+    "origem": "Lisbon, PT",
+    "destino": "Philadelphia, US"
   }
 }
