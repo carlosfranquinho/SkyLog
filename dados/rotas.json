@@ -19174,5 +19174,9 @@
   "TAP91SR": {
     "origem": "Lisbon, PT",
     "destino": "Funchal, PT"
+  },
+  "TFL1649": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
   }
 }
