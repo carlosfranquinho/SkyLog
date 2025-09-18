@@ -19182,5 +19182,21 @@
   "MMD6376": {
     "origem": "Stockholm, SE",
     "destino": "Stockholm, SE"
+  },
+  "TOM6TM": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Bournemouth, GB"
+  },
+  "EXS33P": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Bristol, GB"
+  },
+  "EXS1854": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Bristol, GB"
+  },
+  "EXS3202": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Liverpool, GB"
   }
 }
