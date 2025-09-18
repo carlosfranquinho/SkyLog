@@ -19126,5 +19126,13 @@
   "AAL259": {
     "origem": "Lisbon, PT",
     "destino": "Philadelphia, US"
+  },
+  "N121CL": {
+    "origem": "Nice, FR",
+    "destino": "London, GB"
+  },
+  "RYR4HX": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Bristol, GB"
   }
 }
