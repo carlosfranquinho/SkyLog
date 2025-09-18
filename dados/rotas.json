@@ -19166,5 +19166,13 @@
   "TVP7394": {
     "origem": "Warsaw, PL",
     "destino": "Faro, PT"
+  },
+  "TAP561": {
+    "origem": "Hannover, DE",
+    "destino": "Lisbon, PT"
+  },
+  "TAP91SR": {
+    "origem": "Lisbon, PT",
+    "destino": "Funchal, PT"
   }
 }
