@@ -19134,5 +19134,17 @@
   "RYR4HX": {
     "origem": "Lanzarote Island, ES",
     "destino": "Bristol, GB"
+  },
+  "DAL125": {
+    "origem": "Lisbon, PT",
+    "destino": "Boston, US"
+  },
+  "EXS250": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Leeds, GB"
+  },
+  "FHY916": {
+    "origem": "Copenhagen, DK",
+    "destino": "Antalya, TR"
   }
 }
