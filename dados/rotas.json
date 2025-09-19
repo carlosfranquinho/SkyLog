@@ -19214,5 +19214,17 @@
   "LVKAX": {
     "origem": "Teterboro, US",
     "destino": "Providenciales Island, TC"
+  },
+  "TWY442": {
+    "origem": "White Plains, US",
+    "destino": "Nantucket, US"
+  },
+  "PTN44U": {
+    "origem": "Vienna, AT",
+    "destino": "Bratislava, SK"
+  },
+  "TAP565": {
+    "origem": "Hamburg, DE",
+    "destino": "Lisbon, PT"
   }
 }
