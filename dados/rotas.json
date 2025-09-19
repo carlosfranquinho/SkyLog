@@ -19286,5 +19286,17 @@
   "DTA652": {
     "origem": "Luanda, AO",
     "destino": "Lisbon, PT"
+  },
+  "TVS4107": {
+    "origem": "Espargos, CV",
+    "destino": "Prague, CZ"
+  },
+  "RZO134": {
+    "origem": "Lajes, PT",
+    "destino": "Lisbon, PT"
+  },
+  "TRA2Y": {
+    "origem": "Marrakech, MA",
+    "destino": "Amsterdam, NL"
   }
 }
