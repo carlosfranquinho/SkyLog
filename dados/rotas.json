@@ -19270,5 +19270,17 @@
   "RYR8LG": {
     "origem": "Santiago de Compostela, ES",
     "destino": "Tenerife Island, ES"
+  },
+  "TAP15CV": {
+    "origem": "Espargos, CV",
+    "destino": "Lisbon, PT"
+  },
+  "EJU53UH": {
+    "origem": "Funchal, PT",
+    "destino": "Lisbon, PT"
+  },
+  "TAP1558": {
+    "origem": "São Pedro, CV",
+    "destino": "Lisbon, PT"
   }
 }
