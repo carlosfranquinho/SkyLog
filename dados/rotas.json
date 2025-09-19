@@ -19226,5 +19226,9 @@
   "TAP565": {
     "origem": "Hamburg, DE",
     "destino": "Lisbon, PT"
+  },
+  "AZU8901": {
+    "origem": "Lisbon, PT",
+    "destino": "Campinas, BR"
   }
 }
