@@ -19298,5 +19298,17 @@
   "TRA2Y": {
     "origem": "Marrakech, MA",
     "destino": "Amsterdam, NL"
+  },
+  "EZY7510": {
+    "origem": "Bristol, GB",
+    "destino": "Faro, PT"
+  },
+  "RYR779U": {
+    "origem": "Tangier, MA",
+    "destino": "Lisbon, PT"
+  },
+  "MMZ352": {
+    "origem": "Bissau, GW",
+    "destino": "Lisbon, PT"
   }
 }
