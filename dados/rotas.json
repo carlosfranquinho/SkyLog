@@ -19234,5 +19234,9 @@
   "AFR24VH": {
     "origem": "Porto, PT",
     "destino": "Paris, FR"
+  },
+  "TAP036": {
+    "origem": "Fortaleza, BR",
+    "destino": "Lisbon, PT"
   }
 }
