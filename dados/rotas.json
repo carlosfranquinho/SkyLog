@@ -19238,5 +19238,17 @@
   "TAP036": {
     "origem": "Fortaleza, BR",
     "destino": "Lisbon, PT"
+  },
+  "EJU7980": {
+    "origem": "Marrakech, MA",
+    "destino": "Amsterdam, NL"
+  },
+  "ICE1080": {
+    "origem": "Reykjavík, IS",
+    "destino": "Jerez de la Forntera, ES"
+  },
+  "RYR64JU": {
+    "origem": "Faro, PT",
+    "destino": "Kraków, PL"
   }
 }
