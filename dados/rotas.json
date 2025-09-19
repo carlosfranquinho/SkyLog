@@ -19254,5 +19254,13 @@
   "EZY7502": {
     "origem": "Manchester, GB",
     "destino": "Faro, PT"
+  },
+  "RYR7906": {
+    "origem": "Baden-Baden, DE",
+    "destino": "Faro, PT"
+  },
+  "TCV605": {
+    "origem": "Porto, PT",
+    "destino": "Espargos, CV"
   }
 }
