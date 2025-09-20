@@ -19370,5 +19370,13 @@
   "VKG4055": {
     "origem": "Phuket, TH",
     "destino": "Copenhagen, DK"
+  },
+  "TRA9034": {
+    "origem": "Málaga, ES",
+    "destino": "Brussels, BE"
+  },
+  "AFR1197": {
+    "origem": "Casablanca, MA",
+    "destino": "Paris, FR"
   }
 }
