@@ -19350,5 +19350,9 @@
   "ANE8263": {
     "origem": "Porto, PT",
     "destino": "Palma De Mallorca, ES"
+  },
+  "TAP287": {
+    "origem": "Lisbon, PT",
+    "destino": "Luanda, AO"
   }
 }
