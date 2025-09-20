@@ -19390,5 +19390,25 @@
   "TOM91K": {
     "origem": "Fuerteventura Island, ES",
     "destino": "Birmingham, GB"
+  },
+  "MSR982": {
+    "origem": "Washington, US",
+    "destino": "Cairo, EG"
+  },
+  "WMT3662": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Milan, IT"
+  },
+  "EZY32BZ": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "EZY84ET": {
+    "origem": "Málaga, ES",
+    "destino": "Manchester, GB"
+  },
+  "EXS62B": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Liverpool, GB"
   }
 }
