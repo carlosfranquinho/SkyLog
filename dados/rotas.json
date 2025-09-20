@@ -19362,5 +19362,13 @@
   "RAM806": {
     "origem": "Casablanca, MA",
     "destino": "London, GB"
+  },
+  "CLX6724": {
+    "origem": "Campinas, BR",
+    "destino": "Luxembourg, LU"
+  },
+  "VKG4055": {
+    "origem": "Phuket, TH",
+    "destino": "Copenhagen, DK"
   }
 }
