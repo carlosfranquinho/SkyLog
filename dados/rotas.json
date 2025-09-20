@@ -19378,5 +19378,17 @@
   "AFR1197": {
     "origem": "Casablanca, MA",
     "destino": "Paris, FR"
+  },
+  "RYR6211": {
+    "origem": "Faro, PT",
+    "destino": "Vienna, AT"
+  },
+  "ANE8266": {
+    "origem": "Almería, ES",
+    "destino": "Porto, PT"
+  },
+  "TOM91K": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Birmingham, GB"
   }
 }
