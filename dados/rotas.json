@@ -19522,5 +19522,13 @@
   "CMB144": {
     "origem": "Tromsø, NO",
     "destino": "Riga, LV"
+  },
+  "AVA5057": {
+    "origem": "Madrid, ES",
+    "destino": "Bogota, CO"
+  },
+  "NSZ5023": {
+    "origem": "Oslo, NO",
+    "destino": "Málaga, ES"
   }
 }
