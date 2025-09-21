@@ -19510,5 +19510,17 @@
   "CXI7X": {
     "origem": "Cologne, DE",
     "destino": "Fuerteventura Island, ES"
+  },
+  "TAP9245": {
+    "origem": "Barcelona, ES",
+    "destino": "Lisbon, PT"
+  },
+  "CRL984": {
+    "origem": "Paris, FR",
+    "destino": "Abidjan, CI"
+  },
+  "CMB144": {
+    "origem": "Tromsø, NO",
+    "destino": "Riga, LV"
   }
 }
