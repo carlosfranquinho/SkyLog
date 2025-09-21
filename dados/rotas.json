@@ -19434,5 +19434,13 @@
   "RYR1189": {
     "origem": "Fuerteventura Island, ES",
     "destino": "Santiago de Compostela, ES"
+  },
+  "QTR32M": {
+    "origem": "Miami, US",
+    "destino": "Doha, QA"
+  },
+  "EXS39BG": {
+    "origem": "Manchester, GB",
+    "destino": "Málaga, ES"
   }
 }
