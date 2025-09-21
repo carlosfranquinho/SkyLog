@@ -19530,5 +19530,13 @@
   "NSZ5023": {
     "origem": "Oslo, NO",
     "destino": "Málaga, ES"
+  },
+  "QTR710": {
+    "origem": "Washington, US",
+    "destino": "Doha, QA"
+  },
+  "QTR5R": {
+    "origem": "New York, US",
+    "destino": "Doha, QA"
   }
 }
