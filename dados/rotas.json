@@ -19482,5 +19482,13 @@
   "TUI3C": {
     "origem": "Munich, DE",
     "destino": "Gran Canaria Island, ES"
+  },
+  "TAP2625": {
+    "origem": "Newark, US",
+    "destino": "Lisbon, PT"
+  },
+  "LAN721": {
+    "origem": "Madrid, ES",
+    "destino": "São Paulo, BR"
   }
 }
