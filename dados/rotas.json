@@ -19450,5 +19450,21 @@
   "HYP011": {
     "origem": "Nice, FR",
     "destino": "Reykjavík, IS"
+  },
+  "EWG8UM": {
+    "origem": "Cologne, DE",
+    "destino": "Málaga, ES"
+  },
+  "VLG9UZ": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Barcelona, ES"
+  },
+  "EXS6XD": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "CFG7AL": {
+    "origem": "Hamburg, DE",
+    "destino": "Tenerife Island, ES"
   }
 }
