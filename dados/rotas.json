@@ -19442,5 +19442,13 @@
   "EXS39BG": {
     "origem": "Manchester, GB",
     "destino": "Málaga, ES"
+  },
+  "CNK6": {
+    "origem": "Calgary, CA",
+    "destino": "Toronto, CA"
+  },
+  "HYP011": {
+    "origem": "Nice, FR",
+    "destino": "Reykjavík, IS"
   }
 }
