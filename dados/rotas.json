@@ -19466,5 +19466,21 @@
   "CFG7AL": {
     "origem": "Hamburg, DE",
     "destino": "Tenerife Island, ES"
+  },
+  "EXS5CF": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Birmingham, GB"
+  },
+  "RAM973C": {
+    "origem": "Madrid, ES",
+    "destino": "Casablanca, MA"
+  },
+  "CFG3CE": {
+    "origem": "Munich, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TUI3C": {
+    "origem": "Munich, DE",
+    "destino": "Gran Canaria Island, ES"
   }
 }
