@@ -19490,5 +19490,25 @@
   "LAN721": {
     "origem": "Madrid, ES",
     "destino": "São Paulo, BR"
+  },
+  "EIN7DM": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Dublin, IE"
+  },
+  "ANE006": {
+    "origem": "Madrid, ES",
+    "destino": "Lisbon, PT"
+  },
+  "TAP9246": {
+    "origem": "Lisbon, PT",
+    "destino": "Porto, PT"
+  },
+  "TRA085": {
+    "origem": "Brussels, BE",
+    "destino": "Faro, PT"
+  },
+  "CXI7X": {
+    "origem": "Cologne, DE",
+    "destino": "Fuerteventura Island, ES"
   }
 }
