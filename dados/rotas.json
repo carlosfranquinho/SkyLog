@@ -19578,5 +19578,21 @@
   "TAP3480": {
     "origem": "Lisbon, PT",
     "destino": "Porto, PT"
+  },
+  "ETD6HZ": {
+    "origem": "Washington, US",
+    "destino": "Abu Dhabi, AE"
+  },
+  "NSZ21U": {
+    "origem": "Stockholm, SE",
+    "destino": "Málaga, ES"
+  },
+  "TAP9247": {
+    "origem": "Porto, PT",
+    "destino": "Lisbon, PT"
+  },
+  "ETD8NY": {
+    "origem": "New York, US",
+    "destino": "Abu Dhabi, AE"
   }
 }
