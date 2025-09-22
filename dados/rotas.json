@@ -19610,5 +19610,25 @@
   "JAF563": {
     "origem": "Brussels, BE",
     "destino": "Brussels, BE"
+  },
+  "ENT511": {
+    "origem": "Charles de Gaulle International Airport",
+    "destino": "TromsÃ¸ Airport"
+  },
+  "RYS7259": {
+    "origem": "Łódź, PL",
+    "destino": "Antalya, TR"
+  },
+  "RYR1MV": {
+    "origem": "Torp, NO",
+    "destino": "Málaga, ES"
+  },
+  "LAV975P": {
+    "origem": "Bournemouth, GB",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "RAM639M": {
+    "origem": "Paris, FR",
+    "destino": "Marrakech, MA"
   }
 }
