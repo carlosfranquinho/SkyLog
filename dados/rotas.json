@@ -19574,5 +19574,9 @@
   "TAP2626": {
     "origem": "Newark, US",
     "destino": "Porto, PT"
+  },
+  "TAP3480": {
+    "origem": "Lisbon, PT",
+    "destino": "Porto, PT"
   }
 }
