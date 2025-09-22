@@ -19562,5 +19562,13 @@
   "ETD2": {
     "origem": "New York, US",
     "destino": "Abu Dhabi, AE"
+  },
+  "ETD6PX": {
+    "origem": "Boston, US",
+    "destino": "Abu Dhabi, AE"
+  },
+  "TOM76T": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Manchester, GB"
   }
 }
