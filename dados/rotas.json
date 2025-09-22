@@ -19602,5 +19602,13 @@
   "AWC421": {
     "origem": "Sochi, RU",
     "destino": "London, GB"
+  },
+  "ENT513": {
+    "origem": "Menara Airport",
+    "destino": "Charles de Gaulle International Airport"
+  },
+  "JAF563": {
+    "origem": "Brussels, BE",
+    "destino": "Brussels, BE"
   }
 }
