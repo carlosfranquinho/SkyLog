@@ -19630,5 +19630,9 @@
   "RAM639M": {
     "origem": "Paris, FR",
     "destino": "Marrakech, MA"
+  },
+  "TAP2655": {
+    "origem": "Lisbon, PT",
+    "destino": "Maputo, MZ"
   }
 }
