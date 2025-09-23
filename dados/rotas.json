@@ -19674,5 +19674,13 @@
   "CRL927": {
     "origem": "Pointe-à-Pitre Le Raizet, GP",
     "destino": "Paris, FR"
+  },
+  "QTR5J": {
+    "origem": "Dallas-Fort Worth, US",
+    "destino": "Doha, QA"
+  },
+  "QTR31J": {
+    "origem": "Houston, US",
+    "destino": "Doha, QA"
   }
 }
