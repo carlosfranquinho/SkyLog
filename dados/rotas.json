@@ -19722,5 +19722,13 @@
   "GES401V": {
     "origem": "Marseille, FR",
     "destino": "Nice, FR"
+  },
+  "RUK9FQ": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "NOS197": {
+    "origem": "Havana, CU",
+    "destino": "Milan, IT"
   }
 }
