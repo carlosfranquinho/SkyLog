@@ -19666,5 +19666,13 @@
   "AVA5056": {
     "origem": "Bogota, CO",
     "destino": "Madrid, ES"
+  },
+  "VLG8633": {
+    "origem": "Paris, FR",
+    "destino": "Marrakech, MA"
+  },
+  "CRL927": {
+    "origem": "Pointe-à-Pitre Le Raizet, GP",
+    "destino": "Paris, FR"
   }
 }
