@@ -19706,5 +19706,9 @@
   "TRA7002": {
     "origem": "Rovaniemi Airport",
     "destino": "Frankfurt am Main Airport"
+  },
+  "OONEY": {
+    "origem": "Stockholm, SE",
+    "destino": "Brussels, BE"
   }
 }
