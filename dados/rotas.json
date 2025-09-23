@@ -19694,5 +19694,17 @@
   "TVF721": {
     "origem": "Paris, FR",
     "destino": "Paris, FR"
+  },
+  "EZS1459": {
+    "origem": "Geneva, CH",
+    "destino": "Porto, PT"
+  },
+  "OCN8TR": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Marrakech, MA"
+  },
+  "TRA7002": {
+    "origem": "Rovaniemi Airport",
+    "destino": "Frankfurt am Main Airport"
   }
 }
