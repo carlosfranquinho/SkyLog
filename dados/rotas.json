@@ -19682,5 +19682,13 @@
   "QTR31J": {
     "origem": "Houston, US",
     "destino": "Doha, QA"
+  },
+  "EIN1777": {
+    "origem": "Faro, PT",
+    "destino": "Dublin, IE"
+  },
+  "N158QS": {
+    "origem": "Valencia, ES",
+    "destino": "Luqa, MT"
   }
 }
