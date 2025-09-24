@@ -19762,5 +19762,13 @@
   "TAP209K": {
     "origem": "Lisbon, PT",
     "destino": "New York, US"
+  },
+  "NSZ4527": {
+    "origem": "Stockholm, SE",
+    "destino": "Marrakech, MA"
+  },
+  "VLG202P": {
+    "origem": "Barcelona, ES",
+    "destino": "Málaga, ES"
   }
 }
