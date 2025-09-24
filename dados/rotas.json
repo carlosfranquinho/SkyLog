@@ -19778,5 +19778,17 @@
   "GTI562": {
     "origem": "Zaragoza, ES",
     "destino": "Mexico City, MX"
+  },
+  "RYR33AA": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Bristol, GB"
+  },
+  "TOM1PT": {
+    "origem": "Nottingham, GB",
+    "destino": "Chambéry, FR"
+  },
+  "TOM6NK": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Manchester, GB"
   }
 }
