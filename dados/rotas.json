@@ -19734,5 +19734,9 @@
   "AVA011A": {
     "origem": "Madrid, ES",
     "destino": "Bogota, CO"
+  },
+  "TFL3895": {
+    "origem": "Amsterdam, NL",
+    "destino": "Amsterdam, NL"
   }
 }
