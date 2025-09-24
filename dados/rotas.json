@@ -19770,5 +19770,13 @@
   "VLG202P": {
     "origem": "Barcelona, ES",
     "destino": "Málaga, ES"
+  },
+  "AVA017A": {
+    "origem": "Madrid, ES",
+    "destino": "Rionegro, CO"
+  },
+  "GTI562": {
+    "origem": "Zaragoza, ES",
+    "destino": "Mexico City, MX"
   }
 }
