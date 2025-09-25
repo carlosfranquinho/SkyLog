@@ -19858,5 +19858,13 @@
   "HFM350P": {
     "origem": "Alicante, ES",
     "destino": "Dublin, IE"
+  },
+  "TOM11T": {
+    "origem": "Sta Cruz de la Palma, La Palma Island, ES",
+    "destino": "London, GB"
+  },
+  "RUK1JT": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Belfast, GB"
   }
 }
