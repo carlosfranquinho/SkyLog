@@ -19802,5 +19802,13 @@
   "THY6363": {
     "origem": "Istanbul, TR",
     "destino": "Istanbul, TR"
+  },
+  "QTR7B": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Doha, QA"
+  },
+  "TRA091": {
+    "origem": "Amsterdam, NL",
+    "destino": "Porto, PT"
   }
 }
