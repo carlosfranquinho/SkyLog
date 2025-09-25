@@ -19822,5 +19822,17 @@
   "QTR2J": {
     "origem": "Dallas-Fort Worth, US",
     "destino": "Doha, QA"
+  },
+  "AWC422": {
+    "origem": "Ibiza, ES",
+    "destino": "Manchester, GB"
+  },
+  "EXS65LG": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Birmingham, GB"
+  },
+  "AUA90FS": {
+    "origem": "Vienna, AT",
+    "destino": "Tenerife Island, ES"
   }
 }
