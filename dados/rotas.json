@@ -19870,5 +19870,13 @@
   "EZY8130": {
     "origem": "Faro, PT",
     "destino": "London, GB"
+  },
+  "TOM1429": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Glasgow, GB"
+  },
+  "TOM8BA": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Glasgow, GB"
   }
 }
