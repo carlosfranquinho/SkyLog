@@ -19914,5 +19914,13 @@
   "LAV931P": {
     "origem": "Trondheim, NO",
     "destino": "Palma De Mallorca, ES"
+  },
+  "JAF090P": {
+    "origem": "Brussels, BE",
+    "destino": "Hannover, DE"
+  },
+  "QTR8175": {
+    "origem": "Doha, QA",
+    "destino": "Los Angeles, US"
   }
 }
