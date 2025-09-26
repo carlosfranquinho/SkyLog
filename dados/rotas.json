@@ -19890,5 +19890,17 @@
   "TRA26W": {
     "origem": "Sevilla, ES",
     "destino": "Amsterdam, NL"
+  },
+  "RYR63PL": {
+    "origem": "Newcastle, GB",
+    "destino": "Málaga, ES"
+  },
+  "EZY98HU": {
+    "origem": "Málaga, ES",
+    "destino": "Bristol, GB"
+  },
+  "AFR365V": {
+    "origem": "Bordeaux, FR",
+    "destino": "Toulouse, FR"
   }
 }
