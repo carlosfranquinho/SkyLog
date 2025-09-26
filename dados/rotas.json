@@ -19926,5 +19926,13 @@
   "CFG5MY": {
     "origem": "Tenerife Island, ES",
     "destino": "Munich, DE"
+  },
+  "AZU9003": {
+    "origem": "Rio Grande do Norte, BR",
+    "destino": "Campinas, BR"
+  },
+  "VKG1576": {
+    "origem": "Oslo, NO",
+    "destino": "Gran Canaria Island, ES"
   }
 }
