@@ -19878,5 +19878,17 @@
   "TOM8BA": {
     "origem": "Lanzarote Island, ES",
     "destino": "Glasgow, GB"
+  },
+  "EZY8545": {
+    "origem": "London, GB",
+    "destino": "Porto, PT"
+  },
+  "EIN7MR": {
+    "origem": "Dublin, IE",
+    "destino": "Tenerife Island, ES"
+  },
+  "TRA26W": {
+    "origem": "Sevilla, ES",
+    "destino": "Amsterdam, NL"
   }
 }
