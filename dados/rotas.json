@@ -19906,5 +19906,13 @@
   "VKG1570": {
     "origem": "Oslo, NO",
     "destino": "Gran Canaria Island, ES"
+  },
+  "FWI10A": {
+    "origem": "Paris, FR",
+    "destino": "Fort-de-France, MQ"
+  },
+  "LAV931P": {
+    "origem": "Trondheim, NO",
+    "destino": "Palma De Mallorca, ES"
   }
 }
