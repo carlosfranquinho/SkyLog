@@ -19978,5 +19978,13 @@
   "TAP012": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Lisbon, PT"
+  },
+  "WPT3162": {
+    "origem": "La Romana, DO",
+    "destino": "Lisbon, PT"
+  },
+  "TAP254": {
+    "origem": "Montréal, CA",
+    "destino": "Lisbon, PT"
   }
 }
