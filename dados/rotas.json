@@ -20070,5 +20070,13 @@
   "SAS82P": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Kjevik, NO"
+  },
+  "TAP1568": {
+    "origem": "Rabil, CV",
+    "destino": "Lisbon, PT"
+  },
+  "EZY91GA": {
+    "origem": "Edinburgh, GB",
+    "destino": "Tenerife Island, ES"
   }
 }
