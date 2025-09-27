@@ -20046,5 +20046,25 @@
   "RYR7739": {
     "origem": "Cork, IE",
     "destino": "Málaga, ES"
+  },
+  "AEA9049": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "RYR428Q": {
+    "origem": "Glasgow, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "TAP3928": {
+    "origem": "Ponta Delgada, PT",
+    "destino": "Lisbon, PT"
+  },
+  "VKG1555": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Oslo, NO"
+  },
+  "VLG55NC": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Barcelona, ES"
   }
 }
