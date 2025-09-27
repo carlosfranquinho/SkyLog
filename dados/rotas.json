@@ -19962,5 +19962,9 @@
   "RYR47NP": {
     "origem": "Faro, PT",
     "destino": "Copenhagen, DK"
+  },
+  "SAS1937": {
+    "origem": "Gothenburg, SE",
+    "destino": "Faro, PT"
   }
 }
