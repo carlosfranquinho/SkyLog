@@ -19950,5 +19950,17 @@
   "TAP1139": {
     "origem": "Málaga, ES",
     "destino": "Lisbon, PT"
+  },
+  "TAM8146": {
+    "origem": "São Paulo, BR",
+    "destino": "Lisbon, PT"
+  },
+  "AZU8750": {
+    "origem": "Campinas, BR",
+    "destino": "Lisbon, PT"
+  },
+  "RYR47NP": {
+    "origem": "Faro, PT",
+    "destino": "Copenhagen, DK"
   }
 }
