@@ -20014,5 +20014,21 @@
   "TAP226": {
     "origem": "Miami, US",
     "destino": "Lisbon, PT"
+  },
+  "ACA2135": {
+    "origem": "Madrid, ES",
+    "destino": "Montréal, CA"
+  },
+  "BAW522": {
+    "origem": "London, GB",
+    "destino": "Ponta Delgada, PT"
+  },
+  "TAP110": {
+    "origem": "Florianópolis, BR",
+    "destino": "Lisbon, PT"
+  },
+  "STP508": {
+    "origem": "São Tomé, ST",
+    "destino": "Lisbon, PT"
   }
 }
