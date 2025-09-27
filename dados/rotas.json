@@ -19966,5 +19966,17 @@
   "SAS1937": {
     "origem": "Gothenburg, SE",
     "destino": "Faro, PT"
+  },
+  "TSC277": {
+    "origem": "London, GB",
+    "destino": "Edmonton, CA"
+  },
+  "EXS92EL": {
+    "origem": "Glasgow, GB",
+    "destino": "Rodes Island, GR"
+  },
+  "TAP012": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Lisbon, PT"
   }
 }
