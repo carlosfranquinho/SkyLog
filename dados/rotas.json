@@ -19990,5 +19990,25 @@
   "TAP35GC": {
     "origem": "Málaga, ES",
     "destino": "Lisbon, PT"
+  },
+  "TAP1902": {
+    "origem": "Faro, PT",
+    "destino": "Lisbon, PT"
+  },
+  "BLX213": {
+    "origem": "Gothenburg, SE",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR7HW": {
+    "origem": "Ponta Delgada, PT",
+    "destino": "Lisbon, PT"
+  },
+  "SAS7469": {
+    "origem": "Kvernberget, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "SAS51A": {
+    "origem": "Stockholm, SE",
+    "destino": "Barcelona, ES"
   }
 }
