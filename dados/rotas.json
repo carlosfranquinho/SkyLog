@@ -19986,5 +19986,9 @@
   "TAP254": {
     "origem": "Montréal, CA",
     "destino": "Lisbon, PT"
+  },
+  "TAP35GC": {
+    "origem": "Málaga, ES",
+    "destino": "Lisbon, PT"
   }
 }
