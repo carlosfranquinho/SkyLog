@@ -20030,5 +20030,21 @@
   "STP508": {
     "origem": "São Tomé, ST",
     "destino": "Lisbon, PT"
+  },
+  "TAP1127": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Lisbon, PT"
+  },
+  "AZU9002": {
+    "origem": "Belo Horizonte, BR",
+    "destino": "Campinas, BR"
+  },
+  "AJT461": {
+    "origem": "Riga, LV",
+    "destino": "Brussels, BE"
+  },
+  "RYR7739": {
+    "origem": "Cork, IE",
+    "destino": "Málaga, ES"
   }
 }
