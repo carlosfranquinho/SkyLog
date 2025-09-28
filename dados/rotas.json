@@ -20118,5 +20118,13 @@
   "TAP1908": {
     "origem": "Faro, PT",
     "destino": "Lisbon, PT"
+  },
+  "DTA650": {
+    "origem": "Luanda, AO",
+    "destino": "Lisbon, PT"
+  },
+  "EWG6901": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Fuerteventura Island, ES"
   }
 }
