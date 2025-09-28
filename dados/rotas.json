@@ -20158,5 +20158,17 @@
   "RAM354": {
     "origem": "Casablanca, MA",
     "destino": "Brussels, BE"
+  },
+  "RYR838N": {
+    "origem": "Brussels, BE",
+    "destino": "Agadir, MA"
+  },
+  "EXS95WL": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Newcastle, GB"
+  },
+  "EXS24XV": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Liverpool, GB"
   }
 }
