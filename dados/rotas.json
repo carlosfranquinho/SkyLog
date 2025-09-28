@@ -20114,5 +20114,9 @@
   "AFR889": {
     "origem": "Cayenne / Rochambeau, GF",
     "destino": "Paris, FR"
+  },
+  "TAP1908": {
+    "origem": "Faro, PT",
+    "destino": "Lisbon, PT"
   }
 }
