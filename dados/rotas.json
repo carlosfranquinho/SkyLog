@@ -20146,5 +20146,9 @@
   "SAS7408": {
     "origem": "Tenerife Island, ES",
     "destino": "Oslo, NO"
+  },
+  "OCN5M": {
+    "origem": "Munich, DE",
+    "destino": "Fuerteventura Island, ES"
   }
 }
