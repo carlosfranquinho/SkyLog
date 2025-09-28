@@ -20110,5 +20110,9 @@
   "FIN8908": {
     "origem": "Tenerife Island, ES",
     "destino": "Helsinki, FI"
+  },
+  "AFR889": {
+    "origem": "Cayenne / Rochambeau, GF",
+    "destino": "Paris, FR"
   }
 }
