@@ -20174,5 +20174,13 @@
   "RZO565": {
     "origem": "Frankfurt-am-Main, DE",
     "destino": "Ponta Delgada, PT"
+  },
+  "RYR75ZD": {
+    "origem": "London, GB",
+    "destino": "Sevilla, ES"
+  },
+  "TAP9105": {
+    "origem": "Lisbon, PT",
+    "destino": "London, GB"
   }
 }
