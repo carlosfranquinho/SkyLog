@@ -20182,5 +20182,17 @@
   "TAP9105": {
     "origem": "Lisbon, PT",
     "destino": "London, GB"
+  },
+  "EJU34BW": {
+    "origem": "Manchester, GB",
+    "destino": "Málaga, ES"
+  },
+  "TVF3119": {
+    "origem": "Ouarzazate, MA",
+    "destino": "Paris, FR"
+  },
+  "N650CF": {
+    "origem": "Washington, US",
+    "destino": "Savannah, US"
   }
 }
