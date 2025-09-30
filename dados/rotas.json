@@ -20230,5 +20230,13 @@
   "AZU8003": {
     "origem": "Porto, PT",
     "destino": "Recife, BR"
+  },
+  "FJO54A": {
+    "origem": "Vienna, AT",
+    "destino": "Milan, IT"
+  },
+  "VJH767": {
+    "origem": "London, GB",
+    "destino": "Nottingham, GB"
   }
 }
