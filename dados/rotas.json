@@ -20214,5 +20214,13 @@
   "EWG6900": {
     "origem": "Fuerteventura Island, ES",
     "destino": "Cologne, DE"
+  },
+  "JAS681": {
+    "origem": "Martha's Vineyard, US",
+    "destino": "Bedford, US"
+  },
+  "ANE8223": {
+    "origem": "Madrid, ES",
+    "destino": "Funchal, PT"
   }
 }
