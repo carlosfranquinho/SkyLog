@@ -20254,5 +20254,13 @@
   "VKG9143": {
     "origem": "Gran Canaria Airport",
     "destino": "Stockholm-Arlanda Airport"
+  },
+  "RYR82RX": {
+    "origem": "Barcelona, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR629Z": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Manchester, GB"
   }
 }
