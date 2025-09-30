@@ -20222,5 +20222,13 @@
   "ANE8223": {
     "origem": "Madrid, ES",
     "destino": "Funchal, PT"
+  },
+  "TAM8147": {
+    "origem": "Lisbon, PT",
+    "destino": "São Paulo, BR"
+  },
+  "AZU8003": {
+    "origem": "Porto, PT",
+    "destino": "Recife, BR"
   }
 }
