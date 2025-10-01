@@ -20298,5 +20298,13 @@
   "EJU65PU": {
     "origem": "Lyon, FR",
     "destino": "Faro, PT"
+  },
+  "TAP9031": {
+    "origem": "London, GB",
+    "destino": "Lisbon, PT"
+  },
+  "CFG5LH": {
+    "origem": "Munich, DE",
+    "destino": "Gran Canaria Island, ES"
   }
 }
