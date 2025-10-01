@@ -20290,5 +20290,13 @@
   "FIN1691": {
     "origem": "Helsinki, FI",
     "destino": "Tenerife Island, ES"
+  },
+  "TSC232": {
+    "origem": "Toronto, CA",
+    "destino": "Faro, PT"
+  },
+  "EJU65PU": {
+    "origem": "Lyon, FR",
+    "destino": "Faro, PT"
   }
 }
