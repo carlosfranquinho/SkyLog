@@ -20318,5 +20318,13 @@
   "N1111G": {
     "origem": "New York, US",
     "destino": "Tokyo, JP"
+  },
+  "TAP1905": {
+    "origem": "Lisbon, PT",
+    "destino": "Faro, PT"
+  },
+  "IBS15SB": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Madrid, ES"
   }
 }
