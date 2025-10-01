@@ -20326,5 +20326,13 @@
   "IBS15SB": {
     "origem": "Tenerife Island, ES",
     "destino": "Madrid, ES"
+  },
+  "EIN757": {
+    "origem": "Sevilla, ES",
+    "destino": "Dublin, IE"
+  },
+  "CXI72SP": {
+    "origem": "Prague, CZ",
+    "destino": "Funchal, PT"
   }
 }
