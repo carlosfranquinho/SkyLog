@@ -20394,5 +20394,25 @@
   "TRA5756": {
     "origem": "Marrakech, MA",
     "destino": "Amsterdam, NL"
+  },
+  "KPO780": {
+    "origem": "Chicago, US",
+    "destino": "Austin, US"
+  },
+  "RYR4807": {
+    "origem": "Budapest, HU",
+    "destino": "Billund, DK"
+  },
+  "RYR5721": {
+    "origem": "Aalborg, DK",
+    "destino": "Stockholm, SE"
+  },
+  "TVS459P": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Paris, FR"
+  },
+  "SVW24JM": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Westerland, DE"
   }
 }
