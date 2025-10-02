@@ -20366,5 +20366,13 @@
   "TSC481": {
     "origem": "Lisbon, PT",
     "destino": "Toronto, CA"
+  },
+  "TVS4590": {
+    "origem": "Billund, DK",
+    "destino": "Athens, GR"
+  },
+  "EDW24": {
+    "origem": "Zürich, CH",
+    "destino": "Cancún, MX"
   }
 }
