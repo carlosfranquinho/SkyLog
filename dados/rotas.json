@@ -20374,5 +20374,13 @@
   "EDW24": {
     "origem": "Zürich, CH",
     "destino": "Cancún, MX"
+  },
+  "TRA3760": {
+    "origem": "Marrakech, MA",
+    "destino": "Amsterdam, NL"
+  },
+  "RZO9121": {
+    "origem": "Bilbao, ES",
+    "destino": "Lisbon, PT"
   }
 }
