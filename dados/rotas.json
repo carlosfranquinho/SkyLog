@@ -20346,5 +20346,13 @@
   "VLG74TW": {
     "origem": "Sevilla, ES",
     "destino": "London, GB"
+  },
+  "TAP2244": {
+    "origem": "Lisbon, PT",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "N141QS": {
+    "origem": "Lisbon, PT",
+    "destino": "Madrid, ES"
   }
 }
