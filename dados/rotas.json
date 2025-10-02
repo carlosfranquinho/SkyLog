@@ -20386,5 +20386,13 @@
   "HFM322": {
     "origem": "Napoli, IT",
     "destino": "Lisbon, PT"
+  },
+  "RYR2ML": {
+    "origem": "Porto, PT",
+    "destino": "Tenerife Island, ES"
+  },
+  "TRA5756": {
+    "origem": "Marrakech, MA",
+    "destino": "Amsterdam, NL"
   }
 }
