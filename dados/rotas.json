@@ -20470,5 +20470,17 @@
   "UAL971": {
     "origem": "Rome, IT",
     "destino": "Chicago, US"
+  },
+  "VKG1508": {
+    "origem": "Trondheim, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "UAL41": {
+    "origem": "Rome, IT",
+    "destino": "Newark, US"
+  },
+  "EXS78GK": {
+    "origem": "Jerez de la Forntera, ES",
+    "destino": "Birmingham, GB"
   }
 }
