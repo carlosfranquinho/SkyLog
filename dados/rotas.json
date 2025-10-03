@@ -20502,5 +20502,33 @@
   "TVS9EK": {
     "origem": "Prague, CZ",
     "destino": "Ponta Delgada, PT"
+  },
+  "DAL297": {
+    "origem": "Athens, GR",
+    "destino": "Atlanta, US"
+  },
+  "ACA899": {
+    "origem": "Athens, GR",
+    "destino": "Montréal, CA"
+  },
+  "ACA891": {
+    "origem": "Rome, IT",
+    "destino": "Toronto, CA"
+  },
+  "DAL231": {
+    "origem": "Rome, IT",
+    "destino": "New York, US"
+  },
+  "AAL299": {
+    "origem": "Milan, IT",
+    "destino": "Philadelphia, US"
+  },
+  "IBE26RR": {
+    "origem": "Barcelona, ES",
+    "destino": "Los Angeles, US"
+  },
+  "SAS7420": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Oslo, NO"
   }
 }
