@@ -20450,5 +20450,17 @@
   "SAS7419": {
     "origem": "Oslo, NO",
     "destino": "Fuerteventura Island, ES"
+  },
+  "UAL957": {
+    "origem": "Geneva, CH",
+    "destino": "Newark, US"
+  },
+  "RYR4526": {
+    "origem": "Brussels, BE",
+    "destino": "Bergamo, IT"
+  },
+  "EZS1453": {
+    "origem": "Lisbon, PT",
+    "destino": "Porto, PT"
   }
 }
