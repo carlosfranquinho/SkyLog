@@ -20574,5 +20574,13 @@
   "EXS83RQ": {
     "origem": "Glasgow, GB",
     "destino": "Marrakech, MA"
+  },
+  "TVS3671": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "WMT407": {
+    "origem": "Tirana, AL",
+    "destino": "Vienna, AT"
   }
 }
