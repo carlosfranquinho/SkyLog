@@ -20418,5 +20418,17 @@
   "VLG55HR": {
     "origem": "Santiago de Compostela, ES",
     "destino": "Tenerife Island, ES"
+  },
+  "ETH574": {
+    "origem": "Addis Ababa, ET",
+    "destino": "Chicago, US"
+  },
+  "RYR5928": {
+    "origem": "Dubrovnik, HR",
+    "destino": "Torp, NO"
+  },
+  "RYR5AW": {
+    "origem": "Alicante, ES",
+    "destino": "Porto, PT"
   }
 }
