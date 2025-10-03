@@ -20442,5 +20442,13 @@
   "RYR8953": {
     "origem": "Paphos, CY",
     "destino": "Berlin, DE"
+  },
+  "ENT580": {
+    "origem": "Tivat Airport",
+    "destino": "Charles de Gaulle International Airport"
+  },
+  "SAS7419": {
+    "origem": "Oslo, NO",
+    "destino": "Fuerteventura Island, ES"
   }
 }
