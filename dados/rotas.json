@@ -20462,5 +20462,13 @@
   "EZS1453": {
     "origem": "Lisbon, PT",
     "destino": "Porto, PT"
+  },
+  "DAL223": {
+    "origem": "Athens, GR",
+    "destino": "Atlanta, US"
+  },
+  "UAL971": {
+    "origem": "Rome, IT",
+    "destino": "Chicago, US"
   }
 }
