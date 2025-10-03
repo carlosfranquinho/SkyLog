@@ -20546,5 +20546,29 @@
   "ITY614": {
     "origem": "Rome, IT",
     "destino": "Boston, US"
+  },
+  "SWR2GX": {
+    "origem": "Lisbon, PT",
+    "destino": "Zürich, CH"
+  },
+  "DAL149": {
+    "origem": "Rome, IT",
+    "destino": "New York, US"
+  },
+  "AAL181": {
+    "origem": "Napoli, IT",
+    "destino": "Chicago, US"
+  },
+  "AAL9605": {
+    "origem": "Athens, GR",
+    "destino": "Chicago, US"
+  },
+  "ITY610": {
+    "origem": "Rome, IT",
+    "destino": "New York, US"
+  },
+  "ACA921": {
+    "origem": "Athens, GR",
+    "destino": "Toronto, CA"
   }
 }
