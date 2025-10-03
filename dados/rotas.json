@@ -20582,5 +20582,13 @@
   "WMT407": {
     "origem": "Tirana, AL",
     "destino": "Vienna, AT"
+  },
+  "EXS15RF": {
+    "origem": "Leeds, GB",
+    "destino": "Marrakech, MA"
+  },
+  "MMO1241": {
+    "origem": "Vila Baleira, PT",
+    "destino": "Bergamo, IT"
   }
 }
