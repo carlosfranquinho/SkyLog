@@ -20482,5 +20482,25 @@
   "EXS78GK": {
     "origem": "Jerez de la Forntera, ES",
     "destino": "Birmingham, GB"
+  },
+  "ACA893": {
+    "origem": "Rome, IT",
+    "destino": "Montréal, CA"
+  },
+  "AAL199": {
+    "origem": "Milan, IT",
+    "destino": "New York, US"
+  },
+  "TVS4635": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "AAL111": {
+    "origem": "Rome, IT",
+    "destino": "Chicago, US"
+  },
+  "TVS9EK": {
+    "origem": "Prague, CZ",
+    "destino": "Ponta Delgada, PT"
   }
 }
