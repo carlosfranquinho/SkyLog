@@ -20530,5 +20530,21 @@
   "SAS7420": {
     "origem": "Fuerteventura Island, ES",
     "destino": "Oslo, NO"
+  },
+  "ACA897": {
+    "origem": "Athens, GR",
+    "destino": "Toronto, CA"
+  },
+  "TSC261": {
+    "origem": "Barcelona, ES",
+    "destino": "Montréal, CA"
+  },
+  "UAL770": {
+    "origem": "Barcelona, ES",
+    "destino": "Chicago, US"
+  },
+  "ITY614": {
+    "origem": "Rome, IT",
+    "destino": "Boston, US"
   }
 }
