@@ -20754,5 +20754,9 @@
   "SAS1938": {
     "origem": "Faro, PT",
     "destino": "Gothenburg, SE"
+  },
+  "TOM6KD": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "London, GB"
   }
 }
