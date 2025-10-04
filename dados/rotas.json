@@ -20666,5 +20666,17 @@
   "RYR7229": {
     "origem": "Porto, PT",
     "destino": "Valencia, ES"
+  },
+  "SWR14V": {
+    "origem": "Zürich, CH",
+    "destino": "New York, US"
+  },
+  "UAL85": {
+    "origem": "Tel Aviv, IL",
+    "destino": "Newark, US"
+  },
+  "BAW746": {
+    "origem": "London, GB",
+    "destino": "Marrakech, MA"
   }
 }
