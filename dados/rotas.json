@@ -20710,5 +20710,13 @@
   "SAS4696": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Oslo, NO"
+  },
+  "TVS3677": {
+    "origem": "Leipzig, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "UAL117": {
+    "origem": "Athens, GR",
+    "destino": "Newark, US"
   }
 }
