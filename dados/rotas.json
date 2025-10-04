@@ -20694,5 +20694,21 @@
   "SAS7366": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Bergen, NO"
+  },
+  "ACA907": {
+    "origem": "Rome, IT",
+    "destino": "Toronto, CA"
+  },
+  "RAM770T": {
+    "origem": "Casablanca, MA",
+    "destino": "Paris, FR"
+  },
+  "SAS7410": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Stavanger, NO"
+  },
+  "SAS4696": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Oslo, NO"
   }
 }
