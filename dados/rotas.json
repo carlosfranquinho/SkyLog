@@ -20634,5 +20634,21 @@
   "ITY650": {
     "origem": "Rome, IT",
     "destino": "Toronto, CA"
+  },
+  "NOZ4KU": {
+    "origem": "Stavanger, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "AAL161": {
+    "origem": "Athens, GR",
+    "destino": "Chicago, US"
+  },
+  "UAE62Y": {
+    "origem": "Dubai, AE",
+    "destino": "Boston, US"
+  },
+  "ACA883": {
+    "origem": "Napoli, IT",
+    "destino": "Montréal, CA"
   }
 }
