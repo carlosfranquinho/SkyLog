@@ -20730,5 +20730,17 @@
   "EXS5KL": {
     "origem": "Antalya, TR",
     "destino": "Liverpool, GB"
+  },
+  "BAW747": {
+    "origem": "Stavanger, NO",
+    "destino": "London, GB"
+  },
+  "FIN7AC": {
+    "origem": "Helsinki, FI",
+    "destino": "Tenerife Island, ES"
+  },
+  "CFG9LC": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Hamburg, DE"
   }
 }
