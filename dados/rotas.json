@@ -20650,5 +20650,21 @@
   "ACA883": {
     "origem": "Napoli, IT",
     "destino": "Montréal, CA"
+  },
+  "UAL983": {
+    "origem": "Athens, GR",
+    "destino": "Washington, US"
+  },
+  "ETD7": {
+    "origem": "Abu Dhabi, AE",
+    "destino": "Boston, US"
+  },
+  "VJH724": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Birmingham, GB"
+  },
+  "RYR7229": {
+    "origem": "Porto, PT",
+    "destino": "Valencia, ES"
   }
 }
