@@ -20614,5 +20614,17 @@
   "IBS1554": {
     "origem": "Tenerife Island, ES",
     "destino": "Madrid, ES"
+  },
+  "SAS7365": {
+    "origem": "Bergen, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TVS4500": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "SAS2944": {
+    "origem": "Faro, PT",
+    "destino": "Stockholm, SE"
   }
 }
