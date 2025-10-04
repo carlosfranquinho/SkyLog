@@ -20742,5 +20742,13 @@
   "CFG9LC": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Hamburg, DE"
+  },
+  "TRA29Z": {
+    "origem": "Málaga, ES",
+    "destino": "Rotterdam, NL"
+  },
+  "EJU75WJ": {
+    "origem": "Lisbon, PT",
+    "destino": "Marrakech, MA"
   }
 }
