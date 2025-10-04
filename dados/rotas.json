@@ -20626,5 +20626,13 @@
   "SAS2944": {
     "origem": "Faro, PT",
     "destino": "Stockholm, SE"
+  },
+  "IBE0985": {
+    "origem": "Madrid, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "ITY650": {
+    "origem": "Rome, IT",
+    "destino": "Toronto, CA"
   }
 }
