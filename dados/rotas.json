@@ -20718,5 +20718,17 @@
   "UAL117": {
     "origem": "Athens, GR",
     "destino": "Newark, US"
+  },
+  "BLX214": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Gothenburg, SE"
+  },
+  "TOM2AX": {
+    "origem": "London, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EXS5KL": {
+    "origem": "Antalya, TR",
+    "destino": "Liverpool, GB"
   }
 }
