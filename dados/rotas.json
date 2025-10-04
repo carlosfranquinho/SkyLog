@@ -20678,5 +20678,21 @@
   "BAW746": {
     "origem": "London, GB",
     "destino": "Marrakech, MA"
+  },
+  "RYR28QE": {
+    "origem": "Málaga, ES",
+    "destino": "Cardiff, GB"
+  },
+  "FIN53L": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Helsinki, FI"
+  },
+  "NSZ3614": {
+    "origem": "Copenhagen, DK",
+    "destino": "Funchal, PT"
+  },
+  "SAS7366": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Bergen, NO"
   }
 }
