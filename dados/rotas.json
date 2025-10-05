@@ -20794,5 +20794,21 @@
   "SAS7493": {
     "origem": "Stavanger, NO",
     "destino": "Tenerife Island, ES"
+  },
+  "TAP2721": {
+    "origem": "Nice, FR",
+    "destino": "Lisbon, PT"
+  },
+  "IBE2660": {
+    "origem": "Barcelona, ES",
+    "destino": "Lisbon, PT"
+  },
+  "DAH2700": {
+    "origem": "Algiers, DZ",
+    "destino": "Montréal, CA"
+  },
+  "EZY6509": {
+    "origem": "London, GB",
+    "destino": "Napoli, IT"
   }
 }
