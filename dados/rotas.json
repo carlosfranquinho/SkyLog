@@ -20846,5 +20846,13 @@
   "TRA3359": {
     "origem": "Amsterdam, NL",
     "destino": "Faro, PT"
+  },
+  "TVS4472": {
+    "origem": "Leipzig, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EWG601": {
+    "origem": "Lisbon, PT",
+    "destino": "Cologne, DE"
   }
 }
