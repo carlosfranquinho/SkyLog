@@ -20766,5 +20766,9 @@
   "ELY003": {
     "origem": "Ben Gurion International Airport",
     "destino": "John F Kennedy International Airport"
+  },
+  "ETD2226": {
+    "origem": "Abu Dhabi, AE",
+    "destino": "New York, US"
   }
 }
