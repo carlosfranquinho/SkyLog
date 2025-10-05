@@ -20770,5 +20770,9 @@
   "ETD2226": {
     "origem": "Abu Dhabi, AE",
     "destino": "New York, US"
+  },
+  "UAE3MX": {
+    "origem": "Dubai, AE",
+    "destino": "Washington, US"
   }
 }
