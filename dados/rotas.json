@@ -20782,5 +20782,9 @@
   "TAM8114": {
     "origem": "São Paulo, BR",
     "destino": "Barcelona, ES"
+  },
+  "AEA9018": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Madrid, ES"
   }
 }
