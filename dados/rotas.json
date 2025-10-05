@@ -20862,5 +20862,17 @@
   "TRA6454": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Amsterdam, NL"
+  },
+  "RYR4CV": {
+    "origem": "Lisbon, PT",
+    "destino": "Málaga, ES"
+  },
+  "TVS4498": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Leipzig, DE"
+  },
+  "TVS3670": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Frankfurt-am-Main, DE"
   }
 }
