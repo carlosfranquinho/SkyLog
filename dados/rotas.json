@@ -20810,5 +20810,21 @@
   "EZY6509": {
     "origem": "London, GB",
     "destino": "Napoli, IT"
+  },
+  "EIN8TG": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Cork, IE"
+  },
+  "SAS7470": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Kvernberget, NO"
+  },
+  "CXI28YU": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Düsseldorf, DE"
+  },
+  "TAP875": {
+    "origem": "Firenze, IT",
+    "destino": "Lisbon, PT"
   }
 }
