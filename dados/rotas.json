@@ -20762,5 +20762,9 @@
   "FIN4RT": {
     "origem": "Tenerife Island, ES",
     "destino": "Helsinki, FI"
+  },
+  "ELY003": {
+    "origem": "Ben Gurion International Airport",
+    "destino": "John F Kennedy International Airport"
   }
 }
