@@ -20838,5 +20838,13 @@
   "SAS7496": {
     "origem": "Tenerife Island, ES",
     "destino": "Bergen, NO"
+  },
+  "TRA6453": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TRA3359": {
+    "origem": "Amsterdam, NL",
+    "destino": "Faro, PT"
   }
 }
