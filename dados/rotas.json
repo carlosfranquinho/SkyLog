@@ -20774,5 +20774,13 @@
   "UAE3MX": {
     "origem": "Dubai, AE",
     "destino": "Washington, US"
+  },
+  "UAE8ER": {
+    "origem": "Dubai, AE",
+    "destino": "New York, US"
+  },
+  "TAM8114": {
+    "origem": "São Paulo, BR",
+    "destino": "Barcelona, ES"
   }
 }
