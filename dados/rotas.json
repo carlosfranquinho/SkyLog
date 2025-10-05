@@ -20826,5 +20826,17 @@
   "TAP875": {
     "origem": "Firenze, IT",
     "destino": "Lisbon, PT"
+  },
+  "TOM26H": {
+    "origem": "Bournemouth, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "AEA1904": {
+    "origem": "Manchester, GB",
+    "destino": "Madrid, ES"
+  },
+  "SAS7496": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Bergen, NO"
   }
 }
