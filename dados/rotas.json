@@ -20786,5 +20786,13 @@
   "AEA9018": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Madrid, ES"
+  },
+  "TAP112A": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Lisbon, PT"
+  },
+  "SAS7493": {
+    "origem": "Stavanger, NO",
+    "destino": "Tenerife Island, ES"
   }
 }
