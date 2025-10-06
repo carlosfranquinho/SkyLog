@@ -20890,5 +20890,9 @@
   "NVD8152": {
     "origem": "Faro, PT",
     "destino": "Vilnius, LT"
+  },
+  "DLH1494": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Kiev, UA"
   }
 }
