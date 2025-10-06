@@ -20946,5 +20946,21 @@
   "TFL7JN": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Amsterdam, NL"
+  },
+  "TOM58G": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "London, GB"
+  },
+  "TAP94KM": {
+    "origem": "Funchal, PT",
+    "destino": "Lisbon, PT"
+  },
+  "EXS4CS": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Leeds, GB"
+  },
+  "TVS3672": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Düsseldorf, DE"
   }
 }
