@@ -20874,5 +20874,9 @@
   "TVS3670": {
     "origem": "Tenerife Island, ES",
     "destino": "Frankfurt-am-Main, DE"
+  },
+  "OCN2B": {
+    "origem": "Marrakech, MA",
+    "destino": "Frankfurt-am-Main, DE"
   }
 }
