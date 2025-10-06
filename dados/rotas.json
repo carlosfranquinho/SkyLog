@@ -20914,5 +20914,17 @@
   "TOM7VY": {
     "origem": "Exeter, GB",
     "destino": "Gran Canaria Island, ES"
+  },
+  "EJU7630": {
+    "origem": "Funchal, PT",
+    "destino": "Lisbon, PT"
+  },
+  "TOM10E": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "TAP9255": {
+    "origem": "Milan, IT",
+    "destino": "Lisbon, PT"
   }
 }
