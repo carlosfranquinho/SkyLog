@@ -20930,5 +20930,13 @@
   "GTI8975": {
     "origem": "Norfolk Ns (Chambers Fld) Airport",
     "destino": "Baltimore/Washington International Thurgood Marshall Airport"
+  },
+  "TOM37E": {
+    "origem": "London, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "TVS3673": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Tenerife Island, ES"
   }
 }
