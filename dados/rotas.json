@@ -21010,5 +21010,17 @@
   "AFR531": {
     "origem": "Santiago, CL",
     "destino": "Paris, FR"
+  },
+  "EZY8528": {
+    "origem": "Faro, PT",
+    "destino": "London, GB"
+  },
+  "IBB001P": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "CAT762": {
+    "origem": "Ponta Delgada, PT",
+    "destino": "Copenhagen, DK"
   }
 }
