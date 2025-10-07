@@ -21030,5 +21030,13 @@
   "TOM554": {
     "origem": "London, GB",
     "destino": "Dalaman, TR"
+  },
+  "KLM60H": {
+    "origem": "Porto, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "ACA7212": {
+    "origem": "Toronto, CA",
+    "destino": "Madrid, ES"
   }
 }
