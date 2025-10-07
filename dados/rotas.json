@@ -20982,5 +20982,21 @@
   "CAT761": {
     "origem": "Billund, DK",
     "destino": "Ponta Delgada, PT"
+  },
+  "IBE273": {
+    "origem": "Madrid, ES",
+    "destino": "Havana, CU"
+  },
+  "JTD621": {
+    "origem": "Stockholm, SE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "OBS152P": {
+    "origem": "Lisbon, PT",
+    "destino": "Madrid, ES"
+  },
+  "BLX341": {
+    "origem": "Gothenburg, SE",
+    "destino": "Tenerife Island, ES"
   }
 }
