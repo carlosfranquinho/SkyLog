@@ -20998,5 +20998,17 @@
   "BLX341": {
     "origem": "Gothenburg, SE",
     "destino": "Tenerife Island, ES"
+  },
+  "EZY8529": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "EFW8ZT": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "London, GB"
+  },
+  "AFR531": {
+    "origem": "Santiago, CL",
+    "destino": "Paris, FR"
   }
 }
