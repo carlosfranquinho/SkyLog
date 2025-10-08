@@ -21070,5 +21070,21 @@
   "CXI95AH": {
     "origem": "Cologne, DE",
     "destino": "Fuerteventura Island, ES"
+  },
+  "IBS18WT": {
+    "origem": "Madrid, ES",
+    "destino": "Marrakech, MA"
+  },
+  "FIN1692": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Helsinki, FI"
+  },
+  "N114QS": {
+    "origem": "Lisbon, PT",
+    "destino": "Faro, PT"
+  },
+  "FLI101": {
+    "origem": "Copenhagen, DK",
+    "destino": "Vagar, FO"
   }
 }
