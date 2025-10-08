@@ -21086,5 +21086,13 @@
   "FLI101": {
     "origem": "Copenhagen, DK",
     "destino": "Vagar, FO"
+  },
+  "RYR2WW": {
+    "origem": "Málaga, ES",
+    "destino": "Liverpool, GB"
+  },
+  "EZY93VN": {
+    "origem": "Manchester, GB",
+    "destino": "Gibraltar, GI"
   }
 }
