@@ -21158,5 +21158,13 @@
   "RYR346": {
     "origem": "Tel Aviv, IL",
     "destino": "Kraków, PL"
+  },
+  "AFR500": {
+    "origem": "Paris, FR",
+    "destino": "Lima, PE"
+  },
+  "EZY27YP": {
+    "origem": "Sevilla, ES",
+    "destino": "London, GB"
   }
 }
