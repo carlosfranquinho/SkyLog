@@ -21178,5 +21178,21 @@
   "VKG1165": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Copenhagen, DK"
+  },
+  "TVS3679": {
+    "origem": "Hamburg, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "AFP83": {
+    "origem": "Providence, US",
+    "destino": "Huntsville, US"
+  },
+  "TRA5755": {
+    "origem": "Amsterdam, NL",
+    "destino": "Marrakech, MA"
+  },
+  "WUK406": {
+    "origem": "Faro, PT",
+    "destino": "London, GB"
   }
 }
