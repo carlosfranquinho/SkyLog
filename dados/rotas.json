@@ -21194,5 +21194,9 @@
   "WUK406": {
     "origem": "Faro, PT",
     "destino": "London, GB"
+  },
+  "EIN4485": {
+    "origem": "Lisbon, PT",
+    "destino": "Dublin, IE"
   }
 }
