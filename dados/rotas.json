@@ -21198,5 +21198,17 @@
   "EIN4485": {
     "origem": "Lisbon, PT",
     "destino": "Dublin, IE"
+  },
+  "TOM2TJ": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "MLM005": {
+    "origem": "Bangor, US",
+    "destino": "Miami, US"
+  },
+  "TVS3678": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Hamburg, DE"
   }
 }
