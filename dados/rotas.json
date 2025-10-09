@@ -21146,5 +21146,17 @@
   "VKG1366": {
     "origem": "Vaasa, FI",
     "destino": "Gran Canaria Island, ES"
+  },
+  "RYR5135": {
+    "origem": "Liverpool, GB",
+    "destino": "Málaga, ES"
+  },
+  "RYR12RZ": {
+    "origem": "London, GB",
+    "destino": "Málaga, ES"
+  },
+  "RYR346": {
+    "origem": "Tel Aviv, IL",
+    "destino": "Kraków, PL"
   }
 }
