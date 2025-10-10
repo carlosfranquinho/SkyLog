@@ -21254,5 +21254,9 @@
   "FIN1701": {
     "origem": "Helsinki, FI",
     "destino": "Fuerteventura Island, ES"
+  },
+  "SAS7722": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Copenhagen, DK"
   }
 }
