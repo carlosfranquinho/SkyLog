@@ -21258,5 +21258,17 @@
   "SAS7722": {
     "origem": "Fuerteventura Island, ES",
     "destino": "Copenhagen, DK"
+  },
+  "SAS7530": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Kjevik, NO"
+  },
+  "VKG1577": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Oslo, NO"
+  },
+  "EJU69TB": {
+    "origem": "Bordeaux, FR",
+    "destino": "Marrakech, MA"
   }
 }
