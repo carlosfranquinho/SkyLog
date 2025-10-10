@@ -21218,5 +21218,13 @@
   "CAT701": {
     "origem": "Billund, DK",
     "destino": "Sta Cruz de la Palma, La Palma Island, ES"
+  },
+  "CAT723": {
+    "origem": "Copenhagen, DK",
+    "destino": "Sta Cruz de la Palma, La Palma Island, ES"
+  },
+  "VKG1158": {
+    "origem": "Copenhagen, DK",
+    "destino": "Gran Canaria Island, ES"
   }
 }
