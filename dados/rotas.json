@@ -21290,5 +21290,9 @@
   "FIN7KU": {
     "origem": "Fuerteventura Island, ES",
     "destino": "Helsinki, FI"
+  },
+  "NOS9583": {
+    "origem": "Amsterdam, NL",
+    "destino": "Faro, PT"
   }
 }
