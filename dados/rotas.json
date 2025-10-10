@@ -21226,5 +21226,17 @@
   "VKG1158": {
     "origem": "Copenhagen, DK",
     "destino": "Gran Canaria Island, ES"
+  },
+  "FIN85P": {
+    "origem": "Helsinki, FI",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "GAF711": {
+    "origem": "Hamburg, DE",
+    "destino": "Stuttgart, DE"
+  },
+  "TVS4502": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Düsseldorf, DE"
   }
 }
