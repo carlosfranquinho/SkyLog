@@ -21238,5 +21238,17 @@
   "TVS4502": {
     "origem": "Fuerteventura Island, ES",
     "destino": "Düsseldorf, DE"
+  },
+  "MMD6441": {
+    "origem": "Faro, PT",
+    "destino": "London, GB"
+  },
+  "EZY8546": {
+    "origem": "Porto, PT",
+    "destino": "London, GB"
+  },
+  "TVS4106": {
+    "origem": "Prague, CZ",
+    "destino": "Espargos, CV"
   }
 }
