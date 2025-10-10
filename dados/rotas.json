@@ -21270,5 +21270,17 @@
   "EJU69TB": {
     "origem": "Bordeaux, FR",
     "destino": "Marrakech, MA"
+  },
+  "ANE1357": {
+    "origem": "Madrid, ES",
+    "destino": "Casablanca, MA"
+  },
+  "IBS15CN": {
+    "origem": "Sta Cruz de la Palma, La Palma Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "TVS4503": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Fuerteventura Island, ES"
   }
 }
