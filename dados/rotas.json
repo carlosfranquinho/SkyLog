@@ -21346,5 +21346,17 @@
   "NOZ9460": {
     "origem": "Trondheim, NO",
     "destino": "Gran Canaria Island, ES"
+  },
+  "TRA5230": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "NOZ3AU": {
+    "origem": "Ålesund, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "NJE946Q": {
+    "origem": "Birmingham, GB",
+    "destino": "Marrakech, MA"
   }
 }
