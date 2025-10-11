@@ -21310,5 +21310,17 @@
   "JTD581": {
     "origem": "Billund, DK",
     "destino": "Gran Canaria Island, ES"
+  },
+  "QTR5K": {
+    "origem": "Hamburg, DE",
+    "destino": "Doha, QA"
+  },
+  "BLX251": {
+    "origem": "Stockholm, SE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "SAS47J": {
+    "origem": "Stockholm, SE",
+    "destino": "Faro, PT"
   }
 }
