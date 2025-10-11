@@ -21442,5 +21442,25 @@
   "TVS3675": {
     "origem": "Hannover, DE",
     "destino": "Tenerife Island, ES"
+  },
+  "NOZ1DY": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Ålesund, NO"
+  },
+  "NJE973B": {
+    "origem": "Hanoi, VN",
+    "destino": "Dalat, VN"
+  },
+  "EWG9545": {
+    "origem": "Sta Cruz de la Palma, La Palma Island, ES",
+    "destino": "Düsseldorf, DE"
+  },
+  "SAS7714": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Copenhagen, DK"
+  },
+  "EWG9E": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Düsseldorf, DE"
   }
 }
