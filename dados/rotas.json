@@ -21358,5 +21358,33 @@
   "NJE946Q": {
     "origem": "Birmingham, GB",
     "destino": "Marrakech, MA"
+  },
+  "SAS7713": {
+    "origem": "Copenhagen, DK",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EWG8NX": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Sta Cruz de la Palma, La Palma Island, ES"
+  },
+  "RAM609": {
+    "origem": "Marseille, FR",
+    "destino": "Fes, MA"
+  },
+  "TVS4464": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Düsseldorf, DE"
+  },
+  "NOZ91R": {
+    "origem": "Bergen, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "NSZ3615": {
+    "origem": "Funchal, PT",
+    "destino": "Copenhagen, DK"
+  },
+  "EWG39C": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Lanzarote Island, ES"
   }
 }
