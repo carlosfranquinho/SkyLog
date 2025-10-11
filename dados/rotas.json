@@ -21418,5 +21418,29 @@
   "SAS2628": {
     "origem": "Tenerife Island, ES",
     "destino": "Copenhagen, DK"
+  },
+  "SAS7318": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Trondheim, NO"
+  },
+  "VLG15NF": {
+    "origem": "Barcelona, ES",
+    "destino": "Lanzarote Island, ES"
+  },
+  "N919PE": {
+    "origem": "Marrakech, MA",
+    "destino": "Berlin, DE"
+  },
+  "RAM602V": {
+    "origem": "Marrakech, MA",
+    "destino": "Marseille, FR"
+  },
+  "IBB5462": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Badajoz, ES"
+  },
+  "TVS3675": {
+    "origem": "Hannover, DE",
+    "destino": "Tenerife Island, ES"
   }
 }
