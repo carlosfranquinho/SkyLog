@@ -21322,5 +21322,21 @@
   "SAS47J": {
     "origem": "Stockholm, SE",
     "destino": "Faro, PT"
+  },
+  "VKG1188": {
+    "origem": "Copenhagen, DK",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "JTD915": {
+    "origem": "Helsinki, FI",
+    "destino": "Tenerife Island, ES"
+  },
+  "TVS4506": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Cologne, DE"
+  },
+  "VKG1326": {
+    "origem": "Helsinki, FI",
+    "destino": "Gran Canaria Island, ES"
   }
 }
