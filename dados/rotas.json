@@ -21402,5 +21402,21 @@
   "EWG6LA": {
     "origem": "Munich, DE",
     "destino": "Düsseldorf, DE"
+  },
+  "TVS4507": {
+    "origem": "Cologne, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "NOZ8TF": {
+    "origem": "Bergen, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "SAS7528": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Stavanger, NO"
+  },
+  "SAS2628": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Copenhagen, DK"
   }
 }
