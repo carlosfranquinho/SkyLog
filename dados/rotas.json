@@ -21386,5 +21386,13 @@
   "EWG39C": {
     "origem": "Düsseldorf, DE",
     "destino": "Lanzarote Island, ES"
+  },
+  "OCN3P": {
+    "origem": "Munich, DE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "SAS2503": {
+    "origem": "Copenhagen, DK",
+    "destino": "Agadir, MA"
   }
 }
