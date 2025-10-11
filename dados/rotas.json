@@ -21338,5 +21338,13 @@
   "VKG1326": {
     "origem": "Helsinki, FI",
     "destino": "Gran Canaria Island, ES"
+  },
+  "SAS2627": {
+    "origem": "Copenhagen, DK",
+    "destino": "Tenerife Island, ES"
+  },
+  "NOZ9460": {
+    "origem": "Trondheim, NO",
+    "destino": "Gran Canaria Island, ES"
   }
 }
