@@ -21466,5 +21466,17 @@
   "RYR9404": {
     "origem": "Faro, PT",
     "destino": "Madrid, ES"
+  },
+  "EDW204": {
+    "origem": "Zürich, CH",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EIN4484": {
+    "origem": "Dublin, IE",
+    "destino": "Lisbon, PT"
+  },
+  "IBS16HL": {
+    "origem": "Madrid, ES",
+    "destino": "Gran Canaria Island, ES"
   }
 }
