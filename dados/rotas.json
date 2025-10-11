@@ -21394,5 +21394,13 @@
   "SAS2503": {
     "origem": "Copenhagen, DK",
     "destino": "Agadir, MA"
+  },
+  "TOM2CB": {
+    "origem": "Manchester, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EWG6LA": {
+    "origem": "Munich, DE",
+    "destino": "Düsseldorf, DE"
   }
 }
