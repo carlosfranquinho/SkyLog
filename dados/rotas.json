@@ -21478,5 +21478,13 @@
   "IBS16HL": {
     "origem": "Madrid, ES",
     "destino": "Gran Canaria Island, ES"
+  },
+  "TVS4473": {
+    "origem": "Hannover, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "NOS631": {
+    "origem": "La Romana, DO",
+    "destino": "Rome, IT"
   }
 }
