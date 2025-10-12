@@ -21498,5 +21498,25 @@
   "VKG1178": {
     "origem": "Copenhagen, DK",
     "destino": "Tenerife Island, ES"
+  },
+  "JTD981": {
+    "origem": "Helsinki, FI",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "VXS4": {
+    "origem": "Edinburgh, GB",
+    "destino": "Shannon, IE"
+  },
+  "SAS7711": {
+    "origem": "Copenhagen, DK",
+    "destino": "Tenerife Island, ES"
+  },
+  "NOS12ST": {
+    "origem": "Bologna, IT",
+    "destino": "Amsterdam, NL"
+  },
+  "JTD467": {
+    "origem": "Aalborg, DK",
+    "destino": "Tenerife Island, ES"
   }
 }
