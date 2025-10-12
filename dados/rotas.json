@@ -21530,5 +21530,21 @@
   "TAP9261": {
     "origem": "Paris, FR",
     "destino": "Lisbon, PT"
+  },
+  "IBS15SM": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "OBS163P": {
+    "origem": "Madrid, ES",
+    "destino": "Lisbon, PT"
+  },
+  "NOS9481": {
+    "origem": "Faro, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "ELY014": {
+    "origem": "John F Kennedy International Airport",
+    "destino": "Ben Gurion International Airport"
   }
 }
