@@ -21486,5 +21486,17 @@
   "NOS631": {
     "origem": "La Romana, DO",
     "destino": "Rome, IT"
+  },
+  "IBS16SJ": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "BLX457": {
+    "origem": "Stockholm, SE",
+    "destino": "Alghero, IT"
+  },
+  "VKG1178": {
+    "origem": "Copenhagen, DK",
+    "destino": "Tenerife Island, ES"
   }
 }
