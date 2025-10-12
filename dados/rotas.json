@@ -21554,5 +21554,17 @@
   "IBE26RZ": {
     "origem": "Los Angeles, US",
     "destino": "Barcelona, ES"
+  },
+  "FLJ64G": {
+    "origem": "Birmingham, GB",
+    "destino": "Manchester, GB"
+  },
+  "TVS4466": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Cologne, DE"
+  },
+  "VKG1372": {
+    "origem": "Helsinki, FI",
+    "destino": "Tenerife Island, ES"
   }
 }
