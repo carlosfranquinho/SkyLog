@@ -21566,5 +21566,17 @@
   "VKG1372": {
     "origem": "Helsinki, FI",
     "destino": "Tenerife Island, ES"
+  },
+  "RAM615A": {
+    "origem": "Bordeaux, FR",
+    "destino": "Marrakech, MA"
+  },
+  "UAE232": {
+    "origem": "Washington, US",
+    "destino": "Dubai, AE"
+  },
+  "TAP9262": {
+    "origem": "Accra, GH",
+    "destino": "Lisbon, PT"
   }
 }
