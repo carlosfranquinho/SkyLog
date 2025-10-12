@@ -21578,5 +21578,13 @@
   "TAP9262": {
     "origem": "Accra, GH",
     "destino": "Lisbon, PT"
+  },
+  "AEA1423": {
+    "origem": "Madrid, ES",
+    "destino": "Marrakech, MA"
+  },
+  "TVS3676": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Leipzig, DE"
   }
 }
