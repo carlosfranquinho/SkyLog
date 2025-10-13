@@ -21666,5 +21666,9 @@
   "VPCYP": {
     "origem": "Stockholm, SE",
     "destino": "Sharjah, AE"
+  },
+  "PVG384P": {
+    "origem": "Lisbon, PT",
+    "destino": "Madrid, ES"
   }
 }
