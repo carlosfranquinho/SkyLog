@@ -21606,5 +21606,21 @@
   "UAE238": {
     "origem": "Boston, US",
     "destino": "Dubai, AE"
+  },
+  "JTD469": {
+    "origem": "Aalborg, DK",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "JTD297": {
+    "origem": "Copenhagen, DK",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "TVS4468": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Leipzig, DE"
+  },
+  "VKG1352": {
+    "origem": "Turku, FI",
+    "destino": "Gran Canaria Island, ES"
   }
 }
