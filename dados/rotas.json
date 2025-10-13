@@ -21654,5 +21654,13 @@
   "GJT8VZ": {
     "origem": "Vilnius, LT",
     "destino": "Funchal, PT"
+  },
+  "PVG3984": {
+    "origem": "Budapest, HU",
+    "destino": "Lisbon, PT"
+  },
+  "JTD784": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Jönköping, SE"
   }
 }
