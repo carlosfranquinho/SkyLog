@@ -21630,5 +21630,25 @@
   "VKG444": {
     "origem": "Copenhagen, DK",
     "destino": "Espargos, CV"
+  },
+  "NBT50V": {
+    "origem": "New York, US",
+    "destino": "Athens, GR"
+  },
+  "UAE214": {
+    "origem": "Bogota, CO",
+    "destino": "Dubai, AE"
+  },
+  "ABF9": {
+    "origem": "Tallinn, EE",
+    "destino": "Helsinki, FI"
+  },
+  "JTD283": {
+    "origem": "Copenhagen, DK",
+    "destino": "Souda, GR"
+  },
+  "HTT101": {
+    "origem": "San Francisco, US",
+    "destino": "Honolulu, US"
   }
 }
