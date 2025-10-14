@@ -21734,5 +21734,17 @@
   "TOM7BW": {
     "origem": "Tenerife Island, ES",
     "destino": "London, GB"
+  },
+  "BLX342": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Gothenburg, SE"
+  },
+  "GAF917": {
+    "origem": "Nürnberg, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "FIN8902": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Helsinki, FI"
   }
 }
