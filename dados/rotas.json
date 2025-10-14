@@ -21710,5 +21710,13 @@
   "VKG1736": {
     "origem": "Gothenburg, SE",
     "destino": "Tenerife Island, ES"
+  },
+  "VKG1728": {
+    "origem": "Stockholm, SE",
+    "destino": "Tenerife Island, ES"
+  },
+  "VKG818": {
+    "origem": "Helsinki, FI",
+    "destino": "Espargos, CV"
   }
 }
