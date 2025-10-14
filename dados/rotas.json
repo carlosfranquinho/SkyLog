@@ -21718,5 +21718,17 @@
   "VKG818": {
     "origem": "Helsinki, FI",
     "destino": "Espargos, CV"
+  },
+  "FIN1699": {
+    "origem": "Helsinki, FI",
+    "destino": "Lanzarote Island, ES"
+  },
+  "WPT154P": {
+    "origem": "Lisbon, PT",
+    "destino": "Madrid, ES"
+  },
+  "EXS6DF": {
+    "origem": "Marrakech, MA",
+    "destino": "Newcastle, GB"
   }
 }
