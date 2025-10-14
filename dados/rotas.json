@@ -21686,5 +21686,21 @@
   "CFG2RY": {
     "origem": "Düsseldorf, DE",
     "destino": "Faro, PT"
+  },
+  "LGL405": {
+    "origem": "Luxembourg, LU",
+    "destino": "Diass, SN"
+  },
+  "TOM69C": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "QTR7A": {
+    "origem": "Washington, US",
+    "destino": "Doha, QA"
+  },
+  "ANE3223": {
+    "origem": "Valencia, ES",
+    "destino": "Algiers, DZ"
   }
 }
