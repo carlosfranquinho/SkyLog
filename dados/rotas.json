@@ -21746,5 +21746,13 @@
   "FIN8902": {
     "origem": "Lanzarote Island, ES",
     "destino": "Helsinki, FI"
+  },
+  "EWG600": {
+    "origem": "Cologne, DE",
+    "destino": "Lisbon, PT"
+  },
+  "AIZ302": {
+    "origem": "Katowice, PL",
+    "destino": "Tel Aviv, IL"
   }
 }
