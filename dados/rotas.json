@@ -21762,5 +21762,13 @@
   "TFL1576": {
     "origem": "Lanzarote Island, ES",
     "destino": "Amsterdam, NL"
+  },
+  "VKG4019": {
+    "origem": "Alanya, TR",
+    "destino": "Helsinki, FI"
+  },
+  "WMT405": {
+    "origem": "Sofia, BG",
+    "destino": "Bucharest, RO"
   }
 }
