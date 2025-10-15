@@ -21770,5 +21770,9 @@
   "WMT405": {
     "origem": "Sofia, BG",
     "destino": "Bucharest, RO"
+  },
+  "NOS782": {
+    "origem": "New York, US",
+    "destino": "Bari, IT"
   }
 }
