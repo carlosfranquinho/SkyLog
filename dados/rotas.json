@@ -21790,5 +21790,13 @@
   "AAL720": {
     "origem": "Charlotte, US",
     "destino": "Rome, IT"
+  },
+  "WZZ7CF": {
+    "origem": "Lisbon, PT",
+    "destino": "Budapest, HU"
+  },
+  "ITY6MO": {
+    "origem": "Miami, US",
+    "destino": "Rome, IT"
   }
 }
