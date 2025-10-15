@@ -21798,5 +21798,21 @@
   "ITY6MO": {
     "origem": "Miami, US",
     "destino": "Rome, IT"
+  },
+  "ELY116": {
+    "origem": "Boston, US",
+    "destino": "Tel Aviv, IL"
+  },
+  "QTR59P": {
+    "origem": "New York, US",
+    "destino": "Doha, QA"
+  },
+  "ELY026": {
+    "origem": "Newark Liberty International Airport",
+    "destino": "Ben Gurion International Airport"
+  },
+  "VKG1172": {
+    "origem": "Copenhagen, DK",
+    "destino": "Gran Canaria Island, ES"
   }
 }
