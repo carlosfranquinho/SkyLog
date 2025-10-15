@@ -21834,5 +21834,13 @@
   "NBT41R": {
     "origem": "Los Angeles, US",
     "destino": "Rome, IT"
+  },
+  "WMT8517": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Rome, IT"
+  },
+  "VKG1173": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Copenhagen, DK"
   }
 }
