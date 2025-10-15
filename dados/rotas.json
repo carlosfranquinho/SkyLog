@@ -21846,5 +21846,13 @@
   "VKG1359": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Kuopio / Siilinjärvi, FI"
+  },
+  "THY6890": {
+    "origem": "Lisbon, PT",
+    "destino": "Istanbul, TR"
+  },
+  "AVA182A": {
+    "origem": "Bogota, CO",
+    "destino": "Madrid, ES"
   }
 }
