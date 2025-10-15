@@ -21818,5 +21818,17 @@
   "RYR6608": {
     "origem": "Madrid, ES",
     "destino": "Rabat, MA"
+  },
+  "EJU15BT": {
+    "origem": "Porto, PT",
+    "destino": "Bristol, GB"
+  },
+  "EJU69GY": {
+    "origem": "Geneva, CH",
+    "destino": "Faro, PT"
+  },
+  "FLI498": {
+    "origem": "Vagar, FO",
+    "destino": "Faro, PT"
   }
 }
