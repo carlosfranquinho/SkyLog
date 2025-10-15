@@ -21858,5 +21858,9 @@
   "EJU9884": {
     "origem": "Catania-Fontanarossa Airport",
     "destino": "Charles de Gaulle International Airport"
+  },
+  "FHY914": {
+    "origem": "Copenhagen, DK",
+    "destino": "Antalya, TR"
   }
 }
