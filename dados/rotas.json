@@ -21866,5 +21866,17 @@
   "RYR2QP": {
     "origem": "Toulouse, FR",
     "destino": "Faro, PT"
+  },
+  "VOE2364": {
+    "origem": "Brest/Guipavas, FR",
+    "destino": "Faro, PT"
+  },
+  "RZO9129": {
+    "origem": "Lisbon, PT",
+    "destino": "Ponta Delgada, PT"
+  },
+  "RYR9898": {
+    "origem": "Liverpool, GB",
+    "destino": "Alicante, ES"
   }
 }
