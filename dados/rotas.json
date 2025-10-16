@@ -21934,5 +21934,13 @@
   "JAF1315": {
     "origem": "Faro, PT",
     "destino": "Brussels, BE"
+  },
+  "EIN492": {
+    "origem": "Dublin, IE",
+    "destino": "Faro, PT"
+  },
+  "QTR706": {
+    "origem": "New York, US",
+    "destino": "Doha, QA"
   }
 }
