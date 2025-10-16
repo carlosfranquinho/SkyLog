@@ -21914,5 +21914,25 @@
   "TSC260": {
     "origem": "Montréal, CA",
     "destino": "Barcelona, ES"
+  },
+  "RYR5VK": {
+    "origem": "Madrid, ES",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EJU4885": {
+    "origem": "Paris-Orly Airport",
+    "destino": "Faro Airport"
+  },
+  "TFL6LW": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "VKG628": {
+    "origem": "Stockholm, SE",
+    "destino": "Espargos, CV"
+  },
+  "JAF1315": {
+    "origem": "Faro, PT",
+    "destino": "Brussels, BE"
   }
 }
