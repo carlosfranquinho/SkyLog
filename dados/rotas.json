@@ -21954,5 +21954,13 @@
   "VOE2220": {
     "origem": "Nantes, FR",
     "destino": "Faro, PT"
+  },
+  "EXS010P": {
+    "origem": "Birmingham, GB",
+    "destino": "Paphos, CY"
+  },
+  "SVF648": {
+    "origem": "Stockholm, SE",
+    "destino": "Lisbon, PT"
   }
 }
