@@ -21942,5 +21942,17 @@
   "QTR706": {
     "origem": "New York, US",
     "destino": "Doha, QA"
+  },
+  "BAW412M": {
+    "origem": "London, GB",
+    "destino": "Málaga, ES"
+  },
+  "RYR54EZ": {
+    "origem": "Budapest, HU",
+    "destino": "Faro, PT"
+  },
+  "VOE2220": {
+    "origem": "Nantes, FR",
+    "destino": "Faro, PT"
   }
 }
