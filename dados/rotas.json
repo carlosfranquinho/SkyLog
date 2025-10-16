@@ -22002,5 +22002,21 @@
   "N115JS": {
     "origem": "Luqa, MT",
     "destino": "Lisbon, PT"
+  },
+  "TAP9264": {
+    "origem": "Porto, PT",
+    "destino": "Lisbon, PT"
+  },
+  "VOE2098": {
+    "origem": "Lyon, FR",
+    "destino": "Faro, PT"
+  },
+  "CXI37JF": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Hannover, DE"
+  },
+  "VOE2729": {
+    "origem": "Lisbon, PT",
+    "destino": "Nantes, FR"
   }
 }
