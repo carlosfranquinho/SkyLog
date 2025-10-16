@@ -21878,5 +21878,21 @@
   "RYR9898": {
     "origem": "Liverpool, GB",
     "destino": "Alicante, ES"
+  },
+  "THY6908": {
+    "origem": "Moscow, RU",
+    "destino": "Istanbul, TR"
+  },
+  "ITY6KC": {
+    "origem": "New York, US",
+    "destino": "Rome, IT"
+  },
+  "VOE2365": {
+    "origem": "Faro, PT",
+    "destino": "Brest/Guipavas, FR"
+  },
+  "QTR744": {
+    "origem": "Boston, US",
+    "destino": "Doha, QA"
   }
 }
