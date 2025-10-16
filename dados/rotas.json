@@ -21990,5 +21990,9 @@
   "BCS841P": {
     "origem": "Madrid, ES",
     "destino": "Paris, FR"
+  },
+  "VOE2406": {
+    "origem": "Lille/Lesquin, FR",
+    "destino": "Faro, PT"
   }
 }
