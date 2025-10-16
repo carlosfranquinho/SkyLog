@@ -21994,5 +21994,13 @@
   "VOE2406": {
     "origem": "Lille/Lesquin, FR",
     "destino": "Faro, PT"
+  },
+  "CFG9MZ": {
+    "origem": "Funchal, PT",
+    "destino": "Stuttgart, DE"
+  },
+  "N115JS": {
+    "origem": "Luqa, MT",
+    "destino": "Lisbon, PT"
   }
 }
