@@ -21898,5 +21898,21 @@
   "VKG1164": {
     "origem": "Copenhagen, DK",
     "destino": "Gran Canaria Island, ES"
+  },
+  "VKG1214": {
+    "origem": "Billund, DK",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "ETD9SM": {
+    "origem": "Atlanta, US",
+    "destino": "Abu Dhabi, AE"
+  },
+  "JTD421": {
+    "origem": "Aalborg, DK",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TSC260": {
+    "origem": "Montréal, CA",
+    "destino": "Barcelona, ES"
   }
 }
