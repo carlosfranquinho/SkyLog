@@ -22058,5 +22058,13 @@
   "VKG1454": {
     "origem": "Malmö, SE",
     "destino": "Gran Canaria Island, ES"
+  },
+  "ANE3033": {
+    "origem": "Alicante, ES",
+    "destino": "Valencia, ES"
+  },
+  "GAF742": {
+    "origem": "Nürnberg, DE",
+    "destino": "Cologne, DE"
   }
 }
