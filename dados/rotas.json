@@ -22106,5 +22106,9 @@
   "TFL4642": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Amsterdam, NL"
+  },
+  "IBS15NE": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Madrid, ES"
   }
 }
