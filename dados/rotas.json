@@ -22066,5 +22066,17 @@
   "GAF742": {
     "origem": "Nürnberg, DE",
     "destino": "Cologne, DE"
+  },
+  "CAT702": {
+    "origem": "Sta Cruz de la Palma, La Palma Island, ES",
+    "destino": "Billund, DK"
+  },
+  "VOE3925": {
+    "origem": "Ranón, ES",
+    "destino": "Málaga, ES"
+  },
+  "CFG6HF": {
+    "origem": "Munich, DE",
+    "destino": "Lanzarote Island, ES"
   }
 }
