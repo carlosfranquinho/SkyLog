@@ -22078,5 +22078,13 @@
   "CFG6HF": {
     "origem": "Munich, DE",
     "destino": "Lanzarote Island, ES"
+  },
+  "VKG1159": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Copenhagen, DK"
+  },
+  "VKG1345": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Helsinki, FI"
   }
 }
