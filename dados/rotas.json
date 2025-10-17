@@ -22094,5 +22094,9 @@
   "WMT6053": {
     "origem": "Rome, IT",
     "destino": "Tenerife Island, ES"
+  },
+  "FIN1702": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Helsinki, FI"
   }
 }
