@@ -22098,5 +22098,13 @@
   "FIN1702": {
     "origem": "Fuerteventura Island, ES",
     "destino": "Helsinki, FI"
+  },
+  "TVS4511": {
+    "origem": "Berlin, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "TFL4642": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Amsterdam, NL"
   }
 }
