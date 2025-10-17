@@ -22026,5 +22026,13 @@
   "TOM417": {
     "origem": "Monastir, TN",
     "destino": "Manchester, GB"
+  },
+  "SAS7721": {
+    "origem": "Copenhagen, DK",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "VKG1344": {
+    "origem": "Helsinki, FI",
+    "destino": "Gran Canaria Island, ES"
   }
 }
