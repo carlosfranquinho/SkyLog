@@ -22190,5 +22190,21 @@
   "EXS5SQ": {
     "origem": "London, GB",
     "destino": "Tenerife Island, ES"
+  },
+  "RYR15XZ": {
+    "origem": "Faro, PT",
+    "destino": "Madrid, ES"
+  },
+  "ANE19TF": {
+    "origem": "Casablanca, MA",
+    "destino": "Madrid, ES"
+  },
+  "RAM764B": {
+    "origem": "Casablanca, MA",
+    "destino": "Paris, FR"
+  },
+  "VLG6SF": {
+    "origem": "Sevilla, ES",
+    "destino": "Paris, FR"
   }
 }
