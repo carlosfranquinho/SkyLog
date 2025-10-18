@@ -22114,5 +22114,17 @@
   "CND546": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Amsterdam, NL"
+  },
+  "BCS18K": {
+    "origem": "Barcelona, ES",
+    "destino": "Lisbon, PT"
+  },
+  "EXS67L": {
+    "origem": "Nottingham, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "CAT711": {
+    "origem": "Billund, DK",
+    "destino": "Gran Canaria Island, ES"
   }
 }
