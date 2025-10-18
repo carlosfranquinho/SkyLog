@@ -22266,5 +22266,25 @@
   "BLX252": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Stockholm, SE"
+  },
+  "JTD916": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Helsinki, FI"
+  },
+  "TVF13QD": {
+    "origem": "Marrakech, MA",
+    "destino": "Paris, FR"
+  },
+  "BEL1681": {
+    "origem": "Brussels, BE",
+    "destino": "Faro, PT"
+  },
+  "FLI7181": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Billund, DK"
+  },
+  "MAC827": {
+    "origem": "Rabat, MA",
+    "destino": "Paris, FR"
   }
 }
