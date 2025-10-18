@@ -22314,5 +22314,13 @@
   "BEL1682": {
     "origem": "Faro, PT",
     "destino": "Brussels, BE"
+  },
+  "VKG1135": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Copenhagen, DK"
+  },
+  "TRA1B": {
+    "origem": "Málaga, ES",
+    "destino": "Amsterdam, NL"
   }
 }
