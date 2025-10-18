@@ -22110,5 +22110,9 @@
   "IBS15NE": {
     "origem": "Lanzarote Island, ES",
     "destino": "Madrid, ES"
+  },
+  "CND546": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Amsterdam, NL"
   }
 }
