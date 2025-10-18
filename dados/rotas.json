@@ -22206,5 +22206,37 @@
   "VLG6SF": {
     "origem": "Sevilla, ES",
     "destino": "Paris, FR"
+  },
+  "EJU4378": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Lyon, FR"
+  },
+  "NOZ77N": {
+    "origem": "Trondheim, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "LGL155": {
+    "origem": "Luxembourg, LU",
+    "destino": "Tenerife Island, ES"
+  },
+  "CAT712": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Billund, DK"
+  },
+  "VLG90DF": {
+    "origem": "Barcelona, ES",
+    "destino": "Faro, PT"
+  },
+  "NOZ9066": {
+    "origem": "Oslo, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "MAC393": {
+    "origem": "Casablanca, MA",
+    "destino": "Madrid, ES"
+  },
+  "VKG1219": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Billund, DK"
   }
 }
