@@ -22126,5 +22126,37 @@
   "CAT711": {
     "origem": "Billund, DK",
     "destino": "Gran Canaria Island, ES"
+  },
+  "VKG1218": {
+    "origem": "Billund, DK",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EXS86K": {
+    "origem": "Manchester, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EXS93W": {
+    "origem": "Liverpool, GB",
+    "destino": "Kerkyra Island, GR"
+  },
+  "LGL788": {
+    "origem": "Faro, PT",
+    "destino": "Luxembourg, LU"
+  },
+  "RAM608": {
+    "origem": "Marrakech, MA",
+    "destino": "Nantes, FR"
+  },
+  "EXS30L": {
+    "origem": "Liverpool, GB",
+    "destino": "Bodrum, TR"
+  },
+  "VKG1522": {
+    "origem": "Bergen, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "VKG1327": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Helsinki, FI"
   }
 }
