@@ -22170,5 +22170,17 @@
   "NOZ2HL": {
     "origem": "Karmøy, NO",
     "destino": "Gran Canaria Island, ES"
+  },
+  "SAS7527": {
+    "origem": "Stavanger, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "SAS76R": {
+    "origem": "Trondheim, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EWG4256": {
+    "origem": "Prague, CZ",
+    "destino": "Funchal, PT"
   }
 }
