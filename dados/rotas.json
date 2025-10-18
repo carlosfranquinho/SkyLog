@@ -22182,5 +22182,13 @@
   "EWG4256": {
     "origem": "Prague, CZ",
     "destino": "Funchal, PT"
+  },
+  "SAS7409": {
+    "origem": "Stavanger, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EXS5SQ": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
   }
 }
