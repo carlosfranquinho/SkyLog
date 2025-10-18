@@ -22158,5 +22158,17 @@
   "VKG1327": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Helsinki, FI"
+  },
+  "EWG2534": {
+    "origem": "Stuttgart, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "VKG1458": {
+    "origem": "Malmö, SE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "NOZ2HL": {
+    "origem": "Karmøy, NO",
+    "destino": "Gran Canaria Island, ES"
   }
 }
