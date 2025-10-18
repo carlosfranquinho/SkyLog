@@ -22238,5 +22238,33 @@
   "VKG1219": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Billund, DK"
+  },
+  "AFR1259": {
+    "origem": "Rabat, MA",
+    "destino": "Paris, FR"
+  },
+  "ICE573": {
+    "origem": "Málaga, ES",
+    "destino": "Reykjavík, IS"
+  },
+  "EWG8XL": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Stuttgart, DE"
+  },
+  "SWT183": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "VOE2302": {
+    "origem": "Nantes, FR",
+    "destino": "Agadir, MA"
+  },
+  "AEA9047": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "BLX252": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Stockholm, SE"
   }
 }
