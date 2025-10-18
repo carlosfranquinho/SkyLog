@@ -22298,5 +22298,21 @@
   "BTI1761": {
     "origem": "Riga, LV",
     "destino": "Tenerife Island, ES"
+  },
+  "AFR75BC": {
+    "origem": "Marrakech, MA",
+    "destino": "Paris, FR"
+  },
+  "EWG7089": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Hamburg, DE"
+  },
+  "BTI762": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Riga, LV"
+  },
+  "BEL1682": {
+    "origem": "Faro, PT",
+    "destino": "Brussels, BE"
   }
 }
