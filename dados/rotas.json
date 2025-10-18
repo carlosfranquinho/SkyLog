@@ -22286,5 +22286,17 @@
   "MAC827": {
     "origem": "Rabat, MA",
     "destino": "Paris, FR"
+  },
+  "JTD466": {
+    "origem": "Varna, BG",
+    "destino": "Aalborg, DK"
+  },
+  "RAM740X": {
+    "origem": "Marrakech, MA",
+    "destino": "Paris, FR"
+  },
+  "BTI1761": {
+    "origem": "Riga, LV",
+    "destino": "Tenerife Island, ES"
   }
 }
