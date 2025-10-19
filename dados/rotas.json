@@ -22422,5 +22422,21 @@
   "VKG1179": {
     "origem": "Tenerife Island, ES",
     "destino": "Copenhagen, DK"
+  },
+  "SAS7712": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Copenhagen, DK"
+  },
+  "SAS7494": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Stavanger, NO"
+  },
+  "N190QS": {
+    "origem": "London, GB",
+    "destino": "Olbia, IT"
+  },
+  "JTD320": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Copenhagen, DK"
   }
 }
