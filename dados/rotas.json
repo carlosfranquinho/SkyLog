@@ -22374,5 +22374,17 @@
   "JTD207": {
     "origem": "Copenhagen, DK",
     "destino": "Gran Canaria Island, ES"
+  },
+  "TAP3830": {
+    "origem": "Funchal, PT",
+    "destino": "Lisbon, PT"
+  },
+  "IBE03EE": {
+    "origem": "Madrid, ES",
+    "destino": "Washington, US"
+  },
+  "SAS7495": {
+    "origem": "Bergen, NO",
+    "destino": "Tenerife Island, ES"
   }
 }
