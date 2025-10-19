@@ -22334,5 +22334,9 @@
   "EXS11BU": {
     "origem": "Fuerteventura Island, ES",
     "destino": "Glasgow, GB"
+  },
+  "TAP11VP": {
+    "origem": "Sevilla, ES",
+    "destino": "Lisbon, PT"
   }
 }
