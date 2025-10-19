@@ -22454,5 +22454,13 @@
   "VKG1314": {
     "origem": "Helsinki, FI",
     "destino": "Tenerife Island, ES"
+  },
+  "SAZ73": {
+    "origem": "Vienna, AT",
+    "destino": "Zürich, CH"
+  },
+  "TVS84J": {
+    "origem": "Helsinki, FI",
+    "destino": "Zürich, CH"
   }
 }
