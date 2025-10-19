@@ -22462,5 +22462,9 @@
   "TVS84J": {
     "origem": "Helsinki, FI",
     "destino": "Zürich, CH"
+  },
+  "OCN79R": {
+    "origem": "Marrakech, MA",
+    "destino": "Frankfurt-am-Main, DE"
   }
 }
