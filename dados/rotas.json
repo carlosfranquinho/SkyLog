@@ -22386,5 +22386,13 @@
   "SAS7495": {
     "origem": "Bergen, NO",
     "destino": "Tenerife Island, ES"
+  },
+  "IBE258": {
+    "origem": "Tocumen, PA",
+    "destino": "Madrid, ES"
+  },
+  "LGL326": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Luxembourg, LU"
   }
 }
