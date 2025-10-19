@@ -22398,5 +22398,13 @@
   "IBB86BH": {
     "origem": "Zaragoza, ES",
     "destino": "Tenerife Island, ES"
+  },
+  "EXS049A": {
+    "origem": "Nottingham, GB",
+    "destino": "Manchester, GB"
+  },
+  "TVF3202": {
+    "origem": "Paris, FR",
+    "destino": "Sevilla, ES"
   }
 }
