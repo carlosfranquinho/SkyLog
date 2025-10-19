@@ -22338,5 +22338,21 @@
   "TAP11VP": {
     "origem": "Sevilla, ES",
     "destino": "Lisbon, PT"
+  },
+  "RYR422": {
+    "origem": "Catania, IT",
+    "destino": "Bergamo, IT"
+  },
+  "TAP172": {
+    "origem": "Caracas, VE",
+    "destino": "Lisbon, PT"
+  },
+  "TAP1484": {
+    "origem": "Diass, SN",
+    "destino": "Lisbon, PT"
+  },
+  "LGL157": {
+    "origem": "Luxembourg, LU",
+    "destino": "Tenerife Island, ES"
   }
 }
