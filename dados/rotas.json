@@ -22406,5 +22406,21 @@
   "TVF3202": {
     "origem": "Paris, FR",
     "destino": "Sevilla, ES"
+  },
+  "BLX458": {
+    "origem": "Alghero, IT",
+    "destino": "Stockholm, SE"
+  },
+  "RYR4527": {
+    "origem": "Brussels, BE",
+    "destino": "Bergamo, IT"
+  },
+  "JTD208": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Copenhagen, DK"
+  },
+  "VKG1179": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Copenhagen, DK"
   }
 }
