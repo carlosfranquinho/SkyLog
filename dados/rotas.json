@@ -22518,5 +22518,13 @@
   "AFR816": {
     "origem": "Paris, FR",
     "destino": "Fort-de-France, MQ"
+  },
+  "AFR758": {
+    "origem": "Paris, FR",
+    "destino": "Pointe-à-Pitre Le Raizet, GP"
+  },
+  "BLX540": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Stockholm, SE"
   }
 }
