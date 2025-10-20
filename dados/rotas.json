@@ -22506,5 +22506,13 @@
   "AFR504": {
     "origem": "Paris, FR",
     "destino": "Lima, PE"
+  },
+  "VKG1309": {
+    "origem": "Funchal, PT",
+    "destino": "Helsinki, FI"
+  },
+  "JTD298": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Copenhagen, DK"
   }
 }
