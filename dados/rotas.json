@@ -22478,5 +22478,17 @@
   "VKG1353": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Turku, FI"
+  },
+  "AZU8752": {
+    "origem": "Campinas, BR",
+    "destino": "Lisbon, PT"
+  },
+  "TVF3226": {
+    "origem": "Paris, FR",
+    "destino": "Tunis, TN"
+  },
+  "BLX4DC": {
+    "origem": "Stockholm, SE",
+    "destino": "Lanzarote Island, ES"
   }
 }
