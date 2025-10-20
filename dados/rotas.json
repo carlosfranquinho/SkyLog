@@ -22490,5 +22490,13 @@
   "BLX4DC": {
     "origem": "Stockholm, SE",
     "destino": "Lanzarote Island, ES"
+  },
+  "AFR842": {
+    "origem": "Paris, FR",
+    "destino": "Fort-de-France, MQ"
+  },
+  "LGL706": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Luxembourg, LU"
   }
 }
