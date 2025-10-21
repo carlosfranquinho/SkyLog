@@ -22598,5 +22598,17 @@
   "FPO706": {
     "origem": "Souda, GR",
     "destino": "Manchester, GB"
+  },
+  "CTN8007": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Lisbon, PT"
+  },
+  "VKG1729": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Stockholm, SE"
+  },
+  "TOM32K": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
   }
 }
