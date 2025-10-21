@@ -22622,5 +22622,13 @@
   "TOM41E": {
     "origem": "Marrakech, MA",
     "destino": "London, GB"
+  },
+  "TOM291": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
+  },
+  "RYR98PM": {
+    "origem": "Dakhla, EH",
+    "destino": "Madrid, ES"
   }
 }
