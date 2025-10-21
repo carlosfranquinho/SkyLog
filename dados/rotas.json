@@ -22546,5 +22546,25 @@
   "TOM1XT": {
     "origem": "Newcastle, GB",
     "destino": "Tenerife Island, ES"
+  },
+  "EXS6VN": {
+    "origem": "Newcastle, GB",
+    "destino": "Marrakech, MA"
+  },
+  "ACA812": {
+    "origem": "Montréal, CA",
+    "destino": "Lisbon, PT"
+  },
+  "TSC480": {
+    "origem": "Toronto, CA",
+    "destino": "Lisbon, PT"
+  },
+  "VKG1210": {
+    "origem": "Billund, DK",
+    "destino": "Tenerife Island, ES"
+  },
+  "EIN580": {
+    "origem": "Dublin, IE",
+    "destino": "Málaga, ES"
   }
 }
