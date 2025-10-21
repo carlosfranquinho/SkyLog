@@ -22610,5 +22610,13 @@
   "TOM32K": {
     "origem": "London, GB",
     "destino": "Tenerife Island, ES"
+  },
+  "EJU7694": {
+    "origem": "Marrakech, MA",
+    "destino": "Lisbon, PT"
+  },
+  "CTM1016": {
+    "origem": "Vancouver, CA",
+    "destino": "Honolulu, US"
   }
 }
