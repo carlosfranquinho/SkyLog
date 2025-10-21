@@ -22538,5 +22538,13 @@
   "RYR971": {
     "origem": "Zadar, HR",
     "destino": "Stockholm, SE"
+  },
+  "WPT3154": {
+    "origem": "Punta Cana, DO",
+    "destino": "Lisbon, PT"
+  },
+  "TOM1XT": {
+    "origem": "Newcastle, GB",
+    "destino": "Tenerife Island, ES"
   }
 }
