@@ -22586,5 +22586,17 @@
   "VKG1737": {
     "origem": "Tenerife Island, ES",
     "destino": "Gothenburg, SE"
+  },
+  "TOM9TK": {
+    "origem": "Manchester, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "VKG1553": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Oslo, NO"
+  },
+  "FPO706": {
+    "origem": "Souda, GR",
+    "destino": "Manchester, GB"
   }
 }
