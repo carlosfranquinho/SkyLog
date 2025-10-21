@@ -22566,5 +22566,13 @@
   "EIN580": {
     "origem": "Dublin, IE",
     "destino": "Málaga, ES"
+  },
+  "BLX3CG": {
+    "origem": "Helsinki, FI",
+    "destino": "Rabil, CV"
+  },
+  "OBS852": {
+    "origem": "Punta Cana, DO",
+    "destino": "Lisbon, PT"
   }
 }
