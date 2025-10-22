@@ -22634,5 +22634,13 @@
   "EZY7509": {
     "origem": "Faro, PT",
     "destino": "Bristol, GB"
+  },
+  "VKG1838": {
+    "origem": "Gothenburg, SE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "CFG3MX": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Sta Cruz de la Palma, La Palma Island, ES"
   }
 }
