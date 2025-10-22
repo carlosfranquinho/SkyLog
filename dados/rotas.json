@@ -22658,5 +22658,9 @@
   "FLJ61H": {
     "origem": "Dublin, IE",
     "destino": "Bristol, GB"
+  },
+  "TAP1439": {
+    "origem": "Casablanca, MA",
+    "destino": "Lisbon, PT"
   }
 }
