@@ -22642,5 +22642,9 @@
   "CFG3MX": {
     "origem": "Frankfurt-am-Main, DE",
     "destino": "Sta Cruz de la Palma, La Palma Island, ES"
+  },
+  "AVA019A": {
+    "origem": "Barcelona, ES",
+    "destino": "Bogota, CO"
   }
 }
