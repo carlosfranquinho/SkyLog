@@ -22650,5 +22650,13 @@
   "VKG1325": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Helsinki, FI"
+  },
+  "VKG1839": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Gothenburg, SE"
+  },
+  "FLJ61H": {
+    "origem": "Dublin, IE",
+    "destino": "Bristol, GB"
   }
 }
