@@ -22662,5 +22662,9 @@
   "TAP1439": {
     "origem": "Casablanca, MA",
     "destino": "Lisbon, PT"
+  },
+  "FPO705": {
+    "origem": "Manchester, GB",
+    "destino": "Souda, GR"
   }
 }
