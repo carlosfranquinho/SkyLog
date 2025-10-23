@@ -22674,5 +22674,13 @@
   "TAP1528": {
     "origem": "São Tomé, ST",
     "destino": "Lisbon, PT"
+  },
+  "TAP232Y": {
+    "origem": "Washington, US",
+    "destino": "Lisbon, PT"
+  },
+  "TAP224": {
+    "origem": "Miami, US",
+    "destino": "Lisbon, PT"
   }
 }
