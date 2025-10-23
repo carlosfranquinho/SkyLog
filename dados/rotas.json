@@ -22670,5 +22670,9 @@
   "FPO707": {
     "origem": "Manchester, GB",
     "destino": "Heraklion, GR"
+  },
+  "TAP1528": {
+    "origem": "São Tomé, ST",
+    "destino": "Lisbon, PT"
   }
 }
