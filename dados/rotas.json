@@ -22726,5 +22726,13 @@
   "TVS4465": {
     "origem": "Düsseldorf, DE",
     "destino": "Gran Canaria Island, ES"
+  },
+  "TOM8MB": {
+    "origem": "Manchester, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "VKG629": {
+    "origem": "Espargos, CV",
+    "destino": "Stockholm, SE"
   }
 }
