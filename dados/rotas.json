@@ -22774,5 +22774,13 @@
   "VKG1455": {
     "origem": "Larnarca, CY",
     "destino": "Borlange, SE"
+  },
+  "SAS7678": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Gothenburg, SE"
+  },
+  "PVG1993": {
+    "origem": "Nottingham, GB",
+    "destino": "Porto, PT"
   }
 }
