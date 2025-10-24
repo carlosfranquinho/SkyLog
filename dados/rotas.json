@@ -22766,5 +22766,9 @@
   "SAS7529": {
     "origem": "Kjevik, NO",
     "destino": "Gran Canaria Island, ES"
+  },
+  "SAS7679": {
+    "origem": "Stockholm, SE",
+    "destino": "Fuerteventura Island, ES"
   }
 }
