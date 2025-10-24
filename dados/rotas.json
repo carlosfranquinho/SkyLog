@@ -22742,5 +22742,13 @@
   "RYR320": {
     "origem": "Vienna, AT",
     "destino": "Istanbul, TR"
+  },
+  "TAP1901": {
+    "origem": "Lisbon, PT",
+    "destino": "Faro, PT"
+  },
+  "JTD575": {
+    "origem": "Billund, DK",
+    "destino": "Palma De Mallorca, ES"
   }
 }
