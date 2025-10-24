@@ -22782,5 +22782,17 @@
   "PVG1993": {
     "origem": "Nottingham, GB",
     "destino": "Porto, PT"
+  },
+  "JAF2051": {
+    "origem": "Brussels, BE",
+    "destino": "Brussels, BE"
+  },
+  "SAS7680": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Gothenburg, SE"
+  },
+  "TVS3681": {
+    "origem": "Stuttgart, DE",
+    "destino": "Tenerife Island, ES"
   }
 }
