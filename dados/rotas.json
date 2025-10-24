@@ -22750,5 +22750,17 @@
   "JTD575": {
     "origem": "Billund, DK",
     "destino": "Palma De Mallorca, ES"
+  },
+  "VKG9168": {
+    "origem": "Växjö, SE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "SAS7677": {
+    "origem": "Gothenburg, SE",
+    "destino": "Tenerife Island, ES"
+  },
+  "AFR453A": {
+    "origem": "Pau/Pyrénées (Uzein), FR",
+    "destino": "Paris, FR"
   }
 }
