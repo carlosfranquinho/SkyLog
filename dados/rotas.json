@@ -22866,5 +22866,13 @@
   "TVS3674": {
     "origem": "Tenerife Island, ES",
     "destino": "Hannover, DE"
+  },
+  "JTD465": {
+    "origem": "Aalborg, DK",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "WUK15NR": {
+    "origem": "Málaga, ES",
+    "destino": "London, GB"
   }
 }
