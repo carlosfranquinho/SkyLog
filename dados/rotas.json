@@ -22874,5 +22874,13 @@
   "WUK15NR": {
     "origem": "Málaga, ES",
     "destino": "London, GB"
+  },
+  "EWG18A": {
+    "origem": "Sta Cruz de la Palma, La Palma Island, ES",
+    "destino": "Stuttgart, DE"
+  },
+  "EWG2265": {
+    "origem": "Funchal, PT",
+    "destino": "Stuttgart, DE"
   }
 }
