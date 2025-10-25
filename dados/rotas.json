@@ -22846,5 +22846,25 @@
   "VKG1742": {
     "origem": "Stockholm, SE",
     "destino": "Gran Canaria Island, ES"
+  },
+  "VKG1932": {
+    "origem": "Cancún, MX",
+    "destino": "Stockholm, SE"
+  },
+  "JTD615": {
+    "origem": "Norrköping, SE",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "JTD317": {
+    "origem": "Copenhagen, DK",
+    "destino": "Larnarca, CY"
+  },
+  "N14NA": {
+    "origem": "London, GB",
+    "destino": "Porto, PT"
+  },
+  "TVS3674": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Hannover, DE"
   }
 }
