@@ -22922,5 +22922,29 @@
   "RYR7228": {
     "origem": "Valencia, ES",
     "destino": "Porto, PT"
+  },
+  "RYR8835": {
+    "origem": "Nottingham, GB",
+    "destino": "Shannon, IE"
+  },
+  "JTD238": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Copenhagen, DK"
+  },
+  "NOZ9461": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Trondheim, NO"
+  },
+  "NOZ9JE": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Karmøy, NO"
+  },
+  "NOZ3MZ": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Stavanger, NO"
+  },
+  "NOZ1GM": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Bergen, NO"
   }
 }
