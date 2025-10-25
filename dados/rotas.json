@@ -22910,5 +22910,17 @@
   "TAP94EV": {
     "origem": "Lisbon, PT",
     "destino": "Valencia, ES"
+  },
+  "VLG5BG": {
+    "origem": "Barcelona, ES",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "JTD582": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Billund, DK"
+  },
+  "RYR7228": {
+    "origem": "Valencia, ES",
+    "destino": "Porto, PT"
   }
 }
