@@ -22802,5 +22802,9 @@
   "CLX6225": {
     "origem": "Luxembourg, LU",
     "destino": "Campinas, BR"
+  },
+  "RZO128": {
+    "origem": "Ponta Delgada, PT",
+    "destino": "Lisbon, PT"
   }
 }
