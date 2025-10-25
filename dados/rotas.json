@@ -22894,5 +22894,21 @@
   "LGL713": {
     "origem": "Luxembourg, LU",
     "destino": "Tenerife Island, ES"
+  },
+  "SAS2267": {
+    "origem": "Copenhagen, DK",
+    "destino": "Funchal, PT"
+  },
+  "EWG68K": {
+    "origem": "Funchal, PT",
+    "destino": "Prague, CZ"
+  },
+  "VKG1459": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Malmö, SE"
+  },
+  "TAP94EV": {
+    "origem": "Lisbon, PT",
+    "destino": "Valencia, ES"
   }
 }
