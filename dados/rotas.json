@@ -22814,5 +22814,13 @@
   "RYR92AH": {
     "origem": "Sevilla, ES",
     "destino": "London, GB"
+  },
+  "SVA023": {
+    "origem": "King Khaled International Airport",
+    "destino": "John F Kennedy International Airport"
+  },
+  "JAF78W": {
+    "origem": "Palermo, IT",
+    "destino": "Brussels, BE"
   }
 }
