@@ -22806,5 +22806,13 @@
   "RZO128": {
     "origem": "Ponta Delgada, PT",
     "destino": "Lisbon, PT"
+  },
+  "RYR8832": {
+    "origem": "Alicante, ES",
+    "destino": "London, GB"
+  },
+  "RYR92AH": {
+    "origem": "Sevilla, ES",
+    "destino": "London, GB"
   }
 }
