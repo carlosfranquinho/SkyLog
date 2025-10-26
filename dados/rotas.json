@@ -23670,5 +23670,105 @@
   "RYR1CC": {
     "origem": "Dublin, IE",
     "destino": "Paphos, CY"
+  },
+  "EXS34DN": {
+    "origem": "Dalaman, TR",
+    "destino": "Nottingham, GB"
+  },
+  "BEL2DY": {
+    "origem": "Brussels, BE",
+    "destino": "Lisbon, PT"
+  },
+  "AFR546": {
+    "origem": "Paris, FR",
+    "destino": "Fortaleza, BR"
+  },
+  "EWG611": {
+    "origem": "Funchal, PT",
+    "destino": "Cologne, DE"
+  },
+  "EJU7693": {
+    "origem": "Lisbon, PT",
+    "destino": "Barcelona, ES"
+  },
+  "OCN1CF": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "AFR484": {
+    "origem": "Paris, FR",
+    "destino": "Rio De Janeiro, BR"
+  },
+  "EZY27DY": {
+    "origem": "London, GB",
+    "destino": "Marrakech, MA"
+  },
+  "EJU95ER": {
+    "origem": "Manchester, GB",
+    "destino": "Faro, PT"
+  },
+  "TVF91HP": {
+    "origem": "Casablanca, MA",
+    "destino": "Paris, FR"
+  },
+  "TRA76B": {
+    "origem": "Bergamo, IT",
+    "destino": "Rotterdam, NL"
+  },
+  "EJU65CA": {
+    "origem": "Athens, GR",
+    "destino": "Napoli, IT"
+  },
+  "JAF90C": {
+    "origem": "Antwerp, BE",
+    "destino": "Alicante, ES"
+  },
+  "TFL8FL": {
+    "origem": "Amsterdam, NL",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "TOM19V": {
+    "origem": "Málaga, ES",
+    "destino": "Manchester, GB"
+  },
+  "EXS4MN": {
+    "origem": "Luqa, MT",
+    "destino": "Newcastle, GB"
+  },
+  "TFL8CY": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "IBE05FF": {
+    "origem": "Paris, FR",
+    "destino": "Madrid, ES"
+  },
+  "DLH66N": {
+    "origem": "Alicante, ES",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "RYR6XN": {
+    "origem": "Bergamo, IT",
+    "destino": "Napoli, IT"
+  },
+  "EXS7XT": {
+    "origem": "Kos Island, GR",
+    "destino": "London, GB"
+  },
+  "THY7TE": {
+    "origem": "St. Petersburg, RU",
+    "destino": "Antalya, TR"
+  },
+  "DLH34J": {
+    "origem": "Frankfurt am Main Airport",
+    "destino": "Vienna International Airport"
+  },
+  "RYR7AR": {
+    "origem": "Dublin, IE",
+    "destino": "Warsaw, PL"
+  },
+  "DLH95M": {
+    "origem": "Paris, FR",
+    "destino": "Munich, DE"
   }
 }
