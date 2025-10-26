@@ -22998,5 +22998,13 @@
   "JAF1517": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Brussels, BE"
+  },
+  "JAF9BC": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Brussels, BE"
+  },
+  "EZY8148": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "London, GB"
   }
 }
