@@ -23858,5 +23858,121 @@
   "AFR1276": {
     "origem": "Charles de Gaulle International Airport",
     "destino": "Menara Airport"
+  },
+  "RYR882D": {
+    "origem": "Beauvais/Tillé, FR",
+    "destino": "Dublin, IE"
+  },
+  "RYR67ZN": {
+    "origem": "Brussels, BE",
+    "destino": "Carcassonne/Salvaza, FR"
+  },
+  "TAP1311": {
+    "origem": "Manchester, GB",
+    "destino": "Lisbon, PT"
+  },
+  "RYR3AP": {
+    "origem": "Marrakech, MA",
+    "destino": "Málaga, ES"
+  },
+  "RYR24UT": {
+    "origem": "Funchal, PT",
+    "destino": "Bergamo, IT"
+  },
+  "RYR75MM": {
+    "origem": "Birmingham, GB",
+    "destino": "Luqa, MT"
+  },
+  "EWG71L": {
+    "origem": "Hamburg, DE",
+    "destino": "Hamburg, DE"
+  },
+  "RYR57YJ": {
+    "origem": "Bratislava, SK",
+    "destino": "Roma, IT"
+  },
+  "EWG3FJ": {
+    "origem": "Cologne, DE",
+    "destino": "Tirana, AL"
+  },
+  "EXS65Q": {
+    "origem": "Antalya, TR",
+    "destino": "Newcastle, GB"
+  },
+  "EJU45PD": {
+    "origem": "Porto, PT",
+    "destino": "Funchal, PT"
+  },
+  "RYR5BK": {
+    "origem": "Málaga, ES",
+    "destino": "Bournemouth, GB"
+  },
+  "KLM97N": {
+    "origem": "Amsterdam, NL",
+    "destino": "Lisbon, PT"
+  },
+  "EWG5ZW": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Hamburg, DE"
+  },
+  "VLG2WQ": {
+    "origem": "Valencia, ES",
+    "destino": "Brussels, BE"
+  },
+  "DLH03A": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Lisbon, PT"
+  },
+  "DLH53U": {
+    "origem": "Munich, DE",
+    "destino": "Bilbao, ES"
+  },
+  "AFR948": {
+    "origem": "Paris, FR",
+    "destino": "Yaoundé, CM"
+  },
+  "EWG603": {
+    "origem": "Lisbon, PT",
+    "destino": "Cologne, DE"
+  },
+  "RYR23EY": {
+    "origem": "Beauvais/Tillé, FR",
+    "destino": "Porto, PT"
+  },
+  "JAF38C": {
+    "origem": "Ostend, BE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TAP71VE": {
+    "origem": "Vienna, AT",
+    "destino": "Lisbon, PT"
+  },
+  "EZY93FE": {
+    "origem": "Amsterdam, NL",
+    "destino": "Saint-Louis, FR"
+  },
+  "RYR8174": {
+    "origem": "Brussels, BE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "RYR6HX": {
+    "origem": "Vilnius, LT",
+    "destino": "London, GB"
+  },
+  "THY8NR": {
+    "origem": "Bologna, IT",
+    "destino": "Istanbul, TR"
+  },
+  "CXI3G": {
+    "origem": "Rodes Island, GR",
+    "destino": "Cologne, DE"
+  },
+  "TFL047F": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "VLG2EE": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Barcelona, ES"
   }
 }
