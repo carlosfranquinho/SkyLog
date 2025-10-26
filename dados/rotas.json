@@ -24602,5 +24602,93 @@
   "AFR14JJ": {
     "origem": "Madrid, ES",
     "destino": "Paris, FR"
+  },
+  "EZY15DP": {
+    "origem": "Prague, CZ",
+    "destino": "London, GB"
+  },
+  "TAP1273": {
+    "origem": "Vienna, AT",
+    "destino": "Lisbon, PT"
+  },
+  "EJU43CM": {
+    "origem": "Milan, IT",
+    "destino": "Paris, FR"
+  },
+  "RYR4761": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Bristol, GB"
+  },
+  "RYR6KW": {
+    "origem": "Tallinn, EE",
+    "destino": "Berlin, DE"
+  },
+  "BAW512": {
+    "origem": "London, GB",
+    "destino": "Lisbon, PT"
+  },
+  "TAP2204": {
+    "origem": "Lisbon, PT",
+    "destino": "Madrid, ES"
+  },
+  "RYR54LV": {
+    "origem": "Dublin, IE",
+    "destino": "Manchester, GB"
+  },
+  "RYR7638": {
+    "origem": "Memmingen, DE",
+    "destino": "London, GB"
+  },
+  "DLH11F": {
+    "origem": "Munich, DE",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "VLG8479": {
+    "origem": "Porto, PT",
+    "destino": "Barcelona, ES"
+  },
+  "KLM63J": {
+    "origem": "Amsterdam, NL",
+    "destino": "Lisbon, PT"
+  },
+  "RYR3652": {
+    "origem": "Zagreb, HR",
+    "destino": "Dublin, IE"
+  },
+  "RYR1823": {
+    "origem": "Eindhoven, NL",
+    "destino": "Stockholm / Nyköping, SE"
+  },
+  "DLH72M": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Lyon, FR"
+  },
+  "RYR8RZ": {
+    "origem": "Dublin, IE",
+    "destino": "Manchester, GB"
+  },
+  "RYR7QZ": {
+    "origem": "Pisa, IT",
+    "destino": "Bari, IT"
+  },
+  "EJU82GN": {
+    "origem": "Paris, FR",
+    "destino": "Lisbon, PT"
+  },
+  "EJU46YA": {
+    "origem": "Funchal, PT",
+    "destino": "Lisbon, PT"
+  },
+  "EXS41BF": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Edinburgh, GB"
+  },
+  "RZO184": {
+    "origem": "Lajes, PT",
+    "destino": "Porto, PT"
+  },
+  "EFW66E": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "London, GB"
   }
 }
