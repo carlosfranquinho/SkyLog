@@ -23034,5 +23034,73 @@
   "RYR9999": {
     "origem": "Dublin, IE",
     "destino": "Palma De Mallorca, ES"
+  },
+  "EJU46KD": {
+    "origem": "Barcelona, ES",
+    "destino": "Napoli, IT"
+  },
+  "TAP1327": {
+    "origem": "Dublin, IE",
+    "destino": "Lisbon, PT"
+  },
+  "DLH1171": {
+    "origem": "Lisbon, PT",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "EJU39AY": {
+    "origem": "Nice, FR",
+    "destino": "Marrakech, MA"
+  },
+  "RYR6037": {
+    "origem": "Porto, PT",
+    "destino": "Lajes, PT"
+  },
+  "VLG7GM": {
+    "origem": "Sevilla, ES",
+    "destino": "London, GB"
+  },
+  "RYR5786": {
+    "origem": "Faro, PT",
+    "destino": "Luxembourg, LU"
+  },
+  "RYR4JG": {
+    "origem": "Genova, IT",
+    "destino": "Lamezia Terme, IT"
+  },
+  "RYR6WU": {
+    "origem": "Lublin, PL",
+    "destino": "Bergamo, IT"
+  },
+  "EJU56UV": {
+    "origem": "Amsterdam, NL",
+    "destino": "London, GB"
+  },
+  "DLH96N": {
+    "origem": "Madrid, ES",
+    "destino": "Munich, DE"
+  },
+  "VLG3272": {
+    "origem": "Bilbao, ES",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "VOE3550": {
+    "origem": "Ranón, ES",
+    "destino": "Lanzarote Island, ES"
+  },
+  "DLH03K": {
+    "origem": "Barcelona, ES",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "EJU37AL": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Berlin, DE"
+  },
+  "EJU39ZW": {
+    "origem": "Marrakech, MA",
+    "destino": "Milan, IT"
+  },
+  "EJU59YN": {
+    "origem": "Budapest, HU",
+    "destino": "Berlin, DE"
   }
 }
