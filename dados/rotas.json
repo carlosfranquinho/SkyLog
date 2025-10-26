@@ -24146,5 +24146,109 @@
   "MBU4WX": {
     "origem": "Tenerife Island, ES",
     "destino": "Hamburg, DE"
+  },
+  "THY5LH": {
+    "origem": "Dalaman, TR",
+    "destino": "Istanbul, TR"
+  },
+  "TRA96U": {
+    "origem": "Brussels, BE",
+    "destino": "Faro, PT"
+  },
+  "EXS50NV": {
+    "origem": "Napoli, IT",
+    "destino": "London, GB"
+  },
+  "RYR34NM": {
+    "origem": "Carcassonne/Salvaza, FR",
+    "destino": "Dublin, IE"
+  },
+  "RYR9998": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Dublin, IE"
+  },
+  "BTI73R": {
+    "origem": "Billund, DK",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EXS127V": {
+    "origem": "Birmingham, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "RYR83CM": {
+    "origem": "Birmingham, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EXS31MP": {
+    "origem": "Manchester, GB",
+    "destino": "Agadir, MA"
+  },
+  "VKG1726": {
+    "origem": "Gothenburg, SE",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR30TJ": {
+    "origem": "Katowice, PL",
+    "destino": "Alghero, IT"
+  },
+  "TRA54P": {
+    "origem": "Rotterdam, NL",
+    "destino": "Lisbon, PT"
+  },
+  "RYR12LH": {
+    "origem": "Brussels, BE",
+    "destino": "Lisbon, PT"
+  },
+  "EXS1DJ": {
+    "origem": "Birmingham, GB",
+    "destino": "Alicante, ES"
+  },
+  "VLG3ZF": {
+    "origem": "Brussels, BE",
+    "destino": "Valencia, ES"
+  },
+  "EZY97FQ": {
+    "origem": "London, GB",
+    "destino": "Agadir, MA"
+  },
+  "EZY47TP": {
+    "origem": "Birmingham, GB",
+    "destino": "Faro, PT"
+  },
+  "RYR42QA": {
+    "origem": "Warsaw, PL",
+    "destino": "Liverpool, GB"
+  },
+  "EXS73L": {
+    "origem": "Edinburgh, GB",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "JAF18V": {
+    "origem": "Lille/Lesquin, FR",
+    "destino": "Kos Island, GR"
+  },
+  "NOZ5997": {
+    "origem": "Torp, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "NSZ9LH": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Helsinki, FI"
+  },
+  "VKG1559": {
+    "origem": "Tenerife South Airport",
+    "destino": "Oslo Gardermoen Airport"
+  },
+  "EXS41R": {
+    "origem": "Athens, GR",
+    "destino": "Manchester, GB"
+  },
+  "RYR4DP": {
+    "origem": "Stockholm, SE",
+    "destino": "Poznań, PL"
+  },
+  "EJU69NT": {
+    "origem": "Charles de Gaulle International Airport",
+    "destino": "Falconeâ€“Borsellino Airport"
   }
 }
