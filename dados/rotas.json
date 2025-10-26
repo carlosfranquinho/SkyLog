@@ -24074,5 +24074,77 @@
   "JTD510": {
     "origem": "Tenerife Island, ES",
     "destino": "Billund, DK"
+  },
+  "WZZ3513": {
+    "origem": "Budapest, HU",
+    "destino": "Tenerife Island, ES"
+  },
+  "EZY18CF": {
+    "origem": "Pisa, IT",
+    "destino": "London, GB"
+  },
+  "EJU34DK": {
+    "origem": "Berlin, DE",
+    "destino": "Málaga, ES"
+  },
+  "RYR86CW": {
+    "origem": "Manchester, GB",
+    "destino": "Lisbon, PT"
+  },
+  "WZZ3179": {
+    "origem": "Eindhoven, NL",
+    "destino": "Skopje, MK"
+  },
+  "TRA4V": {
+    "origem": "Eindhoven, NL",
+    "destino": "Faro, PT"
+  },
+  "VLG1QJ": {
+    "origem": "Paris, FR",
+    "destino": "Málaga, ES"
+  },
+  "RYR941Y": {
+    "origem": "London, GB",
+    "destino": "Weeze, DE"
+  },
+  "DLH43U": {
+    "origem": "Munich, DE",
+    "destino": "Lisbon, PT"
+  },
+  "RYR13NU": {
+    "origem": "Nottingham, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EZY91CA": {
+    "origem": "Sharm el-Sheikh, EG",
+    "destino": "London, GB"
+  },
+  "TFL61X": {
+    "origem": "Palma De Mallorca Airport",
+    "destino": "Amsterdam Airport Schiphol"
+  },
+  "RYR4EJ": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Brussels, BE"
+  },
+  "RYR858M": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "FIN5EH": {
+    "origem": "Ivalo, FI",
+    "destino": "Helsinki, FI"
+  },
+  "RYR302F": {
+    "origem": "Santiago de Compostela, ES",
+    "destino": "Barcelona, ES"
+  },
+  "EZY68DM": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "London, GB"
+  },
+  "MBU4WX": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Hamburg, DE"
   }
 }
