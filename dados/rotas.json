@@ -23026,5 +23026,13 @@
   "TVF3235": {
     "origem": "Barcelona, ES",
     "destino": "Paris, FR"
+  },
+  "DLH51J": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Munich, DE"
+  },
+  "RYR9999": {
+    "origem": "Dublin, IE",
+    "destino": "Palma De Mallorca, ES"
   }
 }
