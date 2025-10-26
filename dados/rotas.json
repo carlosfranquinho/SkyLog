@@ -23770,5 +23770,93 @@
   "DLH95M": {
     "origem": "Paris, FR",
     "destino": "Munich, DE"
+  },
+  "EXS29WK": {
+    "origem": "Zakynthos Island, GR",
+    "destino": "Birmingham, GB"
+  },
+  "TRA2C": {
+    "origem": "Amsterdam, NL",
+    "destino": "Ibiza, ES"
+  },
+  "AFR48WP": {
+    "origem": "Vienna, AT",
+    "destino": "Paris, FR"
+  },
+  "RYR71CU": {
+    "origem": "Barcelona, ES",
+    "destino": "Beauvais/Tillé, FR"
+  },
+  "EXS79DS": {
+    "origem": "Liverpool, GB",
+    "destino": "Heraklion, GR"
+  },
+  "RYR96SY": {
+    "origem": "Luqa, MT",
+    "destino": "Dublin, IE"
+  },
+  "TAP1323": {
+    "origem": "Dublin, IE",
+    "destino": "Lisbon, PT"
+  },
+  "RYR3QM": {
+    "origem": "Budapest, HU",
+    "destino": "Nürnberg, DE"
+  },
+  "RYR170B": {
+    "origem": "Vienna, AT",
+    "destino": "Porto, PT"
+  },
+  "RYR90NK": {
+    "origem": "Alicante, ES",
+    "destino": "Dublin, IE"
+  },
+  "TVS3FH": {
+    "origem": "Prague, CZ",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EJU81RD": {
+    "origem": "Hurghada, EG",
+    "destino": "Amsterdam, NL"
+  },
+  "EWG9602": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Lisbon, PT"
+  },
+  "EZS1463": {
+    "origem": "Geneva, CH",
+    "destino": "Copenhagen, DK"
+  },
+  "DLH44M": {
+    "origem": "Frankfurt am Main Airport",
+    "destino": "Vienna International Airport"
+  },
+  "IBE338": {
+    "origem": "Miami, US",
+    "destino": "Madrid, ES"
+  },
+  "RYR6532": {
+    "origem": "Porto, PT",
+    "destino": "Marseille, FR"
+  },
+  "EZY92LG": {
+    "origem": "London, GB",
+    "destino": "Glasgow, GB"
+  },
+  "AFR972": {
+    "origem": "Paris, FR",
+    "destino": "Luanda, AO"
+  },
+  "EWG261": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Cologne, DE"
+  },
+  "EJU42FB": {
+    "origem": "Charles de Gaulle International Airport",
+    "destino": "Bari Karol Wojty?a Airport"
+  },
+  "AFR1276": {
+    "origem": "Charles de Gaulle International Airport",
+    "destino": "Menara Airport"
   }
 }
