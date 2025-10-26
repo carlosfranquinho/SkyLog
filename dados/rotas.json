@@ -24346,5 +24346,105 @@
   "EJU19GM": {
     "origem": "Bordeaux, FR",
     "destino": "Lisbon, PT"
+  },
+  "LGL404": {
+    "origem": "Ouarzazate, MA",
+    "destino": "Luxembourg, LU"
+  },
+  "RYR73YY": {
+    "origem": "Dublin, IE",
+    "destino": "Brussels, BE"
+  },
+  "AFR78RP": {
+    "origem": "Paris, FR",
+    "destino": "Venezia, IT"
+  },
+  "EZY13KE": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "RYR9JL": {
+    "origem": "Dublin, IE",
+    "destino": "Lisbon, PT"
+  },
+  "TRA44R": {
+    "origem": "Amsterdam, NL",
+    "destino": "Barcelona, ES"
+  },
+  "TAP53ED": {
+    "origem": "Berlin, DE",
+    "destino": "Lisbon, PT"
+  },
+  "LGL786": {
+    "origem": "Faro, PT",
+    "destino": "Luxembourg, LU"
+  },
+  "IBS1585": {
+    "origem": "Madrid, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "WZZ576": {
+    "origem": "Budapest, HU",
+    "destino": "Lisbon, PT"
+  },
+  "TUI3CH": {
+    "origem": "Funchal, PT",
+    "destino": "Düsseldorf, DE"
+  },
+  "EJU83UT": {
+    "origem": "London, GB",
+    "destino": "Milan, IT"
+  },
+  "SVA902": {
+    "origem": "New York, US",
+    "destino": "Riyadh, SA"
+  },
+  "TRA95L": {
+    "origem": "Amsterdam, NL",
+    "destino": "Lisbon, PT"
+  },
+  "TAP437": {
+    "origem": "Paris, FR",
+    "destino": "Lisbon, PT"
+  },
+  "EZY91HY": {
+    "origem": "Manchester, GB",
+    "destino": "Marrakech, MA"
+  },
+  "EZY25VY": {
+    "origem": "Ibiza, ES",
+    "destino": "London, GB"
+  },
+  "RYR81QQ": {
+    "origem": "San Javier, ES",
+    "destino": "Manchester, GB"
+  },
+  "EXS82EX": {
+    "origem": "Manchester, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "VOE6RZ": {
+    "origem": "Lyon, FR",
+    "destino": "Caen/Carpiquet, FR"
+  },
+  "VKG4027": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Copenhagen, DK"
+  },
+  "EZY24PN": {
+    "origem": "Saint-Louis, FR",
+    "destino": "Lisbon, PT"
+  },
+  "BAW511": {
+    "origem": "Gibraltar, GI",
+    "destino": "London, GB"
+  },
+  "RYR9PH": {
+    "origem": "Rodes Island, GR",
+    "destino": "Brussels, BE"
+  },
+  "JAF35E": {
+    "origem": "Liège, BE",
+    "destino": "Palma De Mallorca, ES"
   }
 }
