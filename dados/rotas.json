@@ -24446,5 +24446,93 @@
   "JAF35E": {
     "origem": "Liège, BE",
     "destino": "Palma De Mallorca, ES"
+  },
+  "VLG1DC": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Granada, ES"
+  },
+  "VLG4LP": {
+    "origem": "Barcelona, ES",
+    "destino": "Berlin, DE"
+  },
+  "EJU7651": {
+    "origem": "Lisbon, PT",
+    "destino": "Madrid, ES"
+  },
+  "RYR2EC": {
+    "origem": "Alghero, IT",
+    "destino": "Venezia, IT"
+  },
+  "JAF32A": {
+    "origem": "Ostend, BE",
+    "destino": "Varna, BG"
+  },
+  "TRA62P": {
+    "origem": "Amsterdam, NL",
+    "destino": "Porto, PT"
+  },
+  "RYR2HA": {
+    "origem": "Beauvais/Tillé, FR",
+    "destino": "Paphos, CY"
+  },
+  "EZY29VZ": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "TOM28Y": {
+    "origem": "Torino, IT",
+    "destino": "Manchester, GB"
+  },
+  "RYR63EH": {
+    "origem": "Dublin, IE",
+    "destino": "Faro, PT"
+  },
+  "EZY86XQ": {
+    "origem": "Bristol, GB",
+    "destino": "Porto, PT"
+  },
+  "RYR4QR": {
+    "origem": "Dublin, IE",
+    "destino": "Zagreb, HR"
+  },
+  "RYR1JA": {
+    "origem": "Hahn, DE",
+    "destino": "Bari, IT"
+  },
+  "TRA6672": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "TAP2690": {
+    "origem": "Lisbon, PT",
+    "destino": "Lisbon, PT"
+  },
+  "EXS2VM": {
+    "origem": "Budapest, HU",
+    "destino": "Manchester, GB"
+  },
+  "RYR31KK": {
+    "origem": "Brussels, BE",
+    "destino": "Tangier, MA"
+  },
+  "RYR8UL": {
+    "origem": "Trapani, IT",
+    "destino": "Bratislava, SK"
+  },
+  "RYR3179": {
+    "origem": "Memmingen, DE",
+    "destino": "Edinburgh, GB"
+  },
+  "RYR32JX": {
+    "origem": "Madrid, ES",
+    "destino": "Bari, IT"
+  },
+  "RYR7CT": {
+    "origem": "Liverpool, GB",
+    "destino": "Barcelona, ES"
+  },
+  "VOE3830": {
+    "origem": "Sevilla, ES",
+    "destino": "Ranón, ES"
   }
 }
