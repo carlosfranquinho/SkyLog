@@ -23974,5 +23974,105 @@
   "VLG2EE": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Barcelona, ES"
+  },
+  "JAF3EG": {
+    "origem": "Brussels, BE",
+    "destino": "Heraklion, GR"
+  },
+  "VKG1315": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Helsinki, FI"
+  },
+  "EZY49TD": {
+    "origem": "London, GB",
+    "destino": "Alicante, ES"
+  },
+  "RYR7328": {
+    "origem": "Dublin, IE",
+    "destino": "Lisbon, PT"
+  },
+  "DLH29Y": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Porto, PT"
+  },
+  "DLH05E": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "RYR236V": {
+    "origem": "Dublin, IE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "RYR8MK": {
+    "origem": "Marseille, FR",
+    "destino": "Marrakech, MA"
+  },
+  "RYR1146": {
+    "origem": "Berlin, DE",
+    "destino": "Thessaloniki, GR"
+  },
+  "EXS1336": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Birmingham, GB"
+  },
+  "EXS82BQ": {
+    "origem": "Bergen, NO",
+    "destino": "London, GB"
+  },
+  "RYR59QN": {
+    "origem": "Warsaw, PL",
+    "destino": "Tenerife Island, ES"
+  },
+  "OCN307": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "RYR36QR": {
+    "origem": "Dublin, IE",
+    "destino": "Glasgow, GB"
+  },
+  "EJU74HE": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Bordeaux, FR"
+  },
+  "RYR29CN": {
+    "origem": "Porto, PT",
+    "destino": "Roma, IT"
+  },
+  "WMT8522": {
+    "origem": "Rzeszów, PL",
+    "destino": "Rome, IT"
+  },
+  "RYR8EZ": {
+    "origem": "Vienna, AT",
+    "destino": "Skiathos, GR"
+  },
+  "RYR97LT": {
+    "origem": "London, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "JAF3WE": {
+    "origem": "Ibiza, ES",
+    "destino": "Ostend, BE"
+  },
+  "THY6BS": {
+    "origem": "Istanbul, TR",
+    "destino": "Ljubljana, SI"
+  },
+  "AFR148": {
+    "origem": "Charles de Gaulle International Airport",
+    "destino": "Murtala Muhammed International Airport"
+  },
+  "EWG9603": {
+    "origem": "Humberto Delgado Airport (Lisbon Portela Airport)",
+    "destino": "DÃ¼sseldorf Airport"
+  },
+  "JTD982": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Helsinki, FI"
+  },
+  "JTD510": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Billund, DK"
   }
 }
