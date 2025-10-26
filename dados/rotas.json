@@ -24250,5 +24250,101 @@
   "EJU69NT": {
     "origem": "Charles de Gaulle International Airport",
     "destino": "Falconeâ€“Borsellino Airport"
+  },
+  "EJU86DW": {
+    "origem": "Napoli, IT",
+    "destino": "Saint-Louis, FR"
+  },
+  "NSZ5709": {
+    "origem": "Oslo, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EJU42KH": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Lyon, FR"
+  },
+  "RYR778C": {
+    "origem": "Hahn, DE",
+    "destino": "Girona, ES"
+  },
+  "RYR13JK": {
+    "origem": "Ibiza, ES",
+    "destino": "Alicante, ES"
+  },
+  "EZY12HD": {
+    "origem": "Birmingham, GB",
+    "destino": "Marrakech, MA"
+  },
+  "VLG1981": {
+    "origem": "Paris, FR",
+    "destino": "Lisbon, PT"
+  },
+  "EXS21L": {
+    "origem": "Zakynthos Island, GR",
+    "destino": "Manchester, GB"
+  },
+  "EJU17BH": {
+    "origem": "Amsterdam, NL",
+    "destino": "Berlin, DE"
+  },
+  "EXS22YM": {
+    "origem": "Manchester, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "RYR72SC": {
+    "origem": "Sevilla, ES",
+    "destino": "Bergamo, IT"
+  },
+  "EXS79K": {
+    "origem": "London, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "RYR57UW": {
+    "origem": "Nottingham, GB",
+    "destino": "Bergerac/Roumanière, FR"
+  },
+  "RYR25VH": {
+    "origem": "Shannon, IE",
+    "destino": "Kraków, PL"
+  },
+  "TRA1Y": {
+    "origem": "Amsterdam, NL",
+    "destino": "Faro, PT"
+  },
+  "EZY17VN": {
+    "origem": "London, GB",
+    "destino": "Lisbon, PT"
+  },
+  "EZY53TX": {
+    "origem": "London, GB",
+    "destino": "Marrakech, MA"
+  },
+  "WUK7BB": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "EZY84LC": {
+    "origem": "Milan, IT",
+    "destino": "Lamezia Terme, IT"
+  },
+  "RYR78VZ": {
+    "origem": "Málaga, ES",
+    "destino": "Weeze, DE"
+  },
+  "EXS74C": {
+    "origem": "Birmingham, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EJU45FH": {
+    "origem": "Olbia, IT",
+    "destino": "Paris, FR"
+  },
+  "RYR6FY": {
+    "origem": "Castellón de la Plana, ES",
+    "destino": "Budapest, HU"
+  },
+  "EJU19GM": {
+    "origem": "Bordeaux, FR",
+    "destino": "Lisbon, PT"
   }
 }
