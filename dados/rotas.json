@@ -24534,5 +24534,73 @@
   "VOE3830": {
     "origem": "Sevilla, ES",
     "destino": "Ranón, ES"
+  },
+  "RYR84FV": {
+    "origem": "Berlin, DE",
+    "destino": "Faro, PT"
+  },
+  "TAP2716": {
+    "origem": "Lisbon, PT",
+    "destino": "Lyon, FR"
+  },
+  "EZY84PK": {
+    "origem": "London, GB",
+    "destino": "Kraków, PL"
+  },
+  "RYR3NL": {
+    "origem": "Luqa, MT",
+    "destino": "Nis, RS"
+  },
+  "EZY65YL": {
+    "origem": "London, GB",
+    "destino": "Agadir, MA"
+  },
+  "ASL71Z": {
+    "origem": "Belgrad, RS",
+    "destino": "Kraków, PL"
+  },
+  "TRA14L": {
+    "origem": "Amsterdam, NL",
+    "destino": "Alicante, ES"
+  },
+  "EZY59GV": {
+    "origem": "Kos Island, GR",
+    "destino": "London, GB"
+  },
+  "VLG2KG": {
+    "origem": "Barcelona, ES",
+    "destino": "Paris, FR"
+  },
+  "RYR6VP": {
+    "origem": "Luxembourg, LU",
+    "destino": "Porto, PT"
+  },
+  "TRA2N": {
+    "origem": "Granada, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "RYR7389": {
+    "origem": "Lisbon, PT",
+    "destino": "Dublin, IE"
+  },
+  "RYR8591": {
+    "origem": "Rygge, NO",
+    "destino": "Wrocław, PL"
+  },
+  "RYR8575": {
+    "origem": "Marrakech, MA",
+    "destino": "Barcelona, ES"
+  },
+  "RYR94YX": {
+    "origem": "Alicante, ES",
+    "destino": "Stockholm, SE"
+  },
+  "EZY26QB": {
+    "origem": "Dubrovnik, HR",
+    "destino": "London, GB"
+  },
+  "AFR14JJ": {
+    "origem": "Madrid, ES",
+    "destino": "Paris, FR"
   }
 }
