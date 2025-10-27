@@ -25850,5 +25850,33 @@
   "TAP39PT": {
     "origem": "Barcelona, ES",
     "destino": "Lisbon, PT"
+  },
+  "RYR72HT": {
+    "origem": "Faro, PT",
+    "destino": "Norwich, GB"
+  },
+  "EXS7HG": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Birmingham, GB"
+  },
+  "EZY42DF": {
+    "origem": "Paphos, CY",
+    "destino": "Manchester, GB"
+  },
+  "RYR65SN": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Bologna, IT"
+  },
+  "EXS632": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Nottingham, GB"
+  },
+  "RYR2TY": {
+    "origem": "Sofia, BG",
+    "destino": "Roma, IT"
+  },
+  "TRA5752": {
+    "origem": "Marrakech, MA",
+    "destino": "Amsterdam, NL"
   }
 }
