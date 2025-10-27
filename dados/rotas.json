@@ -24762,5 +24762,33 @@
   "RYR3041": {
     "origem": "Sevilla, ES",
     "destino": "Santiago de Compostela, ES"
+  },
+  "RYR993X": {
+    "origem": "Dublin, IE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR44TR": {
+    "origem": "Nottingham, GB",
+    "destino": "Valladolises y Lo Jurado, Murcia, ES"
+  },
+  "RYR60PP": {
+    "origem": "Edinburgh, GB",
+    "destino": "Bergerac/Roumanière, FR"
+  },
+  "EJU78QY": {
+    "origem": "Porto, PT",
+    "destino": "Geneva, CH"
+  },
+  "RYR2037": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Dortmund, DE"
+  },
+  "RYR8LC": {
+    "origem": "Warsaw, PL",
+    "destino": "Brussels, BE"
+  },
+  "EJU14LE": {
+    "origem": "Lisbon, PT",
+    "destino": "London, GB"
   }
 }
