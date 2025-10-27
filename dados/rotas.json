@@ -24746,5 +24746,9 @@
   "BTI99B": {
     "origem": "Funchal, PT",
     "destino": "Tallinn, EE"
+  },
+  "EXS14K": {
+    "origem": "Geneva, CH",
+    "destino": "Manchester, GB"
   }
 }
