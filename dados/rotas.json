@@ -24790,5 +24790,61 @@
   "EJU14LE": {
     "origem": "Lisbon, PT",
     "destino": "London, GB"
+  },
+  "RYR5604": {
+    "origem": "Roma, IT",
+    "destino": "Tallinn, EE"
+  },
+  "TRA82Q": {
+    "origem": "Amsterdam, NL",
+    "destino": "Lanzarote Island, ES"
+  },
+  "IBE152": {
+    "origem": "Bogota, CO",
+    "destino": "Madrid, ES"
+  },
+  "RYR607U": {
+    "origem": "Nottingham, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "TRA7K": {
+    "origem": "Amsterdam, NL",
+    "destino": "Ibiza, ES"
+  },
+  "THY6888": {
+    "origem": "London, GB",
+    "destino": "Istanbul, TR"
+  },
+  "RYR2MR": {
+    "origem": "Treviso, IT",
+    "destino": "Sevilla, ES"
+  },
+  "TRA38M": {
+    "origem": "Amsterdam, NL",
+    "destino": "Málaga, ES"
+  },
+  "RYR51SG": {
+    "origem": "Manchester, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EZY42VX": {
+    "origem": "Liverpool, GB",
+    "destino": "Faro, PT"
+  },
+  "TRA5361": {
+    "origem": "Amsterdam, NL",
+    "destino": "Faro, PT"
+  },
+  "VLG3134": {
+    "origem": "Paris, FR",
+    "destino": "Tenerife Island, ES"
+  },
+  "TVF3372": {
+    "origem": "Paris-Orly Airport",
+    "destino": "Djerba Zarzis International Airport"
+  },
+  "TRA64C": {
+    "origem": "Valencia, ES",
+    "destino": "Rotterdam, NL"
   }
 }
