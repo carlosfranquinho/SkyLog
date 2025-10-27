@@ -25214,5 +25214,81 @@
   "WZZ6SJ": {
     "origem": "Chişinău, MD",
     "destino": "London, GB"
+  },
+  "RYR40BG": {
+    "origem": "London, GB",
+    "destino": "Billund, DK"
+  },
+  "TFL5HB": {
+    "origem": "Groningen, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "CAT338": {
+    "origem": "Vila Baleira, PT",
+    "destino": "Billund, DK"
+  },
+  "RYR6313": {
+    "origem": "Faro, PT",
+    "destino": "Brussels, BE"
+  },
+  "EJU56ZJ": {
+    "origem": "Manchester, GB",
+    "destino": "Milan, IT"
+  },
+  "RYR14SN": {
+    "origem": "Ibiza, ES",
+    "destino": "Bologna, IT"
+  },
+  "NOZ8BU": {
+    "origem": "Oslo, NO",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EZY69VU": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR38VN": {
+    "origem": "Nottingham, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EZY56FD": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
+  },
+  "TAP67AM": {
+    "origem": "Lisbon, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "RYR91AY": {
+    "origem": "Brussels, BE",
+    "destino": "Alicante, ES"
+  },
+  "EZY94RK": {
+    "origem": "London, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EZY74MU": {
+    "origem": "Liverpool, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EJU41EM": {
+    "origem": "Lisbon, PT",
+    "destino": "London, GB"
+  },
+  "TAP35BL": {
+    "origem": "Barcelona, ES",
+    "destino": "Lisbon, PT"
+  },
+  "EZY91NF": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "London, GB"
+  },
+  "TRA74M": {
+    "origem": "Salzburg, AT",
+    "destino": "Eindhoven, NL"
+  },
+  "RYR2SG": {
+    "origem": "Dublin, IE",
+    "destino": "Fuerteventura Island, ES"
   }
 }
