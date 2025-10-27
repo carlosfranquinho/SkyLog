@@ -25526,5 +25526,97 @@
   "EXS1725": {
     "origem": "Manchester, GB",
     "destino": "Marrakech, MA"
+  },
+  "EXS545": {
+    "origem": "Newcastle, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EXS631": {
+    "origem": "Nottingham, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "RYR176L": {
+    "origem": "Nottingham, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "RYR38SG": {
+    "origem": "Lisbon, PT",
+    "destino": "Berlin, DE"
+  },
+  "EXS6TV": {
+    "origem": "Glasgow, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EJU51RJ": {
+    "origem": "Lyon, FR",
+    "destino": "Rome, IT"
+  },
+  "EXS91FR": {
+    "origem": "Leeds, GB",
+    "destino": "Paphos, CY"
+  },
+  "RYR36EF": {
+    "origem": "Alghero, IT",
+    "destino": "Bologna, IT"
+  },
+  "TRA86Y": {
+    "origem": "Salzburg, AT",
+    "destino": "Rotterdam, NL"
+  },
+  "NSZ2989": {
+    "origem": "Agadir, MA",
+    "destino": "Helsinki, FI"
+  },
+  "EXS79WU": {
+    "origem": "Dalaman, TR",
+    "destino": "Edinburgh, GB"
+  },
+  "EXS2YU": {
+    "origem": "Birmingham, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "NSZ2873": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Helsinki, FI"
+  },
+  "RYR1LB": {
+    "origem": "Catania, IT",
+    "destino": "Rome, IT"
+  },
+  "TOM7EL": {
+    "origem": "Manchester, GB",
+    "destino": "Alicante, ES"
+  },
+  "TRA71F": {
+    "origem": "Amsterdam, NL",
+    "destino": "Marrakech, MA"
+  },
+  "EZY98TN": {
+    "origem": "Newcastle, GB",
+    "destino": "Bristol, GB"
+  },
+  "TVF7651": {
+    "origem": "Lisbon, PT",
+    "destino": "Paris, FR"
+  },
+  "VLG2700": {
+    "origem": "Bilbao, ES",
+    "destino": "Lisbon, PT"
+  },
+  "NOZ9FZ": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Oslo, NO"
+  },
+  "TUI4EK": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Düsseldorf, DE"
+  },
+  "TVF3433": {
+    "origem": "Praia, CV",
+    "destino": "Paris, FR"
+  },
+  "RYR131M": {
+    "origem": "Brussels, BE",
+    "destino": "Napoli, IT"
   }
 }
