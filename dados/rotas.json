@@ -25358,5 +25358,89 @@
   "RYR675A": {
     "origem": "Santiago de Compostela, ES",
     "destino": "Madrid, ES"
+  },
+  "RYR863B": {
+    "origem": "Luqa, MT",
+    "destino": "Lisbon, PT"
+  },
+  "TVS2XE": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "EZY54VV": {
+    "origem": "Glasgow, GB",
+    "destino": "Marrakech, MA"
+  },
+  "RYR11KE": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EXS87W": {
+    "origem": "Bournemouth, GB",
+    "destino": "Alicante, ES"
+  },
+  "EXS83LV": {
+    "origem": "Birmingham, GB",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "EJU92FC": {
+    "origem": "Paris, FR",
+    "destino": "Napoli, IT"
+  },
+  "EXS1507": {
+    "origem": "London, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EJU98VH": {
+    "origem": "Bristol, GB",
+    "destino": "Lisbon, PT"
+  },
+  "BAW514": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "EZY64HM": {
+    "origem": "Manchester, GB",
+    "destino": "Agadir, MA"
+  },
+  "RYR77QD": {
+    "origem": "Vienna, AT",
+    "destino": "Lisbon, PT"
+  },
+  "VLG2YE": {
+    "origem": "Ranón, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "THY1NS": {
+    "origem": "Istanbul, TR",
+    "destino": "Antalya, TR"
+  },
+  "EZY15NU": {
+    "origem": "London, GB",
+    "destino": "Agadir, MA"
+  },
+  "TOM1VT": {
+    "origem": "Belfast, GB",
+    "destino": "Dalaman, TR"
+  },
+  "TRA78L": {
+    "origem": "Eindhoven, NL",
+    "destino": "Lisbon, PT"
+  },
+  "RYR97NN": {
+    "origem": "Lisbon, PT",
+    "destino": "London, GB"
+  },
+  "TRA2H": {
+    "origem": "Rotterdam, NL",
+    "destino": "Faro, PT"
+  },
+  "RYR8DP": {
+    "origem": "Tangier, MA",
+    "destino": "Oujda, MA"
+  },
+  "EZY76FK": {
+    "origem": "Agadir, MA",
+    "destino": "London, GB"
   }
 }
