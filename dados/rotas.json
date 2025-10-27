@@ -24946,5 +24946,61 @@
   "EXS38KN": {
     "origem": "Manchester, GB",
     "destino": "Faro, PT"
+  },
+  "RYR12SK": {
+    "origem": "Lisbon, PT",
+    "destino": "Valencia, ES"
+  },
+  "BTI4PX": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Riga, LV"
+  },
+  "EXS95P": {
+    "origem": "Liverpool, GB",
+    "destino": "Antalya, TR"
+  },
+  "VKG1124": {
+    "origem": "Copenhagen, DK",
+    "destino": "Funchal, PT"
+  },
+  "TFL7BD": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "JTD511": {
+    "origem": "Billund, DK",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "TAP13LH": {
+    "origem": "London, GB",
+    "destino": "Lisbon, PT"
+  },
+  "TFL3DC": {
+    "origem": "Rotterdam, NL",
+    "destino": "Tenerife Island, ES"
+  },
+  "EZY26BV": {
+    "origem": "Lisbon, PT",
+    "destino": "London, GB"
+  },
+  "EXS85L": {
+    "origem": "Bournemouth, GB",
+    "destino": "Ibiza, ES"
+  },
+  "RYR42LV": {
+    "origem": "London, GB",
+    "destino": "Nürnberg, DE"
+  },
+  "TVF93VT": {
+    "origem": "Paris, FR",
+    "destino": "Heraklion, GR"
+  },
+  "RYR98FD": {
+    "origem": "Lisbon, PT",
+    "destino": "Vienna, AT"
+  },
+  "TRA7C": {
+    "origem": "Paphos, CY",
+    "destino": "Amsterdam, NL"
   }
 }
