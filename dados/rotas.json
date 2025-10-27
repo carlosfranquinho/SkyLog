@@ -24750,5 +24750,9 @@
   "EXS14K": {
     "origem": "Geneva, CH",
     "destino": "Manchester, GB"
+  },
+  "AFR545": {
+    "origem": "Fortaleza, BR",
+    "destino": "Paris, FR"
   }
 }
