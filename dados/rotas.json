@@ -25714,5 +25714,73 @@
   "TOM82C": {
     "origem": "Palma De Mallorca, ES",
     "destino": "Doncaster, GB"
+  },
+  "EZS19QH": {
+    "origem": "Lisbon, PT",
+    "destino": "Geneva, CH"
+  },
+  "NSZ5702": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Stockholm, SE"
+  },
+  "EZY57QD": {
+    "origem": "Lisbon, PT",
+    "destino": "London, GB"
+  },
+  "EZY98PA": {
+    "origem": "Kraków, PL",
+    "destino": "Edinburgh, GB"
+  },
+  "EXS67DE": {
+    "origem": "Liverpool, GB",
+    "destino": "Luqa, MT"
+  },
+  "EZY57XL": {
+    "origem": "Bristol, GB",
+    "destino": "Glasgow, GB"
+  },
+  "RYR386": {
+    "origem": "London, GB",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "EZY85TZ": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "London, GB"
+  },
+  "VLG2BU": {
+    "origem": "Alicante, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "AEA1142": {
+    "origem": "Porto, PT",
+    "destino": "Madrid, ES"
+  },
+  "RYR2DK": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Alicante, ES"
+  },
+  "RYR3XR": {
+    "origem": "Roma, IT",
+    "destino": "Rabat, MA"
+  },
+  "EZY78VY": {
+    "origem": "Barcelona, ES",
+    "destino": "Liverpool, GB"
+  },
+  "TRA5L": {
+    "origem": "Zakynthos Island, GR",
+    "destino": "Amsterdam, NL"
+  },
+  "EZY63EA": {
+    "origem": "Bari, IT",
+    "destino": "London, GB"
+  },
+  "RYR7138": {
+    "origem": "Dublin, IE",
+    "destino": "Lisbon, PT"
+  },
+  "WUK4560": {
+    "origem": "London, GB",
+    "destino": "Dalaman, TR"
   }
 }
