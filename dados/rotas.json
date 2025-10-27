@@ -25146,5 +25146,73 @@
   "RYR5982": {
     "origem": "Memmingen, DE",
     "destino": "Tel Aviv, IL"
+  },
+  "EZY92GP": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "EJU79ZG": {
+    "origem": "Paris, FR",
+    "destino": "Lisbon, PT"
+  },
+  "THY9NT": {
+    "origem": "Salzburg, AT",
+    "destino": "Istanbul, TR"
+  },
+  "TRA93E": {
+    "origem": "Rotterdam, NL",
+    "destino": "Pula, HR"
+  },
+  "RYR17XD": {
+    "origem": "Rzeszów, PL",
+    "destino": "Nottingham, GB"
+  },
+  "MMD6346": {
+    "origem": "Teterboro Airport",
+    "destino": "ZÃ¼rich Airport"
+  },
+  "RYR35ZJ": {
+    "origem": "Valencia, ES",
+    "destino": "Porto, PT"
+  },
+  "EXS1E": {
+    "origem": "Faro, PT",
+    "destino": "Nottingham, GB"
+  },
+  "NSZ2872": {
+    "origem": "Helsinki, FI",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TAP1336": {
+    "origem": "Lisbon, PT",
+    "destino": "London, GB"
+  },
+  "BEL1BQ": {
+    "origem": "Heraklion, GR",
+    "destino": "Brussels, BE"
+  },
+  "EZY94DB": {
+    "origem": "Hamburg, DE",
+    "destino": "London, GB"
+  },
+  "RYR39QU": {
+    "origem": "Venezia, IT",
+    "destino": "Brindisi, IT"
+  },
+  "TFL045F": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR1769": {
+    "origem": "Valencia, ES",
+    "destino": "Lisbon, PT"
+  },
+  "RYR86AZ": {
+    "origem": "London, GB",
+    "destino": "Budapest, HU"
+  },
+  "WZZ6SJ": {
+    "origem": "Chişinău, MD",
+    "destino": "London, GB"
   }
 }
