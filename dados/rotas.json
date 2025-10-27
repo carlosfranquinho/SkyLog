@@ -24754,5 +24754,13 @@
   "AFR545": {
     "origem": "Fortaleza, BR",
     "destino": "Paris, FR"
+  },
+  "QTR343": {
+    "origem": "Doha, QA",
+    "destino": "Lisbon, PT"
+  },
+  "RYR3041": {
+    "origem": "Sevilla, ES",
+    "destino": "Santiago de Compostela, ES"
   }
 }
