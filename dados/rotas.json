@@ -25002,5 +25002,77 @@
   "TRA7C": {
     "origem": "Paphos, CY",
     "destino": "Amsterdam, NL"
+  },
+  "EJU14QU": {
+    "origem": "Bristol, GB",
+    "destino": "Málaga, ES"
+  },
+  "EJU79NP": {
+    "origem": "Geneva, CH",
+    "destino": "Porto, PT"
+  },
+  "EZY52DE": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "TRA39E": {
+    "origem": "Amsterdam, NL",
+    "destino": "Porto, PT"
+  },
+  "EZY94TV": {
+    "origem": "Dubrovnik, HR",
+    "destino": "London, GB"
+  },
+  "EXS7VY": {
+    "origem": "Reykjavík, IS",
+    "destino": "Glasgow, GB"
+  },
+  "EXS4BC": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Belfast, GB"
+  },
+  "EFW1QB": {
+    "origem": "London, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TRA69C": {
+    "origem": "Eindhoven, NL",
+    "destino": "Rijeka, HR"
+  },
+  "RYR22SQ": {
+    "origem": "Dublin, IE",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "TVF44RW": {
+    "origem": "Paris, FR",
+    "destino": "Málaga, ES"
+  },
+  "EJU37HE": {
+    "origem": "Paris, FR",
+    "destino": "Venezia, IT"
+  },
+  "EZY23GA": {
+    "origem": "Manchester, GB",
+    "destino": "Split, HR"
+  },
+  "EZY56EV": {
+    "origem": "Venezia, IT",
+    "destino": "Manchester, GB"
+  },
+  "EXS72YE": {
+    "origem": "Leeds, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "AFR562": {
+    "origem": "Paris, FR",
+    "destino": "Beirut, LB"
+  },
+  "BLX539": {
+    "origem": "Stockholm, SE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EXS93GN": {
+    "origem": "Preveza/Lefkada, GR",
+    "destino": "Edinburgh, GB"
   }
 }
