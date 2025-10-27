@@ -25618,5 +25618,101 @@
   "RYR131M": {
     "origem": "Brussels, BE",
     "destino": "Napoli, IT"
+  },
+  "EZY59QK": {
+    "origem": "London, GB",
+    "destino": "Porto, PT"
+  },
+  "RYR2303": {
+    "origem": "Shannon, IE",
+    "destino": "Faro, PT"
+  },
+  "TRA61N": {
+    "origem": "Rotterdam, NL",
+    "destino": "Barcelona, ES"
+  },
+  "TAP57LK": {
+    "origem": "Lisbon, PT",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "BTI7MP": {
+    "origem": "Riga, LV",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TAP10EV": {
+    "origem": "Valencia, ES",
+    "destino": "Lisbon, PT"
+  },
+  "EZY81NK": {
+    "origem": "London, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "RYR851Y": {
+    "origem": "Gdańsk, PL",
+    "destino": "Torp, NO"
+  },
+  "TVF77SG": {
+    "origem": "Lisbon, PT",
+    "destino": "Nantes, FR"
+  },
+  "RYR9414": {
+    "origem": "Palermo, IT",
+    "destino": "Napoli, IT"
+  },
+  "RYR28SZ": {
+    "origem": "Billund, DK",
+    "destino": "Rome, IT"
+  },
+  "EZY65RM": {
+    "origem": "Barcelona, ES",
+    "destino": "London, GB"
+  },
+  "TVF3207": {
+    "origem": "Marrakech, MA",
+    "destino": "Nantes, FR"
+  },
+  "BAW515": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "London, GB"
+  },
+  "TRA49G": {
+    "origem": "Barcelona, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "EJU47VT": {
+    "origem": "Lisbon, PT",
+    "destino": "Milan, IT"
+  },
+  "RYR80WX": {
+    "origem": "Cologne, DE",
+    "destino": "Lisbon, PT"
+  },
+  "TRA3H": {
+    "origem": "Rotterdam, NL",
+    "destino": "Kerkyra Island, GR"
+  },
+  "RYR53HF": {
+    "origem": "Brussels, BE",
+    "destino": "Bordeaux, FR"
+  },
+  "EXS3DQ": {
+    "origem": "Kos Island, GR",
+    "destino": "Manchester, GB"
+  },
+  "EZY61GU": {
+    "origem": "London, GB",
+    "destino": "Glasgow, GB"
+  },
+  "EJU57VB": {
+    "origem": "Paris, FR",
+    "destino": "Milan, IT"
+  },
+  "EZY86BP": {
+    "origem": "Manchester, GB",
+    "destino": "Faro, PT"
+  },
+  "TOM82C": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Doncaster, GB"
   }
 }
