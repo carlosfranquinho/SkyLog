@@ -24906,5 +24906,45 @@
   "EJU87NZ": {
     "origem": "Paris, FR",
     "destino": "Porto, PT"
+  },
+  "EZY27TH": {
+    "origem": "Saint-Louis, FR",
+    "destino": "Amsterdam, NL"
+  },
+  "RYR7ZR": {
+    "origem": "Kraków, PL",
+    "destino": "London, GB"
+  },
+  "RYR84SQ": {
+    "origem": "Vienna, AT",
+    "destino": "Lisbon, PT"
+  },
+  "LGL3760": {
+    "origem": "Lisbon, PT",
+    "destino": "Luxembourg, LU"
+  },
+  "RYR94AQ": {
+    "origem": "Zagreb, HR",
+    "destino": "Dublin, IE"
+  },
+  "EZY53CM": {
+    "origem": "Bristol, GB",
+    "destino": "Ibiza, ES"
+  },
+  "QTR344": {
+    "origem": "Lisbon, PT",
+    "destino": "Doha, QA"
+  },
+  "EZY52RM": {
+    "origem": "Bristol, GB",
+    "destino": "Faro, PT"
+  },
+  "EZY29WA": {
+    "origem": "Southend, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EXS38KN": {
+    "origem": "Manchester, GB",
+    "destino": "Faro, PT"
   }
 }
