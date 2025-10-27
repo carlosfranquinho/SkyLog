@@ -25442,5 +25442,89 @@
   "EZY76FK": {
     "origem": "Agadir, MA",
     "destino": "London, GB"
+  },
+  "IBE03DZ": {
+    "origem": "Madrid, ES",
+    "destino": "Boston, US"
+  },
+  "RYR44AN": {
+    "origem": "Liverpool, GB",
+    "destino": "Cork, IE"
+  },
+  "EZY37MT": {
+    "origem": "London, GB",
+    "destino": "Marrakech, MA"
+  },
+  "EXS38GH": {
+    "origem": "Nottingham, GB",
+    "destino": "Menorca Island, ES"
+  },
+  "EZY54KD": {
+    "origem": "Birmingham, GB",
+    "destino": "Lisbon, PT"
+  },
+  "RYR1VM": {
+    "origem": "Stockholm, SE",
+    "destino": "Brussels, BE"
+  },
+  "EXS3859": {
+    "origem": "London, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR24FV": {
+    "origem": "Leeds, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "WUK2CV": {
+    "origem": "London, GB",
+    "destino": "Marrakech, MA"
+  },
+  "RUK514": {
+    "origem": "Edinburgh, GB",
+    "destino": "Marrakech, MA"
+  },
+  "RYR7GM": {
+    "origem": "Marseille, FR",
+    "destino": "Bordeaux, FR"
+  },
+  "EXS78AT": {
+    "origem": "Newcastle, GB",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "EWG2W": {
+    "origem": "Cologne, DE",
+    "destino": "Prague, CZ"
+  },
+  "EZY19ZX": {
+    "origem": "Birmingham, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EXS52GH": {
+    "origem": "Manchester, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EXS43VX": {
+    "origem": "Manchester, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EJU97AP": {
+    "origem": "Nantes, FR",
+    "destino": "Porto, PT"
+  },
+  "EXS29B": {
+    "origem": "Birmingham, GB",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "TRA70Y": {
+    "origem": "Rotterdam, NL",
+    "destino": "Málaga, ES"
+  },
+  "RYR98EG": {
+    "origem": "Tours/Val de Loire (Loire Valley), FR",
+    "destino": "Porto, PT"
+  },
+  "EXS1725": {
+    "origem": "Manchester, GB",
+    "destino": "Marrakech, MA"
   }
 }
