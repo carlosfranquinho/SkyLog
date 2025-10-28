@@ -26230,5 +26230,53 @@
   "EZY61AL": {
     "origem": "Lisbon, PT",
     "destino": "Edinburgh, GB"
+  },
+  "EXS15AS": {
+    "origem": "Leeds, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "RYR18DD": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "AEA85PZ": {
+    "origem": "Lisbon, PT",
+    "destino": "Madrid, ES"
+  },
+  "EZY29LE": {
+    "origem": "Southend, GB",
+    "destino": "Alicante, ES"
+  },
+  "JAF6PH": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Brussels, BE"
+  },
+  "EWG72U": {
+    "origem": "Hamburg, DE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "RYR9JW": {
+    "origem": "Liverpool, GB",
+    "destino": "Alicante, ES"
+  },
+  "RYR7NY": {
+    "origem": "Bergerac/Roumanière, FR",
+    "destino": "Brussels, BE"
+  },
+  "EJU43CN": {
+    "origem": "Milan, IT",
+    "destino": "Lisbon, PT"
+  },
+  "RYR662Y": {
+    "origem": "Bristol, GB",
+    "destino": "Béziers/Vias, FR"
+  },
+  "EZY45VL": {
+    "origem": "London, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR85NQ": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Brussels, BE"
   }
 }
