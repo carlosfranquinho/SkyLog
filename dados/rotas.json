@@ -26558,5 +26558,33 @@
   "TRA42K": {
     "origem": "Sta Cruz de la Palma, La Palma Island, ES",
     "destino": "Amsterdam, NL"
+  },
+  "EXS2RD": {
+    "origem": "Leeds, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "RUK2252": {
+    "origem": "Manchester, GB",
+    "destino": "Lisbon, PT"
+  },
+  "RYR65RF": {
+    "origem": "Edinburgh, GB",
+    "destino": "Faro, PT"
+  },
+  "TOM481": {
+    "origem": "Rabil, CV",
+    "destino": "Manchester, GB"
+  },
+  "RYR443P": {
+    "origem": "London, GB",
+    "destino": "Lisbon, PT"
+  },
+  "BLX528": {
+    "origem": "Espargos, CV",
+    "destino": "Helsinki, FI"
+  },
+  "RYR60DN": {
+    "origem": "Lisbon, PT",
+    "destino": "Warsaw, PL"
   }
 }
