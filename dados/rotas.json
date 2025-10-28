@@ -25950,5 +25950,33 @@
   "THY9WA": {
     "origem": "Zürich, CH",
     "destino": "Istanbul, TR"
+  },
+  "RYR5QQ": {
+    "origem": "Milan, IT",
+    "destino": "Napoli, IT"
+  },
+  "QTR781": {
+    "origem": "Doha, QA",
+    "destino": "Miami, US"
+  },
+  "AEA63QN": {
+    "origem": "Madrid, ES",
+    "destino": "Lisbon, PT"
+  },
+  "EJU82UW": {
+    "origem": "London, GB",
+    "destino": "Amsterdam, NL"
+  },
+  "RYR6XE": {
+    "origem": "Rimini, IT",
+    "destino": "Kraków, PL"
+  },
+  "EJU49CV": {
+    "origem": "Ibiza, ES",
+    "destino": "Milan, IT"
+  },
+  "RYR26LQ": {
+    "origem": "La Rochelle/Île de Ré, FR",
+    "destino": "Marseille, FR"
   }
 }
