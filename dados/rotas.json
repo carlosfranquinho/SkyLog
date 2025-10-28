@@ -25978,5 +25978,57 @@
   "RYR26LQ": {
     "origem": "La Rochelle/Île de Ré, FR",
     "destino": "Marseille, FR"
+  },
+  "RYR265A": {
+    "origem": "Porto, PT",
+    "destino": "Vienna, AT"
+  },
+  "JAF3LY": {
+    "origem": "Antwerp, BE",
+    "destino": "Alicante, ES"
+  },
+  "RYR8GZ": {
+    "origem": "Torino, IT",
+    "destino": "Brindisi, IT"
+  },
+  "EJU87AF": {
+    "origem": "Lisbon, PT",
+    "destino": "Madrid, ES"
+  },
+  "RYR4MB": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "RYR322T": {
+    "origem": "Weeze, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "RYR5066": {
+    "origem": "Vienna, AT",
+    "destino": "Valencia, ES"
+  },
+  "RYR88ZR": {
+    "origem": "Manchester, GB",
+    "destino": "Brussels, BE"
+  },
+  "WMT90LZ": {
+    "origem": "Rome, IT",
+    "destino": "Lisbon, PT"
+  },
+  "RYR7PB": {
+    "origem": "Beauvais/Tillé, FR",
+    "destino": "Paphos, CY"
+  },
+  "THY9XS": {
+    "origem": "Brussels, BE",
+    "destino": "Istanbul, TR"
+  },
+  "VLG72JE": {
+    "origem": "Barcelona, ES",
+    "destino": "Lisbon, PT"
+  },
+  "RYR886H": {
+    "origem": "Nottingham, GB",
+    "destino": "Lanzarote Island, ES"
   }
 }
