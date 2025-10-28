@@ -26342,5 +26342,41 @@
   "EZY3175": {
     "origem": "Glasgow, GB",
     "destino": "Agadir, MA"
+  },
+  "AEA86DN": {
+    "origem": "Madrid, ES",
+    "destino": "Lisbon, PT"
+  },
+  "AFR67JQ": {
+    "origem": "Paris, FR",
+    "destino": "Lisbon, PT"
+  },
+  "EDW103": {
+    "origem": "Rabil, CV",
+    "destino": "Zürich, CH"
+  },
+  "AZU9903": {
+    "origem": "Lisbon, PT",
+    "destino": "Campinas, BR"
+  },
+  "VOE3851": {
+    "origem": "Málaga, ES",
+    "destino": "Culleredo, ES"
+  },
+  "RYR673Y": {
+    "origem": "Dublin, IE",
+    "destino": "Valencia, ES"
+  },
+  "WZZ85": {
+    "origem": "Budapest, HU",
+    "destino": "Funchal, PT"
+  },
+  "EZY25XF": {
+    "origem": "Manchester, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR616N": {
+    "origem": "Warsaw, PL",
+    "destino": "Birmingham, GB"
   }
 }
