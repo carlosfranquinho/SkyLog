@@ -26278,5 +26278,25 @@
   "RYR85NQ": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Brussels, BE"
+  },
+  "EJU75RN": {
+    "origem": "Milan, IT",
+    "destino": "Lisbon, PT"
+  },
+  "EWG8LB": {
+    "origem": "Berlin, DE",
+    "destino": "Faro, PT"
+  },
+  "TFL56M": {
+    "origem": "Amsterdam, NL",
+    "destino": "Lanzarote Island, ES"
+  },
+  "AFR409": {
+    "origem": "Rio De Janeiro, BR",
+    "destino": "Paris, FR"
+  },
+  "RYR606J": {
+    "origem": "Fes, MA",
+    "destino": "Beauvais/Tillé, FR"
   }
 }
