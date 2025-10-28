@@ -26418,5 +26418,53 @@
   "BLX166": {
     "origem": "Lanzarote Island, ES",
     "destino": "Gothenburg, SE"
+  },
+  "TRA40M": {
+    "origem": "Rotterdam, NL",
+    "destino": "Lisbon, PT"
+  },
+  "EXS1VE": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Manchester, GB"
+  },
+  "NOZ82Y": {
+    "origem": "Oslo, NO",
+    "destino": "Faro, PT"
+  },
+  "TOM5BK": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Exeter, GB"
+  },
+  "AFR97CH": {
+    "origem": "Paris, FR",
+    "destino": "Lisbon, PT"
+  },
+  "RYR7955": {
+    "origem": "Kraków, PL",
+    "destino": "Prague, CZ"
+  },
+  "EZY51WZ": {
+    "origem": "London, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "RYR78MG": {
+    "origem": "Edinburgh, GB",
+    "destino": "Kraków, PL"
+  },
+  "EJU57AW": {
+    "origem": "Milan, IT",
+    "destino": "Lisbon, PT"
+  },
+  "TOM5JH": {
+    "origem": "Birmingham, GB",
+    "destino": "Espargos, CV"
+  },
+  "RYR9SN": {
+    "origem": "Barcelona, ES",
+    "destino": "Málaga, ES"
+  },
+  "EZY51DX": {
+    "origem": "Edinburgh, GB",
+    "destino": "Fuerteventura Island, ES"
   }
 }
