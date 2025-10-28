@@ -26506,5 +26506,57 @@
   "TRA66H": {
     "origem": "Rotterdam, NL",
     "destino": "Heraklion, GR"
+  },
+  "RYR41FG": {
+    "origem": "Toulouse, FR",
+    "destino": "Lisbon, PT"
+  },
+  "EWG1CM": {
+    "origem": "Málaga, ES",
+    "destino": "Düsseldorf, DE"
+  },
+  "EJU52KR": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Berlin, DE"
+  },
+  "EWG7529": {
+    "origem": "Sta Cruz de la Palma, La Palma Island, ES",
+    "destino": "Hamburg, DE"
+  },
+  "EJU58HR": {
+    "origem": "Paris, FR",
+    "destino": "Madrid, ES"
+  },
+  "NSZ4270": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Stockholm, SE"
+  },
+  "EZY43EH": {
+    "origem": "Lisbon, PT",
+    "destino": "Bristol, GB"
+  },
+  "NOZ83G": {
+    "origem": "Faro, PT",
+    "destino": "Oslo, NO"
+  },
+  "WZZ5RK": {
+    "origem": "Liverpool, GB",
+    "destino": "Bucharest, RO"
+  },
+  "RYR21BP": {
+    "origem": "Lisbon, PT",
+    "destino": "Marseille, FR"
+  },
+  "EXS89R": {
+    "origem": "Venezia, IT",
+    "destino": "Birmingham, GB"
+  },
+  "WZZ279": {
+    "origem": "London, GB",
+    "destino": "Wrocław, PL"
+  },
+  "TRA42K": {
+    "origem": "Sta Cruz de la Palma, La Palma Island, ES",
+    "destino": "Amsterdam, NL"
   }
 }
