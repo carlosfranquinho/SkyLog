@@ -26142,5 +26142,41 @@
   "EXS96AM": {
     "origem": "Faro, PT",
     "destino": "Bristol, GB"
+  },
+  "TRA22P": {
+    "origem": "Amsterdam, NL",
+    "destino": "Valencia, ES"
+  },
+  "TOM5GW": {
+    "origem": "Girona, ES",
+    "destino": "London, GB"
+  },
+  "RYR95KW": {
+    "origem": "Lisbon, PT",
+    "destino": "Cologne, DE"
+  },
+  "BLX527": {
+    "origem": "Stockholm, SE",
+    "destino": "Rabil, CV"
+  },
+  "TAP11MG": {
+    "origem": "Málaga, ES",
+    "destino": "Lisbon, PT"
+  },
+  "EJU61RC": {
+    "origem": "Marseille, FR",
+    "destino": "Berlin, DE"
+  },
+  "EJU34YP": {
+    "origem": "Paris, FR",
+    "destino": "Porto, PT"
+  },
+  "EJU52KL": {
+    "origem": "Geneva, CH",
+    "destino": "Amsterdam, NL"
+  },
+  "AFR19JQ": {
+    "origem": "Paris, FR",
+    "destino": "Lisbon, PT"
   }
 }
