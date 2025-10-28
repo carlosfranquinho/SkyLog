@@ -26030,5 +26030,65 @@
   "RYR886H": {
     "origem": "Nottingham, GB",
     "destino": "Lanzarote Island, ES"
+  },
+  "RYR2633": {
+    "origem": "Porto, PT",
+    "destino": "Ponta Delgada, PT"
+  },
+  "TAP63GL": {
+    "origem": "London, GB",
+    "destino": "Lisbon, PT"
+  },
+  "TRA8J": {
+    "origem": "Eindhoven, NL",
+    "destino": "Lanzarote Island, ES"
+  },
+  "AEA78ED": {
+    "origem": "Lisbon, PT",
+    "destino": "Madrid, ES"
+  },
+  "EJU47BZ": {
+    "origem": "Lyon, FR",
+    "destino": "Souda, GR"
+  },
+  "RYR92BG": {
+    "origem": "London, GB",
+    "destino": "Gothenburg, SE"
+  },
+  "RYR37HF": {
+    "origem": "Brussels, BE",
+    "destino": "Pescara, IT"
+  },
+  "TVF19ZP": {
+    "origem": "Paris, FR",
+    "destino": "Lisbon, PT"
+  },
+  "EJU47VW": {
+    "origem": "Luqa, MT",
+    "destino": "Napoli, IT"
+  },
+  "EXS71MF": {
+    "origem": "Nea Anchialos, GR",
+    "destino": "Manchester, GB"
+  },
+  "EXS92WN": {
+    "origem": "Newcastle, GB",
+    "destino": "Heraklion, GR"
+  },
+  "EXS2LS": {
+    "origem": "London, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EXS56PS": {
+    "origem": "Belfast, GB",
+    "destino": "Rodes Island, GR"
+  },
+  "TFL9TM": {
+    "origem": "Amsterdam, NL",
+    "destino": "Rabil, CV"
+  },
+  "EJU12NK": {
+    "origem": "Amsterdam, NL",
+    "destino": "Tenerife Island, ES"
   }
 }
