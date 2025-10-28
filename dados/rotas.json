@@ -26586,5 +26586,37 @@
   "RYR60DN": {
     "origem": "Lisbon, PT",
     "destino": "Warsaw, PL"
+  },
+  "RYR5TH": {
+    "origem": "Berlin, DE",
+    "destino": "Barcelona, ES"
+  },
+  "EZY62TF": {
+    "origem": "Belfast, GB",
+    "destino": "Liverpool, GB"
+  },
+  "RYR2BH": {
+    "origem": "Palermo, IT",
+    "destino": "Bologna, IT"
+  },
+  "VKG819": {
+    "origem": "Espargos, CV",
+    "destino": "Stockholm, SE"
+  },
+  "RYR74YL": {
+    "origem": "Beauvais/Tillé, FR",
+    "destino": "Bologna, IT"
+  },
+  "ISR194": {
+    "origem": "Lisbon, PT",
+    "destino": "Trivandrum, IN"
+  },
+  "EZY21VF": {
+    "origem": "Marrakech, MA",
+    "destino": "London, GB"
+  },
+  "RYR116P": {
+    "origem": "Lisbon, PT",
+    "destino": "Luqa, MT"
   }
 }
