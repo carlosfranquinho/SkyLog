@@ -26090,5 +26090,57 @@
   "EJU12NK": {
     "origem": "Amsterdam, NL",
     "destino": "Tenerife Island, ES"
+  },
+  "RYR8KN": {
+    "origem": "Bergerac/Roumanière, FR",
+    "destino": "Nottingham, GB"
+  },
+  "EJU82QG": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR36JU": {
+    "origem": "Leeds, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EZY56NG": {
+    "origem": "Glasgow, GB",
+    "destino": "Faro, PT"
+  },
+  "EJU36KH": {
+    "origem": "Amsterdam, NL",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EZY78UT": {
+    "origem": "London, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "WZZ4CZ": {
+    "origem": "Warsaw, PL",
+    "destino": "Aberdeen, GB"
+  },
+  "RYR4RT": {
+    "origem": "Edinburgh, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "CFG4HF": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR372V": {
+    "origem": "Brussels, BE",
+    "destino": "Lisbon, PT"
+  },
+  "EZY45CG": {
+    "origem": "Manchester, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EXS978L": {
+    "origem": "Nottingham, GB",
+    "destino": "Faro, PT"
+  },
+  "EXS96AM": {
+    "origem": "Faro, PT",
+    "destino": "Bristol, GB"
   }
 }
