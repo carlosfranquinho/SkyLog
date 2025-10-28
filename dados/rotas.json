@@ -26378,5 +26378,45 @@
   "RYR616N": {
     "origem": "Warsaw, PL",
     "destino": "Birmingham, GB"
+  },
+  "ASL36H": {
+    "origem": "Belgrad, RS",
+    "destino": "Istanbul, TR"
+  },
+  "BEL4JL": {
+    "origem": "Brussels, BE",
+    "destino": "Porto, PT"
+  },
+  "TRA13B": {
+    "origem": "Eindhoven, NL",
+    "destino": "Faro, PT"
+  },
+  "TRA79Q": {
+    "origem": "Amsterdam, NL",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR227": {
+    "origem": "London, GB",
+    "destino": "Dublin, IE"
+  },
+  "TOM6BD": {
+    "origem": "Bristol, GB",
+    "destino": "Espargos, CV"
+  },
+  "FIN7BA": {
+    "origem": "Faro, PT",
+    "destino": "Helsinki, FI"
+  },
+  "RYR1684": {
+    "origem": "Hahn, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EZS16FY": {
+    "origem": "Geneva, CH",
+    "destino": "Lisbon, PT"
+  },
+  "BLX166": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Gothenburg, SE"
   }
 }
