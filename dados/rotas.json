@@ -26298,5 +26298,49 @@
   "RYR606J": {
     "origem": "Fes, MA",
     "destino": "Beauvais/Tillé, FR"
+  },
+  "EXS36HQ": {
+    "origem": "Bournemouth, GB",
+    "destino": "Kerkyra Island, GR"
+  },
+  "RYR84MC": {
+    "origem": "Budapest, HU",
+    "destino": "Lisbon, PT"
+  },
+  "RYR97AE": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Berlin, DE"
+  },
+  "RYR5VN": {
+    "origem": "Beauvais/Tillé, FR",
+    "destino": "Ibiza, ES"
+  },
+  "RYR56UU": {
+    "origem": "Bari, IT",
+    "destino": "Valencia, ES"
+  },
+  "EJU95NA": {
+    "origem": "Bristol, GB",
+    "destino": "Venezia, IT"
+  },
+  "RYR4KZ": {
+    "origem": "London, GB",
+    "destino": "Brindisi, IT"
+  },
+  "RYR80JU": {
+    "origem": "Dublin, IE",
+    "destino": "Sevilla, ES"
+  },
+  "RYR7WY": {
+    "origem": "Łódź, PL",
+    "destino": "Nottingham, GB"
+  },
+  "RYR7644": {
+    "origem": "Luqa, MT",
+    "destino": "Pisa, IT"
+  },
+  "EZY3175": {
+    "origem": "Glasgow, GB",
+    "destino": "Agadir, MA"
   }
 }
