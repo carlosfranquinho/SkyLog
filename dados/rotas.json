@@ -26178,5 +26178,57 @@
   "AFR19JQ": {
     "origem": "Paris, FR",
     "destino": "Lisbon, PT"
+  },
+  "RYR196G": {
+    "origem": "Vienna, AT",
+    "destino": "Dubrovnik, HR"
+  },
+  "RAM980E": {
+    "origem": "Casablanca, MA",
+    "destino": "Lisbon, PT"
+  },
+  "EJU67PL": {
+    "origem": "Funchal, PT",
+    "destino": "Lisbon, PT"
+  },
+  "VOE2750": {
+    "origem": "Bordeaux, FR",
+    "destino": "Marrakech, MA"
+  },
+  "DLH505": {
+    "origem": "São Paulo, BR",
+    "destino": "Munich, DE"
+  },
+  "EZY72EB": {
+    "origem": "London, GB",
+    "destino": "Amsterdam, NL"
+  },
+  "TAM8148": {
+    "origem": "São Paulo, BR",
+    "destino": "Lisbon, PT"
+  },
+  "VLG4HJ": {
+    "origem": "Barcelona, ES",
+    "destino": "Paris, FR"
+  },
+  "VLG3188": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Paris, FR"
+  },
+  "TOM17E": {
+    "origem": "Manchester, GB",
+    "destino": "Rabil, CV"
+  },
+  "EJU97TW": {
+    "origem": "Olbia, IT",
+    "destino": "Milan, IT"
+  },
+  "EZY28GB": {
+    "origem": "Bristol, GB",
+    "destino": "Marrakech, MA"
+  },
+  "EZY61AL": {
+    "origem": "Lisbon, PT",
+    "destino": "Edinburgh, GB"
   }
 }
