@@ -26466,5 +26466,45 @@
   "EZY51DX": {
     "origem": "Edinburgh, GB",
     "destino": "Fuerteventura Island, ES"
+  },
+  "EXS2BS": {
+    "origem": "Zakynthos Island, GR",
+    "destino": "Newcastle, GB"
+  },
+  "EXS48TR": {
+    "origem": "Manchester, GB",
+    "destino": "Catania, IT"
+  },
+  "TRA46G": {
+    "origem": "Amsterdam, NL",
+    "destino": "Sevilla, ES"
+  },
+  "TVF78YY": {
+    "origem": "Athens, GR",
+    "destino": "Paris, FR"
+  },
+  "RYR9226": {
+    "origem": "Newquay, GB",
+    "destino": "Faro, PT"
+  },
+  "TFL1AG": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "CFG6WH": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Hamburg, DE"
+  },
+  "ASL11B": {
+    "origem": "Pula, HR",
+    "destino": "Belgrad, RS"
+  },
+  "RYR60HP": {
+    "origem": "Stockholm / Nyköping, SE",
+    "destino": "Brindisi, IT"
+  },
+  "TRA66H": {
+    "origem": "Rotterdam, NL",
+    "destino": "Heraklion, GR"
   }
 }
