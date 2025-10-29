@@ -27158,5 +27158,61 @@
   "RYR97XJ": {
     "origem": "Dublin, IE",
     "destino": "Lisbon, PT"
+  },
+  "EZS1468": {
+    "origem": "Faro, PT",
+    "destino": "Geneva, CH"
+  },
+  "JTD804": {
+    "origem": "Tampere / Pirkkala, FI",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EXS51ST": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Birmingham, GB"
+  },
+  "RYR59AL": {
+    "origem": "Edinburgh, GB",
+    "destino": "Porto, PT"
+  },
+  "LGL368": {
+    "origem": "Rabil, CV",
+    "destino": "Luxembourg, LU"
+  },
+  "RYR7UV": {
+    "origem": "Dresden, DE",
+    "destino": "London, GB"
+  },
+  "EZS46CX": {
+    "origem": "Saint-Louis, FR",
+    "destino": "Madrid, ES"
+  },
+  "AFR65NM": {
+    "origem": "Amsterdam, NL",
+    "destino": "Paris, FR"
+  },
+  "NOZ2EL": {
+    "origem": "Evenes, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EZY95MW": {
+    "origem": "Málaga, ES",
+    "destino": "Bristol, GB"
+  },
+  "RYR5FG": {
+    "origem": "Girona, ES",
+    "destino": "Baden-Baden, DE"
+  },
+  "RYR83AJ": {
+    "origem": "Luxembourg, LU",
+    "destino": "Lisbon, PT"
+  },
+  "LGL406": {
+    "origem": "Diass, SN",
+    "destino": "Luxembourg, LU"
+  },
+  "EJU1870": {
+    "origem": "Menorca Island, ES",
+    "destino": "Bordeaux, FR"
   }
 }
