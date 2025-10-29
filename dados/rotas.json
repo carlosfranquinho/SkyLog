@@ -27014,5 +27014,65 @@
   "RYR61HM": {
     "origem": "London, GB",
     "destino": "Stockholm / Nyköping, SE"
+  },
+  "EZY24DQ": {
+    "origem": "London, GB",
+    "destino": "Genova, IT"
+  },
+  "RYR459J": {
+    "origem": "Riga, LV",
+    "destino": "Dublin, IE"
+  },
+  "RYR9NG": {
+    "origem": "London, GB",
+    "destino": "Kraków, PL"
+  },
+  "RYR78ZF": {
+    "origem": "London, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EXS12DR": {
+    "origem": "Lyon, FR",
+    "destino": "Manchester, GB"
+  },
+  "TVS6LR": {
+    "origem": "Hamburg, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "RYR76PT": {
+    "origem": "Barcelona, ES",
+    "destino": "Torino, IT"
+  },
+  "EZY32EK": {
+    "origem": "Bristol, GB",
+    "destino": "Agadir, MA"
+  },
+  "FLI499": {
+    "origem": "Rome, IT",
+    "destino": "Vagar, FO"
+  },
+  "EXS82PX": {
+    "origem": "Dalaman, TR",
+    "destino": "Newcastle, GB"
+  },
+  "EXS59N": {
+    "origem": "Bristol, GB",
+    "destino": "Bodrum, TR"
+  },
+  "EJU95XT": {
+    "origem": "Faro, PT",
+    "destino": "London, GB"
+  },
+  "RYR43UZ": {
+    "origem": "London, GB",
+    "destino": "Leipzig, DE"
+  },
+  "QTR28Q": {
+    "origem": "Doha, QA",
+    "destino": "Mumbai, IN"
+  },
+  "AEA82SG": {
+    "origem": "Lisbon, PT",
+    "destino": "Madrid, ES"
   }
 }
