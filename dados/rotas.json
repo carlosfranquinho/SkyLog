@@ -26962,5 +26962,57 @@
   "AFR598": {
     "origem": "Paris, FR",
     "destino": "Paris, FR"
+  },
+  "RYR8UH": {
+    "origem": "Oujda, MA",
+    "destino": "Beauvais/Tillé, FR"
+  },
+  "EDW92": {
+    "origem": "Zürich, CH",
+    "destino": "Zürich, CH"
+  },
+  "EWG7XB": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Dortmund, DE"
+  },
+  "RYR65TJ": {
+    "origem": "Cologne, DE",
+    "destino": "Treviso, IT"
+  },
+  "EXS73D": {
+    "origem": "Liverpool, GB",
+    "destino": "Dalaman, TR"
+  },
+  "VOE3UX": {
+    "origem": "Ranón, ES",
+    "destino": "Valencia, ES"
+  },
+  "EJU31NE": {
+    "origem": "Lisbon, PT",
+    "destino": "London, GB"
+  },
+  "RYR98BZ": {
+    "origem": "Cologne, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "EXS1402": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "London, GB"
+  },
+  "NOZ19A": {
+    "origem": "Oslo, NO",
+    "destino": "Agadir, MA"
+  },
+  "TVF13HZ": {
+    "origem": "Paris, FR",
+    "destino": "Sevilla, ES"
+  },
+  "RYR2JR": {
+    "origem": "Cologne, DE",
+    "destino": "Charleston, IE"
+  },
+  "RYR61HM": {
+    "origem": "London, GB",
+    "destino": "Stockholm / Nyköping, SE"
   }
 }
