@@ -26702,5 +26702,37 @@
   "RYR3SU": {
     "origem": "Dublin, IE",
     "destino": "Nürnberg, DE"
+  },
+  "EJU81CX": {
+    "origem": "Paris, FR",
+    "destino": "Venezia, IT"
+  },
+  "RYR5NH": {
+    "origem": "Alicante, ES",
+    "destino": "Marrakech, MA"
+  },
+  "VLG8FG": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Culleredo, ES"
+  },
+  "EZS73KR": {
+    "origem": "Geneva, CH",
+    "destino": "Lisbon, PT"
+  },
+  "EJU36FC": {
+    "origem": "Paris, FR",
+    "destino": "Marrakech, MA"
+  },
+  "TFL5KJ": {
+    "origem": "Amsterdam, NL",
+    "destino": "Banjul, GM"
+  },
+  "JAF51K": {
+    "origem": "Antalya, TR",
+    "destino": "Ostend, BE"
+  },
+  "RYR7043": {
+    "origem": "Vienna, AT",
+    "destino": "Tenerife Island, ES"
   }
 }
