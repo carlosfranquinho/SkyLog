@@ -27214,5 +27214,49 @@
   "EJU1870": {
     "origem": "Menorca Island, ES",
     "destino": "Bordeaux, FR"
+  },
+  "NOZ71N": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Trondheim, NO"
+  },
+  "RYR7614": {
+    "origem": "Lisbon, PT",
+    "destino": "Glasgow, GB"
+  },
+  "RYR43QN": {
+    "origem": "Lisbon, PT",
+    "destino": "London, GB"
+  },
+  "RYR88VC": {
+    "origem": "Berlin, DE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "JAF1FG": {
+    "origem": "Nice, FR",
+    "destino": "Châlons/Vatry, FR"
+  },
+  "EZY61JH": {
+    "origem": "Agadir, MA",
+    "destino": "Bristol, GB"
+  },
+  "RYR5826": {
+    "origem": "Stockholm, SE",
+    "destino": "London, GB"
+  },
+  "TAP1207": {
+    "origem": "Warsaw, PL",
+    "destino": "Lisbon, PT"
+  },
+  "EXS587H": {
+    "origem": "Faro, PT",
+    "destino": "Leeds, GB"
+  },
+  "TAP1326": {
+    "origem": "Lisbon, PT",
+    "destino": "Dublin, IE"
+  },
+  "EXS82EN": {
+    "origem": "Alicante, ES",
+    "destino": "Birmingham, GB"
   }
 }
