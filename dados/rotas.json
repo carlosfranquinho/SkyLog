@@ -26686,5 +26686,21 @@
   "EJU6725": {
     "origem": "Lisbon, PT",
     "destino": "Menorca Island, ES"
+  },
+  "RYR57CB": {
+    "origem": "Memmingen, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "AEA36MM": {
+    "origem": "Porto, PT",
+    "destino": "Madrid, ES"
+  },
+  "QTR14K": {
+    "origem": "Houston, US",
+    "destino": "Doha, QA"
+  },
+  "RYR3SU": {
+    "origem": "Dublin, IE",
+    "destino": "Nürnberg, DE"
   }
 }
