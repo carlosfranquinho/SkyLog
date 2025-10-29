@@ -27118,5 +27118,45 @@
   "RYR85QB": {
     "origem": "Edinburgh, GB",
     "destino": "Budapest, HU"
+  },
+  "RYR4919": {
+    "origem": "Lisbon, PT",
+    "destino": "Brussels, BE"
+  },
+  "CFG8TE": {
+    "origem": "Zürich, CH",
+    "destino": "Heraklion, GR"
+  },
+  "RYR386N": {
+    "origem": "Valencia, ES",
+    "destino": "Porto, PT"
+  },
+  "TRA55R": {
+    "origem": "Thessaloniki, GR",
+    "destino": "Amsterdam, NL"
+  },
+  "TFL77A": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "EZS18WC": {
+    "origem": "Geneva, CH",
+    "destino": "Brindisi, IT"
+  },
+  "RYR9461": {
+    "origem": "Bremen, DE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EJU6737": {
+    "origem": "Lisbon, PT",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "EJU73LD": {
+    "origem": "Berlin, DE",
+    "destino": "Varna, BG"
+  },
+  "RYR97XJ": {
+    "origem": "Dublin, IE",
+    "destino": "Lisbon, PT"
   }
 }
