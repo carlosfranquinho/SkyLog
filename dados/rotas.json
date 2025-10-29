@@ -26810,5 +26810,25 @@
   "TVF76MR": {
     "origem": "Paris, FR",
     "destino": "Montpellier, FR"
+  },
+  "EJU67CQ": {
+    "origem": "Bristol, GB",
+    "destino": "Faro, PT"
+  },
+  "EDW108": {
+    "origem": "Zürich, CH",
+    "destino": "Espargos, CV"
+  },
+  "AFR412": {
+    "origem": "Paris, FR",
+    "destino": "Buenos Aires, AR"
+  },
+  "TFL60V": {
+    "origem": "Rotterdam, NL",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "LGL7F": {
+    "origem": "Luxembourg, LU",
+    "destino": "Faro, PT"
   }
 }
