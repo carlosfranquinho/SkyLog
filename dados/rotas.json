@@ -26670,5 +26670,21 @@
   "EXS67T": {
     "origem": "London, GB",
     "destino": "Antalya, TR"
+  },
+  "RYR997": {
+    "origem": "Billund, DK",
+    "destino": "Madrid, ES"
+  },
+  "RYR67JM": {
+    "origem": "Porto, PT",
+    "destino": "Brussels, BE"
+  },
+  "EJU49ED": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
+  },
+  "EJU6725": {
+    "origem": "Lisbon, PT",
+    "destino": "Menorca Island, ES"
   }
 }
