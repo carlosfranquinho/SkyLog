@@ -26910,5 +26910,57 @@
   "TVF55HY": {
     "origem": "Paris, FR",
     "destino": "Lisbon, PT"
+  },
+  "TRA85U": {
+    "origem": "Bari, IT",
+    "destino": "Amsterdam, NL"
+  },
+  "EZY93TP": {
+    "origem": "Salzburg, AT",
+    "destino": "London, GB"
+  },
+  "RYR6MT": {
+    "origem": "Barcelona, ES",
+    "destino": "Santander, ES"
+  },
+  "JAF7AH": {
+    "origem": "Liège, BE",
+    "destino": "Tenerife Island, ES"
+  },
+  "AFR410": {
+    "origem": "Ajaccio, FR",
+    "destino": "Paris, FR"
+  },
+  "VLG1NH": {
+    "origem": "Athens, GR",
+    "destino": "Barcelona, ES"
+  },
+  "EZY64DU": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Southend, GB"
+  },
+  "EZY78NA": {
+    "origem": "Aberdeen, GB",
+    "destino": "London, GB"
+  },
+  "TAP56DT": {
+    "origem": "Hamburg, DE",
+    "destino": "Lisbon, PT"
+  },
+  "RYR42TT": {
+    "origem": "Bristol, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EJU1869": {
+    "origem": "Bordeaux, FR",
+    "destino": "Menorca Island, ES"
+  },
+  "EJU4385": {
+    "origem": "Lyon, FR",
+    "destino": "Tenerife Island, ES"
+  },
+  "AFR598": {
+    "origem": "Paris, FR",
+    "destino": "Paris, FR"
   }
 }
