@@ -26782,5 +26782,33 @@
   "EZY64LH": {
     "origem": "Castletown, IM",
     "destino": "Manchester, GB"
+  },
+  "CFG7AE": {
+    "origem": "Munich, DE",
+    "destino": "Sta Cruz de la Palma, La Palma Island, ES"
+  },
+  "EZS54LR": {
+    "origem": "Lisbon, PT",
+    "destino": "Geneva, CH"
+  },
+  "EJU18QH": {
+    "origem": "Milan, IT",
+    "destino": "Barcelona, ES"
+  },
+  "CFG8MH": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EXS232A": {
+    "origem": "Antalya, TR",
+    "destino": "Liverpool, GB"
+  },
+  "EJU91YB": {
+    "origem": "Oslo, NO",
+    "destino": "Berlin, DE"
+  },
+  "TVF76MR": {
+    "origem": "Paris, FR",
+    "destino": "Montpellier, FR"
   }
 }
