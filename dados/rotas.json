@@ -26630,5 +26630,37 @@
   "RYR1HW": {
     "origem": "London, GB",
     "destino": "Lisbon, PT"
+  },
+  "EJU91CH": {
+    "origem": "Luxembourg, LU",
+    "destino": "Lisbon, PT"
+  },
+  "RYR7848": {
+    "origem": "Faro, PT",
+    "destino": "Shannon, IE"
+  },
+  "EXS8UM": {
+    "origem": "Catania, IT",
+    "destino": "Manchester, GB"
+  },
+  "EXS73GE": {
+    "origem": "Manchester, GB",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "PSFST": {
+    "origem": "Belo Horizonte, BR",
+    "destino": "Rio De Janeiro, BR"
+  },
+  "EJU7521": {
+    "origem": "Faro, PT",
+    "destino": "Saint-Louis, FR"
+  },
+  "EZY61RT": {
+    "origem": "Málaga, ES",
+    "destino": "Edinburgh, GB"
+  },
+  "EZY57YG": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Southend, GB"
   }
 }
