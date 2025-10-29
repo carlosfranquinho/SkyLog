@@ -26734,5 +26734,53 @@
   "RYR7043": {
     "origem": "Vienna, AT",
     "destino": "Tenerife Island, ES"
+  },
+  "TAP92VC": {
+    "origem": "Lisbon, PT",
+    "destino": "Valencia, ES"
+  },
+  "TRA457P": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EJU91MT": {
+    "origem": "Amsterdam, NL",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EWG24U": {
+    "origem": "Hamburg, DE",
+    "destino": "Porto, PT"
+  },
+  "EXS62YH": {
+    "origem": "Nottingham, GB",
+    "destino": "Faro, PT"
+  },
+  "RYR91KB": {
+    "origem": "Manchester, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "LGL367": {
+    "origem": "Luxembourg, LU",
+    "destino": "Rabil, CV"
+  },
+  "TVF8028": {
+    "origem": "Lyon, FR",
+    "destino": "Hurghada, EG"
+  },
+  "EJU62XV": {
+    "origem": "Milan, IT",
+    "destino": "Rodes Island, GR"
+  },
+  "EWG3CB": {
+    "origem": "Cologne, DE",
+    "destino": "Lisbon, PT"
+  },
+  "BTI9801": {
+    "origem": "Riga, LV",
+    "destino": "Tallinn, EE"
+  },
+  "EZY64LH": {
+    "origem": "Castletown, IM",
+    "destino": "Manchester, GB"
   }
 }
