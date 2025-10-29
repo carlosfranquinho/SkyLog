@@ -26830,5 +26830,37 @@
   "LGL7F": {
     "origem": "Luxembourg, LU",
     "destino": "Faro, PT"
+  },
+  "EXS3G": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "QTR19W": {
+    "origem": "Doha, QA",
+    "destino": "Lisbon, PT"
+  },
+  "AFR822": {
+    "origem": "Paris, FR",
+    "destino": "Douala, CM"
+  },
+  "TAP1206": {
+    "origem": "Lisbon, PT",
+    "destino": "Warsaw, PL"
+  },
+  "TVF20GR": {
+    "origem": "Paris, FR",
+    "destino": "Lisbon, PT"
+  },
+  "EZY15WQ": {
+    "origem": "London, GB",
+    "destino": "Espargos, CV"
+  },
+  "RYR3QH": {
+    "origem": "Bologna, IT",
+    "destino": "Edinburgh, GB"
+  },
+  "RYR35BW": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
   }
 }
