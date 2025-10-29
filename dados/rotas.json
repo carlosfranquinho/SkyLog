@@ -27270,5 +27270,37 @@
   "QTR91U": {
     "origem": "Washington, US",
     "destino": "Doha, QA"
+  },
+  "EJU93TH": {
+    "origem": "Saint-Louis, FR",
+    "destino": "Faro, PT"
+  },
+  "RYR32FQ": {
+    "origem": "Weeze, DE",
+    "destino": "Pescara, IT"
+  },
+  "RYR998": {
+    "origem": "Nottingham, GB",
+    "destino": "Edinburgh, GB"
+  },
+  "EJU32DY": {
+    "origem": "Paris, FR",
+    "destino": "Porto, PT"
+  },
+  "RYR85AC": {
+    "origem": "Weeze, DE",
+    "destino": "Girona, ES"
+  },
+  "RYR99QK": {
+    "origem": "Birmingham, GB",
+    "destino": "Porto, PT"
+  },
+  "RYR97TG": {
+    "origem": "Budapest, HU",
+    "destino": "Porto, PT"
+  },
+  "RYR7YR": {
+    "origem": "Memmingen, DE",
+    "destino": "London, GB"
   }
 }
