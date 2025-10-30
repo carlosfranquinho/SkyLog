@@ -27730,5 +27730,41 @@
   "TVF98FY": {
     "origem": "Diass, SN",
     "destino": "Nantes, FR"
+  },
+  "EJU7680": {
+    "origem": "Saint-Louis, FR",
+    "destino": "Lisbon, PT"
+  },
+  "TOM4DX": {
+    "origem": "London, GB",
+    "destino": "Thessaloniki, GR"
+  },
+  "EJU97DM": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Geneva, CH"
+  },
+  "CFG8CM": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Hamburg, DE"
+  },
+  "EJU47ML": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Berlin, DE"
+  },
+  "EZY82FZ": {
+    "origem": "Liverpool, GB",
+    "destino": "Marrakech, MA"
+  },
+  "TVS4FH": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Prague, CZ"
+  },
+  "RYR190Y": {
+    "origem": "Bristol, GB",
+    "destino": "Porto, PT"
+  },
+  "WZZ9203": {
+    "origem": "Dortmund, DE",
+    "destino": "Sofia, BG"
   }
 }
