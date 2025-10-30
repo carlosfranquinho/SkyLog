@@ -27602,5 +27602,57 @@
   "EWG51M": {
     "origem": "Tirana, AL",
     "destino": "Cologne, DE"
+  },
+  "EWG5278": {
+    "origem": "Hannover, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR4VE": {
+    "origem": "London, GB",
+    "destino": "Trapani, IT"
+  },
+  "EJU36BT": {
+    "origem": "Amsterdam, NL",
+    "destino": "Funchal, PT"
+  },
+  "TFL4AK": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "EWG5359": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Düsseldorf, DE"
+  },
+  "WMT5065": {
+    "origem": "Bucharest, RO",
+    "destino": "Lisbon, PT"
+  },
+  "EZY51YK": {
+    "origem": "Nice, FR",
+    "destino": "Rome, IT"
+  },
+  "EZY93WY": {
+    "origem": "Birmingham, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EXS823G": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EZY57DR": {
+    "origem": "Bristol, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR5683": {
+    "origem": "Edinburgh, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "DLH343": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "TFL3BA": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Rotterdam, NL"
   }
 }
