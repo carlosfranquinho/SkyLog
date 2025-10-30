@@ -27786,5 +27786,25 @@
   "TAP37CN": {
     "origem": "Barcelona, ES",
     "destino": "Lisbon, PT"
+  },
+  "TRA10P": {
+    "origem": "Lisbon, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "VOE7SR": {
+    "origem": "Faro, PT",
+    "destino": "Lille/Lesquin, FR"
+  },
+  "NSZ5718": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Oslo, NO"
+  },
+  "RYR7AT": {
+    "origem": "Weeze, DE",
+    "destino": "Agadir, MA"
+  },
+  "EXS232D": {
+    "origem": "Agadir, MA",
+    "destino": "Manchester, GB"
   }
 }
