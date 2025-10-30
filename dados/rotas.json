@@ -27510,5 +27510,57 @@
   "RYR92LF": {
     "origem": "Billund, DK",
     "destino": "Barcelona, ES"
+  },
+  "TRA84E": {
+    "origem": "Valencia, ES",
+    "destino": "Eindhoven, NL"
+  },
+  "TFL7XG": {
+    "origem": "Amsterdam, NL",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EFW67B": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EXS81PS": {
+    "origem": "Innsbruck, AT",
+    "destino": "Manchester, GB"
+  },
+  "EXS38YD": {
+    "origem": "Glasgow, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EZY79QA": {
+    "origem": "Málaga, ES",
+    "destino": "Birmingham, GB"
+  },
+  "EXS47VA": {
+    "origem": "London, GB",
+    "destino": "Ibiza, ES"
+  },
+  "EJU63DC": {
+    "origem": "Bastia, FR",
+    "destino": "Lisbon, PT"
+  },
+  "TVF7809": {
+    "origem": "Lisbon, PT",
+    "destino": "Montpellier, FR"
+  },
+  "IBE108": {
+    "origem": "Buenos Aires, AR",
+    "destino": "Madrid, ES"
+  },
+  "EXS21NF": {
+    "origem": "Manchester, GB",
+    "destino": "Grenoble/Saint-Geoirs, FR"
+  },
+  "EJU7679": {
+    "origem": "Lisbon, PT",
+    "destino": "Saint-Louis, FR"
+  },
+  "TRA34N": {
+    "origem": "Ibiza, ES",
+    "destino": "Eindhoven, NL"
   }
 }
