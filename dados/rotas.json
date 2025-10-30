@@ -27698,5 +27698,37 @@
   "TRA27L": {
     "origem": "Eindhoven, NL",
     "destino": "Lisbon, PT"
+  },
+  "EWG5259": {
+    "origem": "Antalya, TR",
+    "destino": "Hamburg, DE"
+  },
+  "TOM8FC": {
+    "origem": "Manchester, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EXS669": {
+    "origem": "Nottingham, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR9565": {
+    "origem": "Brussels, BE",
+    "destino": "Stockholm / Nyköping, SE"
+  },
+  "EFW65WL": {
+    "origem": "Porto, PT",
+    "destino": "London, GB"
+  },
+  "EXS42JU": {
+    "origem": "London, GB",
+    "destino": "Santorini Island, GR"
+  },
+  "BLX9CV": {
+    "origem": "Stockholm, SE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TVF98FY": {
+    "origem": "Diass, SN",
+    "destino": "Nantes, FR"
   }
 }
