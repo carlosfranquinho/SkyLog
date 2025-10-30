@@ -27806,5 +27806,37 @@
   "EXS232D": {
     "origem": "Agadir, MA",
     "destino": "Manchester, GB"
+  },
+  "RYR3VA": {
+    "origem": "Budapest, HU",
+    "destino": "Barcelona, ES"
+  },
+  "EZY29FH": {
+    "origem": "Bordeaux, FR",
+    "destino": "Milan, IT"
+  },
+  "WUK6SK": {
+    "origem": "Faro, PT",
+    "destino": "London, GB"
+  },
+  "EJU91BW": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "JAF4HJ": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Lille/Lesquin, FR"
+  },
+  "EZY58DK": {
+    "origem": "London, GB",
+    "destino": "Belfast, GB"
+  },
+  "QTR69G": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Doha, QA"
+  },
+  "EZY71EL": {
+    "origem": "London, GB",
+    "destino": "Zürich, CH"
   }
 }
