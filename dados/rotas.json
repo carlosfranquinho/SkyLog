@@ -27654,5 +27654,49 @@
   "TFL3BA": {
     "origem": "Tenerife Island, ES",
     "destino": "Rotterdam, NL"
+  },
+  "BTI7MW": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Tallinn, EE"
+  },
+  "EWG55N": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Lisbon, PT"
+  },
+  "BLX228": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Stockholm, SE"
+  },
+  "EXS27B": {
+    "origem": "Birmingham, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "VKG1823": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Gothenburg, SE"
+  },
+  "EZY21HW": {
+    "origem": "Birmingham, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "TOM3NB": {
+    "origem": "London, GB",
+    "destino": "Espargos, CV"
+  },
+  "EWG5251": {
+    "origem": "Antalya, TR",
+    "destino": "Cologne, DE"
+  },
+  "EXS9X": {
+    "origem": "Liverpool, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR576D": {
+    "origem": "Liverpool, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "TRA27L": {
+    "origem": "Eindhoven, NL",
+    "destino": "Lisbon, PT"
   }
 }
