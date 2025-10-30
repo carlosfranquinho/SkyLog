@@ -27562,5 +27562,25 @@
   "TRA34N": {
     "origem": "Ibiza, ES",
     "destino": "Eindhoven, NL"
+  },
+  "VOE3924": {
+    "origem": "Málaga, ES",
+    "destino": "Ranón, ES"
+  },
+  "CFG8AP": {
+    "origem": "Hamburg, DE",
+    "destino": "Kerkyra Island, GR"
+  },
+  "EZY78WC": {
+    "origem": "London, GB",
+    "destino": "Bologna, IT"
+  },
+  "EXS482": {
+    "origem": "Agadir, MA",
+    "destino": "Leeds, GB"
+  },
+  "RYR91CZ": {
+    "origem": "London, GB",
+    "destino": "Kiev, UA"
   }
 }
