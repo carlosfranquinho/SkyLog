@@ -27326,5 +27326,25 @@
   "RYR20EW": {
     "origem": "Poitiers/Biard, FR",
     "destino": "London, GB"
+  },
+  "EJU87WU": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Geneva, CH"
+  },
+  "EWG5AM": {
+    "origem": "Vienna, AT",
+    "destino": "Düsseldorf, DE"
+  },
+  "RYR8PY": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Baden-Baden, DE"
+  },
+  "EZS82DP": {
+    "origem": "Saint-Louis, FR",
+    "destino": "Lanzarote Island, ES"
+  },
+  "RYR410G": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Birmingham, GB"
   }
 }
