@@ -27582,5 +27582,25 @@
   "RYR91CZ": {
     "origem": "London, GB",
     "destino": "Kiev, UA"
+  },
+  "EZY48ZG": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR39YN": {
+    "origem": "Brussels, BE",
+    "destino": "Prague, CZ"
+  },
+  "RYR8648": {
+    "origem": "Cologne, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "DLH41A": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Toulouse, FR"
+  },
+  "EWG51M": {
+    "origem": "Tirana, AL",
+    "destino": "Cologne, DE"
   }
 }
