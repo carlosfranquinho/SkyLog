@@ -27766,5 +27766,25 @@
   "WZZ9203": {
     "origem": "Dortmund, DE",
     "destino": "Sofia, BG"
+  },
+  "EXS19YP": {
+    "origem": "Leeds, GB",
+    "destino": "Alicante, ES"
+  },
+  "JAF63N": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Ostend, BE"
+  },
+  "EZY63UL": {
+    "origem": "Nice, FR",
+    "destino": "London, GB"
+  },
+  "RYR9VY": {
+    "origem": "Katowice, PL",
+    "destino": "Bari, IT"
+  },
+  "TAP37CN": {
+    "origem": "Barcelona, ES",
+    "destino": "Lisbon, PT"
   }
 }
