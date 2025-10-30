@@ -27302,5 +27302,17 @@
   "RYR7YR": {
     "origem": "Memmingen, DE",
     "destino": "London, GB"
+  },
+  "CND26PV": {
+    "origem": "Prague, CZ",
+    "destino": "Funchal, PT"
+  },
+  "EJU8536": {
+    "origem": "Faro, PT",
+    "destino": "London, GB"
+  },
+  "TVS2VD": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Hamburg, DE"
   }
 }
