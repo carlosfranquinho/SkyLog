@@ -27346,5 +27346,33 @@
   "RYR410G": {
     "origem": "Tenerife Island, ES",
     "destino": "Birmingham, GB"
+  },
+  "EWG6HZ": {
+    "origem": "Hamburg, DE",
+    "destino": "Funchal, PT"
+  },
+  "EXS3XZ": {
+    "origem": "Nottingham, GB",
+    "destino": "Paphos, CY"
+  },
+  "EJU43FN": {
+    "origem": "Berlin, DE",
+    "destino": "Lyon, FR"
+  },
+  "EXS2B": {
+    "origem": "Leeds, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EWG610": {
+    "origem": "Cologne, DE",
+    "destino": "Funchal, PT"
+  },
+  "AFR485": {
+    "origem": "Rio De Janeiro, BR",
+    "destino": "Paris, FR"
+  },
+  "BLX9ML": {
+    "origem": "Stockholm, SE",
+    "destino": "Espargos, CV"
   }
 }
