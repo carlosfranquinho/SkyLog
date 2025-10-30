@@ -27402,5 +27402,69 @@
   "EWG5258": {
     "origem": "Berlin, DE",
     "destino": "Tenerife Island, ES"
+  },
+  "BTI4JB": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Tallinn, EE"
+  },
+  "BTI27N": {
+    "origem": "Tallinn, EE",
+    "destino": "Tenerife Island, ES"
+  },
+  "BAW2704": {
+    "origem": "London, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EJU73RA": {
+    "origem": "Berlin, DE",
+    "destino": "Rome, IT"
+  },
+  "EXS86YT": {
+    "origem": "Leeds, GB",
+    "destino": "Alicante, ES"
+  },
+  "EXS1RG": {
+    "origem": "Glasgow, GB",
+    "destino": "Antalya, TR"
+  },
+  "BLX3GH": {
+    "origem": "Stockholm, SE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "DLH342": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Bremen, DE"
+  },
+  "TFL4637": {
+    "origem": "Varna, BG",
+    "destino": "Oslo, NO"
+  },
+  "EJU4763": {
+    "origem": "Nantes, FR",
+    "destino": "Lisbon, PT"
+  },
+  "MBU9LP": {
+    "origem": "Hamburg, DE",
+    "destino": "Funchal, PT"
+  },
+  "TVP7320": {
+    "origem": "Warsaw, PL",
+    "destino": "Tenerife Island, ES"
+  },
+  "EJU51ZH": {
+    "origem": "Funchal, PT",
+    "destino": "Lyon, FR"
+  },
+  "TVF3215": {
+    "origem": "Marrakech, MA",
+    "destino": "Brest/Guipavas, FR"
+  },
+  "EXS33DK": {
+    "origem": "Porto, PT",
+    "destino": "Manchester, GB"
+  },
+  "EJU54FA": {
+    "origem": "Paris, FR",
+    "destino": "Faro, PT"
   }
 }
