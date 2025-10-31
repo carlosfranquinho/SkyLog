@@ -27966,5 +27966,25 @@
   "EXS97P": {
     "origem": "London, GB",
     "destino": "Tenerife Island, ES"
+  },
+  "JAF9611": {
+    "origem": "Brussels, BE",
+    "destino": "Munich, DE"
+  },
+  "CFG3CL": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EZS72CL": {
+    "origem": "Lisbon, PT",
+    "destino": "Saint-Louis, FR"
+  },
+  "RYR333": {
+    "origem": "London, GB",
+    "destino": "Dublin, IE"
+  },
+  "VKG1502": {
+    "origem": "Torp, NO",
+    "destino": "Gran Canaria Island, ES"
   }
 }
