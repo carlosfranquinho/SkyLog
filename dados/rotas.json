@@ -27850,5 +27850,25 @@
   "RYR37LK": {
     "origem": "Dublin, IE",
     "destino": "London, GB"
+  },
+  "RYR79WC": {
+    "origem": "Rome, IT",
+    "destino": "Lisbon, PT"
+  },
+  "IBE123": {
+    "origem": "Madrid, ES",
+    "destino": "Lima, PE"
+  },
+  "IBE101": {
+    "origem": "Madrid, ES",
+    "destino": "Buenos Aires, AR"
+  },
+  "EJU78AT": {
+    "origem": "Porto, PT",
+    "destino": "Geneva, CH"
+  },
+  "CXI21MV": {
+    "origem": "Prague, CZ",
+    "destino": "Funchal, PT"
   }
 }
