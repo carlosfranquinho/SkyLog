@@ -27898,5 +27898,21 @@
   "RYR6051": {
     "origem": "Porto, PT",
     "destino": "Funchal, PT"
+  },
+  "RYR9645": {
+    "origem": "Weeze, DE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "LGL59T": {
+    "origem": "Luxembourg, LU",
+    "destino": "Lisbon, PT"
+  },
+  "TVF49FP": {
+    "origem": "Paris, FR",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR91TP": {
+    "origem": "Brussels, BE",
+    "destino": "Tenerife Island, ES"
   }
 }
