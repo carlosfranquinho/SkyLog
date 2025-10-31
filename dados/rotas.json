@@ -28262,5 +28262,25 @@
   "TUI3LH": {
     "origem": "Trieste, IT",
     "destino": "Frankfurt-am-Main, DE"
+  },
+  "RUK76GE": {
+    "origem": "London, GB",
+    "destino": "Marrakech, MA"
+  },
+  "RYR358W": {
+    "origem": "Brussels, BE",
+    "destino": "Budapest, HU"
+  },
+  "RYR98SA": {
+    "origem": "Faro, PT",
+    "destino": "Beauvais/Tillé, FR"
+  },
+  "EXS17PA": {
+    "origem": "Manchester, GB",
+    "destino": "Athens, GR"
+  },
+  "EXS64DM": {
+    "origem": "London, GB",
+    "destino": "Gran Canaria Island, ES"
   }
 }
