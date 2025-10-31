@@ -27882,5 +27882,21 @@
   "N151QS": {
     "origem": "Anchorage, US",
     "destino": "Tokyo, JP"
+  },
+  "TAP1498": {
+    "origem": "Banjul, GM",
+    "destino": "Lisbon, PT"
+  },
+  "AFR16MV": {
+    "origem": "Lisbon, PT",
+    "destino": "Paris, FR"
+  },
+  "EJU42PC": {
+    "origem": "Porto, PT",
+    "destino": "Lyon, FR"
+  },
+  "RYR6051": {
+    "origem": "Porto, PT",
+    "destino": "Funchal, PT"
   }
 }
