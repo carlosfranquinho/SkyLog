@@ -28386,5 +28386,29 @@
   "RYR35PY": {
     "origem": "Lisbon, PT",
     "destino": "Barcelona, ES"
+  },
+  "SEH922": {
+    "origem": "Athens, GR",
+    "destino": "Lisbon, PT"
+  },
+  "VLG1EN": {
+    "origem": "Lisbon, PT",
+    "destino": "Barcelona, ES"
+  },
+  "RYR10WB": {
+    "origem": "Lisbon, PT",
+    "destino": "Dublin, IE"
+  },
+  "EXS980": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "RYR6RY": {
+    "origem": "Milan, IT",
+    "destino": "Bari, IT"
+  },
+  "RYR9JY": {
+    "origem": "Brussels, BE",
+    "destino": "Pescara, IT"
   }
 }
