@@ -27986,5 +27986,45 @@
   "VKG1502": {
     "origem": "Torp, NO",
     "destino": "Gran Canaria Island, ES"
+  },
+  "EIN883": {
+    "origem": "Málaga, ES",
+    "destino": "Cork, IE"
+  },
+  "EXS1581": {
+    "origem": "London, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EJU3871": {
+    "origem": "Milan, IT",
+    "destino": "Lisbon, PT"
+  },
+  "RYR93QF": {
+    "origem": "Lisbon, PT",
+    "destino": "Manchester, GB"
+  },
+  "VLG8HF": {
+    "origem": "Barcelona, ES",
+    "destino": "Genova, IT"
+  },
+  "RYR97FW": {
+    "origem": "Agadir, MA",
+    "destino": "Brussels, BE"
+  },
+  "JAF961P": {
+    "origem": "Brussels, BE",
+    "destino": "Stuttgart, DE"
+  },
+  "RYR58VK": {
+    "origem": "Sevilla, ES",
+    "destino": "Beauvais/Tillé, FR"
+  },
+  "VLG89MF": {
+    "origem": "Bilbao, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "ASL24G": {
+    "origem": "Belgrad, RS",
+    "destino": "Larnarca, CY"
   }
 }
