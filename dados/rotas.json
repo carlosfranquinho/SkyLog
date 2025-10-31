@@ -27914,5 +27914,33 @@
   "RYR91TP": {
     "origem": "Brussels, BE",
     "destino": "Tenerife Island, ES"
+  },
+  "TAP86PZ": {
+    "origem": "Lisbon, PT",
+    "destino": "Venezia, IT"
+  },
+  "TRA65R": {
+    "origem": "Rotterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TAP56DP": {
+    "origem": "Hamburg, DE",
+    "destino": "Lisbon, PT"
+  },
+  "RUK24WD": {
+    "origem": "Manchester, GB",
+    "destino": "Marrakech, MA"
+  },
+  "TRA62G": {
+    "origem": "Ljubljana, SI",
+    "destino": "Amsterdam, NL"
+  },
+  "JTD807": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Umeå, SE"
+  },
+  "CND4H": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
   }
 }
