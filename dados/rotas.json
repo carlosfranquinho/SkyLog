@@ -28282,5 +28282,29 @@
   "EXS64DM": {
     "origem": "London, GB",
     "destino": "Gran Canaria Island, ES"
+  },
+  "TVF3231": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Paris, FR"
+  },
+  "EJU84AU": {
+    "origem": "Funchal, PT",
+    "destino": "Berlin, DE"
+  },
+  "RYR92DJ": {
+    "origem": "Porto, PT",
+    "destino": "Beauvais/Tillé, FR"
+  },
+  "TOM780F": {
+    "origem": "Bristol, GB",
+    "destino": "Marrakech, MA"
+  },
+  "JTD808": {
+    "origem": "Umeå, SE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "VLG42TG": {
+    "origem": "Lisbon, PT",
+    "destino": "Barcelona, ES"
   }
 }
