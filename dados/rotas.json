@@ -28062,5 +28062,25 @@
   "TUI3GY": {
     "origem": "Palma De Mallorca, ES",
     "destino": "Düsseldorf, DE"
+  },
+  "NOS586": {
+    "origem": "Rome, IT",
+    "destino": "La Romana, DO"
+  },
+  "TAP554M": {
+    "origem": "Lisbon, PT",
+    "destino": "Munich, DE"
+  },
+  "EJU35NM": {
+    "origem": "Rome, IT",
+    "destino": "Nice, FR"
+  },
+  "RYR45UM": {
+    "origem": "Lisbon, PT",
+    "destino": "Kraków, PL"
+  },
+  "RYR7624": {
+    "origem": "Venezia, IT",
+    "destino": "Copenhagen, DK"
   }
 }
