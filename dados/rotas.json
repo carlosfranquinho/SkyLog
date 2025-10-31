@@ -27942,5 +27942,29 @@
   "CND4H": {
     "origem": "Amsterdam, NL",
     "destino": "Gran Canaria Island, ES"
+  },
+  "RYR55BY": {
+    "origem": "Porto, PT",
+    "destino": "Barcelona, ES"
+  },
+  "RYR41LH": {
+    "origem": "Manchester, GB",
+    "destino": "Lisbon, PT"
+  },
+  "BTI6VP": {
+    "origem": "Riga, LV",
+    "destino": "Funchal, PT"
+  },
+  "IBE138": {
+    "origem": "Quito, EC",
+    "destino": "Madrid, ES"
+  },
+  "EXS1883": {
+    "origem": "Bristol, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EXS97P": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
   }
 }
