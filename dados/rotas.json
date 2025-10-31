@@ -28346,5 +28346,45 @@
   "EXS1335": {
     "origem": "Birmingham, GB",
     "destino": "Tenerife Island, ES"
+  },
+  "BTI86J": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Vilnius, LT"
+  },
+  "TAP75LC": {
+    "origem": "Lisbon, PT",
+    "destino": "Copenhagen, DK"
+  },
+  "RYR883N": {
+    "origem": "Lisbon, PT",
+    "destino": "Beauvais/Tillé, FR"
+  },
+  "RUK87HC": {
+    "origem": "Marrakech, MA",
+    "destino": "London, GB"
+  },
+  "RYR28GX": {
+    "origem": "Marrakech, MA",
+    "destino": "Dublin, IE"
+  },
+  "RYR525C": {
+    "origem": "Faro, PT",
+    "destino": "Nottingham, GB"
+  },
+  "AEA72VR": {
+    "origem": "Lisbon, PT",
+    "destino": "Madrid, ES"
+  },
+  "TOM7TC": {
+    "origem": "Manchester, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR78BL": {
+    "origem": "Faro, PT",
+    "destino": "Manchester, GB"
+  },
+  "RYR35PY": {
+    "origem": "Lisbon, PT",
+    "destino": "Barcelona, ES"
   }
 }
