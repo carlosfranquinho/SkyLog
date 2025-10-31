@@ -28218,5 +28218,49 @@
   "CFG6MZ": {
     "origem": "Fuerteventura Island, ES",
     "destino": "Düsseldorf, DE"
+  },
+  "RYR8WH": {
+    "origem": "Funchal, PT",
+    "destino": "Lisbon, PT"
+  },
+  "RZO124": {
+    "origem": "Ponta Delgada, PT",
+    "destino": "Lisbon, PT"
+  },
+  "EJU65XC": {
+    "origem": "Madrid, ES",
+    "destino": "Lisbon, PT"
+  },
+  "RYR69AV": {
+    "origem": "Porto, PT",
+    "destino": "Brussels, BE"
+  },
+  "EJU45TZ": {
+    "origem": "Lyon, FR",
+    "destino": "Lisbon, PT"
+  },
+  "EXS1YG": {
+    "origem": "London, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "JTD398": {
+    "origem": "Antalya, TR",
+    "destino": "Copenhagen, DK"
+  },
+  "RYR11KF": {
+    "origem": "Luxembourg, LU",
+    "destino": "Lisbon, PT"
+  },
+  "EXS92WS": {
+    "origem": "Birmingham, GB",
+    "destino": "Funchal, PT"
+  },
+  "EJU85WP": {
+    "origem": "Marrakech, MA",
+    "destino": "Lisbon, PT"
+  },
+  "TUI3LH": {
+    "origem": "Trieste, IT",
+    "destino": "Frankfurt-am-Main, DE"
   }
 }
