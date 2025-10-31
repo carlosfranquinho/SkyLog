@@ -28026,5 +28026,41 @@
   "ASL24G": {
     "origem": "Belgrad, RS",
     "destino": "Larnarca, CY"
+  },
+  "RUK99MR": {
+    "origem": "Marrakech, MA",
+    "destino": "Manchester, GB"
+  },
+  "EXS14GN": {
+    "origem": "Glasgow, GB",
+    "destino": "Prague, CZ"
+  },
+  "IBE308": {
+    "origem": "Mexico City, MX",
+    "destino": "Madrid, ES"
+  },
+  "RYR95YG": {
+    "origem": "Belfast, GB",
+    "destino": "Faro, PT"
+  },
+  "TOM6KX": {
+    "origem": "London, GB",
+    "destino": "Rabil, CV"
+  },
+  "RYR41YW": {
+    "origem": "Cologne, DE",
+    "destino": "Faro, PT"
+  },
+  "TRA26T": {
+    "origem": "Kos Island, GR",
+    "destino": "Rotterdam, NL"
+  },
+  "VLG39HR": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Barcelona, ES"
+  },
+  "TUI3GY": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Düsseldorf, DE"
   }
 }
