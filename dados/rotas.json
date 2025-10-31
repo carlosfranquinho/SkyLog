@@ -28190,5 +28190,33 @@
   "TVF23FB": {
     "origem": "Paris, FR",
     "destino": "Faro, PT"
+  },
+  "RYR91MW": {
+    "origem": "Porto, PT",
+    "destino": "Marrakech, MA"
+  },
+  "VLG61BD": {
+    "origem": "Bilbao, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "DLH1499": {
+    "origem": "Faro, PT",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "RYR3GP": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Cologne, DE"
+  },
+  "AEA54TM": {
+    "origem": "Porto, PT",
+    "destino": "Madrid, ES"
+  },
+  "DLH44K": {
+    "origem": "Porto, PT",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "CFG6MZ": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Düsseldorf, DE"
   }
 }
