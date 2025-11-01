@@ -28514,5 +28514,25 @@
   "EWG6T": {
     "origem": "Stuttgart, DE",
     "destino": "Sarajevo, BA"
+  },
+  "RYR56AB": {
+    "origem": "Madrid, ES",
+    "destino": "Porto, PT"
+  },
+  "RYR61MX": {
+    "origem": "Dublin, IE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "VLG54MF": {
+    "origem": "Porto, PT",
+    "destino": "Barcelona, ES"
+  },
+  "EZY81CE": {
+    "origem": "London, GB",
+    "destino": "Bordeaux, FR"
+  },
+  "VLG93NU": {
+    "origem": "Lisbon, PT",
+    "destino": "Barcelona, ES"
   }
 }
