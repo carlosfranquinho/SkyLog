@@ -28418,5 +28418,13 @@
   "EXS11FT": {
     "origem": "Marrakech, MA",
     "destino": "Newcastle, GB"
+  },
+  "EDW219": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Zürich, CH"
+  },
+  "VOE8YA": {
+    "origem": "Menorca Island, ES",
+    "destino": "Lille/Lesquin, FR"
   }
 }
