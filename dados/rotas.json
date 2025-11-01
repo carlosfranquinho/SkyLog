@@ -29054,5 +29054,57 @@
   "EZY57CP": {
     "origem": "Fuerteventura Island, ES",
     "destino": "London, GB"
+  },
+  "BTI4PE": {
+    "origem": "Torp, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "VLG30WW": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Bilbao, ES"
+  },
+  "NOZ9YS": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Bergen, NO"
+  },
+  "RYR2943": {
+    "origem": "Charleston, IE",
+    "destino": "London, GB"
+  },
+  "SAS7674": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Stockholm, SE"
+  },
+  "NSZ3679": {
+    "origem": "Málaga, ES",
+    "destino": "Copenhagen, DK"
+  },
+  "EXS91KB": {
+    "origem": "London, GB",
+    "destino": "Bodrum, TR"
+  },
+  "RYR48GQ": {
+    "origem": "Baden-Baden, DE",
+    "destino": "Porto, PT"
+  },
+  "RYR312J": {
+    "origem": "Birmingham, GB",
+    "destino": "Faro, PT"
+  },
+  "EXS89YE": {
+    "origem": "Larnarca, CY",
+    "destino": "Birmingham, GB"
+  },
+  "EJU7518": {
+    "origem": "Southampton, GB",
+    "destino": "Faro, PT"
+  },
+  "RYR76AX": {
+    "origem": "Brussels, BE",
+    "destino": "Agadir, MA"
+  },
+  "CLX6735": {
+    "origem": "Chek Lap Kok International Airport",
+    "destino": "Denver International Airport"
   }
 }
