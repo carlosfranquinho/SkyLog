@@ -29106,5 +29106,65 @@
   "CLX6735": {
     "origem": "Chek Lap Kok International Airport",
     "destino": "Denver International Airport"
+  },
+  "TRA2R": {
+    "origem": "Girona, ES",
+    "destino": "Rotterdam, NL"
+  },
+  "NSZ3695": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Copenhagen, DK"
+  },
+  "RYR62JC": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Warsaw, PL"
+  },
+  "RYR4EA": {
+    "origem": "Brussels, BE",
+    "destino": "Napoli, IT"
+  },
+  "EZY48GC": {
+    "origem": "Heraklion, GR",
+    "destino": "Manchester, GB"
+  },
+  "RYR4BR": {
+    "origem": "Paphos, CY",
+    "destino": "Toulouse, FR"
+  },
+  "EZY23HZ": {
+    "origem": "Málaga, ES",
+    "destino": "London, GB"
+  },
+  "EXS35MD": {
+    "origem": "Burgas, BG",
+    "destino": "Edinburgh, GB"
+  },
+  "RYR52MV": {
+    "origem": "Faro, PT",
+    "destino": "London, GB"
+  },
+  "EJU41LT": {
+    "origem": "Saint-Louis, FR",
+    "destino": "Porto, PT"
+  },
+  "EXS670": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Nottingham, GB"
+  },
+  "RYR78JL": {
+    "origem": "Dublin, IE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "BCS8033": {
+    "origem": "Lisbon, PT",
+    "destino": "Leipzig, DE"
+  },
+  "EXS56PL": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Newcastle, GB"
+  },
+  "EZY25KT": {
+    "origem": "Agadir, MA",
+    "destino": "Edinburgh, GB"
   }
 }
