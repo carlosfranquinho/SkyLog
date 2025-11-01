@@ -28630,5 +28630,37 @@
   "EJU95TU": {
     "origem": "Berlin, DE",
     "destino": "Lanzarote Island, ES"
+  },
+  "TVF4681": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Paris, FR"
+  },
+  "SAS2098": {
+    "origem": "Stockholm, SE",
+    "destino": "Tenerife Island, ES"
+  },
+  "IBE02FW": {
+    "origem": "Philadelphia, US",
+    "destino": "New York, US"
+  },
+  "TFL7KX": {
+    "origem": "Amsterdam, NL",
+    "destino": "Tenerife Island, ES"
+  },
+  "EJU68EK": {
+    "origem": "Porto, PT",
+    "destino": "Lyon, FR"
+  },
+  "RYR2XF": {
+    "origem": "Barcelona, ES",
+    "destino": "Porto, PT"
+  },
+  "RYR52JF": {
+    "origem": "Madrid, ES",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EJU35PG": {
+    "origem": "Lyon, FR",
+    "destino": "Porto, PT"
   }
 }
