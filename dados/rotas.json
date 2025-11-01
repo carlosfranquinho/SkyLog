@@ -28662,5 +28662,41 @@
   "EJU35PG": {
     "origem": "Lyon, FR",
     "destino": "Porto, PT"
+  },
+  "RYR31DH": {
+    "origem": "Alicante, ES",
+    "destino": "Porto, PT"
+  },
+  "CFG7MT": {
+    "origem": "Funchal, PT",
+    "destino": "Munich, DE"
+  },
+  "RYR14WW": {
+    "origem": "Manchester, GB",
+    "destino": "Budapest, HU"
+  },
+  "EJU7515": {
+    "origem": "Faro, PT",
+    "destino": "Lyon, FR"
+  },
+  "RYR48W": {
+    "origem": "Rzeszów, PL",
+    "destino": "Bristol, GB"
+  },
+  "EZY18TY": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "EJU43BQ": {
+    "origem": "Prague, CZ",
+    "destino": "Lisbon, PT"
+  },
+  "WMT6930": {
+    "origem": "Rome, IT",
+    "destino": "Porto, PT"
+  },
+  "DLH22A": {
+    "origem": "Lisbon, PT",
+    "destino": "Frankfurt-am-Main, DE"
   }
 }
