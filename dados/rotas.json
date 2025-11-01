@@ -28698,5 +28698,37 @@
   "DLH22A": {
     "origem": "Lisbon, PT",
     "destino": "Frankfurt-am-Main, DE"
+  },
+  "EWG7528": {
+    "origem": "Hamburg, DE",
+    "destino": "Sta Cruz de la Palma, La Palma Island, ES"
+  },
+  "JAF7DA": {
+    "origem": "Tunis, TN",
+    "destino": "Brussels, BE"
+  },
+  "EJU18UD": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "NOZ1759": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Stavanger, NO"
+  },
+  "AFR1077": {
+    "origem": "Marrakech, MA",
+    "destino": "Paris, FR"
+  },
+  "NSZ3678": {
+    "origem": "Copenhagen, DK",
+    "destino": "Tenerife Island, ES"
+  },
+  "EWG9604": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Funchal, PT"
+  },
+  "EXS75LS": {
+    "origem": "London, GB",
+    "destino": "Alicante, ES"
   }
 }
