@@ -28482,5 +28482,37 @@
   "TRA3K": {
     "origem": "Reykjavík, IS",
     "destino": "Amsterdam, NL"
+  },
+  "EFW1FL": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "IBE270": {
+    "origem": "Rio De Janeiro, BR",
+    "destino": "Madrid, ES"
+  },
+  "RYR55PA": {
+    "origem": "Brussels, BE",
+    "destino": "Lisbon, PT"
+  },
+  "EWG78F": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Funchal, PT"
+  },
+  "RYR60FF": {
+    "origem": "Glasgow, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EJU7963": {
+    "origem": "Amsterdam, NL",
+    "destino": "Faro, PT"
+  },
+  "CFG7FD": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Ibiza, ES"
+  },
+  "EWG6T": {
+    "origem": "Stuttgart, DE",
+    "destino": "Sarajevo, BA"
   }
 }
