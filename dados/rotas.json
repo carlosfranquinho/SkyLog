@@ -28430,5 +28430,37 @@
   "N915AM": {
     "origem": "Istanbul, TR",
     "destino": "Paris, FR"
+  },
+  "EJU8532": {
+    "origem": "Faro, PT",
+    "destino": "London, GB"
+  },
+  "UAL992": {
+    "origem": "Washington, US",
+    "destino": "Barcelona, ES"
+  },
+  "FWI51W": {
+    "origem": "Cayenne / Rochambeau, GF",
+    "destino": "Paris, FR"
+  },
+  "VOE3604": {
+    "origem": "Ranón, ES",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "VLG17UP": {
+    "origem": "Bilbao, ES",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "RYR578H": {
+    "origem": "Faro, PT",
+    "destino": "Weeze, DE"
+  },
+  "EJU61FT": {
+    "origem": "Nantes, FR",
+    "destino": "Tenerife Island, ES"
+  },
+  "JAF9LJ": {
+    "origem": "Brussels, BE",
+    "destino": "Brussels, BE"
   }
 }
