@@ -28794,5 +28794,69 @@
   "EZY8536": {
     "origem": "Saint-Louis, FR",
     "destino": "London, GB"
+  },
+  "VKG1523": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Bergen, NO"
+  },
+  "TOM45X": {
+    "origem": "Kos Island, GR",
+    "destino": "Belfast, GB"
+  },
+  "VKG1933": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Gothenburg, SE"
+  },
+  "EFW7VQ": {
+    "origem": "London, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EZY52CH": {
+    "origem": "Liverpool, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "AEA71TD": {
+    "origem": "Madrid, ES",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "AFR380V": {
+    "origem": "Paris, FR",
+    "destino": "Lisbon, PT"
+  },
+  "ITY632": {
+    "origem": "Rome, IT",
+    "destino": "Miami, US"
+  },
+  "NSZ2CV": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Stockholm, SE"
+  },
+  "RYR868E": {
+    "origem": "Faro, PT",
+    "destino": "Porto, PT"
+  },
+  "RYR7484": {
+    "origem": "Paphos, CY",
+    "destino": "Beauvais/Tillé, FR"
+  },
+  "EZY2737": {
+    "origem": "Bristol, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EJU35NQ": {
+    "origem": "Nantes, FR",
+    "destino": "Porto, PT"
+  },
+  "RYR327E": {
+    "origem": "Liverpool, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "VKG1743": {
+    "origem": "Gran Canaria Airport",
+    "destino": "Stockholm-Arlanda Airport"
+  },
+  "RYR8NN": {
+    "origem": "Manchester, GB",
+    "destino": "Palma De Mallorca, ES"
   }
 }
