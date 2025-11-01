@@ -28462,5 +28462,25 @@
   "JAF9LJ": {
     "origem": "Brussels, BE",
     "destino": "Brussels, BE"
+  },
+  "RYR15GJ": {
+    "origem": "Faro, PT",
+    "destino": "Bergamo, IT"
+  },
+  "RYR68NU": {
+    "origem": "Alicante, ES",
+    "destino": "Porto, PT"
+  },
+  "EZY96MX": {
+    "origem": "Copenhagen, DK",
+    "destino": "Paris, FR"
+  },
+  "RYR45AU": {
+    "origem": "Shannon, IE",
+    "destino": "Tenerife Island, ES"
+  },
+  "TRA3K": {
+    "origem": "Reykjavík, IS",
+    "destino": "Amsterdam, NL"
   }
 }
