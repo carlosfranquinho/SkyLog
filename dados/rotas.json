@@ -29522,5 +29522,61 @@
   "RYR1SD": {
     "origem": "Menorca Island, ES",
     "destino": "Madrid, ES"
+  },
+  "TVS8UN": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Hamburg, DE"
+  },
+  "AEA13DH": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "AEA9161": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "CFG6HZ": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Sta Cruz de la Palma, La Palma Island, ES"
+  },
+  "EJU43DQ": {
+    "origem": "Zürich, CH",
+    "destino": "Porto, PT"
+  },
+  "TVF27KQ": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Nantes, FR"
+  },
+  "EJU61VF": {
+    "origem": "Barcelona, ES",
+    "destino": "Milan, IT"
+  },
+  "TRA82R": {
+    "origem": "Marrakech, MA",
+    "destino": "Brussels, BE"
+  },
+  "NOS754": {
+    "origem": "Milan, IT",
+    "destino": "La Romana, DO"
+  },
+  "LGL708": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Luxembourg, LU"
+  },
+  "AFR411": {
+    "origem": "Buenos Aires, AR",
+    "destino": "Paris, FR"
+  },
+  "EZS1356": {
+    "origem": "Nice, FR",
+    "destino": "Geneva, CH"
+  },
+  "EXS72JM": {
+    "origem": "Birmingham, GB",
+    "destino": "Tivat, ME"
+  },
+  "VLG5RQ": {
+    "origem": "Barcelona, ES",
+    "destino": "Tenerife Island, ES"
   }
 }
