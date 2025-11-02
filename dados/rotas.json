@@ -29350,5 +29350,33 @@
   "RYR36EJ": {
     "origem": "Faro, PT",
     "destino": "Cologne, DE"
+  },
+  "JAF9PE": {
+    "origem": "Liège, BE",
+    "destino": "Tenerife Island, ES"
+  },
+  "LGL707": {
+    "origem": "Luxembourg, LU",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TRA64M": {
+    "origem": "Amsterdam, NL",
+    "destino": "Funchal, PT"
+  },
+  "JAF14E": {
+    "origem": "Brussels, BE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TRA47F": {
+    "origem": "Amsterdam, NL",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "RYR21MN": {
+    "origem": "Nottingham, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR34GH": {
+    "origem": "Brussels, BE",
+    "destino": "Gran Canaria Island, ES"
   }
 }
