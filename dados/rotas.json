@@ -29610,5 +29610,21 @@
   "TUI408": {
     "origem": "Hannover, DE",
     "destino": "Gran Canaria Island, ES"
+  },
+  "VLG8476": {
+    "origem": "Barcelona, ES",
+    "destino": "Porto, PT"
+  },
+  "VLG91RZ": {
+    "origem": "Barcelona, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "EWG6GH": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Hamburg, DE"
+  },
+  "EJU57AM": {
+    "origem": "Bordeaux, FR",
+    "destino": "Porto, PT"
   }
 }
