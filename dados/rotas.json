@@ -29442,5 +29442,45 @@
   "CFG7CA": {
     "origem": "Düsseldorf, DE",
     "destino": "Fuerteventura Island, ES"
+  },
+  "TAP1452": {
+    "origem": "Lisbon, PT",
+    "destino": "Marrakech, MA"
+  },
+  "VKG1094": {
+    "origem": "Aalborg, DK",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR739W": {
+    "origem": "Bergamo, IT",
+    "destino": "Porto, PT"
+  },
+  "RYR95YM": {
+    "origem": "Barcelona, ES",
+    "destino": "Porto, PT"
+  },
+  "JTD517": {
+    "origem": "Billund, DK",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "SAS7407": {
+    "origem": "Oslo, NO",
+    "destino": "Tenerife Island, ES"
+  },
+  "WUK8ER": {
+    "origem": "Málaga, ES",
+    "destino": "London, GB"
+  },
+  "EJU48ZT": {
+    "origem": "Funchal, PT",
+    "destino": "Porto, PT"
+  },
+  "BLX205": {
+    "origem": "Stockholm, SE",
+    "destino": "Tenerife Island, ES"
+  },
+  "EZY36WM": {
+    "origem": "Málaga, ES",
+    "destino": "Bristol, GB"
   }
 }
