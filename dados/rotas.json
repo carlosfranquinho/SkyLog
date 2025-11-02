@@ -29378,5 +29378,33 @@
   "RYR34GH": {
     "origem": "Brussels, BE",
     "destino": "Gran Canaria Island, ES"
+  },
+  "RYR46QX": {
+    "origem": "Faro, PT",
+    "destino": "Cork, IE"
+  },
+  "EXS29S": {
+    "origem": "Geneva, CH",
+    "destino": "Bristol, GB"
+  },
+  "EXS67W": {
+    "origem": "Ibiza, ES",
+    "destino": "Liverpool, GB"
+  },
+  "RYR52EV": {
+    "origem": "Porto, PT",
+    "destino": "Edinburgh, GB"
+  },
+  "EJU69CV": {
+    "origem": "Paris, FR",
+    "destino": "Lisbon, PT"
+  },
+  "EWG4GX": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EJU73GJ": {
+    "origem": "Lisbon, PT",
+    "destino": "Marrakech, MA"
   }
 }
