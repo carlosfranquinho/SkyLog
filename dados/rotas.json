@@ -29738,5 +29738,25 @@
   "EZY76DG": {
     "origem": "Manchester, GB",
     "destino": "Tenerife Island, ES"
+  },
+  "RYR6NT": {
+    "origem": "Porto, PT",
+    "destino": "Luxembourg, LU"
+  },
+  "LGL767P": {
+    "origem": "Luxembourg, LU",
+    "destino": "Porto, PT"
+  },
+  "EXS7MU": {
+    "origem": "Heraklion, GR",
+    "destino": "Manchester, GB"
+  },
+  "AEA13QD": {
+    "origem": "Madrid, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "EZY63RX": {
+    "origem": "Amsterdam, NL",
+    "destino": "Vienna, AT"
   }
 }
