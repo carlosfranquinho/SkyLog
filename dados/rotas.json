@@ -29714,5 +29714,29 @@
   "EXS99DR": {
     "origem": "Manchester, GB",
     "destino": "Gran Canaria Island, ES"
+  },
+  "CFG8LC": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Düsseldorf, DE"
+  },
+  "EXS1NC": {
+    "origem": "Belfast, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "CFG6AF": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "BLX434": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Gothenburg, SE"
+  },
+  "BLX394": {
+    "origem": "AmÃ­lcar Cabral International Airport",
+    "destino": "Stockholm-Arlanda Airport"
+  },
+  "EZY76DG": {
+    "origem": "Manchester, GB",
+    "destino": "Tenerife Island, ES"
   }
 }
