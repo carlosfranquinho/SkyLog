@@ -29246,5 +29246,53 @@
   "EXS8YM": {
     "origem": "Burgas, BG",
     "destino": "Manchester, GB"
+  },
+  "EZY68TX": {
+    "origem": "London, GB",
+    "destino": "Valencia, ES"
+  },
+  "EXS26F": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Leeds, GB"
+  },
+  "RYR9324": {
+    "origem": "Kaunas, LT",
+    "destino": "Helsinki, FI"
+  },
+  "LTG8516": {
+    "origem": "Brussels, BE",
+    "destino": "Espargos, CV"
+  },
+  "EXS74DF": {
+    "origem": "Reus, ES",
+    "destino": "Edinburgh, GB"
+  },
+  "EXS17DY": {
+    "origem": "Luqa, MT",
+    "destino": "Glasgow, GB"
+  },
+  "EXS46TX": {
+    "origem": "Manchester, GB",
+    "destino": "Santorini Island, GR"
+  },
+  "RYR1DP": {
+    "origem": "Tirana, AL",
+    "destino": "Roma, IT"
+  },
+  "EXS22TI": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Newcastle, GB"
+  },
+  "EZY75YB": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "EJU36XP": {
+    "origem": "Lisbon, PT",
+    "destino": "Prague, CZ"
+  },
+  "CAT692": {
+    "origem": "Prague, CZ",
+    "destino": "Funchal, PT"
   }
 }
