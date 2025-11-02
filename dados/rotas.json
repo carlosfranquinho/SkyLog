@@ -29758,5 +29758,45 @@
   "EZY63RX": {
     "origem": "Amsterdam, NL",
     "destino": "Vienna, AT"
+  },
+  "RYR45PF": {
+    "origem": "Brussels, BE",
+    "destino": "Porto, PT"
+  },
+  "CFG4TZ": {
+    "origem": "Munich, DE",
+    "destino": "Heraklion, GR"
+  },
+  "TUI943": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Düsseldorf, DE"
+  },
+  "ANE44TG": {
+    "origem": "Madrid, ES",
+    "destino": "Lisbon, PT"
+  },
+  "TUI7BE": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "RYR1QA": {
+    "origem": "Cologne, DE",
+    "destino": "Porto, PT"
+  },
+  "EXS8VD": {
+    "origem": "Glasgow, GB",
+    "destino": "Dalaman, TR"
+  },
+  "VOE69YQ": {
+    "origem": "Cagliari, IT",
+    "destino": "Verona, IT"
+  },
+  "EWG4103": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Nürnberg, DE"
+  },
+  "RYR79LF": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
   }
 }
