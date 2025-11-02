@@ -29578,5 +29578,37 @@
   "VLG5RQ": {
     "origem": "Barcelona, ES",
     "destino": "Tenerife Island, ES"
+  },
+  "EWG4K": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Stuttgart, DE"
+  },
+  "IBS1573": {
+    "origem": "Madrid, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "EWG5GY": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Baden-Baden, DE"
+  },
+  "RYR63TC": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Memmingen, DE"
+  },
+  "WZZ56RD": {
+    "origem": "Warsaw, PL",
+    "destino": "Tenerife Island, ES"
+  },
+  "EJU67KT": {
+    "origem": "Málaga, ES",
+    "destino": "Bristol, GB"
+  },
+  "RYR28VR": {
+    "origem": "Berlin, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "TUI408": {
+    "origem": "Hannover, DE",
+    "destino": "Gran Canaria Island, ES"
   }
 }
