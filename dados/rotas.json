@@ -29326,5 +29326,29 @@
   "AFR563": {
     "origem": "Salvador, BR",
     "destino": "Paris, FR"
+  },
+  "AEA78FJ": {
+    "origem": "Madrid, ES",
+    "destino": "Porto, PT"
+  },
+  "TRA59B": {
+    "origem": "Amsterdam, NL",
+    "destino": "Marrakech, MA"
+  },
+  "EJU12LY": {
+    "origem": "Porto, PT",
+    "destino": "Funchal, PT"
+  },
+  "DLH24W": {
+    "origem": "Porto, PT",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "EXS4DN": {
+    "origem": "Nottingham, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR36EJ": {
+    "origem": "Faro, PT",
+    "destino": "Cologne, DE"
   }
 }
