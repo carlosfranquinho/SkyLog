@@ -29678,5 +29678,41 @@
   "RYR7261": {
     "origem": "Lanzarote Island, ES",
     "destino": "London, GB"
+  },
+  "JTD618": {
+    "origem": "Rodes Island, GR",
+    "destino": "Norrköping, SE"
+  },
+  "IBS15EC": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "RYR282D": {
+    "origem": "Bristol, GB",
+    "destino": "Faro, PT"
+  },
+  "EXS1GE": {
+    "origem": "London, GB",
+    "destino": "Rovaniemi, FI"
+  },
+  "N186QS": {
+    "origem": "San Francisco, US",
+    "destino": "Santiago, CL"
+  },
+  "TOM218": {
+    "origem": "Manchester, GB",
+    "destino": "Banjul, GM"
+  },
+  "NOS796": {
+    "origem": "Rome, IT",
+    "destino": "Havana, CU"
+  },
+  "EXS8HE": {
+    "origem": "London, GB",
+    "destino": "Split, HR"
+  },
+  "EXS99DR": {
+    "origem": "Manchester, GB",
+    "destino": "Gran Canaria Island, ES"
   }
 }
