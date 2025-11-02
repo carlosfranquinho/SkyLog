@@ -29294,5 +29294,29 @@
   "CAT692": {
     "origem": "Prague, CZ",
     "destino": "Funchal, PT"
+  },
+  "TVP7306": {
+    "origem": "Warsaw, PL",
+    "destino": "Funchal, PT"
+  },
+  "JAF36J": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Brussels, BE"
+  },
+  "EXS57N": {
+    "origem": "Grenoble/Saint-Geoirs, FR",
+    "destino": "Manchester, GB"
+  },
+  "EXS92YB": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "EXS6XT": {
+    "origem": "Larnarca, CY",
+    "destino": "Manchester, GB"
+  },
+  "EZY21BZ": {
+    "origem": "Milan, IT",
+    "destino": "Amsterdam, NL"
   }
 }
