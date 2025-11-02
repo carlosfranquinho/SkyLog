@@ -29806,5 +29806,21 @@
   "EJU69ZH": {
     "origem": "Paris, FR",
     "destino": "Manchester, GB"
+  },
+  "VOE1SP": {
+    "origem": "Lisbon, PT",
+    "destino": "Ranón, ES"
+  },
+  "EZY84VQ": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
+  },
+  "RYR833K": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "London, GB"
+  },
+  "RUK31UW": {
+    "origem": "Marrakech, MA",
+    "destino": "London, GB"
   }
 }
