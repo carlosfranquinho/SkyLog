@@ -30090,5 +30090,33 @@
   "TAP2542": {
     "origem": "Rio De Janeiro, BR",
     "destino": "Lisbon, PT"
+  },
+  "EXS5YQ": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Leeds, GB"
+  },
+  "VLG34KL": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Bilbao, ES"
+  },
+  "RYR278P": {
+    "origem": "Dole/Tavaux, FR",
+    "destino": "Porto, PT"
+  },
+  "RYR610T": {
+    "origem": "Cork, IE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "BLX9BK": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Stockholm, SE"
+  },
+  "EZY67MV": {
+    "origem": "Southend, GB",
+    "destino": "Faro, PT"
+  },
+  "EXS4TP": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Bristol, GB"
   }
 }
