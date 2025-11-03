@@ -29950,5 +29950,25 @@
   "TOM2YL": {
     "origem": "Belfast, GB",
     "destino": "Reus, ES"
+  },
+  "TOM654": {
+    "origem": "London, GB",
+    "destino": "Rabil, CV"
+  },
+  "NMA1078": {
+    "origem": "Cairo, EG",
+    "destino": "Lisbon, PT"
+  },
+  "AFR1076": {
+    "origem": "Paris, FR",
+    "destino": "Marrakech, MA"
+  },
+  "AFR1529": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
+  },
+  "EXS1689": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
   }
 }
