@@ -29898,5 +29898,21 @@
   "VOE2QE": {
     "origem": "Porto, PT",
     "destino": "Nantes, FR"
+  },
+  "EJU79PF": {
+    "origem": "Lisbon, PT",
+    "destino": "Paris, FR"
+  },
+  "TVF28MQ": {
+    "origem": "Paris, FR",
+    "destino": "Lanzarote Island, ES"
+  },
+  "VLG3BK": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Barcelona, ES"
+  },
+  "EWG3542": {
+    "origem": "Hannover, DE",
+    "destino": "Funchal, PT"
   }
 }
