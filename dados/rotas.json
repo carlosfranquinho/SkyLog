@@ -29870,5 +29870,21 @@
   "JTD9002": {
     "origem": "Copenhagen, DK",
     "destino": "Gran Canaria Island, ES"
+  },
+  "RYR95XW": {
+    "origem": "Porto, PT",
+    "destino": "Kraków, PL"
+  },
+  "EJU51KY": {
+    "origem": "Porto, PT",
+    "destino": "Funchal, PT"
+  },
+  "VOE51NK": {
+    "origem": "Nantes, FR",
+    "destino": "Porto, PT"
+  },
+  "RYR63GD": {
+    "origem": "Porto, PT",
+    "destino": "Marseille, FR"
   }
 }
