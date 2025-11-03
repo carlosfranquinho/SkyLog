@@ -30182,5 +30182,13 @@
   "RYR10GU": {
     "origem": "Manchester, GB",
     "destino": "Faro, PT"
+  },
+  "RYR23TM": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Cork, IE"
+  },
+  "RYR1233": {
+    "origem": "Santorini Island, GR",
+    "destino": "Athens, GR"
   }
 }
