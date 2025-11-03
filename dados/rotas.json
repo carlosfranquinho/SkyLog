@@ -30050,5 +30050,45 @@
   "TVF81BF": {
     "origem": "Nantes, FR",
     "destino": "Marrakech, MA"
+  },
+  "AFR871": {
+    "origem": "Cape Town, ZA",
+    "destino": "Paris, FR"
+  },
+  "EXS339E": {
+    "origem": "London, GB",
+    "destino": "Funchal, PT"
+  },
+  "TOM7HB": {
+    "origem": "Manchester, GB",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "GJM3311": {
+    "origem": "Vilnius, LT",
+    "destino": "Funchal, PT"
+  },
+  "QTR4Y": {
+    "origem": "Chicago, US",
+    "destino": "Doha, QA"
+  },
+  "RYR10BJ": {
+    "origem": "Lisbon, PT",
+    "destino": "Dublin, IE"
+  },
+  "CFG9KP": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Hamburg, DE"
+  },
+  "EZY27UK": {
+    "origem": "Edinburgh, GB",
+    "destino": "Bilbao, ES"
+  },
+  "EXS1QA": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "London, GB"
+  },
+  "TAP2542": {
+    "origem": "Rio De Janeiro, BR",
+    "destino": "Lisbon, PT"
   }
 }
