@@ -29886,5 +29886,17 @@
   "RYR63GD": {
     "origem": "Porto, PT",
     "destino": "Marseille, FR"
+  },
+  "RYR881A": {
+    "origem": "Porto, PT",
+    "destino": "Bergamo, IT"
+  },
+  "QTR23K": {
+    "origem": "Dallas-Fort Worth, US",
+    "destino": "Doha, QA"
+  },
+  "VOE2QE": {
+    "origem": "Porto, PT",
+    "destino": "Nantes, FR"
   }
 }
