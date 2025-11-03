@@ -30022,5 +30022,33 @@
   "JTD760": {
     "origem": "Fuerteventura Island, ES",
     "destino": "Stockholm, SE"
+  },
+  "EWG7526": {
+    "origem": "Hamburg Airport",
+    "destino": "Fuerteventura Airport"
+  },
+  "TRA35H": {
+    "origem": "Eindhoven, NL",
+    "destino": "Marrakech, MA"
+  },
+  "EJU48ZF": {
+    "origem": "Porto, PT",
+    "destino": "Bordeaux, FR"
+  },
+  "CFG7PA": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Düsseldorf, DE"
+  },
+  "JTD470": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Aalborg, DK"
+  },
+  "RYR77DB": {
+    "origem": "Porto, PT",
+    "destino": "Birmingham, GB"
+  },
+  "TVF81BF": {
+    "origem": "Nantes, FR",
+    "destino": "Marrakech, MA"
   }
 }
