@@ -30166,5 +30166,21 @@
   "TVF80FT": {
     "origem": "Faro, PT",
     "destino": "Paris, FR"
+  },
+  "RYR70HJ": {
+    "origem": "Bergamo, IT",
+    "destino": "Lisbon, PT"
+  },
+  "AFR382V": {
+    "origem": "Tel Aviv, IL",
+    "destino": "Paris, FR"
+  },
+  "RYR478": {
+    "origem": "Lisbon, PT",
+    "destino": "Edinburgh, GB"
+  },
+  "RYR10GU": {
+    "origem": "Manchester, GB",
+    "destino": "Faro, PT"
   }
 }
