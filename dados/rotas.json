@@ -29934,5 +29934,21 @@
   "RYR24SC": {
     "origem": "Porto, PT",
     "destino": "Toulouse, FR"
+  },
+  "EXS061J": {
+    "origem": "Manchester, GB",
+    "destino": "Edinburgh, GB"
+  },
+  "TVF46UG": {
+    "origem": "Lisbon, PT",
+    "destino": "Paris, FR"
+  },
+  "WMT8JY": {
+    "origem": "Lisbon, PT",
+    "destino": "Rome, IT"
+  },
+  "TOM2YL": {
+    "origem": "Belfast, GB",
+    "destino": "Reus, ES"
   }
 }
