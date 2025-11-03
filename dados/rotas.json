@@ -30146,5 +30146,25 @@
   "RYR957G": {
     "origem": "Lisbon, PT",
     "destino": "Vienna, AT"
+  },
+  "TFL8BX": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "TRA60L": {
+    "origem": "Rotterdam, NL",
+    "destino": "Fes, MA"
+  },
+  "VLG7MH": {
+    "origem": "Birmingham, GB",
+    "destino": "Barcelona, ES"
+  },
+  "EZY31BK": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
+  },
+  "TVF80FT": {
+    "origem": "Faro, PT",
+    "destino": "Paris, FR"
   }
 }
