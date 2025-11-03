@@ -29986,5 +29986,41 @@
   "RYR57HG": {
     "origem": "Cork, IE",
     "destino": "Faro, PT"
+  },
+  "EZY38WM": {
+    "origem": "Glasgow, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR69YT": {
+    "origem": "Faro, PT",
+    "destino": "Leeds, GB"
+  },
+  "EXS15PN": {
+    "origem": "London, GB",
+    "destino": "Larnarca, CY"
+  },
+  "EJU15XH": {
+    "origem": "Porto, PT",
+    "destino": "Nantes, FR"
+  },
+  "EJU32CT": {
+    "origem": "Paris, FR",
+    "destino": "Tenerife Island, ES"
+  },
+  "VLG93DU": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Paris, FR"
+  },
+  "EFW8EP": {
+    "origem": "London, GB",
+    "destino": "Funchal, PT"
+  },
+  "RYR589P": {
+    "origem": "Leeds, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "JTD760": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Stockholm, SE"
   }
 }
