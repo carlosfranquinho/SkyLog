@@ -30118,5 +30118,33 @@
   "EXS4TP": {
     "origem": "Fuerteventura Island, ES",
     "destino": "Bristol, GB"
+  },
+  "EZY12AZ": {
+    "origem": "London, GB",
+    "destino": "Funchal, PT"
+  },
+  "WZZ971K": {
+    "origem": "Funchal, PT",
+    "destino": "Warsaw, PL"
+  },
+  "RYR9688": {
+    "origem": "Lisbon, PT",
+    "destino": "Rome, IT"
+  },
+  "TOM846F": {
+    "origem": "Bristol, GB",
+    "destino": "Marrakech, MA"
+  },
+  "RYR63GN": {
+    "origem": "Edinburgh, GB",
+    "destino": "Lisbon, PT"
+  },
+  "ASL72W": {
+    "origem": "Larnarca, CY",
+    "destino": "Belgrad, RS"
+  },
+  "RYR957G": {
+    "origem": "Lisbon, PT",
+    "destino": "Vienna, AT"
   }
 }
