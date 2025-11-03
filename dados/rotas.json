@@ -29834,5 +29834,37 @@
   "EJU12FL": {
     "origem": "Luxembourg, LU",
     "destino": "Porto, PT"
+  },
+  "EJU65FN": {
+    "origem": "Funchal, PT",
+    "destino": "Porto, PT"
+  },
+  "KLM1587": {
+    "origem": "Amsterdam, NL",
+    "destino": "Lisbon, PT"
+  },
+  "EJU48DN": {
+    "origem": "Lyon, FR",
+    "destino": "Porto, PT"
+  },
+  "DLH03H": {
+    "origem": "Munich, DE",
+    "destino": "Porto, PT"
+  },
+  "EXS6CH": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Leeds, GB"
+  },
+  "CND5767": {
+    "origem": "Espargos, CV",
+    "destino": "Amsterdam, NL"
+  },
+  "EJU42BH": {
+    "origem": "Lisbon, PT",
+    "destino": "Milan, IT"
+  },
+  "EJU58DL": {
+    "origem": "Faro, PT",
+    "destino": "Belfast, GB"
   }
 }
