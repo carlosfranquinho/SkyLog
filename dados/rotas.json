@@ -29914,5 +29914,25 @@
   "EWG3542": {
     "origem": "Hannover, DE",
     "destino": "Funchal, PT"
+  },
+  "RYR8HB": {
+    "origem": "Newcastle, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR6192": {
+    "origem": "London, GB",
+    "destino": "Faro, PT"
+  },
+  "JTD801": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Oulu / Oulunsalo, FI"
+  },
+  "TFL7BA": {
+    "origem": "Eindhoven, NL",
+    "destino": "Espargos, CV"
+  },
+  "RYR24SC": {
+    "origem": "Porto, PT",
+    "destino": "Toulouse, FR"
   }
 }
