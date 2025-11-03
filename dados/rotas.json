@@ -30190,5 +30190,21 @@
   "RYR1233": {
     "origem": "Santorini Island, GR",
     "destino": "Athens, GR"
+  },
+  "TOM753F": {
+    "origem": "İzmir, TR",
+    "destino": "London, GB"
+  },
+  "RYR305X": {
+    "origem": "Faro, PT",
+    "destino": "Porto, PT"
+  },
+  "EJU84ZL": {
+    "origem": "Amsterdam, NL",
+    "destino": "Southampton, GB"
+  },
+  "EJU47NM": {
+    "origem": "Zürich, CH",
+    "destino": "Porto, PT"
   }
 }
