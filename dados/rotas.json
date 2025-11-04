@@ -30246,5 +30246,21 @@
   "EJU51TN": {
     "origem": "Milan, IT",
     "destino": "Porto, PT"
+  },
+  "RYR8115": {
+    "origem": "Brussels, BE",
+    "destino": "Prague, CZ"
+  },
+  "TFL7WK": {
+    "origem": "Eindhoven, NL",
+    "destino": "Tenerife Island, ES"
+  },
+  "EXS1CV": {
+    "origem": "Newcastle, GB",
+    "destino": "Marrakech, MA"
+  },
+  "TVF29UK": {
+    "origem": "Nantes, FR",
+    "destino": "Diass, SN"
   }
 }
