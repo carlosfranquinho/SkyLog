@@ -30262,5 +30262,17 @@
   "TVF29UK": {
     "origem": "Nantes, FR",
     "destino": "Diass, SN"
+  },
+  "EJU57GW": {
+    "origem": "Porto, PT",
+    "destino": "Milan, IT"
+  },
+  "TOM5JM": {
+    "origem": "Faro, PT",
+    "destino": "London, GB"
+  },
+  "TOM5PD": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
   }
 }
