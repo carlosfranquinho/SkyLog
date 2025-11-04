@@ -30210,5 +30210,13 @@
   "AIZ254": {
     "origem": "Lisbon, PT",
     "destino": "Tel Aviv, IL"
+  },
+  "RYR84YG": {
+    "origem": "Porto, PT",
+    "destino": "Budapest, HU"
+  },
+  "RYR42NX": {
+    "origem": "Porto, PT",
+    "destino": "Beauvais/Tillé, FR"
   }
 }
