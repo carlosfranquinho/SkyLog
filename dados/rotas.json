@@ -30450,5 +30450,29 @@
   "EZS68AR": {
     "origem": "Saint-Louis, FR",
     "destino": "Porto, PT"
+  },
+  "RYR5DG": {
+    "origem": "Ouarzazate, MA",
+    "destino": "Barcelona, ES"
+  },
+  "CFG1CH": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Düsseldorf, DE"
+  },
+  "RYR8101": {
+    "origem": "Cork, IE",
+    "destino": "Girona, ES"
+  },
+  "TFL6NC": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "EJU69ZF": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
+  },
+  "EXS51MZ": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
   }
 }
