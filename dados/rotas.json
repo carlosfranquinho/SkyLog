@@ -30274,5 +30274,17 @@
   "TOM5PD": {
     "origem": "London, GB",
     "destino": "Tenerife Island, ES"
+  },
+  "TOM6LG": {
+    "origem": "Manchester, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "TFL3MV": {
+    "origem": "Rotterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR70AK": {
+    "origem": "Agadir, MA",
+    "destino": "Brussels, BE"
   }
 }
