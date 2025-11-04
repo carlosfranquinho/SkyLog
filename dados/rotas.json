@@ -30502,5 +30502,17 @@
   "RYR37SC": {
     "origem": "Tenerife Island, ES",
     "destino": "Kraków, PL"
+  },
+  "VLG2703": {
+    "origem": "Porto, PT",
+    "destino": "Bilbao, ES"
+  },
+  "EJU76HQ": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Milan, IT"
+  },
+  "VLG35C": {
+    "origem": "Barcelona, ES",
+    "destino": "Porto, PT"
   }
 }
