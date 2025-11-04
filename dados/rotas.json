@@ -30374,5 +30374,49 @@
   "EJU75FV": {
     "origem": "Paris, FR",
     "destino": "Lanzarote Island, ES"
+  },
+  "WZZ5539": {
+    "origem": "Gdańsk, PL",
+    "destino": "Tenerife Island, ES"
+  },
+  "TRA5953": {
+    "origem": "Amsterdam, NL",
+    "destino": "Lisbon, PT"
+  },
+  "RUK85XL": {
+    "origem": "London, GB",
+    "destino": "Essaouira, MA"
+  },
+  "EXS73SU": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "London, GB"
+  },
+  "EZY13TW": {
+    "origem": "Belfast, GB",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EZY86PA": {
+    "origem": "Bristol, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EXS26T": {
+    "origem": "Paphos, CY",
+    "destino": "Liverpool, GB"
+  },
+  "JTD272": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Copenhagen, DK"
+  },
+  "EZY98RC": {
+    "origem": "Edinburgh, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EXS6TY": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Bristol, GB"
+  },
+  "WZZ37LF": {
+    "origem": "Warsaw, PL",
+    "destino": "Lisbon, PT"
   }
 }
