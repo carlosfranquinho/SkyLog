@@ -30474,5 +30474,33 @@
   "EXS51MZ": {
     "origem": "London, GB",
     "destino": "Tenerife Island, ES"
+  },
+  "RYR44CG": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Berlin, DE"
+  },
+  "TOM7CD": {
+    "origem": "Aberdeen, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "QTR8167": {
+    "origem": "Chicago, US",
+    "destino": "Doha, QA"
+  },
+  "AEA29KU": {
+    "origem": "Bilbao, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "EJU68WQ": {
+    "origem": "Ibiza, ES",
+    "destino": "Milan, IT"
+  },
+  "EJU42GL": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Paris, FR"
+  },
+  "RYR37SC": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Kraków, PL"
   }
 }
