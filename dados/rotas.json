@@ -30338,5 +30338,41 @@
   "TVF70RK": {
     "origem": "Nantes, FR",
     "destino": "Marrakech, MA"
+  },
+  "TOM607": {
+    "origem": "Marrakech, MA",
+    "destino": "London, GB"
+  },
+  "EJU37WM": {
+    "origem": "Paris, FR",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EJU74XZ": {
+    "origem": "Napoli, IT",
+    "destino": "Milan, IT"
+  },
+  "CFG4MW": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Düsseldorf, DE"
+  },
+  "EZY52TU": {
+    "origem": "Manchester, GB",
+    "destino": "Espargos, CV"
+  },
+  "TVF24JA": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
+  },
+  "RYR68KY": {
+    "origem": "Marrakech, MA",
+    "destino": "Eindhoven, NL"
+  },
+  "EZY75LE": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "London, GB"
+  },
+  "EJU75FV": {
+    "origem": "Paris, FR",
+    "destino": "Lanzarote Island, ES"
   }
 }
