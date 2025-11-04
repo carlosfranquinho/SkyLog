@@ -30286,5 +30286,29 @@
   "RYR70AK": {
     "origem": "Agadir, MA",
     "destino": "Brussels, BE"
+  },
+  "EXS1DC": {
+    "origem": "Newcastle, GB",
+    "destino": "Zakynthos Island, GR"
+  },
+  "TOM485": {
+    "origem": "Marrakech, MA",
+    "destino": "Manchester, GB"
+  },
+  "RYR714K": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Birmingham, GB"
+  },
+  "TFL9DX": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR5047": {
+    "origem": "Porto, PT",
+    "destino": "Málaga, ES"
+  },
+  "NSZ4269": {
+    "origem": "Stockholm, SE",
+    "destino": "Tenerife Island, ES"
   }
 }
