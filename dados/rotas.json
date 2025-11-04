@@ -30418,5 +30418,21 @@
   "WZZ37LF": {
     "origem": "Warsaw, PL",
     "destino": "Lisbon, PT"
+  },
+  "TOM224": {
+    "origem": "London, GB",
+    "destino": "Banjul, GM"
+  },
+  "AEA69HZ": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Bilbao, ES"
+  },
+  "RYR921R": {
+    "origem": "Nürnberg, DE",
+    "destino": "Faro, PT"
+  },
+  "JAF56T": {
+    "origem": "Brussels, BE",
+    "destino": "Marsa Alam, EG"
   }
 }
