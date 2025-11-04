@@ -30310,5 +30310,33 @@
   "NSZ4269": {
     "origem": "Stockholm, SE",
     "destino": "Tenerife Island, ES"
+  },
+  "TVF54MM": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Paris, FR"
+  },
+  "QTR43Q": {
+    "origem": "Dallas-Fort Worth, US",
+    "destino": "Doha, QA"
+  },
+  "EJU71FX": {
+    "origem": "Agadir, MA",
+    "destino": "Paris, FR"
+  },
+  "TOM7DH": {
+    "origem": "Bristol, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EXS16KL": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Nottingham, GB"
+  },
+  "RYR665G": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Brussels, BE"
+  },
+  "TVF70RK": {
+    "origem": "Nantes, FR",
+    "destino": "Marrakech, MA"
   }
 }
