@@ -30222,5 +30222,29 @@
   "IBE03DC": {
     "origem": "New York, US",
     "destino": "Madrid, ES"
+  },
+  "TVF51SN": {
+    "origem": "Paris, FR",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "DBPMI": {
+    "origem": "Vienna, AT",
+    "destino": "Hahn, DE"
+  },
+  "RYR62DM": {
+    "origem": "Lisbon, PT",
+    "destino": "Luxembourg, LU"
+  },
+  "RYR27AE": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Eindhoven, NL"
+  },
+  "TOM484": {
+    "origem": "Manchester, GB",
+    "destino": "Marrakech, MA"
+  },
+  "EJU51TN": {
+    "origem": "Milan, IT",
+    "destino": "Porto, PT"
   }
 }
