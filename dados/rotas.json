@@ -30434,5 +30434,21 @@
   "JAF56T": {
     "origem": "Brussels, BE",
     "destino": "Marsa Alam, EG"
+  },
+  "RYR41AA": {
+    "origem": "Porto, PT",
+    "destino": "Brussels, BE"
+  },
+  "NGN7711": {
+    "origem": "Cologne, DE",
+    "destino": "Lisbon, PT"
+  },
+  "EXS51FG": {
+    "origem": "Newcastle, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "EZS68AR": {
+    "origem": "Saint-Louis, FR",
+    "destino": "Porto, PT"
   }
 }
