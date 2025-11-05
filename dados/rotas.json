@@ -30614,5 +30614,33 @@
   "EXS4MF": {
     "origem": "Leeds, GB",
     "destino": "Málaga, ES"
+  },
+  "NOZ8HP": {
+    "origem": "Bergen, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR7MX": {
+    "origem": "Cork, IE",
+    "destino": "Nottingham, GB"
+  },
+  "RYR1144": {
+    "origem": "Berlin, DE",
+    "destino": "Manchester, GB"
+  },
+  "EXS7AJ": {
+    "origem": "Manchester, GB",
+    "destino": "Málaga, ES"
+  },
+  "RYR9812": {
+    "origem": "Charleston, IE",
+    "destino": "Tenerife Island, ES"
+  },
+  "DLH07E": {
+    "origem": "Porto, PT",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "EXS13VP": {
+    "origem": "Nottingham, GB",
+    "destino": "Málaga, ES"
   }
 }
