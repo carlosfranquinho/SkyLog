@@ -30654,5 +30654,37 @@
   "RAM940J": {
     "origem": "Casablanca, MA",
     "destino": "Rome, IT"
+  },
+  "EJU59DF": {
+    "origem": "Sta Cruz de la Palma, La Palma Island, ES",
+    "destino": "Berlin, DE"
+  },
+  "EJU46KW": {
+    "origem": "Paris, FR",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "RYR3413": {
+    "origem": "Tangier, MA",
+    "destino": "Brussels, BE"
+  },
+  "TVF44VP": {
+    "origem": "Paris, FR",
+    "destino": "Agadir, MA"
+  },
+  "EXS56WG": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Leeds, GB"
+  },
+  "RYR97UM": {
+    "origem": "Porto, PT",
+    "destino": "Memmingen, DE"
+  },
+  "TVF78TL": {
+    "origem": "Paris, FR",
+    "destino": "Marrakech, MA"
+  },
+  "RYR5537": {
+    "origem": "Cardiff, GB",
+    "destino": "Tenerife Island, ES"
   }
 }
