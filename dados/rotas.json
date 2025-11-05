@@ -30738,5 +30738,21 @@
   "TFL3HK": {
     "origem": "Tenerife Island, ES",
     "destino": "Amsterdam, NL"
+  },
+  "RYR12JZ": {
+    "origem": "Lisbon, PT",
+    "destino": "Bologna, IT"
+  },
+  "WZZ134G": {
+    "origem": "Funchal, PT",
+    "destino": "Gdańsk, PL"
+  },
+  "AFR55FZ": {
+    "origem": "Lyon, FR",
+    "destino": "Pau/Pyrénées (Uzein), FR"
+  },
+  "RYR30DM": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Bristol, GB"
   }
 }
