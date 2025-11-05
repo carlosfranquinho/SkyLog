@@ -30594,5 +30594,25 @@
   "RYR39TM": {
     "origem": "Manchester, GB",
     "destino": "Málaga, ES"
+  },
+  "MAC102": {
+    "origem": "London, GB",
+    "destino": "Tangier, MA"
+  },
+  "TVF40KD": {
+    "origem": "Paris, FR",
+    "destino": "Marrakech, MA"
+  },
+  "CTM2034": {
+    "origem": "Évreux/Fauville, FR",
+    "destino": "Toulouse, FR"
+  },
+  "RYR169C": {
+    "origem": "Liverpool, GB",
+    "destino": "Faro, PT"
+  },
+  "EXS4MF": {
+    "origem": "Leeds, GB",
+    "destino": "Málaga, ES"
   }
 }
