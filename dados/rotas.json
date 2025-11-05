@@ -30686,5 +30686,21 @@
   "RYR5537": {
     "origem": "Cardiff, GB",
     "destino": "Tenerife Island, ES"
+  },
+  "RYR37XB": {
+    "origem": "London, GB",
+    "destino": "Málaga, ES"
+  },
+  "BLX12N": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Gothenburg, SE"
+  },
+  "RUK278L": {
+    "origem": "Lisbon, PT",
+    "destino": "Manchester, GB"
+  },
+  "EXS68TY": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Birmingham, GB"
   }
 }
