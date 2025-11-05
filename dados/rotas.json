@@ -30722,5 +30722,21 @@
   "TVS446F": {
     "origem": "Eindhoven, NL",
     "destino": "Tenerife Island, ES"
+  },
+  "TVF11JT": {
+    "origem": "Nantes, FR",
+    "destino": "Lisbon, PT"
+  },
+  "EWG1KG": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Berlin, DE"
+  },
+  "JAF45M": {
+    "origem": "Brussels, BE",
+    "destino": "Casablanca, MA"
+  },
+  "TFL3HK": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Amsterdam, NL"
   }
 }
