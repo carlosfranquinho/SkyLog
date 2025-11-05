@@ -30642,5 +30642,17 @@
   "EXS13VP": {
     "origem": "Nottingham, GB",
     "destino": "Málaga, ES"
+  },
+  "BAW494": {
+    "origem": "London, GB",
+    "destino": "Gibraltar, GI"
+  },
+  "TVF74BG": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Paris, FR"
+  },
+  "RAM940J": {
+    "origem": "Casablanca, MA",
+    "destino": "Rome, IT"
   }
 }
