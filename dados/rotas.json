@@ -30554,5 +30554,33 @@
   "RYR38LF": {
     "origem": "Manchester, GB",
     "destino": "Gran Canaria Island, ES"
+  },
+  "UAE2VL": {
+    "origem": "Houston, US",
+    "destino": "Dubai, AE"
+  },
+  "RYR7CD": {
+    "origem": "Dublin, IE",
+    "destino": "Madrid, ES"
+  },
+  "NOZ3ZM": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Evenes, NO"
+  },
+  "JAF78N": {
+    "origem": "Ostend, BE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "JAF6JW": {
+    "origem": "Antwerp, BE",
+    "destino": "Tenerife Island, ES"
+  },
+  "EWG6VP": {
+    "origem": "Hamburg, DE",
+    "destino": "Ibiza, ES"
+  },
+  "TAP232": {
+    "origem": "Washington, US",
+    "destino": "Lisbon, PT"
   }
 }
