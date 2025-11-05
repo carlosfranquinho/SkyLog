@@ -30702,5 +30702,25 @@
   "EXS68TY": {
     "origem": "Tenerife Island, ES",
     "destino": "Birmingham, GB"
+  },
+  "RYR30BE": {
+    "origem": "Edinburgh, GB",
+    "destino": "Sevilla, ES"
+  },
+  "RYR98TD": {
+    "origem": "Porto, PT",
+    "destino": "Beauvais/Tillé, FR"
+  },
+  "EXS184H": {
+    "origem": "Skiathos, GR",
+    "destino": "London, GB"
+  },
+  "EZY29CG": {
+    "origem": "London, GB",
+    "destino": "Sevilla, ES"
+  },
+  "TVS446F": {
+    "origem": "Eindhoven, NL",
+    "destino": "Tenerife Island, ES"
   }
 }
