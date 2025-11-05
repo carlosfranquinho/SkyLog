@@ -30582,5 +30582,13 @@
   "TAP232": {
     "origem": "Washington, US",
     "destino": "Lisbon, PT"
+  },
+  "ELY008": {
+    "origem": "New York, US",
+    "destino": "Tel Aviv, IL"
+  },
+  "MBU8XL": {
+    "origem": "Hamburg, DE",
+    "destino": "Sta Cruz de la Palma, La Palma Island, ES"
   }
 }
