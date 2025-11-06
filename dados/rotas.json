@@ -30938,5 +30938,25 @@
   "TAP68HR": {
     "origem": "Lisbon, PT",
     "destino": "London, GB"
+  },
+  "TVF30KW": {
+    "origem": "Funchal, PT",
+    "destino": "Paris, FR"
+  },
+  "EFW5YT": {
+    "origem": "London, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "TVF46KF": {
+    "origem": "Paris, FR",
+    "destino": "Agadir, MA"
+  },
+  "EZY12PE": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Liverpool, GB"
+  },
+  "MBU7NV": {
+    "origem": "Funchal, PT",
+    "destino": "Hamburg, DE"
   }
 }
