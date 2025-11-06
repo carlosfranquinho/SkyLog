@@ -31042,5 +31042,17 @@
   "TPA4228": {
     "origem": "Zaragoza, ES",
     "destino": "Bogota, CO"
+  },
+  "RYR3177": {
+    "origem": "Valencia, ES",
+    "destino": "Marseille, FR"
+  },
+  "KLM35W": {
+    "origem": "Amsterdam, NL",
+    "destino": "Lisbon, PT"
+  },
+  "TVS58P": {
+    "origem": "Espargos, CV",
+    "destino": "Prague, CZ"
   }
 }
