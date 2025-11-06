@@ -30790,5 +30790,21 @@
   "QTR27V": {
     "origem": "Cochin, IN",
     "destino": "Doha, QA"
+  },
+  "QTR56V": {
+    "origem": "Toronto, CA",
+    "destino": "Doha, QA"
+  },
+  "TVF82HK": {
+    "origem": "Paris, FR",
+    "destino": "Agadir, MA"
+  },
+  "QTR16J": {
+    "origem": "Montréal, CA",
+    "destino": "Doha, QA"
+  },
+  "QTR55R": {
+    "origem": "Chicago, US",
+    "destino": "Doha, QA"
   }
 }
