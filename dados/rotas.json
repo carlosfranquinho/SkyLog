@@ -30978,5 +30978,21 @@
   "RYR1137": {
     "origem": "London, GB",
     "destino": "Riga, LV"
+  },
+  "EJU87UB": {
+    "origem": "Paris, FR",
+    "destino": "Marrakech, MA"
+  },
+  "TFL27T": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "VLG6FX": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Barcelona, ES"
+  },
+  "AFR872": {
+    "origem": "Paris, FR",
+    "destino": "Cape Town, ZA"
   }
 }
