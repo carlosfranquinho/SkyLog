@@ -30930,5 +30930,13 @@
   "LGL599": {
     "origem": "Luxembourg, LU",
     "destino": "Sta Cruz de la Palma, La Palma Island, ES"
+  },
+  "TOM71A": {
+    "origem": "Sta Cruz de la Palma, La Palma Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "TAP68HR": {
+    "origem": "Lisbon, PT",
+    "destino": "London, GB"
   }
 }
