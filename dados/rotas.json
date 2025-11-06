@@ -30858,5 +30858,25 @@
   "UAL3038": {
     "origem": "Zürich, CH",
     "destino": "Washington, US"
+  },
+  "TVF41MN": {
+    "origem": "Toulouse, FR",
+    "destino": "Marrakech, MA"
+  },
+  "EXS99J": {
+    "origem": "Paphos, CY",
+    "destino": "Liverpool, GB"
+  },
+  "ICL982": {
+    "origem": "New York, US",
+    "destino": "Tel Aviv, IL"
+  },
+  "TAP3842": {
+    "origem": "Funchal, PT",
+    "destino": "Lisbon, PT"
+  },
+  "SDR39NP": {
+    "origem": "Dresden, DE",
+    "destino": "Fuerteventura Island, ES"
   }
 }
