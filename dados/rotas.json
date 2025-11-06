@@ -30994,5 +30994,13 @@
   "AFR872": {
     "origem": "Paris, FR",
     "destino": "Cape Town, ZA"
+  },
+  "TFL3751": {
+    "origem": "Eindhoven, NL",
+    "destino": "Espargos, CV"
+  },
+  "TVF50TJ": {
+    "origem": "Agadir, MA",
+    "destino": "Nantes, FR"
   }
 }
