@@ -30762,5 +30762,21 @@
   "TVF44VH": {
     "origem": "Lisbon, PT",
     "destino": "Paris, FR"
+  },
+  "TAP9273": {
+    "origem": "Warsaw, PL",
+    "destino": "Lisbon, PT"
+  },
+  "LTG8513": {
+    "origem": "Brussels, BE",
+    "destino": "Espargos, CV"
+  },
+  "TOM225F": {
+    "origem": "Banjul, GM",
+    "destino": "Manchester, GB"
+  },
+  "EZY12GE": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Glasgow, GB"
   }
 }
