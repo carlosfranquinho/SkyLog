@@ -30958,5 +30958,17 @@
   "MBU7NV": {
     "origem": "Funchal, PT",
     "destino": "Hamburg, DE"
+  },
+  "TRA9063": {
+    "origem": "Brussels, BE",
+    "destino": "Tenerife Island, ES"
+  },
+  "TRA68Z": {
+    "origem": "Brussels, BE",
+    "destino": "Marrakech, MA"
+  },
+  "EXS2L": {
+    "origem": "London, GB",
+    "destino": "Lanzarote Island, ES"
   }
 }
