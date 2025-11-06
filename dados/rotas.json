@@ -30878,5 +30878,25 @@
   "SDR39NP": {
     "origem": "Dresden, DE",
     "destino": "Fuerteventura Island, ES"
+  },
+  "TRA5Q": {
+    "origem": "Almería, ES",
+    "destino": "Rotterdam, NL"
+  },
+  "BEL3781": {
+    "origem": "Brussels, BE",
+    "destino": "Tenerife Island, ES"
+  },
+  "CFG9HL": {
+    "origem": "Stuttgart, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "RYR75TL": {
+    "origem": "Brussels, BE",
+    "destino": "Agadir, MA"
+  },
+  "EJU58LU": {
+    "origem": "Porto, PT",
+    "destino": "Nice, FR"
   }
 }
