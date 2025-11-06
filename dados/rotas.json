@@ -30838,5 +30838,25 @@
   "EWG1ZA": {
     "origem": "Stuttgart, DE",
     "destino": "Fuerteventura Island, ES"
+  },
+  "EJU7671": {
+    "origem": "Lisbon, PT",
+    "destino": "Birmingham, GB"
+  },
+  "EWG41C": {
+    "origem": "Berlin, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EJU78VX": {
+    "origem": "Lisbon, PT",
+    "destino": "Paris, FR"
+  },
+  "NOZ9090": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Bodø, NO"
+  },
+  "UAL3038": {
+    "origem": "Zürich, CH",
+    "destino": "Washington, US"
   }
 }
