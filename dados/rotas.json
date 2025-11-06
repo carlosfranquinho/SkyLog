@@ -30806,5 +30806,37 @@
   "QTR55R": {
     "origem": "Chicago, US",
     "destino": "Doha, QA"
+  },
+  "EJU96TY": {
+    "origem": "Paris, FR",
+    "destino": "Marrakech, MA"
+  },
+  "EXS94CD": {
+    "origem": "Newcastle, GB",
+    "destino": "Málaga, ES"
+  },
+  "EZY17GW": {
+    "origem": "Liverpool, GB",
+    "destino": "Málaga, ES"
+  },
+  "AFR15ZK": {
+    "origem": "Paris, FR",
+    "destino": "Casablanca, MA"
+  },
+  "EJU16ZU": {
+    "origem": "Amsterdam, NL",
+    "destino": "Marrakech, MA"
+  },
+  "EWG65T": {
+    "origem": "Berlin, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "TVF44WE": {
+    "origem": "Paris, FR",
+    "destino": "Espargos, CV"
+  },
+  "EWG1ZA": {
+    "origem": "Stuttgart, DE",
+    "destino": "Fuerteventura Island, ES"
   }
 }
