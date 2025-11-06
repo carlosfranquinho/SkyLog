@@ -31002,5 +31002,25 @@
   "TVF50TJ": {
     "origem": "Agadir, MA",
     "destino": "Nantes, FR"
+  },
+  "BTI8PU": {
+    "origem": "Tallinn, EE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EFW5DU": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "London, GB"
+  },
+  "TVF17LN": {
+    "origem": "Rennes, FR",
+    "destino": "Marrakech, MA"
+  },
+  "RYR9516": {
+    "origem": "Thessaloniki, GR",
+    "destino": "Bucharest, RO"
+  },
+  "EZY23AX": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Birmingham, GB"
   }
 }
