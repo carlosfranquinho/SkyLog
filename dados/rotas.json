@@ -30782,5 +30782,13 @@
   "N166QS": {
     "origem": "Boston, US",
     "destino": "Zürich, CH"
+  },
+  "QTR1U": {
+    "origem": "Washington, US",
+    "destino": "Doha, QA"
+  },
+  "QTR27V": {
+    "origem": "Cochin, IN",
+    "destino": "Doha, QA"
   }
 }
