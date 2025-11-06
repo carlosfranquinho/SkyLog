@@ -30898,5 +30898,37 @@
   "EJU58LU": {
     "origem": "Porto, PT",
     "destino": "Nice, FR"
+  },
+  "AFR28VP": {
+    "origem": "Paris, FR",
+    "destino": "Porto, PT"
+  },
+  "EXS3NL": {
+    "origem": "Leeds, GB",
+    "destino": "Faro, PT"
+  },
+  "DLH06J": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Faro, PT"
+  },
+  "CFG6HA": {
+    "origem": "Munich, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "IBS15NP": {
+    "origem": "Madrid, ES",
+    "destino": "Tenerife Island, ES"
+  },
+  "EZS26WH": {
+    "origem": "Saint-Louis, FR",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "TOM9JA": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "LGL599": {
+    "origem": "Luxembourg, LU",
+    "destino": "Sta Cruz de la Palma, La Palma Island, ES"
   }
 }
