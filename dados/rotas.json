@@ -31070,5 +31070,9 @@
   "DAL234": {
     "origem": "New York, US",
     "destino": "Tel Aviv, IL"
+  },
+  "ELY002": {
+    "origem": "John F Kennedy International Airport",
+    "destino": "Ben Gurion International Airport"
   }
 }
