@@ -31074,5 +31074,9 @@
   "ELY002": {
     "origem": "John F Kennedy International Airport",
     "destino": "Ben Gurion International Airport"
+  },
+  "UAL40": {
+    "origem": "Newark, US",
+    "destino": "Rome, IT"
   }
 }
