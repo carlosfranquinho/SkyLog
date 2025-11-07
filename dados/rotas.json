@@ -31190,5 +31190,25 @@
   "EXS5RW": {
     "origem": "Tenerife Island, ES",
     "destino": "Birmingham, GB"
+  },
+  "CND3M": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "TVF7650": {
+    "origem": "Paris, FR",
+    "destino": "Lisbon, PT"
+  },
+  "EXS41N": {
+    "origem": "Antalya, TR",
+    "destino": "Liverpool, GB"
+  },
+  "TVF65ZR": {
+    "origem": "Paris, FR",
+    "destino": "Porto, PT"
+  },
+  "TFL6AN": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Eindhoven, NL"
   }
 }
