@@ -31058,5 +31058,9 @@
   "TPA4225": {
     "origem": "Miami International Airport",
     "destino": "El Dorado International Airport"
+  },
+  "UAE242": {
+    "origem": "Toronto, CA",
+    "destino": "Dubai, AE"
   }
 }
