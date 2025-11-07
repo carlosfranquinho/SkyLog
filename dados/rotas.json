@@ -31094,5 +31094,21 @@
   "QTR15G": {
     "origem": "New York, US",
     "destino": "Doha, QA"
+  },
+  "RYR75DP": {
+    "origem": "Porto, PT",
+    "destino": "Eindhoven, NL"
+  },
+  "RUK42WM": {
+    "origem": "Manchester, GB",
+    "destino": "Agadir, MA"
+  },
+  "RYR6CB": {
+    "origem": "Stockholm / Nyköping, SE",
+    "destino": "Barcelona, ES"
+  },
+  "QTR33Q": {
+    "origem": "Los Angeles, US",
+    "destino": "Doha, QA"
   }
 }
