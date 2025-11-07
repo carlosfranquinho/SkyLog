@@ -31314,5 +31314,49 @@
   "VOE6BP": {
     "origem": "Culleredo, ES",
     "destino": "Málaga, ES"
+  },
+  "RYR6VN": {
+    "origem": "Marseille, FR",
+    "destino": "Porto, PT"
+  },
+  "CFG3KM": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Düsseldorf, DE"
+  },
+  "EDW104": {
+    "origem": "Zürich, CH",
+    "destino": "Marrakech, MA"
+  },
+  "EXS689L": {
+    "origem": "Alicante, ES",
+    "destino": "Liverpool, GB"
+  },
+  "BLX268": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Gothenburg, SE"
+  },
+  "TAP9025": {
+    "origem": "Warsaw, PL",
+    "destino": "Lisbon, PT"
+  },
+  "RYR7HP": {
+    "origem": "Sevilla, ES",
+    "destino": "Nantes, FR"
+  },
+  "EZS46TF": {
+    "origem": "Geneva, CH",
+    "destino": "Porto, PT"
+  },
+  "TOM99B": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Bristol, GB"
+  },
+  "JAF8XL": {
+    "origem": "Souda, GR",
+    "destino": "Brussels, BE"
+  },
+  "RYR2564": {
+    "origem": "Torp, NO",
+    "destino": "Málaga, ES"
   }
 }
