@@ -31078,5 +31078,9 @@
   "UAL40": {
     "origem": "Newark, US",
     "destino": "Rome, IT"
+  },
+  "IBS15PV": {
+    "origem": "Madrid, ES",
+    "destino": "Tenerife Island, ES"
   }
 }
