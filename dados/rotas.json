@@ -31210,5 +31210,37 @@
   "TFL6AN": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Eindhoven, NL"
+  },
+  "TVF9829": {
+    "origem": "Marrakech, MA",
+    "destino": "Lille/Lesquin, FR"
+  },
+  "VLG10EK": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Barcelona, ES"
+  },
+  "EXS29WM": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Bristol, GB"
+  },
+  "JTD914": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Helsinki, FI"
+  },
+  "CFG4AK": {
+    "origem": "Leipzig, DE",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "CFG1441": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Hamburg, DE"
+  },
+  "OCN7R": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Munich, DE"
+  },
+  "VKG1509": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Trondheim, NO"
   }
 }
