@@ -31294,5 +31294,25 @@
   "EJU41UP": {
     "origem": "Bordeaux, FR",
     "destino": "Porto, PT"
+  },
+  "LGL787R": {
+    "origem": "Luxembourg, LU",
+    "destino": "Faro, PT"
+  },
+  "VLG47PA": {
+    "origem": "Barcelona, ES",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EXS23PW": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Birmingham, GB"
+  },
+  "TOM7WL": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
+  },
+  "VOE6BP": {
+    "origem": "Culleredo, ES",
+    "destino": "Málaga, ES"
   }
 }
