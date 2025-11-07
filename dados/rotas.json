@@ -31134,5 +31134,17 @@
   "VLG3KU": {
     "origem": "Santiago de Compostela, ES",
     "destino": "Sevilla, ES"
+  },
+  "JTD913": {
+    "origem": "Helsinki, FI",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "BAW8LX": {
+    "origem": "London, GB",
+    "destino": "Gibraltar, GI"
+  },
+  "EZY31MA": {
+    "origem": "Faro, PT",
+    "destino": "Southend, GB"
   }
 }
