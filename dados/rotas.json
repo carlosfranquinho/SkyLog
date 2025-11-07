@@ -31062,5 +31062,9 @@
   "UAE242": {
     "origem": "Toronto, CA",
     "destino": "Dubai, AE"
+  },
+  "UAE4M": {
+    "origem": "Dallas-Fort Worth, US",
+    "destino": "Dubai, AE"
   }
 }
