@@ -31146,5 +31146,29 @@
   "EZY31MA": {
     "origem": "Faro, PT",
     "destino": "Southend, GB"
+  },
+  "CFG1440": {
+    "origem": "Hamburg, DE",
+    "destino": "Hamburg, DE"
+  },
+  "EJU48HQ": {
+    "origem": "Lyon, FR",
+    "destino": "Lisbon, PT"
+  },
+  "TAP2257": {
+    "origem": "Warsaw, PL",
+    "destino": "Lisbon, PT"
+  },
+  "SDR39PY": {
+    "origem": "Bremen, DE",
+    "destino": "Tenerife Island, ES"
+  },
+  "EJU85CD": {
+    "origem": "Geneva, CH",
+    "destino": "Lisbon, PT"
+  },
+  "EZY94QL": {
+    "origem": "Málaga, ES",
+    "destino": "Glasgow, GB"
   }
 }
