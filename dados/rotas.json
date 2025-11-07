@@ -31082,5 +31082,17 @@
   "IBS15PV": {
     "origem": "Madrid, ES",
     "destino": "Tenerife Island, ES"
+  },
+  "JAF7MW": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Brussels, BE"
+  },
+  "TRA5641": {
+    "origem": "Amsterdam, NL",
+    "destino": "Sta Cruz de la Palma, La Palma Island, ES"
+  },
+  "QTR15G": {
+    "origem": "New York, US",
+    "destino": "Doha, QA"
   }
 }
