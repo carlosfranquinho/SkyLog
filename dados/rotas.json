@@ -31174,5 +31174,21 @@
   "RYR170Y": {
     "origem": "Napoli, IT",
     "destino": "Lisbon, PT"
+  },
+  "TOM63X": {
+    "origem": "Nottingham, GB",
+    "destino": "Málaga, ES"
+  },
+  "RYR2843": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "London, GB"
+  },
+  "RYR924A": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Edinburgh, GB"
+  },
+  "EXS5RW": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Birmingham, GB"
   }
 }
