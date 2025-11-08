@@ -31722,5 +31722,33 @@
   "VOE65NM": {
     "origem": "Lille/Lesquin, FR",
     "destino": "Marrakech, MA"
+  },
+  "CTN9700": {
+    "origem": "Dubrovnik, HR",
+    "destino": "Bilbao, ES"
+  },
+  "CND5769": {
+    "origem": "Amsterdam, NL",
+    "destino": "Banjul, GM"
+  },
+  "NOZ4YM": {
+    "origem": "New York, US",
+    "destino": "Rome, IT"
+  },
+  "TOM6HA": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Newcastle, GB"
+  },
+  "EZY94UG": {
+    "origem": "London, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "CFG1449": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Frankfurt-am-Main, DE"
+  },
+  "EWG2931": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Stuttgart, DE"
   }
 }
