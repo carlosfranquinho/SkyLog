@@ -31570,5 +31570,41 @@
   "EWG4257": {
     "origem": "Funchal, PT",
     "destino": "Prague, CZ"
+  },
+  "SDR39CJ": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Berlin, DE"
+  },
+  "TRA5834": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Rotterdam, NL"
+  },
+  "TUI1NG": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "AEA52FU": {
+    "origem": "Bilbao, ES",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EJU85FY": {
+    "origem": "Porto, PT",
+    "destino": "Lyon, FR"
+  },
+  "WZZ167X": {
+    "origem": "Funchal, PT",
+    "destino": "Katowice, PL"
+  },
+  "TUI2DH": {
+    "origem": "Hannover, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "NOZ9032": {
+    "origem": "Oslo, NO",
+    "destino": "Lanzarote Island, ES"
+  },
+  "NOZ1714": {
+    "origem": "Bergen, NO",
+    "destino": "Tenerife Island, ES"
   }
 }
