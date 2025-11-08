@@ -31750,5 +31750,41 @@
   "EWG2931": {
     "origem": "Lanzarote Island, ES",
     "destino": "Stuttgart, DE"
+  },
+  "RYR70LM": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Cologne, DE"
+  },
+  "EWG3MZ": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Hamburg, DE"
+  },
+  "EJU57NM": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "RYR3WG": {
+    "origem": "Barcelona, ES",
+    "destino": "London, GB"
+  },
+  "EJU15WT": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Bordeaux, FR"
+  },
+  "EWG50P": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Berlin, DE"
+  },
+  "NOZ9033": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Oslo, NO"
+  },
+  "CTN9701": {
+    "origem": "Lisbon, PT",
+    "destino": "Split, HR"
+  },
+  "EWG5LA": {
+    "origem": "Agadir, MA",
+    "destino": "Düsseldorf, DE"
   }
 }
