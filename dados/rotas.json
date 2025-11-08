@@ -31474,5 +31474,17 @@
   "NOZ1758": {
     "origem": "Stavanger, NO",
     "destino": "Tenerife Island, ES"
+  },
+  "TFL31B": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Eindhoven, NL"
+  },
+  "VOE74JQ": {
+    "origem": "Nantes, FR",
+    "destino": "Marrakech, MA"
+  },
+  "RYR53PQ": {
+    "origem": "Vigo, ES",
+    "destino": "London, GB"
   }
 }
