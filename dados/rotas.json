@@ -31606,5 +31606,21 @@
   "NOZ1714": {
     "origem": "Bergen, NO",
     "destino": "Tenerife Island, ES"
+  },
+  "BEL2UC": {
+    "origem": "Brussels, BE",
+    "destino": "Brussels, BE"
+  },
+  "EWG8181": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Berlin, DE"
+  },
+  "NOZ36V": {
+    "origem": "Stavanger, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EXS24TB": {
+    "origem": "Liverpool, GB",
+    "destino": "Rodes Island, GR"
   }
 }
