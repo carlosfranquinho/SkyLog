@@ -31410,5 +31410,25 @@
   "NOS587": {
     "origem": "La Romana, DO",
     "destino": "Rome, IT"
+  },
+  "VOE2732": {
+    "origem": "Lille/Lesquin, FR",
+    "destino": "Tenerife Island, ES"
+  },
+  "CXI4V": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Graz, AT"
+  },
+  "EZS83HF": {
+    "origem": "Geneva, CH",
+    "destino": "Porto, PT"
+  },
+  "TRA92Y": {
+    "origem": "Rotterdam, NL",
+    "destino": "London, GB"
+  },
+  "VLG58A": {
+    "origem": "Paris, FR",
+    "destino": "Lanzarote Island, ES"
   }
 }
