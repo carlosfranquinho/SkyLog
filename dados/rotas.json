@@ -31678,5 +31678,49 @@
   "EWG24M": {
     "origem": "Cologne, DE",
     "destino": "Gran Canaria Island, ES"
+  },
+  "TFL8FE": {
+    "origem": "Amsterdam, NL",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "SAS2099": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Stockholm, SE"
+  },
+  "CXI1W": {
+    "origem": "London, GB",
+    "destino": "Heraklion, GR"
+  },
+  "EZY3105": {
+    "origem": "Glasgow, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "NSZ2EP": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Helsinki, FI"
+  },
+  "EJU48GX": {
+    "origem": "Paris, FR",
+    "destino": "Faro, PT"
+  },
+  "EJU48UK": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Berlin, DE"
+  },
+  "EXS54DG": {
+    "origem": "Newcastle, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "CXI81UJ": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Hannover, DE"
+  },
+  "EJU13ZY": {
+    "origem": "Lisbon, PT",
+    "destino": "Saint-Louis, FR"
+  },
+  "VOE65NM": {
+    "origem": "Lille/Lesquin, FR",
+    "destino": "Marrakech, MA"
   }
 }
