@@ -31430,5 +31430,49 @@
   "VLG58A": {
     "origem": "Paris, FR",
     "destino": "Lanzarote Island, ES"
+  },
+  "SDR39BK": {
+    "origem": "Berlin, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "LGL71MA": {
+    "origem": "Luxembourg, LU",
+    "destino": "Funchal, PT"
+  },
+  "TRA6Y": {
+    "origem": "Rotterdam, NL",
+    "destino": "Tenerife Island, ES"
+  },
+  "EZS35XL": {
+    "origem": "Saint-Louis, FR",
+    "destino": "Lisbon, PT"
+  },
+  "TVF43ZH": {
+    "origem": "Paris, FR",
+    "destino": "Faro, PT"
+  },
+  "EDW216L": {
+    "origem": "Zürich, CH",
+    "destino": "Tenerife Island, ES"
+  },
+  "TRA57M": {
+    "origem": "Amsterdam, NL",
+    "destino": "Marrakech, MA"
+  },
+  "EZY42QX": {
+    "origem": "London, GB",
+    "destino": "Porto, PT"
+  },
+  "TVF13QL": {
+    "origem": "Paris, FR",
+    "destino": "Porto, PT"
+  },
+  "VKG1515": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Trondheim, NO"
+  },
+  "NOZ1758": {
+    "origem": "Stavanger, NO",
+    "destino": "Tenerife Island, ES"
   }
 }
