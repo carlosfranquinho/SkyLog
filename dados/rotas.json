@@ -31554,5 +31554,21 @@
   "VOE2421": {
     "origem": "Tenerife Island, ES",
     "destino": "Bordeaux, FR"
+  },
+  "VOE2727": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Lille/Lesquin, FR"
+  },
+  "VJH983": {
+    "origem": "Lisbon, PT",
+    "destino": "Faro, PT"
+  },
+  "TUI9MN": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Hannover, DE"
+  },
+  "EWG4257": {
+    "origem": "Funchal, PT",
+    "destino": "Prague, CZ"
   }
 }
