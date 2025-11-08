@@ -31518,5 +31518,41 @@
   "NSZ1RP": {
     "origem": "Stockholm, SE",
     "destino": "Gran Canaria Island, ES"
+  },
+  "EXS25EP": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Manchester, GB"
+  },
+  "TAP239": {
+    "origem": "Lisbon, PT",
+    "destino": "San Francisco, US"
+  },
+  "VOE2487": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Bordeaux, FR"
+  },
+  "NSZ6HE": {
+    "origem": "Helsinki, FI",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "ECC281": {
+    "origem": "Luqa, MT",
+    "destino": "Istanbul, TR"
+  },
+  "RYR84NQ": {
+    "origem": "Málaga, ES",
+    "destino": "Shannon, IE"
+  },
+  "RYR81SR": {
+    "origem": "Milan, IT",
+    "destino": "Porto, PT"
+  },
+  "MBU4JR": {
+    "origem": "Hamburg, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "VOE2421": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Bordeaux, FR"
   }
 }
