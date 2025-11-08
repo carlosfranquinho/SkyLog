@@ -31486,5 +31486,37 @@
   "RYR53PQ": {
     "origem": "Vigo, ES",
     "destino": "London, GB"
+  },
+  "SDR30NB": {
+    "origem": "Berlin, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "JTD501": {
+    "origem": "Billund, DK",
+    "destino": "Tenerife Island, ES"
+  },
+  "FLI7180": {
+    "origem": "Billund, DK",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TVF70YL": {
+    "origem": "Faro, PT",
+    "destino": "Paris, FR"
+  },
+  "BLX7WD": {
+    "origem": "Gothenburg, SE",
+    "destino": "Tenerife Island, ES"
+  },
+  "SAS2641": {
+    "origem": "Copenhagen, DK",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "SAS87A": {
+    "origem": "Gothenburg, SE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "NSZ1RP": {
+    "origem": "Stockholm, SE",
+    "destino": "Gran Canaria Island, ES"
   }
 }
