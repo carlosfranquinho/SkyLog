@@ -31402,5 +31402,13 @@
   "THY6884": {
     "origem": "London, GB",
     "destino": "Istanbul, TR"
+  },
+  "VOE9DM": {
+    "origem": "Nantes, FR",
+    "destino": "Tenerife Island, ES"
+  },
+  "NOS587": {
+    "origem": "La Romana, DO",
+    "destino": "Rome, IT"
   }
 }
