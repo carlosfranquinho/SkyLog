@@ -31838,5 +31838,13 @@
   "TAP11AG": {
     "origem": "Lisbon, PT",
     "destino": "Málaga, ES"
+  },
+  "RYR2129": {
+    "origem": "Madrid, ES",
+    "destino": "Lanzarote Island, ES"
+  },
+  "KLM793": {
+    "origem": "Amsterdam, NL",
+    "destino": "São Paulo, BR"
   }
 }
