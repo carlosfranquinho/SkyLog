@@ -31814,5 +31814,29 @@
   "EWG5CV": {
     "origem": "Düsseldorf, DE",
     "destino": "Prishtina, KS"
+  },
+  "RYR5VA": {
+    "origem": "Lisbon, PT",
+    "destino": "Málaga, ES"
+  },
+  "RYR62ZF": {
+    "origem": "Cologne, DE",
+    "destino": "Porto, PT"
+  },
+  "TUI3FC": {
+    "origem": "Trieste, IT",
+    "destino": "Düsseldorf, DE"
+  },
+  "TOM6EC": {
+    "origem": "Souda, GR",
+    "destino": "Manchester, GB"
+  },
+  "TFL7DN": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "TAP11AG": {
+    "origem": "Lisbon, PT",
+    "destino": "Málaga, ES"
   }
 }
