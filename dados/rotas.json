@@ -32038,5 +32038,25 @@
   "BLX49G": {
     "origem": "Tenerife Island, ES",
     "destino": "Stockholm, SE"
+  },
+  "EXS7MW": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Leeds, GB"
+  },
+  "SDR39ES": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Berlin, DE"
+  },
+  "VOE2328": {
+    "origem": "Lyon, FR",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "JTD468": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Aalborg, DK"
+  },
+  "OCN2051": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Frankfurt-am-Main, DE"
   }
 }
