@@ -31898,5 +31898,41 @@
   "BTI7NK": {
     "origem": "Tallinn, EE",
     "destino": "Funchal, PT"
+  },
+  "EZS96QM": {
+    "origem": "Porto, PT",
+    "destino": "Geneva, CH"
+  },
+  "IBB78XJ": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Hondarribia, ES"
+  },
+  "EZY74LD": {
+    "origem": "Glasgow, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EXS7P": {
+    "origem": "Kalamata, GR",
+    "destino": "Bristol, GB"
+  },
+  "LOT441": {
+    "origem": "Warsaw, PL",
+    "destino": "Tenerife Island, ES"
+  },
+  "NJE987D": {
+    "origem": "Amsterdam, NL",
+    "destino": "Lisbon, PT"
+  },
+  "VLG2VT": {
+    "origem": "Sevilla, ES",
+    "destino": "London, GB"
+  },
+  "VLG4FK": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Bilbao, ES"
+  },
+  "VKG722": {
+    "origem": "Bergen, NO",
+    "destino": "Espargos, CV"
   }
 }
