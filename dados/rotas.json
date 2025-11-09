@@ -31862,5 +31862,17 @@
   "EJU68HU": {
     "origem": "Porto, PT",
     "destino": "Luxembourg, LU"
+  },
+  "GES091F": {
+    "origem": "Boston, US",
+    "destino": "Madrid, ES"
+  },
+  "VOE2318": {
+    "origem": "Lille/Lesquin, FR",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EJU16NP": {
+    "origem": "Nantes, FR",
+    "destino": "Lanzarote Island, ES"
   }
 }
