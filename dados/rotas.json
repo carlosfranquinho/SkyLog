@@ -31846,5 +31846,17 @@
   "KLM793": {
     "origem": "Amsterdam, NL",
     "destino": "São Paulo, BR"
+  },
+  "DWC005": {
+    "origem": "Washington, US",
+    "destino": "Chicago, US"
+  },
+  "STP507": {
+    "origem": "Lisbon, PT",
+    "destino": "São Tomé, ST"
+  },
+  "RYR96RC": {
+    "origem": "Lisbon, PT",
+    "destino": "Birmingham, GB"
   }
 }
