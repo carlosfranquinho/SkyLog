@@ -31994,5 +31994,17 @@
   "EWG2247": {
     "origem": "Fuerteventura Island, ES",
     "destino": "Stuttgart, DE"
+  },
+  "FHM1524": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Leipzig, DE"
+  },
+  "EWG45U": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "GTI8033": {
+    "origem": "Santiago, CL",
+    "destino": "Miami, US"
   }
 }
