@@ -32074,5 +32074,33 @@
   "RYR55FD": {
     "origem": "Tenerife Island, ES",
     "destino": "Santiago de Compostela, ES"
+  },
+  "RZO126": {
+    "origem": "Ponta Delgada, PT",
+    "destino": "Lisbon, PT"
+  },
+  "LGL4RH": {
+    "origem": "Porto, PT",
+    "destino": "Luxembourg, LU"
+  },
+  "RYR34WP": {
+    "origem": "Porto, PT",
+    "destino": "Madrid, ES"
+  },
+  "EJU19EN": {
+    "origem": "Porto, PT",
+    "destino": "Nantes, FR"
+  },
+  "EZS12PF": {
+    "origem": "Porto, PT",
+    "destino": "Geneva, CH"
+  },
+  "TRA65P": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Amsterdam, NL"
+  },
+  "RUK60WZ": {
+    "origem": "Agadir, MA",
+    "destino": "Edinburgh, GB"
   }
 }
