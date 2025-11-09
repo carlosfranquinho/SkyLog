@@ -31934,5 +31934,25 @@
   "VKG722": {
     "origem": "Bergen, NO",
     "destino": "Espargos, CV"
+  },
+  "QTR24J": {
+    "origem": "Miami, US",
+    "destino": "Doha, QA"
+  },
+  "TVS55Y": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Munich, DE"
+  },
+  "VKG1558": {
+    "origem": "Oslo, NO",
+    "destino": "Tenerife Island, ES"
+  },
+  "TVF83GT": {
+    "origem": "Tangier, MA",
+    "destino": "Paris, FR"
+  },
+  "EXS1135": {
+    "origem": "Birmingham, GB",
+    "destino": "Fuerteventura Island, ES"
   }
 }
