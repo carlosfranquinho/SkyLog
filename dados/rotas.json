@@ -32062,5 +32062,17 @@
   "FJO71P": {
     "origem": "London, GB",
     "destino": "Brussels, BE"
+  },
+  "TUI409": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Hannover, DE"
+  },
+  "RYR853E": {
+    "origem": "Bologna, IT",
+    "destino": "Lisbon, PT"
+  },
+  "RYR55FD": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Santiago de Compostela, ES"
   }
 }
