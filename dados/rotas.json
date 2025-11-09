@@ -31970,5 +31970,29 @@
   "EJU5372": {
     "origem": "Split, HR",
     "destino": "Saint-Louis, FR"
+  },
+  "EWG5CH": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Berlin, DE"
+  },
+  "EJU3873": {
+    "origem": "Milan, IT",
+    "destino": "Lisbon, PT"
+  },
+  "AFR63ZU": {
+    "origem": "Paris, FR",
+    "destino": "Rabat, MA"
+  },
+  "SAS7531": {
+    "origem": "Trondheim, NO",
+    "destino": "Tenerife Island, ES"
+  },
+  "TOM7DK": {
+    "origem": "Santorini Island, GR",
+    "destino": "Birmingham, GB"
+  },
+  "EWG2247": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Stuttgart, DE"
   }
 }
