@@ -32006,5 +32006,37 @@
   "GTI8033": {
     "origem": "Santiago, CL",
     "destino": "Miami, US"
+  },
+  "EWG7NE": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Berlin, DE"
+  },
+  "TVF9817": {
+    "origem": "Marrakech, MA",
+    "destino": "Rennes, FR"
+  },
+  "VKG1817": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Stockholm, SE"
+  },
+  "CFG1519": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Hamburg, DE"
+  },
+  "RZO132": {
+    "origem": "Lajes, PT",
+    "destino": "Lisbon, PT"
+  },
+  "TAP3832": {
+    "origem": "Funchal, PT",
+    "destino": "Lisbon, PT"
+  },
+  "MBU6441": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Hamburg, DE"
+  },
+  "BLX49G": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Stockholm, SE"
   }
 }
