@@ -31878,5 +31878,25 @@
   "EZS13YG": {
     "origem": "Faro, PT",
     "destino": "Saint-Louis, FR"
+  },
+  "IBS16AH": {
+    "origem": "Madrid, ES",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TRA27N": {
+    "origem": "Marrakech, MA",
+    "destino": "Amsterdam, NL"
+  },
+  "TVF35WF": {
+    "origem": "Paris, FR",
+    "destino": "Marrakech, MA"
+  },
+  "EXS3415": {
+    "origem": "Bristol, GB",
+    "destino": "Agadir, MA"
+  },
+  "BTI7NK": {
+    "origem": "Tallinn, EE",
+    "destino": "Funchal, PT"
   }
 }
