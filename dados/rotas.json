@@ -32102,5 +32102,21 @@
   "RUK60WZ": {
     "origem": "Agadir, MA",
     "destino": "Edinburgh, GB"
+  },
+  "VOE7ZM": {
+    "origem": "Porto, PT",
+    "destino": "Bilbao, ES"
+  },
+  "RYR56HX": {
+    "origem": "London, GB",
+    "destino": "Porto, PT"
+  },
+  "GDBSD": {
+    "origem": "Paris, FR",
+    "destino": "Teterboro, US"
+  },
+  "EWG269": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Cologne, DE"
   }
 }
