@@ -32194,5 +32194,21 @@
   "AFR908": {
     "origem": "Paris, FR",
     "destino": "Antananarivo, MG"
+  },
+  "DLH504": {
+    "origem": "Munich, DE",
+    "destino": "São Paulo, BR"
+  },
+  "EJU13RG": {
+    "origem": "Milan, IT",
+    "destino": "Porto, PT"
+  },
+  "EWG5252": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "NVD8001": {
+    "origem": "Vilnius, LT",
+    "destino": "Tenerife Island, ES"
   }
 }
