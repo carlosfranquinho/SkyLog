@@ -32142,5 +32142,21 @@
   "NOS1620": {
     "origem": "Milan, IT",
     "destino": "Milan, IT"
+  },
+  "EWG5264": {
+    "origem": "Hamburg, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EJU96BD": {
+    "origem": "Milan, IT",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR62HE": {
+    "origem": "Kraków, PL",
+    "destino": "Tenerife Island, ES"
+  },
+  "BLX731": {
+    "origem": "Oslo, NO",
+    "destino": "Espargos, CV"
   }
 }
