@@ -32226,5 +32226,21 @@
   "CXI49DD": {
     "origem": "Fuerteventura Island, ES",
     "destino": "Hannover, DE"
+  },
+  "TFL6FL": {
+    "origem": "Espargos, CV",
+    "destino": "Eindhoven, NL"
+  },
+  "TOM7BA": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
+  },
+  "EZY82UF": {
+    "origem": "Porto, PT",
+    "destino": "London, GB"
+  },
+  "RYR49SL": {
+    "origem": "Porto, PT",
+    "destino": "Berlin, DE"
   }
 }
