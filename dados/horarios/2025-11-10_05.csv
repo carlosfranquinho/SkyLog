@@ -1,0 +1,4 @@
+timestamp,hex,flight,alt_baro,gs,track,lat,lon,seen,squawk,category
+2025-11-10T05:00:01,aa3b85,,,,,,,154.9,,A5
+2025-11-10T05:01:00.500000,aa3b85,,,,,,,214.3,,A5
+2025-11-10T05:02:01.300000,aa3b85,,32000,,,,,10.6,,A5
