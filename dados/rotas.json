@@ -32242,5 +32242,25 @@
   "RYR49SL": {
     "origem": "Porto, PT",
     "destino": "Berlin, DE"
+  },
+  "TVF29NG": {
+    "origem": "Lisbon, PT",
+    "destino": "Paris, FR"
+  },
+  "EZS37EP": {
+    "origem": "Faro, PT",
+    "destino": "Geneva, CH"
+  },
+  "NVD8002": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Vilnius, LT"
+  },
+  "LGL704": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Luxembourg, LU"
+  },
+  "TVF17TN": {
+    "origem": "Lille/Lesquin, FR",
+    "destino": "Marrakech, MA"
   }
 }
