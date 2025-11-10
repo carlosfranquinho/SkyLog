@@ -32134,5 +32134,13 @@
   "LGL715": {
     "origem": "Luxembourg, LU",
     "destino": "Tenerife Island, ES"
+  },
+  "BLX283": {
+    "origem": "Gothenburg, SE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "NOS1620": {
+    "origem": "Milan, IT",
+    "destino": "Milan, IT"
   }
 }
