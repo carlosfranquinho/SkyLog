@@ -32158,5 +32158,29 @@
   "BLX731": {
     "origem": "Oslo, NO",
     "destino": "Espargos, CV"
+  },
+  "NOZ9310": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Karlstad, SE"
+  },
+  "TUI2MT": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "JTD95T": {
+    "origem": "Helsinki, FI",
+    "destino": "Lanzarote Island, ES"
+  },
+  "CFG7ME": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "JTD261": {
+    "origem": "Copenhagen, DK",
+    "destino": "Lanzarote Island, ES"
+  },
+  "CXI35PQ": {
+    "origem": "Hannover, DE",
+    "destino": "Fuerteventura Island, ES"
   }
 }
