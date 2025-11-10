@@ -32210,5 +32210,17 @@
   "NVD8001": {
     "origem": "Vilnius, LT",
     "destino": "Tenerife Island, ES"
+  },
+  "RYR7KX": {
+    "origem": "Dublin, IE",
+    "destino": "Tenerife Island, ES"
+  },
+  "EWG5265": {
+    "origem": "Kerkyra Island, GR",
+    "destino": "Nürnberg, DE"
+  },
+  "LGL703": {
+    "origem": "Luxembourg, LU",
+    "destino": "Gran Canaria Island, ES"
   }
 }
