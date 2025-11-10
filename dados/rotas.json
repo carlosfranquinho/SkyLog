@@ -32182,5 +32182,17 @@
   "CXI35PQ": {
     "origem": "Hannover, DE",
     "destino": "Fuerteventura Island, ES"
+  },
+  "CFG9HE": {
+    "origem": "Hamburg, DE",
+    "destino": "Hamburg, DE"
+  },
+  "EDW102": {
+    "origem": "Zürich, CH",
+    "destino": "Zürich, CH"
+  },
+  "AFR908": {
+    "origem": "Paris, FR",
+    "destino": "Antananarivo, MG"
   }
 }
