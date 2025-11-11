@@ -32318,5 +32318,29 @@
   "AOJF1": {
     "origem": "Teterboro, US",
     "destino": "Nice, FR"
+  },
+  "RYR2969": {
+    "origem": "Edinburgh, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "IBE03PD": {
+    "origem": "Madrid, ES",
+    "destino": "Chicago, US"
+  },
+  "RYR673P": {
+    "origem": "Beauvais/Tillé, FR",
+    "destino": "Tenerife Island, ES"
+  },
+  "EXS62VC": {
+    "origem": "Manchester, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "TOM2CH": {
+    "origem": "Glasgow, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "NSZ3PQ": {
+    "origem": "Aalborg, DK",
+    "destino": "Tenerife Island, ES"
   }
 }
