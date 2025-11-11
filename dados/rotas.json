@@ -32382,5 +32382,25 @@
   "AEE6004": {
     "origem": "Athens, GR",
     "destino": "Lisbon, PT"
+  },
+  "RYR97MY": {
+    "origem": "Marrakech, MA",
+    "destino": "Stockholm, SE"
+  },
+  "EJU12BC": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Berlin, DE"
+  },
+  "EZY94UB": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "London, GB"
+  },
+  "EXS1LY": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "TOM2XM": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Glasgow, GB"
   }
 }
