@@ -32342,5 +32342,17 @@
   "NSZ3PQ": {
     "origem": "Aalborg, DK",
     "destino": "Tenerife Island, ES"
+  },
+  "EWG5CA": {
+    "origem": "Stuttgart, DE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "NOZ2MA": {
+    "origem": "Oslo, NO",
+    "destino": "Funchal, PT"
+  },
+  "N1FE": {
+    "origem": "Washington, US",
+    "destino": "Memphis, US"
   }
 }
