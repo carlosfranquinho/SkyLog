@@ -32370,5 +32370,17 @@
   "AEE6005": {
     "origem": "Kalamata, GR",
     "destino": "Athens, GR"
+  },
+  "TVF67XP": {
+    "origem": "Diass, SN",
+    "destino": "Lille/Lesquin, FR"
+  },
+  "SAS2522": {
+    "origem": "Sevilla, ES",
+    "destino": "Copenhagen, DK"
+  },
+  "AEE6004": {
+    "origem": "Athens, GR",
+    "destino": "Lisbon, PT"
   }
 }
