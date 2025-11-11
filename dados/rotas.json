@@ -32278,5 +32278,13 @@
   "GTI8086": {
     "origem": "Jebel Ali, AE",
     "destino": "Hong Kong, HK"
+  },
+  "VLG9LP": {
+    "origem": "Sevilla, ES",
+    "destino": "Santiago de Compostela, ES"
+  },
+  "UAL3785": {
+    "origem": "Norfolk, US",
+    "destino": "Chicago, US"
   }
 }
