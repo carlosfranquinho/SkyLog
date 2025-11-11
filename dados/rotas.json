@@ -32298,5 +32298,13 @@
   "TVF63XK": {
     "origem": "Paris, FR",
     "destino": "Funchal, PT"
+  },
+  "IBE2626": {
+    "origem": "Boston, US",
+    "destino": "Barcelona, ES"
+  },
+  "AZU9349": {
+    "origem": "Campinas, BR",
+    "destino": "Lisbon, PT"
   }
 }
