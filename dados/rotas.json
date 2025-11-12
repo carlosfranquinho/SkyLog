@@ -32454,5 +32454,13 @@
   "RYR709": {
     "origem": "Berlin, DE",
     "destino": "Kaunas, LT"
+  },
+  "VLG7FR": {
+    "origem": "Santiago de Compostela, ES",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "EJU48NM": {
+    "origem": "Charles de Gaulle International Airport",
+    "destino": "Biarritz-Anglet-Bayonne Airport"
   }
 }
