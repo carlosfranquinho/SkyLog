@@ -32538,5 +32538,21 @@
   "EZY13PG": {
     "origem": "Edinburgh, GB",
     "destino": "Gran Canaria Island, ES"
+  },
+  "EZY68MZ": {
+    "origem": "Edinburgh, GB",
+    "destino": "Lanzarote Island, ES"
+  },
+  "LPE2515": {
+    "origem": "Miami, US",
+    "destino": "Lima, PE"
+  },
+  "MBU6TH": {
+    "origem": "Sta Cruz de la Palma, La Palma Island, ES",
+    "destino": "Hamburg, DE"
+  },
+  "TOM460": {
+    "origem": "Manchester, GB",
+    "destino": "Banjul, GM"
   }
 }
