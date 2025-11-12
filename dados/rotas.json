@@ -32594,5 +32594,17 @@
   "WZZ21GR": {
     "origem": "Tenerife Island, ES",
     "destino": "Katowice, PL"
+  },
+  "WZZ1CT": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Budapest, HU"
+  },
+  "RYR46LE": {
+    "origem": "Porto, PT",
+    "destino": "London, GB"
+  },
+  "EJU96WU": {
+    "origem": "Marrakech, MA",
+    "destino": "Porto, PT"
   }
 }
