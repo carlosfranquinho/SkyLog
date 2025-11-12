@@ -32442,5 +32442,17 @@
   "EZS27KZ": {
     "origem": "Saint-Louis, FR",
     "destino": "Faro, PT"
+  },
+  "TVF87SP": {
+    "origem": "Paris, FR",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "LGL365": {
+    "origem": "Luxembourg, LU",
+    "destino": "Espargos, CV"
+  },
+  "RYR709": {
+    "origem": "Berlin, DE",
+    "destino": "Kaunas, LT"
   }
 }
