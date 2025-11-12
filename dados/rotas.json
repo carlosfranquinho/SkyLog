@@ -32566,5 +32566,21 @@
   "SDR33DK": {
     "origem": "Tenerife Island, ES",
     "destino": "Dresden, DE"
+  },
+  "BTI1037": {
+    "origem": "Årø, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "SDR33TE": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Berlin, DE"
+  },
+  "LGL366": {
+    "origem": "Rabil, CV",
+    "destino": "Luxembourg, LU"
+  },
+  "EJU38PX": {
+    "origem": "Espargos, CV",
+    "destino": "Lisbon, PT"
   }
 }
