@@ -32554,5 +32554,17 @@
   "TOM460": {
     "origem": "Manchester, GB",
     "destino": "Banjul, GM"
+  },
+  "SAS62M": {
+    "origem": "Agadir, MA",
+    "destino": "Copenhagen, DK"
+  },
+  "TVF3221": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Paris, FR"
+  },
+  "SDR33DK": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Dresden, DE"
   }
 }
