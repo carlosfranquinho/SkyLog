@@ -32510,5 +32510,25 @@
   "TAP1351": {
     "origem": "London, GB",
     "destino": "Lisbon, PT"
+  },
+  "EZY2621": {
+    "origem": "London, GB",
+    "destino": "Agadir, MA"
+  },
+  "EWG7AM": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Palma De Mallorca, ES"
+  },
+  "RYR64WE": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Edinburgh, GB"
+  },
+  "EXS17XZ": {
+    "origem": "Manchester, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "JAF11K": {
+    "origem": "Marrakech, MA",
+    "destino": "Brussels, BE"
   }
 }
