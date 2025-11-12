@@ -32466,5 +32466,29 @@
   "TOM16M": {
     "origem": "Kerkyra Island, GR",
     "destino": "London, GB"
+  },
+  "TAP170": {
+    "origem": "Brasília, BR",
+    "destino": "Lisbon, PT"
+  },
+  "TVF32EX": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
+  },
+  "TOM71L": {
+    "origem": "London, GB",
+    "destino": "Rabil, CV"
+  },
+  "EXS9KF": {
+    "origem": "Newcastle, GB",
+    "destino": "Tenerife Island, ES"
+  },
+  "THY8": {
+    "origem": "Washington, US",
+    "destino": "Istanbul, TR"
+  },
+  "THY4YT": {
+    "origem": "Newark, US",
+    "destino": "Istanbul, TR"
   }
 }
