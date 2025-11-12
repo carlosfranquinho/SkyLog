@@ -32426,5 +32426,9 @@
   "WMT2TU": {
     "origem": "Tenerife Island, ES",
     "destino": "Vienna, AT"
+  },
+  "TOM225": {
+    "origem": "Banjul, GM",
+    "destino": "London, GB"
   }
 }
