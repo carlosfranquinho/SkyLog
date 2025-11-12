@@ -32462,5 +32462,9 @@
   "EJU48NM": {
     "origem": "Charles de Gaulle International Airport",
     "destino": "Biarritz-Anglet-Bayonne Airport"
+  },
+  "TOM16M": {
+    "origem": "Kerkyra Island, GR",
+    "destino": "London, GB"
   }
 }
