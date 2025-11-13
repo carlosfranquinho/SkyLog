@@ -32682,5 +32682,17 @@
   "IBE379": {
     "origem": "Madrid, ES",
     "destino": "San Juan, PR"
+  },
+  "RYR75KT": {
+    "origem": "London, GB",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "VOE2177": {
+    "origem": "Lisbon, PT",
+    "destino": "Tarbes/Lourdes/Pyrénées, FR"
+  },
+  "WMT9TY": {
+    "origem": "Lisbon, PT",
+    "destino": "Bucharest, RO"
   }
 }
