@@ -32706,5 +32706,13 @@
   "TOM5PC": {
     "origem": "Olbia, IT",
     "destino": "Doncaster, GB"
+  },
+  "ANE4082": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Madrid, ES"
+  },
+  "IBB39RP": {
+    "origem": "Vigo, ES",
+    "destino": "Tenerife Island, ES"
   }
 }
