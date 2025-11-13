@@ -32618,5 +32618,29 @@
   "VLG65BP": {
     "origem": "Palma De Mallorca, ES",
     "destino": "Lisbon, PT"
+  },
+  "IBE26FK": {
+    "origem": "Miami, US",
+    "destino": "Barcelona, ES"
+  },
+  "IBE26TC": {
+    "origem": "New York, US",
+    "destino": "Barcelona, ES"
+  },
+  "RYR63XX": {
+    "origem": "Sevilla, ES",
+    "destino": "Birmingham, GB"
+  },
+  "CXI44XH": {
+    "origem": "Hannover, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "UAL769": {
+    "origem": "Chicago, US",
+    "destino": "Barcelona, ES"
+  },
+  "PAV261": {
+    "origem": "Nice, FR",
+    "destino": "Munich, DE"
   }
 }
