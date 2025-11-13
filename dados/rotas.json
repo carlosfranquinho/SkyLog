@@ -32694,5 +32694,17 @@
   "WMT9TY": {
     "origem": "Lisbon, PT",
     "destino": "Bucharest, RO"
+  },
+  "EJU53WL": {
+    "origem": "Porto, PT",
+    "destino": "Saint-Louis, FR"
+  },
+  "EZY42RT": {
+    "origem": "Bristol, GB",
+    "destino": "Gibraltar, GI"
+  },
+  "TOM5PC": {
+    "origem": "Olbia, IT",
+    "destino": "Doncaster, GB"
   }
 }
