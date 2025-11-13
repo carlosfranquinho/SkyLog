@@ -32714,5 +32714,25 @@
   "IBB39RP": {
     "origem": "Vigo, ES",
     "destino": "Tenerife Island, ES"
+  },
+  "JTD806": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Östersund, SE"
+  },
+  "EJU92DH": {
+    "origem": "Marrakech, MA",
+    "destino": "Paris, FR"
+  },
+  "LGL600": {
+    "origem": "Sta Cruz de la Palma, La Palma Island, ES",
+    "destino": "Luxembourg, LU"
+  },
+  "CFG1RT": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Vienna, AT"
+  },
+  "PGT72WG": {
+    "origem": "Ankara, TR",
+    "destino": "Lisbon, PT"
   }
 }
