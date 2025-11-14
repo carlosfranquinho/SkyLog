@@ -32862,5 +32862,33 @@
   "AFR88AH": {
     "origem": "Paris, FR",
     "destino": "Casablanca, MA"
+  },
+  "RYR9907": {
+    "origem": "Pisa, IT",
+    "destino": "Dublin, IE"
+  },
+  "DHK074": {
+    "origem": "Cincinnati, US",
+    "destino": "Manama, BH"
+  },
+  "VKG1521": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Bergen, NO"
+  },
+  "RYR71RR": {
+    "origem": "Porto, PT",
+    "destino": "Cologne, DE"
+  },
+  "EZY62AL": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
+  },
+  "THY6938": {
+    "origem": "Washington, US",
+    "destino": "Istanbul, TR"
+  },
+  "DLH1778": {
+    "origem": "Munich, DE",
+    "destino": "Alicante, ES"
   }
 }
