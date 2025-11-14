@@ -32914,5 +32914,13 @@
   "EXS14M": {
     "origem": "Tenerife Island, ES",
     "destino": "Leeds, GB"
+  },
+  "TRA31G": {
+    "origem": "Porto, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "RYR841J": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Liverpool, GB"
   }
 }
