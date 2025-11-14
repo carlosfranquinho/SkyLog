@@ -32894,5 +32894,21 @@
   "AFR594": {
     "origem": "Charles de Gaulle International Airport",
     "destino": "Charles de Gaulle International Airport"
+  },
+  "EXS77L": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "TOM1VB": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "TOM61C": {
+    "origem": "Tenerife Island, ES",
+    "destino": "London, GB"
+  },
+  "VLG33JA": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Barcelona, ES"
   }
 }
