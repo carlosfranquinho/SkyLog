@@ -32778,5 +32778,21 @@
   "TVF93SL": {
     "origem": "Paris, FR",
     "destino": "Praia, CV"
+  },
+  "TVF89KE": {
+    "origem": "Paris, FR",
+    "destino": "Espargos, CV"
+  },
+  "SAZ61": {
+    "origem": "Zürich, CH",
+    "destino": "Luqa, MT"
+  },
+  "RYR853Z": {
+    "origem": "Dublin, IE",
+    "destino": "Rabat, MA"
+  },
+  "EWG6000": {
+    "origem": "Ibiza, ES",
+    "destino": "Stuttgart, DE"
   }
 }
