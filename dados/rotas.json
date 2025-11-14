@@ -32814,5 +32814,13 @@
   "RYR163": {
     "origem": "Rabat, MA",
     "destino": "Dublin, IE"
+  },
+  "TOM923P": {
+    "origem": "Stockholm, SE",
+    "destino": "Birmingham, GB"
+  },
+  "AIZ253": {
+    "origem": "Tel Aviv, IL",
+    "destino": "Lisbon, PT"
   }
 }
