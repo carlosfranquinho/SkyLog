@@ -32754,5 +32754,13 @@
   "ITY609": {
     "origem": "New York, US",
     "destino": "Rome, IT"
+  },
+  "AFR951": {
+    "origem": "Libreville, GA",
+    "destino": "Paris, FR"
+  },
+  "CND5749": {
+    "origem": "Amsterdam, NL",
+    "destino": "Banjul, GM"
   }
 }
