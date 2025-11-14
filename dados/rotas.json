@@ -32850,5 +32850,17 @@
   "NSZ4529": {
     "origem": "Stockholm, SE",
     "destino": "Agadir, MA"
+  },
+  "TVF45VG": {
+    "origem": "Porto, PT",
+    "destino": "Paris, FR"
+  },
+  "JTD576": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Billund, DK"
+  },
+  "AFR88AH": {
+    "origem": "Paris, FR",
+    "destino": "Casablanca, MA"
   }
 }
