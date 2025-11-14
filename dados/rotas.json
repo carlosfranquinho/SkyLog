@@ -32746,5 +32746,13 @@
   "GTI563": {
     "origem": "Reyes Acozac, MX",
     "destino": "Los Angeles, US"
+  },
+  "AEA123": {
+    "origem": "Madrid, ES",
+    "destino": "Asunción, PY"
+  },
+  "ITY609": {
+    "origem": "New York, US",
+    "destino": "Rome, IT"
   }
 }
