@@ -32798,5 +32798,13 @@
   "CFG9XK": {
     "origem": "Hamburg, DE",
     "destino": "Gran Canaria Island, ES"
+  },
+  "EDW208": {
+    "origem": "Zürich, CH",
+    "destino": "Zürich, CH"
+  },
+  "NOZ1PA": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Bodø, NO"
   }
 }
