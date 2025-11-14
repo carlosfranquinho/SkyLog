@@ -32822,5 +32822,21 @@
   "AIZ253": {
     "origem": "Tel Aviv, IL",
     "destino": "Lisbon, PT"
+  },
+  "JAF9780": {
+    "origem": "Brussels, BE",
+    "destino": "Lisbon, PT"
+  },
+  "EXS19AQ": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "EZY43PR": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Manchester, GB"
+  },
+  "VKG1439": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Örebro, SE"
   }
 }
