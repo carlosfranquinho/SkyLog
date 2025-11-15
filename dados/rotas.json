@@ -32986,5 +32986,17 @@
   "RYR9038": {
     "origem": "London, GB",
     "destino": "Stockholm, SE"
+  },
+  "AEA092": {
+    "origem": "New York, US",
+    "destino": "Madrid, ES"
+  },
+  "UAE8UW": {
+    "origem": "New York, US",
+    "destino": "Dubai, AE"
+  },
+  "UAL72": {
+    "origem": "Washington, US",
+    "destino": "Tel Aviv, IL"
   }
 }
