@@ -32978,5 +32978,13 @@
   "SWR65": {
     "origem": "Miami, US",
     "destino": "Zürich, CH"
+  },
+  "AFR955": {
+    "origem": "Yaoundé, CM",
+    "destino": "Paris, FR"
+  },
+  "RYR9038": {
+    "origem": "London, GB",
+    "destino": "Stockholm, SE"
   }
 }
