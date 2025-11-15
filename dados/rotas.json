@@ -32998,5 +32998,17 @@
   "UAL72": {
     "origem": "Washington, US",
     "destino": "Tel Aviv, IL"
+  },
+  "THY32G": {
+    "origem": "Atlanta, US",
+    "destino": "Istanbul, TR"
+  },
+  "UAL90": {
+    "origem": "Newark, US",
+    "destino": "Tel Aviv, IL"
+  },
+  "UAE3TK": {
+    "origem": "Newark, US",
+    "destino": "Dubai, AE"
   }
 }
