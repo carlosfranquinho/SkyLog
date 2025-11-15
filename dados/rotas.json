@@ -33054,5 +33054,21 @@
   "TVF9827": {
     "origem": "Marrakech, MA",
     "destino": "Deauville, FR"
+  },
+  "TRA7T": {
+    "origem": "Casablanca, MA",
+    "destino": "Amsterdam, NL"
+  },
+  "EWG5402": {
+    "origem": "Berlin, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR7UP": {
+    "origem": "Cologne, DE",
+    "destino": "Fuerteventura Island, ES"
+  },
+  "WZZ3HV": {
+    "origem": "Warsaw, PL",
+    "destino": "Fuerteventura Island, ES"
   }
 }
