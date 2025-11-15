@@ -33078,5 +33078,13 @@
   "OCN313": {
     "origem": "Tenerife Island, ES",
     "destino": "Munich, DE"
+  },
+  "VOE2CQ": {
+    "origem": "Nantes, FR",
+    "destino": "Lanzarote Island, ES"
+  },
+  "JTD502": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Billund, DK"
   }
 }
