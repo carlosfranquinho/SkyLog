@@ -33010,5 +33010,37 @@
   "UAE3TK": {
     "origem": "Newark, US",
     "destino": "Dubai, AE"
+  },
+  "EWG4101": {
+    "origem": "Funchal, PT",
+    "destino": "Nürnberg, DE"
+  },
+  "NBT40S": {
+    "origem": "New York, US",
+    "destino": "Rome, IT"
+  },
+  "CXI54BV": {
+    "origem": "Düsseldorf, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "NOZ5RT": {
+    "origem": "Tromsø, NO",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "EZY41NW": {
+    "origem": "Málaga, ES",
+    "destino": "Liverpool, GB"
+  },
+  "NSZ2986": {
+    "origem": "Helsinki, FI",
+    "destino": "Marrakech, MA"
+  },
+  "RYR304C": {
+    "origem": "Málaga, ES",
+    "destino": "Edinburgh, GB"
+  },
+  "RYR81JN": {
+    "origem": "Porto, PT",
+    "destino": "London, GB"
   }
 }
