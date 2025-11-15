@@ -33158,5 +33158,17 @@
   "TOM36G": {
     "origem": "Innsbruck, AT",
     "destino": "London, GB"
+  },
+  "SAS7940": {
+    "origem": "Rodes Island, GR",
+    "destino": "Stockholm, SE"
+  },
+  "OCN7MK": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Marrakech, MA"
+  },
+  "RYR2KU": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Manchester, GB"
   }
 }
