@@ -33086,5 +33086,29 @@
   "JTD502": {
     "origem": "Tenerife Island, ES",
     "destino": "Billund, DK"
+  },
+  "LGL51P": {
+    "origem": "Luxembourg, LU",
+    "destino": "Lisbon, PT"
+  },
+  "RYR9394": {
+    "origem": "Kerkyra Island, GR",
+    "destino": "Thessaloniki, GR"
+  },
+  "EXS4DG": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Newcastle, GB"
+  },
+  "NSZ5705": {
+    "origem": "Gothenburg, SE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "SAS2268": {
+    "origem": "Funchal, PT",
+    "destino": "Copenhagen, DK"
+  },
+  "EXS2AN": {
+    "origem": "Tenerife Island, ES",
+    "destino": "Manchester, GB"
   }
 }
