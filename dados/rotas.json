@@ -32938,5 +32938,17 @@
   "GTI8192": {
     "origem": "Seoul, KR",
     "destino": "Xiamen, CN"
+  },
+  "UAL3021": {
+    "origem": "Newark, US",
+    "destino": "Barcelona, ES"
+  },
+  "ITY615": {
+    "origem": "Boston, US",
+    "destino": "Rome, IT"
+  },
+  "SWR67G": {
+    "origem": "Miami, US",
+    "destino": "Zürich, CH"
   }
 }
