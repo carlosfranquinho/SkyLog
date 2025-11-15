@@ -32958,5 +32958,25 @@
   "AAL1972": {
     "origem": "Miami, US",
     "destino": "Miami, US"
+  },
+  "N113QS": {
+    "origem": "Washington, US",
+    "destino": "Madrid, ES"
+  },
+  "EJU97FM": {
+    "origem": "Paris, FR",
+    "destino": "Agadir, MA"
+  },
+  "EJU96YF": {
+    "origem": "Lyon, FR",
+    "destino": "Faro, PT"
+  },
+  "EJU13LR": {
+    "origem": "Porto, PT",
+    "destino": "Prague, CZ"
+  },
+  "SWR65": {
+    "origem": "Miami, US",
+    "destino": "Zürich, CH"
   }
 }
