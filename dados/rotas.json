@@ -33278,5 +33278,29 @@
   "TCV602": {
     "origem": "Espargos, CV",
     "destino": "Lisbon, PT"
+  },
+  "LTG8507": {
+    "origem": "Espargos, CV",
+    "destino": "Brussels, BE"
+  },
+  "TUI214": {
+    "origem": "Hannover, DE",
+    "destino": "Agadir, MA"
+  },
+  "EDW202H": {
+    "origem": "Zürich, CH",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "WZZ3JK": {
+    "origem": "Warsaw, PL",
+    "destino": "Marrakech, MA"
+  },
+  "RYR68LB": {
+    "origem": "Porto, PT",
+    "destino": "Warsaw, PL"
+  },
+  "TVF76QA": {
+    "origem": "Paris, FR",
+    "destino": "Porto, PT"
   }
 }
