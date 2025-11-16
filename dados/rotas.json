@@ -33174,5 +33174,25 @@
   "EZY39PQ": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Belfast, GB"
+  },
+  "EZS1355": {
+    "origem": "Geneva, CH",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TVF94NK": {
+    "origem": "Paris, FR",
+    "destino": "Marrakech, MA"
+  },
+  "VOE2176": {
+    "origem": "Tarbes/Lourdes/Pyrénées, FR",
+    "destino": "Lisbon, PT"
+  },
+  "EJU74MB": {
+    "origem": "Bordeaux, FR",
+    "destino": "Marrakech, MA"
+  },
+  "VLG78HY": {
+    "origem": "Barcelona, ES",
+    "destino": "Tenerife Island, ES"
   }
 }
