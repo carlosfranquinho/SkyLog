@@ -33238,5 +33238,25 @@
   "IBS16MT": {
     "origem": "Gran Canaria Island, ES",
     "destino": "Madrid, ES"
+  },
+  "TVF59MK": {
+    "origem": "Marrakech, MA",
+    "destino": "Paris, FR"
+  },
+  "SDR39DT": {
+    "origem": "Berlin, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "RYR62DK": {
+    "origem": "Porto, PT",
+    "destino": "Clermont-Ferrand/Auvergne, FR"
+  },
+  "TRA42Q": {
+    "origem": "Funchal, PT",
+    "destino": "Amsterdam, NL"
+  },
+  "EJU58QR": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Nantes, FR"
   }
 }
