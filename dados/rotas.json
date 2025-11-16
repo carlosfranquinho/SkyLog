@@ -33206,5 +33206,29 @@
   "EJU5371": {
     "origem": "Saint-Louis, FR",
     "destino": "Split, HR"
+  },
+  "FHM1523": {
+    "origem": "Leipzig, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "TOM4LC": {
+    "origem": "Glasgow, GB",
+    "destino": "Málaga, ES"
+  },
+  "EWG2KP": {
+    "origem": "Berlin, DE",
+    "destino": "Lanzarote Island, ES"
+  },
+  "EJU72BZ": {
+    "origem": "Lyon, FR",
+    "destino": "Lanzarote Island, ES"
+  },
+  "CFG4PY": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Cologne, DE"
+  },
+  "EWG3WU": {
+    "origem": "Berlin, DE",
+    "destino": "Gran Canaria Island, ES"
   }
 }
