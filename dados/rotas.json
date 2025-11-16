@@ -33258,5 +33258,25 @@
   "EJU58QR": {
     "origem": "Lanzarote Island, ES",
     "destino": "Nantes, FR"
+  },
+  "TVF70LU": {
+    "origem": "Sevilla, ES",
+    "destino": "Paris, FR"
+  },
+  "VOE1SC": {
+    "origem": "Fuerteventura Island, ES",
+    "destino": "Lille/Lesquin, FR"
+  },
+  "OCN2050": {
+    "origem": "Frankfurt-am-Main, DE",
+    "destino": "Gran Canaria Island, ES"
+  },
+  "LGL78FA": {
+    "origem": "Faro, PT",
+    "destino": "Luxembourg, LU"
+  },
+  "TCV602": {
+    "origem": "Espargos, CV",
+    "destino": "Lisbon, PT"
   }
 }
