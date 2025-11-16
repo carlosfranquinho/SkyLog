@@ -33194,5 +33194,17 @@
   "VLG78HY": {
     "origem": "Barcelona, ES",
     "destino": "Tenerife Island, ES"
+  },
+  "LGL403": {
+    "origem": "Luxembourg, LU",
+    "destino": "Diass, SN"
+  },
+  "VLG4SN": {
+    "origem": "Paris, FR",
+    "destino": "Marrakech, MA"
+  },
+  "EJU5371": {
+    "origem": "Saint-Louis, FR",
+    "destino": "Split, HR"
   }
 }
