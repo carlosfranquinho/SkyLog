@@ -33322,5 +33322,9 @@
   "KLM794": {
     "origem": "São Paulo, BR",
     "destino": "Amsterdam, NL"
+  },
+  "NOS755": {
+    "origem": "Beijing, CN",
+    "destino": "Bologna, IT"
   }
 }
