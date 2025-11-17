@@ -33398,5 +33398,17 @@
   "WMT12H": {
     "origem": "Bucharest, RO",
     "destino": "Tenerife Island, ES"
+  },
+  "PAV251": {
+    "origem": "Edinburgh, GB",
+    "destino": "London, GB"
+  },
+  "EZS49WF": {
+    "origem": "Geneva, CH",
+    "destino": "Faro, PT"
+  },
+  "NJE476A": {
+    "origem": "Istanbul, TR",
+    "destino": "Arbil, IQ"
   }
 }
