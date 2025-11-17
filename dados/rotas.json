@@ -33330,5 +33330,13 @@
   "TVF3196": {
     "origem": "Nantes, FR",
     "destino": "Agadir, MA"
+  },
+  "EJU18EV": {
+    "origem": "Porto, PT",
+    "destino": "Bordeaux, FR"
+  },
+  "WMT4958": {
+    "origem": "Rome, IT",
+    "destino": "Tenerife Island, ES"
   }
 }
