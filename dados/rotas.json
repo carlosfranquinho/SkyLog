@@ -33362,5 +33362,21 @@
   "MAC266": {
     "origem": "Saint-Louis, FR",
     "destino": "Bologna, IT"
+  },
+  "TAP9250": {
+    "origem": "Porto, PT",
+    "destino": "Lisbon, PT"
+  },
+  "EJU1907": {
+    "origem": "Bordeaux, FR",
+    "destino": "Marrakech, MA"
+  },
+  "EXS26SH": {
+    "origem": "Warsaw, PL",
+    "destino": "Tenerife Island, ES"
+  },
+  "EWG3543": {
+    "origem": "Funchal, PT",
+    "destino": "Hannover, DE"
   }
 }
