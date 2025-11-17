@@ -33378,5 +33378,21 @@
   "EWG3543": {
     "origem": "Funchal, PT",
     "destino": "Hannover, DE"
+  },
+  "NSZ2988": {
+    "origem": "Helsinki, FI",
+    "destino": "Agadir, MA"
+  },
+  "WMT4259": {
+    "origem": "Milan, IT",
+    "destino": "Tenerife Island, ES"
+  },
+  "RYR46FP": {
+    "origem": "Napoli, IT",
+    "destino": "Tenerife Island, ES"
+  },
+  "MBU6509": {
+    "origem": "Palma De Mallorca, ES",
+    "destino": "Munich, DE"
   }
 }
