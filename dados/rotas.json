@@ -33446,5 +33446,9 @@
   "AFR401": {
     "origem": "Santiago, CL",
     "destino": "Paris, FR"
+  },
+  "EXS128J": {
+    "origem": "London, GB",
+    "destino": "Heraklion, GR"
   }
 }
