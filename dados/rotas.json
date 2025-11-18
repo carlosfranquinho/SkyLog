@@ -33454,5 +33454,17 @@
   "OCN67M": {
     "origem": "Frankfurt-am-Main, DE",
     "destino": "Sta Cruz de la Palma, La Palma Island, ES"
+  },
+  "QTR6L": {
+    "origem": "Doha, QA",
+    "destino": "Miami, US"
+  },
+  "AAL717": {
+    "origem": "Dallas-Fort Worth, US",
+    "destino": "Dallas-Fort Worth, US"
+  },
+  "TRA41C": {
+    "origem": "Heraklion, GR",
+    "destino": "Amsterdam, NL"
   }
 }
