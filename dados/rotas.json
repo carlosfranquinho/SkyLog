@@ -33490,5 +33490,17 @@
   "EWG41H": {
     "origem": "Düsseldorf, DE",
     "destino": "Tenerife Island, ES"
+  },
+  "JTD803": {
+    "origem": "Gran Canaria Island, ES",
+    "destino": "Tampere / Pirkkala, FI"
+  },
+  "RYR25LN": {
+    "origem": "Lanzarote Island, ES",
+    "destino": "Edinburgh, GB"
+  },
+  "TUI346": {
+    "origem": "Hannover, DE",
+    "destino": "Tenerife Island, ES"
   }
 }
